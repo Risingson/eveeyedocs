@@ -21,7 +21,7 @@
 <h2 id="desktop-versions-keyboard-shortcuts">Desktop version’s keyboard shortcuts</h2>
 <p>Hold SHIFT while clicking a system to show info on it.<br>
 Hold CTRL while clicking a non-regional system to go to its map.<br>
-Hold CTRL-SHIFT while clicking a system to go to its radar map with.</p>
-<p>Start typing to start searching.</p>
-<p>Plus/minus keys will zoom and arrow keys do pan.</p>
+Hold CTRL-SHIFT while clicking a system to go to its radar map.</p>
+<p>Just start typing to search for a place.</p>
+<p>Plus/minus keys do zoom and arrow keys do pan.</p>
 

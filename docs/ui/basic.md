@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="user-interface">User Interface</h1>
+<h1 id="user-interface-basics">User Interface Basics</h1>
 <h2 id="tap-or-click">Tap or click</h2>
 <p>… solarsystems for options<br>
 … wormhole connection lines for options<br>

@@ -1,4 +1,4 @@
 site_name: Eveeye Explorer Docs
 repo_url: https://github.com/Risingson/eedocs/
-theme: readthedocs
+theme: mkdocs 
 

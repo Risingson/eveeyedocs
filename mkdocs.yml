@@ -1,6 +1,5 @@
 site_name: Eveeye Explorer Docs
 repo_url: https://github.com/Risingson/eedocs/
-theme:
-  name: 'rtd-dropdown'
+theme: 'rtd-dropdown'
 extra_css:
     - css/extra.css

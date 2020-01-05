@@ -17,5 +17,5 @@
 <p>If you got security concerns regarding your login credentials consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank">https://secure.eveonline.com/authenticator/</a></p>
 <h2 id="login-process">Login process</h2>
 <p>To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/User-100_26_100_off.png" width="22" height="22"> in the menu.<br>
-At the Character Management page tap/click the plus sign top left.</p>
+At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Plus-100.png" width="22" height="22"> top left.</p>
 

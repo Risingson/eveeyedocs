@@ -11,8 +11,8 @@
 … region name in top row to go to Region Overview map<br>
 … solarsystem name in top row to center the map on it</p>
 <h2 id="menu">Menu</h2>
-<p><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/User-100_26_100_off.png" width="24" height="24"> <a href="https://eedocs.readthedocs.io/en/latest/character_management/">Character Management</a><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_off.png" width="24" height="24"> Toggle Ingame Location Sync<br>
+<p><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/User-100_26_100_off.png" width="24" height="24"> <a href="https://eedocs.readthedocs.io/en/latest/character-management/">Character Management</a><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_off.png" width="24" height="24"> <a href="https://eedocs.readthedocs.io/en/latest/client-synchronisation/">Client Synchronisation</a> and <a href="https://eedocs.readthedocs.io/en/latest/data-sharing/">Data Sharing</a><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Share-100_off.png" width="24" height="24"> Cloud and Data Sharing Settings<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Node-100_off.png" width="24" height="24"> Data Configuration<br><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Map-100_off.png" width="24" height="24"> Map Selection<br><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Settings-100_off.png" width="24" height="24"> Application Settings<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Fullscreen-100_off.png" width="24" height="24"> Toggle Fullscreen<br>

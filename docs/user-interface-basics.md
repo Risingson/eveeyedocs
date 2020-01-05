@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="user-interface-basics">User Interface Basics</h1>
 <h2 id="tap-or-click">Tap or click</h2>
 <p>… solarsystems for options<br>
@@ -24,4 +19,3 @@ Hold CTRL while clicking a non-regional system to go to its map.<br>
 Hold CTRL-SHIFT while clicking a system to go to its radar map.</p>
 <p>Just start typing to search for a place.</p>
 <p>Plus/minus keys do zoom and arrow keys do pan.</p>
-

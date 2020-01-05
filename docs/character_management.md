@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="character-management">Character Management</h1>
 <p>Logging in characters is not necessary to use this app but unlocks the following features:</p>
 <ul>

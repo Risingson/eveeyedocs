@@ -1,4 +1,12 @@
 site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
-theme: 'rtd-dropdown'
+
+theme: 
+    name: rtd-dropdown
+    collapse_by_default: false
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+    
 extra_css: [css/extra.css]

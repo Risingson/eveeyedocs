@@ -1,3 +1,7 @@
-h1 {
-  color: red;
+img {
+  border: 1px;
+  border-radius: 2px;
+  border-color: #CCC;
+  padding: 2px;
 }
+

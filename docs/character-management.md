@@ -18,6 +18,6 @@
 <h3 id="test-h3">Test h3</h3>
 <p>blablabla</p>
 <h2 id="login-process">Login process</h2>
-<p>To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/User-100_26_100_off.png" width="22" height="22"> in the menu.<br>
-At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Plus-100.png" width="22" height="22"> top left.</p>
+<p>To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/User-100_26_100_off.png" width="24" height="24"> in the menu.<br>
+At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Plus-100.png" width="24" height="24"> top left.</p>
 

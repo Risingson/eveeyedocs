@@ -1,5 +1,5 @@
 site_name: Eveeye Documentation
-repo_url: https://github.com/Risingson/eedocs/
+repo_url: https://github.com/Risingson/E3documentation/
 theme: 'rtd-dropdown'
 extra_css: [css/extra.css]
 nav:

@@ -3,7 +3,5 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<h1 id="map-option-presets">Map Option Presets</h1>
 

@@ -15,15 +15,15 @@
 A reference on how to package for that platforms can be found <a href="http://docs.nwjs.io/en/latest/For%20Users/Package%20and%20Distribute/#platform-specific-steps">here</a>.</p>
 <p>Extra files: <a href="https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0">package.json</a>, <a href="https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0">logo.png</a>, <a href="https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0">nw.icns</a></p>
 <blockquote>
-<p><em>If you can do packages for that platforms and tested them i would be happy if you could provide it via github and let me know.</em></p>
+<p><em>If you can do a package for a platform and tested it i would be happy if you could provide it via github and let me know.</em></p>
 </blockquote>
 <h2 id="user-interface">User Interface</h2>
-<p><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/close-window-100.png" width="24" height="24"> Close the app<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/maximize-window-100.png" width="24" height="24"> Maximize window<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/minimize-window-100.png" width="24" height="24"> Minimize window<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/full-screen-100.png" width="24" height="24"> Toggle Fullscreen<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/up-squared-100.png" width="24" height="24"> Toggle always on top mode<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/transparency-100.png" width="24" height="24"> Window transparency slider</p>
+<p><img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/images/nw/close-window-100.png" width="24" height="24"> Close the app<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/images/nw/maximize-window-100.png" width="24" height="24"> Maximize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/images/nw/minimize-window-100.png" width="24" height="24"> Minimize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/images/nw/full-screen-100.png" width="24" height="24"> Toggle Fullscreen<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/images/nw/up-squared-100.png" width="24" height="24"> Toggle always on top mode<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/images/nw/transparency-100.png" width="24" height="24"> Window transparency slider</p>
 <h2 id="intel-channels">Intel Channels</h2>
-<p>The desktop app is capable of reading the chatlogs written by your EVE client. See this for further explanations on this</p>
+<p>The desktop app is capable of reading the chatlogs written by your EVE client. See <a href="https://eedocs.readthedocs.io/en/latest/data-options/">this</a> for further explanations.</p>
 

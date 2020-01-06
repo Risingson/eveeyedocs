@@ -18,4 +18,6 @@ You can show and hide anomalies, cosmics and deleted sigs by clicking the corres
 <h2 id="map-display">Map display</h2>
 <p><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png" alt="enter image description here"></p>
 <p>The length of the bars to the left and right of the system node reflect the sig count of the corresponding type.</p>
+<h2 id="sharing">Sharing</h2>
+<p>If you turned on <a href="https://eedocs.readthedocs.io/en/latest/sharing/data-sharing/">Data Sharing</a> your signatures will get displayed to all other pilots in your sharing group.</p>
 

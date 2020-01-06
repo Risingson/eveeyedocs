@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="character-management">Character Management</h1>
+<h1 id="img-srchttpsraw.githubusercontent.comrisingsoneedocsmasterimagesuser-100_26_100_off.png-width30-height30--character-management"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/User-100_26_100_off.png" width="30" height="30"> Character Management</h1>
 <p>Logging in characters is not necessary to use this app but unlocks the following features:</p>
 <ul>
 <li>Track your ingame location</li>

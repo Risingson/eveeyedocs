@@ -1,6 +1,6 @@
 site_name: Eveeye Documentation
-repo_url: https://github.com/Risingson/E3documentation/
-theme: readthedocs #'rtd-dropdown'
+repo_url: https://github.com/Risingson/eedocs/
+theme: 'rtd-dropdown'
 extra_css: [css/extra.css]
 nav:
 - Welcome: 'index/'
@@ -19,8 +19,8 @@ nav:
     - 'Tag': 'map/map-options-tag/'
     - 'Misc': 'map/map-options-misc/'
 - Client Sync:
-    - 'sync/character-management/'
-    - 'sync/client-synchronisation/'    
+    - 'Character Management': 'sync/character-management/'
+    - 'Client Sync': 'sync/client-synchronisation/'    
 - Data Sharing:    
     - 'Data Sharing': 'sharing/data-sharing/'
     - 'Intel Channels': 'sharing/intel-channels/'

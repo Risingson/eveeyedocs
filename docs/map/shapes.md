@@ -14,16 +14,31 @@
 <td>Square shaped systems got NPC-stations</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_02.png" alt="enter image description here"></td>
-<td>Station services</td>
-</tr>
-<tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_03.png" alt="enter image description here"></td>
 <td>When selecting a faction warfare map the campaign tag option gets enabled automatically.</td>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_04.png" alt="enter image description here"></td>
 <td>Shattered wormhole systems display with dashed outlines.</td>
+</tr>
+</tbody>
+</table><h2 id="tags">Tags</h2>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_02.png" alt="enter image description here"></td>
+<td>Station services</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png" alt="enter image description here"></td>
+<td>Signatures</td>
 </tr>
 </tbody>
 </table><h2 id="sovereignty-structures-and-campaigns">Sovereignty Structures and Campaigns</h2>
@@ -41,12 +56,12 @@
 <td>Top = TCU, Center = IHUB<br>Colored after the structure’s owning alliance.<br>Solid lines means structure is invulnerable.</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_06.png" alt="enter image description here"></td>
-<td>Bright dotted means structure is reinforced</td>
-</tr>
-<tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_07.png" alt="enter image description here"></td>
 <td>Pale dotted means structure is vulnerable</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_06.png" alt="enter image description here"></td>
+<td>Bright dotted means structure is reinforced</td>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_08.png" alt="enter image description here"></td>

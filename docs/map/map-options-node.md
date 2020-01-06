@@ -3,7 +3,5 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<h1 id="node-options">Node Options</h1>
 

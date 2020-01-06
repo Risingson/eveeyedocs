@@ -6,7 +6,7 @@
 <h1 id="basic-user-interface">Basic User Interface</h1>
 <h2 id="tap-or-click">Tap or click</h2>
 <p>… solarsystems for options<br>
-… wormhole connection lines for options<br>
+… wormhole connection lines to set sigs, wormhole type and entry side.<br>
 … empty space in map area to close any menus<br>
 … region name in top row to go to Region Overview map<br>
 … solarsystem name in top row to center the map on it</p>

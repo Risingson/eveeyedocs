@@ -3,8 +3,16 @@ repo_url: https://github.com/Risingson/eedocs/
 theme: 'rtd-dropdown'
 extra_css: [css/extra.css]
 nav:
-    - 'Welcome': 'index.md'
+    - 'Welcome': index.md
+    - 'Desktop app': desktop-app.md
+- User Interface:
     - 'User Interface': /user-interface
-    - 'Data Options': /data
-    - 'Client Sync': /sync
-    - 'Data Sharing': /sharing
+- Data Options:   
+    - 'Data Options': /data/data-options.md
+- Client Sync:
+    - 'Character Management': /character-management.md
+    - 'Client Synchronisation': /client-synchronisation.md    
+- Data Sharing:    
+    - 'Data Sharing': /sharing/data-sharing.md
+    - 'Intel Channels': /sharing/intel-channels.md
+    - 'Signatures': /sharing/signatures.md

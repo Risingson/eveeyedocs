@@ -6,7 +6,7 @@ nav:
 - Welcome: 'index.md'
 - Desktop app: 'desktop-app.md'
 - User Interface:
-    - 'User Interface': '/user-interface/user-interface-basics.md'
+    - 'User Interface': 'user-interface-basics.md'
 - Map Options:   
     - 'Overview': '/map/map-option-overview.md'
 - Client Sync:

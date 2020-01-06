@@ -2,4 +2,17 @@ site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/E3documentation/
 theme: 'rtd-dropdown'
 extra_css: [css/extra.css]
-
+nav:
+- Welcome: 'index/'
+- Desktop app: 'desktop-app/'
+- User Interface:
+    - 'User Interface': '/user-interface/user-interface-basics/'
+- Map Options:   
+    - 'Overview': '/map/map-option-overview/'
+- Client Sync:
+    - 'Character Management': '/sync/character-management/'
+    - 'Client Synchronisation': '/sync/client-synchronisation/'    
+- Data Sharing:    
+    - 'Data Sharing': '/sharing/data-sharing/'
+    - 'Intel Channels': '/sharing/intel-channels/'
+    - 'Signatures': '/data/signatures/'    

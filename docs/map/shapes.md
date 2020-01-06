@@ -54,7 +54,7 @@
 <tbody>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_05.png" alt="enter image description here"></td>
-<td>Top = TCU, Center = IHUB<br>Colored after the structure’s owning alliance.<br>Solid lines means structure is invulnerable.</td>
+<td>Top = TCU<br>Center = IHUB<br><br>Colored after the structure’s owning alliance.<br>Solid lines means structure is invulnerable.</td>
 </tr>
 <tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_07.png" alt="enter image description here"></td>

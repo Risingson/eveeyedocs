@@ -2,3 +2,9 @@ site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
 theme: 'rtd-dropdown'
 extra_css: [css/extra.css]
+nav:
+    - 'Welcome': 'index.md'
+    - 'User Interface': /user-interface
+    - 'Data Options': /data
+    - 'Client Sync': /sync
+    - 'Data Sharing': /sharing

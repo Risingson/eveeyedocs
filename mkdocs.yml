@@ -1,6 +1,6 @@
 site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/E3documentation/
-theme: 'rtd-dropdown'
+theme: readthedocs #'rtd-dropdown'
 extra_css: [css/extra.css]
 nav:
 - Welcome: 'index/'

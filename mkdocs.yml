@@ -7,12 +7,12 @@ nav:
     - 'Desktop app': 'desktop-app.md'
 - User Interface:
     - 'User Interface': '/user-interface/user-interface-basics.md'
-- Data Options:   
-    - 'Data Options': '/data/data-options.md'
-    - 'Signatures': '/data/signatures.md'
+- Map Options:   
+    - 'Overview': '/data/data-option-overview.md'
 - Client Sync:
     - 'Character Management': '/character-management.md'
     - 'Client Synchronisation': '/client-synchronisation.md'    
 - Data Sharing:    
     - 'Data Sharing': '/sharing/data-sharing.md'
     - 'Intel Channels': '/sharing/intel-channels.md'
+    - 'Signatures': '/data/signatures.md'    

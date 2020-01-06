@@ -3,8 +3,8 @@ repo_url: https://github.com/Risingson/eedocs/
 theme: 'rtd-dropdown'
 extra_css: [css/extra.css]
 nav:
-    - 'Welcome': 'index.md'
-    - 'Desktop app': 'desktop-app.md'
+- Welcome: 'index.md'
+- Desktop app: 'desktop-app.md'
 - User Interface:
     - 'User Interface': '/user-interface/user-interface-basics.md'
 - Map Options:   

@@ -24,7 +24,9 @@ Trails will fade over time and be hardly visible after 20h.</p>
 <h4 id="clear-trail">Clear Trail</h4>
 <p>Using this you can clear your current trail.</p>
 <h2 id="route">Route</h2>
+<blockquote>
 <h5 id="routes-displayed-may-not-match-ingame-routing.">&lt;!&gt; Routes displayed may not match ingame routing.</h5>
+</blockquote>
 <h4 id="display-route">Display Route</h4>
 <p>Will display your route on the map after you used “Set Destination/Waypoint” from solarsystem menu.</p>
 <h4 id="use-wormholes">Use Wormholes</h4>
@@ -42,7 +44,7 @@ Trails will fade over time and be hardly visible after 20h.</p>
 <table>
 <thead>
 <tr>
-<th>⚠️ While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_on.png" width="14" height="14"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_off.png" width="14" height="14"> Client Sync.</th>
+<th>⚠️❗️⭐️⚡️❌🔷🔶🔴🔵 While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_on.png" width="14" height="14"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_off.png" width="14" height="14"> Client Sync.</th>
 </tr>
 </thead>
 <tbody></tbody>

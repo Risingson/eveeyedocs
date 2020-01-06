@@ -9,10 +9,10 @@ nav:
     - 'User Interface': /user-interface
 - Data Options:   
     - 'Data Options': /data/data-options.md
+    - 'Signatures': /data/signatures.md
 - Client Sync:
     - 'Character Management': /character-management.md
     - 'Client Synchronisation': /client-synchronisation.md    
 - Data Sharing:    
     - 'Data Sharing': /sharing/data-sharing.md
     - 'Intel Channels': /sharing/intel-channels.md
-    - 'Signatures': /sharing/signatures.md

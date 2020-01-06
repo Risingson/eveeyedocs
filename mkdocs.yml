@@ -19,6 +19,7 @@ nav:
     - 'Con': 'map/map-options-con/'
     - 'Tag': 'map/map-options-tag/'
     - 'Misc': 'map/map-options-misc/'
+    - 'Chain Mapping': 'map/chain-mapping/'
 - Client Sync:
     - 'Character Management': 'sync/character-management/'
     - 'Client Sync': 'sync/client-synchronisation/'    

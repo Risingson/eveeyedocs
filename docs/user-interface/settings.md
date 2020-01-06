@@ -24,9 +24,7 @@ Trails will fade over time and be hardly visible after 20h.</p>
 <h4 id="clear-trail">Clear Trail</h4>
 <p>Using this you can clear your current trail.</p>
 <h2 id="route">Route</h2>
-<blockquote>
-<h5 id="routes-displayed-may-not-match-ingame-routing.">&lt;!&gt; Routes displayed may not match ingame routing.</h5>
-</blockquote>
+<h5 id="warning-routes-displayed-may-not-match-ingame-routing.">⚠️ Routes displayed may not match ingame routing.</h5>
 <h4 id="display-route">Display Route</h4>
 <p>Will display your route on the map after you used “Set Destination/Waypoint” from solarsystem menu.</p>
 <h4 id="use-wormholes">Use Wormholes</h4>
@@ -40,15 +38,8 @@ Trails will fade over time and be hardly visible after 20h.</p>
 <h4 id="avoidance-list">Avoidance List</h4>
 <p>Systems you set avoided are listed here. Clicking the system will let you remove it from the list.</p>
 <h2 id="jump">Jump</h2>
-
-<table>
-<thead>
-<tr>
-<th>⚠️❗️⭐️⚡️❌🔷🔶🔴🔵 While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_on.png" width="14" height="14"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_off.png" width="14" height="14"> Client Sync.</th>
-</tr>
-</thead>
-<tbody></tbody>
-</table><h4 id="display-jumprange">Display Jumprange</h4>
+<h5 id="warning-while-you-are-in-img-srchttpsraw.githubusercontent.comrisingsoneedocsmasterimagesmarker-100_on.png-width14-height14-client-sync-the-app-will-choose-your-current-ship.-if-you-like-to-choose-another-ship-to-check-its-range-you-would-have-to-temporarily-disable-img-srchttpsraw.githubusercontent.comrisingsoneedocsmasterimagesmarker-100_off.png-width14-height14-client-sync.">⚠️ While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_on.png" width="14" height="14"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Marker-100_off.png" width="14" height="14"> Client Sync.</h5>
+<h4 id="display-jumprange">Display Jumprange</h4>
 <p>Enables/Disables displaying jumpranges on the map.</p>
 <h4 id="skill-and-fitting-settings">Skill and Fitting Settings</h4>
 <p>Match your skills and fit for the app to calc your range and isotopes correctly.</p>

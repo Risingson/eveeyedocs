@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="welcome-to-eveeye-explorer-documentation">Welcome to Eveeye Explorer documentation!</h1>
+<h1 id="welcome-to-eveeye-explorer-e3-documentation">Welcome to Eveeye Explorer [E3] documentation!</h1>
 <p>Interactive intel map system and chain mapping for <a href="https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497">Eve Online</a>.</p>
 <p>The app is capable of tracking your ingame location and setting waypoints to the Eve client. When jumping wormholes the maps get extended by those connections. Going deeper into w-space will switch to a chain map view.</p>
 <p>Multiple API data options and layers can be combined to display on the maps.</p>

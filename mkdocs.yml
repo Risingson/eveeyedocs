@@ -19,8 +19,8 @@ nav:
     - 'Tag': 'map/map-options-tag/'
     - 'Misc': 'map/map-options-misc/'
 - Client Sync:
-    - 'Character Management': '/sync/character-management/'
-    - 'Client Sync': '/sync/client-synchronisation/'    
+    - 'sync/character-management/'
+    - 'sync/client-synchronisation/'    
 - Data Sharing:    
     - 'Data Sharing': 'sharing/data-sharing/'
     - 'Intel Channels': 'sharing/intel-channels/'

@@ -22,7 +22,7 @@ nav:
     - 'Character Management': 'sync/character-management/'
     - 'Client Sync': 'sync/client-synchronisation/'    
 - Data Sharing:    
-    - 'Data Sharing': 'sharing/data-sharing/'
+    - 'Data Sharing': 'sharing/data-sharing-overview/'
     - 'Intel Channels': 'sharing/intel-channels/'
     - 'Signatures': 'data/signatures/'    
     - 'Custom Marks': 'data/custom-marks/'  

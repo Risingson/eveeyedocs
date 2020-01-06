@@ -3,7 +3,5 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<h1 id="intel-channels">Intel Channels</h1>
 

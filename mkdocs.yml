@@ -8,7 +8,7 @@ nav:
 - Credits: 'credits/'
 - History: 'history/'
 - User Interface:
-    - 'User Interface': 'user-interface/user-interface-basics/'
+    - 'User Interface': 'user-interface/basic-user-interface/'
     - 'Settings': 'user-interface/settings/'
 - Map Options:   
     - 'Overview': 'map/map-options-overview/'

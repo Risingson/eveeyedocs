@@ -11,9 +11,11 @@
 <a href="https://www.dropbox.com/s/feo1z1055a7jmpd/Eveeye_v001.exe?dl=0">Windows installer download</a></p>
 <p>If you do not trust the installer you can do the same as described for Mac and Linux below.</p>
 <h3 id="mac-and-linux">Mac and Linux</h3>
-<p>There is no installer available for those platforms. Still you can download the program at <a href="https://nwjs.io/downloads/">https://nwjs.io/downloads/</a>.</p>
-<p>All you need to do is place the following files into the root directory of the installation<br>
-<a href="https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0">package.json</a><br>
-<a href="https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0">logo.png</a></p>
+<p>There is no installer available for those platforms. Still you can download the program at <a href="https://nwjs.io/downloads/">https://nwjs.io/downloads/</a>.<br>
+A reference on how to package for that platforms can be found <a href="http://docs.nwjs.io/en/latest/For%20Users/Package%20and%20Distribute/#platform-specific-steps">here</a>.</p>
+<p>Extra files: <a href="https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0">package.json</a>, <a href="https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0">logo.png</a>, <a href="https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0">nw.icns</a></p>
+<blockquote>
+<p><em>If you can do packages for that platforms and tested them i would be happy if you could provide it via github and let me know.</em></p>
+</blockquote>
 <h2 id="user-interface">User Interface</h2>
 

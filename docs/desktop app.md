@@ -18,4 +18,10 @@ A reference on how to package for that platforms can be found <a href="http://do
 <p><em>If you can do packages for that platforms and tested them i would be happy if you could provide it via github and let me know.</em></p>
 </blockquote>
 <h2 id="user-interface">User Interface</h2>
+<p><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/close-window-100.png" width="24" height="24"> Close the app<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/maximize-window-100.png" width="24" height="24"> Maximize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/minimize-window-100.png" width="24" height="24"> Minimize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/full-screen-100.png" width="24" height="24"> Toggle Fullscreen<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/up-squared-100.png" width="24" height="24"> Toggle always on top mode<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/transparency-100.png" width="24" height="24"> Window transparency slider</p>
 

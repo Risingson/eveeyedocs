@@ -1,7 +1,7 @@
 site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
-theme: 
-    name: 'rtd-dropdown'
-    collapse_by_default: true
-    highlightjs: true    
+theme: readthedocs
+#    name: 'rtd-dropdown'
+#    collapse_by_default: true
+#    highlightjs: true    
 extra_css: [css/extra.css]

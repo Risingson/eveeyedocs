@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="img-srchttpsraw.githubusercontent.comrisingsoneedocsmasterimagessettings-100_off.png-width26-height26--settings"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Settings-100_off.png" width="26" height="26"> Settings</h1>
+<h1 id="img-srchttpsraw.githubusercontent.comrisingsoneedocsmasterdocsimagessettings-100_off.png-width26-height26--settings"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="26" height="26"> Settings</h1>
 <h2 id="general">General</h2>
 <h4 id="suppress-data-update-notifications">Suppress Data Update Notifications</h4>
 <p>This toggles notifications appearing on the bottom of the app when new data was loaded.</p>

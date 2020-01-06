@@ -9,6 +9,7 @@ nav:
 - History: 'history/'
 - User Interface:
     - 'User Interface': 'user-interface/user-interface-basics/'
+    - 'Settings': 'user-interface/settings/'
 - Map Options:   
     - 'Overview': 'map/map-options-overview/'
     - 'Presets': 'map/map-options-presets/'

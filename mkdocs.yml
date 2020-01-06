@@ -8,11 +8,20 @@ nav:
 - User Interface:
     - 'User Interface': '/user-interface/user-interface-basics/'
 - Map Options:   
-    - 'Overview': '/map/map-option-overview/'
+    - 'Overview': '/map/map-options-overview/'
+    - 'Presets': '/map/map-options-presets/'
+    - 'Node': '/map/map-options-node/'
+    - 'Label': '/map/map-options-label/'
+    - 'Sector': '/map/map-options-sector/'
+    - 'Con': '/map/map-options-con/'
+    - 'Tag': '/map/map-options-tag/'
+    - 'Misc': '/map/map-options-misc/'
 - Client Sync:
     - 'Character Management': '/sync/character-management/'
-    - 'Client Synchronisation': '/sync/client-synchronisation/'    
+    - 'Client Sync': '/sync/client-synchronisation/'    
 - Data Sharing:    
     - 'Data Sharing': '/sharing/data-sharing/'
     - 'Intel Channels': '/sharing/intel-channels/'
     - 'Signatures': '/data/signatures/'    
+    - 'Custom Marks': '/data/custom-marks/'  
+- Credits: 'credits/'

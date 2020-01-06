@@ -3,7 +3,5 @@
 
 ---
 
-<blockquote>
-<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
-</blockquote>
+<h1 id="constellation-outline-options">Constellation Outline Options</h1>
 

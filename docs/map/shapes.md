@@ -14,34 +14,13 @@
 <td>Square shaped systems got NPC-stations</td>
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_03.png" alt="enter image description here"></td>
-<td>When selecting a faction warfare map the campaign tag option gets enabled automatically.</td>
-</tr>
-<tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_04.png" alt="enter image description here"></td>
 <td>Shattered wormhole systems display with dashed outlines.</td>
 </tr>
 </tbody>
-</table><h2 id="tags">Tags</h2>
-
-<table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_02.png" alt="enter image description here"></td>
-<td>Station services</td>
-</tr>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png" alt="enter image description here"></td>
-<td>Signatures</td>
-</tr>
-</tbody>
-</table><h2 id="sovereignty-structures-and-campaigns">Sovereignty Structures and Campaigns</h2>
+</table><h2 id="station-services-and-signatures">Station Services and Signatures</h2>
+<p><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_02.png" alt="enter image description here"> <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png" alt="enter image description here"></p>
+<h2 id="sovereignty-structures-and-campaigns">Sovereignty Structures and Campaigns</h2>
 
 <table>
 <thead>
@@ -66,6 +45,10 @@
 <tr>
 <td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_08.png" alt="enter image description here"></td>
 <td>IHUB under attack with defence at 60%</td>
+</tr>
+<tr>
+<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_03.png" alt="enter image description here"></td>
+<td>48% contested Faction Warfare system.<br>When selecting a faction warfare map the campaign tag option gets enabled automatically.</td>
 </tr>
 </tbody>
 </table><p>When sovereignty campaign constellation outline option is enabled pale red lines indicate that a structure is reinforced within the constellation. Bright red lines mark an ongoing campaign.</p>

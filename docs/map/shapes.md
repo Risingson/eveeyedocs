@@ -57,7 +57,7 @@
 <td>Top = TCU, Center = IHUB<br>Colored after the structure’s owning alliance.<br>Solid lines means structure is invulnerable.</td>
 </tr>
 <tr>
-<td></td>
+<td><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_07.png" alt="enter image description here"></td>
 <td>Pale dotted means structure is vulnerable</td>
 </tr>
 <tr>

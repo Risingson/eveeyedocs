@@ -24,4 +24,6 @@ A reference on how to package for that platforms can be found <a href="http://do
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/full-screen-100.png" width="24" height="24"> Toggle Fullscreen<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/up-squared-100.png" width="24" height="24"> Toggle always on top mode<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/nw/transparency-100.png" width="24" height="24"> Window transparency slider</p>
+<h2 id="intel-channels">Intel Channels</h2>
+<p>The desktop app is capable of reading the chatlogs written by your EVE client. See this for further explanations on this</p>
 

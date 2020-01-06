@@ -8,10 +8,10 @@ nav:
 - User Interface:
     - 'User Interface': '/user-interface/user-interface-basics.md'
 - Map Options:   
-    - 'Overview': '/data/data-option-overview.md'
+    - 'Overview': '/map/map-option-overview.md'
 - Client Sync:
-    - 'Character Management': '/character-management.md'
-    - 'Client Synchronisation': '/client-synchronisation.md'    
+    - 'Character Management': '/sync/character-management.md'
+    - 'Client Synchronisation': '/sync/client-synchronisation.md'    
 - Data Sharing:    
     - 'Data Sharing': '/sharing/data-sharing.md'
     - 'Intel Channels': '/sharing/intel-channels.md'

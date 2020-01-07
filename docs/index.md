@@ -13,10 +13,10 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/map-options-overview/) to display live data
  - [Track](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) your ingame location
  - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) to the eve client
- - Find Routes using your chain, jumpbridges and Thera
- - Share data with your fellow pilots
- - Plot ingame intel channels and get notified 
- - Plot your jump-range
+ - Find [Routes](https://eveeye.readthedocs.io/en/latest/user-interface/settings/) using your chain, jumpbridges and Thera
+ - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/data-sharing-overview/) with your fellow pilots
+ - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
+ - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/user-interface/settings/)
 
 ## Platforms
 
@@ -41,7 +41,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NjI3MiwxNDYzODczOTY0LDE2NzAyNT
-U1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4NzcyMjZd
-fQ==
+eyJoaXN0b3J5IjpbMTc5MTE0MzkxOCwxNDYzODczOTY0LDE2Nz
+AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
+MjZdfQ==
 -->

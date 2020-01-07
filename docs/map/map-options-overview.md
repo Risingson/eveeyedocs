@@ -8,15 +8,15 @@ Configure the map representation with various options.
 
 | Representation| Name | Description|
 |--|--|--|
-| | [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) | Center of solarsystem symbols |
-| | [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) | Text below system name|
-| | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | Background tiles |
-| | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) | Constellation outlines |
-| | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Outline of solarsystem symbol |
-| | [EXTRA TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Symbols to the left and right of solarsystem |
+| [pic]| [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) | Center of solarsystem symbols |
+| [pic]| [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) | Text below system name|
+|[pic]|  [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | Background tiles |
+|[pic]|  [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) | Constellation outlines |
+| [pic]| [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Outline of solarsystem symbol |
+|[pic]|  [EXTRA TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Symbols to the left and right of solarsystem |
 | | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDExNTA0MiwtMTE4MTMxMzA3NSwtMj
+eyJoaXN0b3J5IjpbLTMyNzk1MDA2NCwtMTE4MTMxMzA3NSwtMj
 Y4Njc0NzAwXX0=
 -->

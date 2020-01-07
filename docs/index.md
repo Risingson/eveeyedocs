@@ -36,15 +36,14 @@ You can [Submit Bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0
 Or just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>
 
 ## Sponsorship
+I have been developing Eveeye in my spare time [since 2006](https://eveeye.readthedocs.io/en/latest/history/).
+Donations for the work done and time spent are more than welcome.
+o7 Risingson
+
 There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
-I have been developing Eveeye in my spare time since 2006.<br>
-        Donations for the work done and time spent are more than welcome.<br>o7 Risingson<br><br>
-
-            Bitcoin Address<br>
-            <input id="BTCcode" value="14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF" size="38" onfocus="$('#BTCcode').select();" onInput="$('#BTCcode').val('14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF');" style="text-align:center;margin-bottom:7px;"/>
-            <br>Bitcoin Address QR-Code<br>
-            <img src="img/browser/btc_qr.png" width="200" height="200" id="qr"/><br><br>
+Bitcoin Address 14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF Bitcoin Address QR-Code
+            <img src="https//eveey.com/img/browser/btc_qr.png" width="200" height="200" id="qr"/><br><br>
             <a onClick="$('#BTC').hide();" style="pointer-events:all;cursor:pointer;" >CLOSE</a>
         </td></tr></table>
     </div>    
@@ -63,7 +62,7 @@ I have been developing Eveeye in my spare time since 2006.<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MzU2MTg3NSwxNDYzODczOTY0LDE2Nz
+eyJoaXN0b3J5IjpbLTIxNjg5NTY2MiwxNDYzODczOTY0LDE2Nz
 AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
 MjZdfQ==
 -->

@@ -1,5 +1,5 @@
-# <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/images/Node-100_off.png" width="26" height="26"> Map Options
+# Map Options
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDk1MjMyMl19
+eyJoaXN0b3J5IjpbNTUxOTI2MjAxLC05MTA5NTIzMjJdfQ==
 -->

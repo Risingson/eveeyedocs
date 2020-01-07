@@ -20,13 +20,14 @@ You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointe
 ## Feedback
 I am happy about any feedback. (like if my english in this documentation or the apps hurt).
 
-There is a fee
-You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too.
+There is a [Feedback Forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)
+You can [Submit Bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) there aswell
+O <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1ODk5NzMwLDE0NjM4NzM5NjQsMTY3MD
-I1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIy
-Nl19
+eyJoaXN0b3J5IjpbLTEwMDU0NDI0OTEsMTQ2Mzg3Mzk2NCwxNj
+cwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3
+MjI2XX0=
 -->

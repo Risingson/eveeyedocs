@@ -6,15 +6,16 @@ Configure the map representation with various options.
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/menus/data-displays.png)
 
-| Representation| Name |
-|--|--|
-| | [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) |
-| | [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) |
-| | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) |
-| | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) |
-| | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) |
-| | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) |
+| Representation| Name | Description|
+|--|--|--|
+| | [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) | Center of solarsystem symbols |
+| | [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) | Text below system name|
+| | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | |
+| | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) | |
+| | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | |
+| | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEzMTMwNzUsLTI2ODY3NDcwMF19
+eyJoaXN0b3J5IjpbLTY3NzEyNTA3NiwtMTE4MTMxMzA3NSwtMj
+Y4Njc0NzAwXX0=
 -->

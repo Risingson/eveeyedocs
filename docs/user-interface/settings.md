@@ -1,5 +1,5 @@
 # Settings
-
+![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/menus/settings.png)
 ## General
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
@@ -52,6 +52,6 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eedocs.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcxMDcyNDAsMTc5OTE4NTE5NiwxMz
-ExNzQyNDg0LDE4MzIxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbMTM1OTk5OTY0NSwxNzk5MTg1MTk2LDEzMT
+E3NDI0ODQsMTgzMjE1NjI4Nl19
 -->

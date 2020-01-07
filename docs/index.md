@@ -10,9 +10,11 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  - Configure your maps to display live data
  - Track your ingame location
  - Set Waypoints to the eve client
+ - Plot routes using your chain, jumpbridges or Thera
+ - Thera connections
  - Share data with your fellow pilots
  - Plot ingame intel channels and get notified 
- - 
+ - Check your jumprange
  - 
 
 
@@ -41,7 +43,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Njc1NDIxNiwxNDYzODczOTY0LDE2Nz
-AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTQ4NDA4NDUsMTQ2Mzg3Mzk2NCwxNj
+cwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3
+MjI2XX0=
 -->

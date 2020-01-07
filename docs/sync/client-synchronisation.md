@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="26" height="26" > Client Sync
+# Client Sync
 
 
 ## Icons
@@ -7,6 +7,6 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="24" height="24" > On<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_fail.png" width="24" height="24" > Failed<br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODc3NjYyMSwtMTUxMDUyNjA5MSwtMT
-M0NTg1MzI3OV19
+eyJoaXN0b3J5IjpbLTE0NjcwODg4OTQsMjAyODc3NjYyMSwtMT
+UxMDUyNjA5MSwtMTM0NTg1MzI3OV19
 -->

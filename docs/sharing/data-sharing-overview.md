@@ -7,7 +7,8 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 
 ### Shared data
  - Wormhole Connections
- - Signature
+ - Signatures
+ - Custom Marks (optional)
 
 ### Additionally backuped data
  - Presets
@@ -24,6 +25,6 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ3NTg3MzI5LC0xMDM2OTQ1MTczLC02OT
-cyNjU3MTksNDkyODkzNjkzXX0=
+eyJoaXN0b3J5IjpbLTM3MDkwOTEwMSwtMTAzNjk0NTE3MywtNj
+k3MjY1NzE5LDQ5Mjg5MzY5M119
 -->

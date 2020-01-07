@@ -4,9 +4,9 @@ This app would not be possible without the following API data (in alphabetical o
 
 ## Data Credits
 EVE Online by [CCP](https://ccpgames.com) 
-[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa 
-Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye) 
-Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye) 
+[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa  
+Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)  
+Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)  
 
 ## Software Credits
 <a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://chartjs.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">chartjs</span></a>
@@ -34,6 +34,6 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTA2NDYwMCwtODYwMDQxOTI0LDkyMT
+eyJoaXN0b3J5IjpbMTM4NjMyOTg2MCwtODYwMDQxOTI0LDkyMT
 MwMzE5Miw2Njc3MjY5NDRdfQ==
 -->

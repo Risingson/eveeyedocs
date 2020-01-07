@@ -6,15 +6,15 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 ## Features
 
  - Find your way throughout New Eden with 2D-maps
+ - Search for plac
  - Plot your wormhole chain 
  - Configure your maps to display live data
  - Track your ingame location
  - Set Waypoints to the eve client
- - Plot routes using your chain, jumpbridges or Thera
- - Thera connections
+ - Find routes using your chain, jumpbridges and Thera
  - Share data with your fellow pilots
  - Plot ingame intel channels and get notified 
- - Check your jumprange
+ - Plot which systems are in jump-range
  - 
 
 
@@ -43,7 +43,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ4NDA4NDUsMTQ2Mzg3Mzk2NCwxNj
-cwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3
-MjI2XX0=
+eyJoaXN0b3J5IjpbLTc1NTc4MzUwMCwxNDYzODczOTY0LDE2Nz
+AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
+MjZdfQ==
 -->

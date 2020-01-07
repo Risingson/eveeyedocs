@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="desktop-app">Desktop app</h1>
 <p>The desktop app uses <a href="https://nwjs.io/">nw.js</a> and points that installable browser to <a href="http://eveeye.com">eveeye.com</a>.</p>
 <h2 id="installation">Installation</h2>
@@ -28,3 +23,6 @@ A reference on how to package for that platforms can be found <a href="http://do
 <h2 id="intel-channels">Intel Channels</h2>
 <p>The desktop app is capable of reading the chatlogs written by your EVE client. See <a href="https://eedocs.readthedocs.io/en/latest/data-options/">this</a> for further explanations.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3OTE1OTA4OF19
+-->

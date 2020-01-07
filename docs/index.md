@@ -17,10 +17,16 @@ Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-dec
 Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a>
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too.
 
+## Feedback
+I am happy about any feedback. (like if my english in this documentation or the apps hurt).
+
+There is a fee
+You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNj
-YxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2XX0=
+eyJoaXN0b3J5IjpbNzA1ODk5NzMwLDE0NjM4NzM5NjQsMTY3MD
+I1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIy
+Nl19
 -->

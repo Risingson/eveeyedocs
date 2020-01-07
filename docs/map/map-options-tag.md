@@ -1,7 +1,5 @@
----
+# Tag Options
 
-
----
-
-<h1 id="tag-options">Tag Options</h1>
-
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTE1MDA5ODddfQ==
+-->

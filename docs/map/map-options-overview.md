@@ -8,6 +8,7 @@ Configure the map representation with various options.
 
 | Representation| Name | Description|
 |--|--|--|
+| | [PRESETS](https://eedocs.readthedocs.io/en/latest/map/map-options-presets/) | Saved map configurations |
 | [pic]| [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) | Center of solarsystem symbols |
 | [pic]| [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) | Text below system name|
 |[pic]|  [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | Background tiles |
@@ -17,6 +18,6 @@ Configure the map representation with various options.
 | | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzk1MDA2NCwtMTE4MTMxMzA3NSwtMj
-Y4Njc0NzAwXX0=
+eyJoaXN0b3J5IjpbMjQ5ODgxNDEyLC0zMjc5NTAwNjQsLTExOD
+EzMTMwNzUsLTI2ODY3NDcwMF19
 -->

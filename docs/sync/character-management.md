@@ -1,39 +1,22 @@
-# ---
+# <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="26" height="26" > Character Management
+Logging in characters is not necessary to use this app but unlocks the following features:
 
+ - Track your ingame location
+ - Interact with the EVE client like setting waypoints etc.
+ - Sync your data across devices
+ - Share your data with other pilots
+ - Display relayed ingame intel channel data
 
----
+## EVE Online Single-Sign-On (SSO) 
+This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. Since the ingame browser has been removed it is not possible to track your ingame location without a SSO login hence using an API KEY is not an option anymore.
 
-<h1 id="img-srchttpsraw.githubusercontent.comrisingsoneedocsmasterdocsimagesuser-100_26_100_off.png-width26-height26--character-management"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="26" height="26" > Character Management
-</h1>
-<p>Logging in characters is not necessary to use this app but unlocks the following features:
+If you got security concerns regarding your login credentials consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
 
- - </p>
-<ul>
-<li>Track your ingame location
- - </li>
-<li>Interact with the EVE client like setting waypoints etc.
- - </li>
-<li>Sync your data across devices
- - </li>
-<li>Share your data with other pilots
- - </li>
-<li>Display relayed ingame intel channel data
-
-## </li>
-</ul>
-<h2 id="eve-online-single-sign-on-sso">EVE Online Single-Sign-On (SSO) 
-</h2>
-<p>This app uses the [EVE Online Single Sign On (SSO)](<a href="https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-)">EVE Online Single Sign On (SSO)</a> to authenticate characters. Since the ingame browser has been removed it is not possible to track your ingame location without a SSO login hence using an API KEY is not an option anymore.
-
-</p>
-<p>If you got security concerns regarding your login credentials consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
-
-## </p>
-<h2 id="login-process">Login process
-</h2>
-<p>To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu.<br>
-At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" > top left.</p>
+## Login process
+To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu.
+At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" > top left.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=
+eyJoaXN0b3J5IjpbMTI4NjkxOTc4NywxMjI2OTk3NzI4LDE2Nz
+k2NjgwOTNdfQ==
 -->

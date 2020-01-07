@@ -1,4 +1,3 @@
-
 # <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="26" height="26" > Character Management
 Logging in characters is not necessary to use this app but unlocks the following features:
 
@@ -17,5 +16,5 @@ If you got security concerns regarding your login credentials consider using two
 To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu.
 At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" > top left.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg5MjM1MDVdfQ==
+eyJoaXN0b3J5IjpbMTY3OTY2ODA5M119
 -->

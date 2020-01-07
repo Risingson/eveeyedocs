@@ -3,6 +3,14 @@
 
 Interactive intel map system and chain mapping for [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
 
+## Features
+
+ - Find your way throughout New Eden with 2D-maps
+ - Configure various options
+ - Track your ingame location
+ - Set Waypoints to the eve client
+ - 
+
 The app is capable of tracking your ingame location and setting waypoints to the Eve client. When jumping wormholes the maps get extended by those connections. Going deeper into w-space will switch to a chain map view.  
  
 Multiple API data options and layers can be combined to display on the maps.  
@@ -30,7 +38,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcwMTIwOTgsMTQ2Mzg3Mzk2NCwxNjcwMj
-U1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2
-XX0=
+eyJoaXN0b3J5IjpbMzM3ODYxMzYyLDE0NjM4NzM5NjQsMTY3MD
+I1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIy
+Nl19
 -->

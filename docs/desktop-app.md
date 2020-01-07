@@ -27,8 +27,8 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/transparency-100.png" width="24" height="24" > Window transparency slider
 
 ## Intel Channels
-The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eedocs.readthedocs.io/en/latest/data-options/) for further explanations.
+The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/data-options/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzgwNjEyMzAsLTEwMTIzNTY4ODEsLT
-Q3OTE1OTA4OF19
+eyJoaXN0b3J5IjpbLTQwNjIzMjMwNCwtMTAxMjM1Njg4MSwtND
+c5MTU5MDg4XX0=
 -->

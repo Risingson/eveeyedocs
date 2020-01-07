@@ -9,6 +9,7 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
  - Wormhole Connections
  - Signatures
  - Shared Custom Marks
+ - Intel data via desktop a
  - Your pilot's location and ship
 
 ### Additionally backuped data
@@ -20,9 +21,10 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 
 | Type | Description |
 |--|--|
-| Corporation | Only pilots within your alliance can see your data   |
+| Do not share data | Nobody can see your data (default)   |
+| Corporation | Only pilots within your corporation can see your data   |
 | Alliance | Only pilots within your alliance can see your data |
-| Group | Only pilots using the same group code share data |
+| Group | Only pilots using the same group code can see your data |
 
 
 ## Remove character and data from cloud
@@ -34,6 +36,6 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODQyODEzLC0xMDM2OTQ1MTczLC02OT
-cyNjU3MTksNDkyODkzNjkzXX0=
+eyJoaXN0b3J5IjpbMTcwNzE1OTMxMSwtMTAzNjk0NTE3MywtNj
+k3MjY1NzE5LDQ5Mjg5MzY5M119
 -->

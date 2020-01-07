@@ -8,15 +8,19 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 ### Shared data
  - Wormhole Connections
  - Signatures
- - Custom Marks (optional)
+ - Shared Custom Marks
+ - Your pilot's location and ship
 
 ### Additionally backuped data
- - Presets
- - 
+ - Map Presets
+ - Own Custom Marks
 
-
+## Share groups
 Enabling Cloud will not share data with anyone unless you choose to do so
 
+
+
+## Disabling Clou
 Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
 
@@ -25,6 +29,6 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDkwOTEwMSwtMTAzNjk0NTE3MywtNj
-k3MjY1NzE5LDQ5Mjg5MzY5M119
+eyJoaXN0b3J5IjpbLTExNzAxNjEwMDEsLTEwMzY5NDUxNzMsLT
+Y5NzI2NTcxOSw0OTI4OTM2OTNdfQ==
 -->

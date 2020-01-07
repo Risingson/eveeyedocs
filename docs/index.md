@@ -5,7 +5,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Features
 
- - Travel and tactical companion throughout New Eden
+ - Travel and tactical companion of New Eden
  - [Search](https://eveeye.readthedocs.io/en/latest/user-interface/search/) for places, stations or agents
  - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/user-interface/solarsystem-info/)
  - [Chain-mapping](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) including connected k-space
@@ -41,7 +41,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTE0MzkxOCwxNDYzODczOTY0LDE2Nz
+eyJoaXN0b3J5IjpbMTAwOTk5ODkxMiwxNDYzODczOTY0LDE2Nz
 AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
 MjZdfQ==
 -->

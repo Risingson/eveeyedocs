@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="26" height="26" > Settings
+# Settings
 
 ## General
 #### Suppress Data Update Notifications
@@ -52,6 +52,6 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eedocs.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4Mz
-IxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbLTE5NzcxMDcyNDAsMTc5OTE4NTE5NiwxMz
+ExNzQyNDg0LDE4MzIxNTYyODZdfQ==
 -->

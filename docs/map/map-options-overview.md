@@ -10,12 +10,12 @@ Configure the map representation with various options.
 |--|--|--|
 | | [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) | Center of solarsystem symbols |
 | | [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) | Text below system name|
-| | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | |
-| | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) | |
-| | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | |
-| | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | |
+| | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | Background tiles |
+| | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) | Constellation outlines |
+| | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Outline of solarsystem symbol |
+| | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzEyNTA3NiwtMTE4MTMxMzA3NSwtMj
-Y4Njc0NzAwXX0=
+eyJoaXN0b3J5IjpbLTE4MTAwNzQ1MjYsLTExODEzMTMwNzUsLT
+I2ODY3NDcwMF19
 -->

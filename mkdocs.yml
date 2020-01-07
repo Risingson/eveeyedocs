@@ -23,7 +23,7 @@ nav:
     - Misc: map/map-options-misc/
     - Chain Mapping: map/chain-mapping/
 - Client Sync:
-    - character-management: sync/character-management
+    - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation    
 - Data Sharing:    
     - Data Sharing: sharing/data-sharing-overview/

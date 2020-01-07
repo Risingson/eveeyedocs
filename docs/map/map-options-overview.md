@@ -13,9 +13,10 @@ Configure the map representation with various options.
 | | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) | Background tiles |
 | | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) | Constellation outlines |
 | | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Outline of solarsystem symbol |
+| | [EXTRA TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Symbols to the left and right of solarsystem |
 | | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAwNzQ1MjYsLTExODEzMTMwNzUsLT
-I2ODY3NDcwMF19
+eyJoaXN0b3J5IjpbMTA5MDExNTA0MiwtMTE4MTMxMzA3NSwtMj
+Y4Njc0NzAwXX0=
 -->

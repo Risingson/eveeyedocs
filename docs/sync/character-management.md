@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="26" height="26" > Character Management
+# Character Management
 Logging in characters is not necessary to use this app but unlocks the following features:
 
  - Track your ingame location
@@ -17,6 +17,6 @@ To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedo
 At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" > top left.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjkxOTc4NywxMjI2OTk3NzI4LDE2Nz
-k2NjgwOTNdfQ==
+eyJoaXN0b3J5IjpbLTM4MDQ5ODAyMCwxMjg2OTE5Nzg3LDEyMj
+Y5OTc3MjgsMTY3OTY2ODA5M119
 -->

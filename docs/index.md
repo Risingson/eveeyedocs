@@ -5,10 +5,10 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Features
 
- - Find your way throughout New Eden in k and w-space
+ - Travel and tactical companion throughout New Eden
  - Search for places, stations or agents
  - Get comprehensive info on solarsystems
- - Chain-mapping
+ - Chain-mapping including connected k-space
  - Track signatures
  - Configure your maps to display live data
  - Track your ingame location
@@ -41,7 +41,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODU5Mjk3OSwxNDYzODczOTY0LDE2Nz
+eyJoaXN0b3J5IjpbMTk5MDU0MjgwOSwxNDYzODczOTY0LDE2Nz
 AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
 MjZdfQ==
 -->

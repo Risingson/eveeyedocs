@@ -1,7 +1,5 @@
----
+# Map Option Presets
 
-
----
-
-<h1 id="map-option-presets">Map Option Presets</h1>
-
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4NzczMDYwNjRdfQ==
+-->

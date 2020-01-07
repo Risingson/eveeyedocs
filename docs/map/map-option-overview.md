@@ -9,14 +9,14 @@ Configure the map representation with various options.
 
 | Representation| Name |
 |--|--|
-| | NODE |
-| | LABEL |
-| | SECTOR |
-| | CON |
-| | TAG |
-| | MISC |
+| | [NODE](https://eedocs.readthedocs.io/en/latest/map/map-options-node/) |
+| | [LABEL](https://eedocs.readthedocs.io/en/latest/map/map-options-label/) |
+| | [SECTOR](https://eedocs.readthedocs.io/en/latest/map/map-options-sector/) |
+| | [CON](https://eedocs.readthedocs.io/en/latest/map/map-options-con/) |
+| | [TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) |
+| | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODE5NTM1LDUzOTgwMDk0MywtOTEwOT
-UyMzIyXX0=
+eyJoaXN0b3J5IjpbLTExMDMzOTM3MzEsNTM5ODAwOTQzLC05MT
+A5NTIzMjJdfQ==
 -->

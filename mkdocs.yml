@@ -2,32 +2,33 @@ site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
 theme:
   name: rtd-dropdown
+  collapse_by_default: true
 extra_css: [css/extra.css]
 nav:
-- Welcome: /
-- Desktop app: desktop-app/
-- Credits: credits/
+- Welcome: index.md
+- Desktop app: desktop-app.md
+- Credits: credits.md
 - User Interface:
-    - User Interface: user-interface/basic-user-interface/
-    - Settings: user-interface/settings/
-    - Search: user-interface/search/
-    - Solarsystem Info: user-interface/solarsystem-info/
+    - User Interface: user-interface/basic-user-interface.md
+    - Settings: user-interface/settings.md
+    - Search: user-interface/search.md
+    - Solarsystem Info: user-interface/solarsystem-info.md
 - Map Options:   
-    - Overview: map/map-options-overview/
-    - Presets: map/map-options-presets/
-    - Node: map/map-options-node/
-    - Label: map/map-options-label/
-    - Sector: map/map-options-sector/
-    - Con: map/map-options-con/
-    - Tag: map/map-options-tag/
-    - Misc: map/map-options-misc/
-    - Chain Mapping: map/chain-mapping/
+    - Overview: map/map-options-overview.md
+    - Presets: map/map-options-presets.md
+    - Node: map/map-options-node.md
+    - Label: map/map-options-label.md
+    - Sector: map/map-options-sector.md
+    - Con: map/map-options-con.md
+    - Tag: map/map-options-tag.md
+    - Misc: map/map-options-misc.md
+    - Chain Mapping: map/chain-mapping.md
 - Client Sync:
     - Character Management: sync/character-management.md
-    - Client Sync: sync/client-synchronisation    
+    - Client Sync: sync/client-synchronisation.md    
 - Data Sharing:    
-    - Data Sharing: sharing/data-sharing-overview/
-    - Intel Channels: sharing/intel-channels/
-    - Signatures: data/signatures/    
-    - Custom Marks: data/custom-marks/ 
-- History: history/
+    - Data Sharing: sharing/data-sharing-overview.md
+    - Intel Channels: sharing/intel-channels.md
+    - Signatures: data/signatures.md   
+    - Custom Marks: data/custom-marks.md 
+- History: history.md

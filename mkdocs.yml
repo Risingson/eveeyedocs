@@ -7,10 +7,11 @@ nav:
 - Welcome: '/'
 - Desktop app: 'desktop-app/'
 - Credits: 'credits/'
-- History: 'history/'
 - User Interface:
     - 'User Interface': 'user-interface/basic-user-interface/'
     - 'Settings': 'user-interface/settings/'
+    - 'Search': 'user-interface/search/'
+    - 'Solarsystem Info': 'user-interface/solarsystem-info/'
 - Map Options:   
     - 'Overview': 'map/map-options-overview/'
     - 'Presets': 'map/map-options-presets/'
@@ -22,11 +23,12 @@ nav:
     - 'Misc': 'map/map-options-misc/'
     - 'Chain Mapping': 'map/chain-mapping/'
 - Client Sync:
-    - 'Character Management': 'sync/character-management'
+    - 'character-management': 'sync/character-management'
     - 'Client Sync': 'sync/client-synchronisation'    
 - Data Sharing:    
     - 'Data Sharing': 'sharing/data-sharing-overview/'
     - 'Intel Channels': 'sharing/intel-channels/'
     - 'Signatures': 'data/signatures/'    
-    - 'Custom Marks': 'data/custom-marks/'  
+    - 'Custom Marks': 'data/custom-marks/' 
+- History: 'history/'
 

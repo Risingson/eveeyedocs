@@ -9,7 +9,7 @@ Multiple API data options and layers can be combined to display on the maps.
 
 ## Platforms
 
-[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) and [Desktop App](https://eedocs.readthedocs.io/en/latest/desktop-app/)
+[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
 
 ## Support & Social
 
@@ -21,6 +21,6 @@ You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xND
-IzMjIwOSwtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNj
+YxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2XX0=
 -->

@@ -40,18 +40,15 @@ I have been developing Eveeye in my spare time [since 2006](https://eveeye.readt
 Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
-**Donation system**  via [Donorbox](https://donorbox.org/eveeye)
+**Donation system**  [Donorbox](https://donorbox.org/eveeye)
+**Bitcoin Address:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF
+**Ether Address:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA
 
-**Bitcoin Address**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
-<img src="https://eveeye.com/img/browser/btc_qr.png" width="200" height="200"/>
-
-**Ether Address**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
-<img src="https://eveeye.com/img/browser/eth_qr.png" width="200" height="200"/>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2Nz
-AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
-MjZdfQ==
+eyJoaXN0b3J5IjpbMTc2MDk5ODg3NywxNDkwMjg2NDgxLDE0Nj
+M4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIw
+OSwtMTQ0Mzg3NzIyNl19
 -->

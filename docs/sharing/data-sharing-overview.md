@@ -18,9 +18,14 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 ## Share groups
 Enabling Cloud will not share data with anyone unless you choose to do so
 
+| Type | Description |
+|--|--|
+| Corporation | Only pilots within your alliance can see your data   |
+| Alliance | Only pilots within your alliance can see your data |
+| Group | Only pilots using the same group code share data |
 
 
-## Disabling Clou
+## Remove character and data from cloud
 Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
 
@@ -29,6 +34,6 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAxNjEwMDEsLTEwMzY5NDUxNzMsLT
-Y5NzI2NTcxOSw0OTI4OTM2OTNdfQ==
+eyJoaXN0b3J5IjpbMTQ5ODQyODEzLC0xMDM2OTQ1MTczLC02OT
+cyNjU3MTksNDkyODkzNjkzXX0=
 -->

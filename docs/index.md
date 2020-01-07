@@ -12,7 +12,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  - Track [Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)
  - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/map-options-overview/) to display live data
  - [Track](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) your ingame location
- - Set Waypoints to the eve client
+ - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) to the eve client
  - Find routes using your chain, jumpbridges and Thera
  - Share data with your fellow pilots
  - Plot ingame intel channels and get notified 
@@ -41,7 +41,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDQ1NTA2NiwxNDYzODczOTY0LDE2Nz
-AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTEyNTYyMjAxNDQsMTQ2Mzg3Mzk2NCwxNj
+cwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3
+MjI2XX0=
 -->

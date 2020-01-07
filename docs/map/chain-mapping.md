@@ -1,10 +1,10 @@
 # Chain Mapping
 Wormhole connections get removed after 48h automatically.
-
 A connection will get created when podded, clone jumping or cynoing. Remove the created connection manually.
 
-For wormhole systems there is no api data available for Jumps or NPCs destroyed last hour.
 
+For wormhole systems there is no api data available for Jumps or NPCs destroyed last hour.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Nzc4MTMxLC0zMzI0NDcyOTddfQ==
+eyJoaXN0b3J5IjpbNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyND
+Q3Mjk3XX0=
 -->

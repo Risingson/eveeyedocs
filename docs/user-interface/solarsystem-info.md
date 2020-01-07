@@ -1,7 +1,4 @@
-# Solarsystem Info Pan
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# Solarsystem Info
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjYwOTg2OF19
+eyJoaXN0b3J5IjpbLTQ5NzA4MDkxMV19
 -->

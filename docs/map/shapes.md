@@ -1,10 +1,5 @@
----
-
-
----
-
-<h1 id="map-shapes">Map Shapes</h1>
-<h2 id="basics">Basics</h2>
+# Map Shapes
+## Basics
 
 <table>
 <thead>
@@ -75,3 +70,6 @@
 </tbody>
 </table><p>When sovereignty campaign constellation outline option is enabled pale red lines indicate that a structure is reinforced within the constellation. Bright red lines mark an ongoing campaign.</p>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzA2ODEzMzQ4XX0=
+-->

@@ -40,7 +40,7 @@ I have been developing Eveeye in my spare time [since 2006](https://eveeye.readt
 Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
-**Donation system**  [Donorbox](https://donorbox.org/eveeye)
+**Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)
 **Bitcoin Address:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF
 **Ether Address:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA
 
@@ -48,7 +48,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDk5ODg3NywxNDkwMjg2NDgxLDE0Nj
+eyJoaXN0b3J5IjpbLTk0ODM4MDA0MywxNDkwMjg2NDgxLDE0Nj
 M4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIw
 OSwtMTQ0Mzg3NzIyNl19
 -->

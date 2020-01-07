@@ -3,7 +3,7 @@
 This app would not be possible without the following API data (in alphabetical order)
 
 ## Data Credits
-EVE Online by [CCP](https://ccpgames.com)
+EVE Online by [CCP](https://ccpgames.com) 
 [Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa 
 Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye) 
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye) 
@@ -34,6 +34,6 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDA0MTkyNCw5MjEzMDMxOTIsNjY3Nz
-I2OTQ0XX0=
+eyJoaXN0b3J5IjpbLTgzNTA2NDYwMCwtODYwMDQxOTI0LDkyMT
+MwMzE5Miw2Njc3MjY5NDRdfQ==
 -->

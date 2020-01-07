@@ -4,31 +4,30 @@ theme:
   name: rtd-dropdown
 extra_css: [css/extra.css]
 nav:
-- Welcome: '/'
-- Desktop app: 'desktop-app/'
-- Credits: 'credits/'
+- Welcome: /
+- Desktop app: desktop-app/
+- Credits: credits/
 - User Interface:
-    - 'User Interface': 'user-interface/basic-user-interface/'
-    - 'Settings': 'user-interface/settings/'
-    - 'Search': 'user-interface/search/'
-    - 'Solarsystem Info': 'user-interface/solarsystem-info/'
+    - User Interface: user-interface/basic-user-interface/
+    - Settings: user-interface/settings/
+    - Search: user-interface/search/
+    - Solarsystem Info: user-interface/solarsystem-info/
 - Map Options:   
-    - 'Overview': 'map/map-options-overview/'
-    - 'Presets': 'map/map-options-presets/'
-    - 'Node': 'map/map-options-node/'
-    - 'Label': 'map/map-options-label/'
-    - 'Sector': 'map/map-options-sector/'
-    - 'Con': 'map/map-options-con/'
-    - 'Tag': 'map/map-options-tag/'
-    - 'Misc': 'map/map-options-misc/'
-    - 'Chain Mapping': 'map/chain-mapping/'
+    - Overview: map/map-options-overview/
+    - Presets: map/map-options-presets/
+    - Node: map/map-options-node/
+    - Label: map/map-options-label/
+    - Sector: map/map-options-sector/
+    - Con: map/map-options-con/
+    - Tag: map/map-options-tag/
+    - Misc: map/map-options-misc/
+    - Chain Mapping: map/chain-mapping/
 - Client Sync:
-    - 'character-management': 'sync/character-management'
-    - 'Client Sync': 'sync/client-synchronisation'    
+    - character-management: sync/character-management
+    - Client Sync: sync/client-synchronisation    
 - Data Sharing:    
-    - 'Data Sharing': 'sharing/data-sharing-overview/'
-    - 'Intel Channels': 'sharing/intel-channels/'
-    - 'Signatures': 'data/signatures/'    
-    - 'Custom Marks': 'data/custom-marks/' 
-- History: 'history/'
-
+    - Data Sharing: sharing/data-sharing-overview/
+    - Intel Channels: sharing/intel-channels/
+    - Signatures: data/signatures/    
+    - Custom Marks: data/custom-marks/ 
+- History: history/

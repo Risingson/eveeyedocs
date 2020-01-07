@@ -19,16 +19,16 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 #####  :milky_way: *If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.*
 
 ## User Interface
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/maximize-window-100.png" width="24" height="24" > Maximize window
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/minimize-window-100.png" width="24" height="24" > Minimize window
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/full-screen-100.png" width="24" height="24" > Toggle Fullscreen
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/up-squared-100.png" width="24" height="24" > Toggle always on top mode
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/maximize-window-100.png" width="24" height="24" > Maximize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/minimize-window-100.png" width="24" height="24" > Minimize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/full-screen-100.png" width="24" height="24" > Toggle Fullscreen<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/up-squared-100.png" width="24" height="24" > Toggle always on top mode<br>
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/transparency-100.png" width="24" height="24" > Window transparency slider
 
 ## Intel Channels
 The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eedocs.readthedocs.io/en/latest/data-options/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjIzNjE5MTYsLTEwMTIzNTY4ODEsLT
+eyJoaXN0b3J5IjpbLTExNzgwNjEyMzAsLTEwMTIzNTY4ODEsLT
 Q3OTE1OTA4OF19
 -->

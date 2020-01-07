@@ -1,4 +1,4 @@
-# Welcome to Eveeye Explorer [E3] documentation!
+# Welcome to Eveeye Explorer documentation!
 
 
 Interactive intel map system and chain mapping for [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
@@ -21,6 +21,6 @@ You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0ND
-M4NzcyMjZdfQ==
+eyJoaXN0b3J5IjpbMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xND
+IzMjIwOSwtMTQ0Mzg3NzIyNl19
 -->

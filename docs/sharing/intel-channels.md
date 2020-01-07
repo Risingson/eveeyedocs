@@ -1,10 +1,7 @@
-# ---
+# Intel Channels
 
-
----
-
-<h1 id="intel-channels">Intel Channels</h1>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
+eyJoaXN0b3J5IjpbMzg4ODY5Nzc3LC0xNDE1MDAyNzg3LDg5MT
+Y1MjE0OV19
 -->

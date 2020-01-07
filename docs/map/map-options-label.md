@@ -1,8 +1,8 @@
----
+# Label Options
+Activity Intel sublabel abbreviations
+<span>K = Player ships destroyed</span>&nbsp;&nbsp;<span>P = Podkills</span>
+<span>N = Npcs destroyed</span>&nbsp;&nbsp;<span>J = Jumps</span>
 
-
----
-
-<h1 id="label-options">Label Options</h1>
-<p>Activity Intel sublabel abbreviations<br><span>K = Player ships destroyed</span>&nbsp;&nbsp;<span>P = Podkills</span><br><span>N = Npcs destroyed</span>&nbsp;&nbsp;<span>J = Jumps</span></p>
-
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY1NTYzODU5OV19
+-->

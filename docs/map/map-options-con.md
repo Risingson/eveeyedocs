@@ -1,7 +1,5 @@
----
+# Constellation Outline Options
 
-
----
-
-<h1 id="constellation-outline-options">Constellation Outline Options</h1>
-
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjQxNzMwNjU2XX0=
+-->

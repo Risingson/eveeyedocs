@@ -11,12 +11,12 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  - Track your ingame location
  - Set Waypoints to the eve client
  - Share data with your fellow pilots
- - Plot ingame intel channels  and get notified on closing pilots
+ - Plot ingame intel channels and get notified 
+ - 
  - 
 
-The app is capable of tracking your ingame location and setting waypoints to the Eve client. When jumping wormholes the maps get extended by those connections. Going deeper into w-space will switch to a chain map view.  
- 
-Multiple API data options and layers can be combined to display on the maps.  
+
+
 
 ## Platforms
 
@@ -41,7 +41,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5Nzg0NzMsMTQ2Mzg3Mzk2NCwxNj
-cwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3
-MjI2XX0=
+eyJoaXN0b3J5IjpbLTc1Njc1NDIxNiwxNDYzODczOTY0LDE2Nz
+AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
+MjZdfQ==
 -->

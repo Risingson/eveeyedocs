@@ -18,16 +18,19 @@ Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too.
 
 ## Feedback
-I am happy about any feedback. (like if my english in this documentation or the apps hurt).
+I am happy about any feedback.
 
 There is a [Feedback Forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)
 You can [Submit Bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) there aswell
-O <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
+Or just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>
+
+## Sponsorship
+There is a donation system set up at Donorbox
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU0NDI0OTEsMTQ2Mzg3Mzk2NCwxNj
-cwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3
-MjI2XX0=
+eyJoaXN0b3J5IjpbMTM3MzcwOTQ4NywxNDYzODczOTY0LDE2Nz
+AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
+MjZdfQ==
 -->

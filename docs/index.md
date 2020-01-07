@@ -5,9 +5,11 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Features
 
- - Find your way throughout New Eden
+ - Find your way throughout New Eden in k and w-space
  - Search for places, stations or agents
- - Plot your wormhole chain 
+ - Get comprehensive info on solarsystems
+ - Chain-mapping
+ - Track signatures
  - Configure your maps to display live data
  - Track your ingame location
  - Set Waypoints to the eve client
@@ -39,7 +41,7 @@ There is a donation system set up at [Donorbox](https://donorbox.org/eveeye)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIyNTAxMTkwLDE0NjM4NzM5NjQsMTY3MD
-I1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMTQ0Mzg3NzIy
-Nl19
+eyJoaXN0b3J5IjpbMTcwODU5Mjk3OSwxNDYzODczOTY0LDE2Nz
+AyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4Nzcy
+MjZdfQ==
 -->

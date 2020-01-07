@@ -1,9 +1,7 @@
----
-
-
----
-
-<h1 id="miscellaneous-map-options">Miscellaneous Map Options</h1>
-<h2 id="thera-connections">Thera Connections</h2>
+# Miscellaneous Map Options
+## Thera Connections
 <h2 id="zkillboard-livestream">zKillboard Livestream</h2>
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMDM5ODQyMjRdfQ==
+-->

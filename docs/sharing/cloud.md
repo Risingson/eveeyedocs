@@ -6,7 +6,7 @@ Basically Eveeye Explorer apps do store all data locally (client-side). If you d
 Turning on Cloud Storage enables you to backup and sync data amongst your own devices and would enable options to share data with other pilots.
 
 !!! info
-   
+    The Cloud Storage is hosted on eveeye server.
 
 ### Shared data
  - Wormhole Connections
@@ -39,5 +39,5 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzI2Njk1MF19
+eyJoaXN0b3J5IjpbLTkwMzE2OTkwMV19
 -->

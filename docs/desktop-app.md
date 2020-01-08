@@ -16,7 +16,7 @@ A reference on how to package for that platforms can be found [here](http://docs
 
 Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0), [logo.png](https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0), [nw.icns](https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0)
 
-!!! help ""
+!!! help "Help needed"
     If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.
 
 ## User Interface
@@ -30,7 +30,7 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 ## Intel Channels
 The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/data-options/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwOTI0ODg1LC04MDczNTExNzUsLTEzOT
-U4ODM4NjIsNTg4OTQ3NDQzLC01OTQ4NjAzNzUsLTQwNjIzMjMw
-NCwtMTAxMjM1Njg4MSwtNDc5MTU5MDg4XX0=
+eyJoaXN0b3J5IjpbLTgwNzM1MTE3NSwtODA3MzUxMTc1LC0xMz
+k1ODgzODYyLDU4ODk0NzQ0MywtNTk0ODYwMzc1LC00MDYyMzIz
+MDQsLTEwMTIzNTY4ODEsLTQ3OTE1OTA4OF19
 -->

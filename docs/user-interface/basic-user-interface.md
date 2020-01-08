@@ -19,7 +19,7 @@
 ## Browser keyboard shortcuts
 
 !!! error "Mobile"
-    keyboard shortcuts do not apply to mobile apps.
+    Keyboard shortcuts do not apply to mobile apps.
 
 Hold SHIFT while clicking a system to show info on it.
 Hold CTRL while clicking a non-regional system to go to its map.
@@ -32,6 +32,6 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ5MTI1ODIsNzkxNzc0NTAxLDIzNT
-QyMDQ0NSwtMzI0Nzk4NTQ4LC0yODU5ODQwNjNdfQ==
+eyJoaXN0b3J5IjpbMjA1MDM5ODYxOCw3OTE3NzQ1MDEsMjM1ND
+IwNDQ1LC0zMjQ3OTg1NDgsLTI4NTk4NDA2M119
 -->

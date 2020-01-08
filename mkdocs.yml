@@ -16,7 +16,7 @@ nav:
     - Search Interface: user-interface/search.md
     - Solarsystem Info: user-interface/solarsystem-info.md
 - Map:
-    - Map Layouts: map/layout.md
+    - Map Layout: map/layout.md
     - Map Shapes: map/shapes.md   
     - Chain Mapping: map/chain-mapping.md
 - Data Displays:   

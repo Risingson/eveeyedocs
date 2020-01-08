@@ -1,1 +1,1 @@
-mkdocs-rtd-dropdown
+mkdocs-bootstrap4

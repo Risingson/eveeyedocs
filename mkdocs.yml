@@ -15,6 +15,7 @@ nav:
     - Solarsystem Info: user-interface/solarsystem-info.md
 - Data Displays:   
     - Overview: map/map-options-overview.md
+    - Map Shapes: map/shapes.md
     - Presets: map/map-options-presets.md
     - Nodes: map/map-options-node.md
     - Labels: map/map-options-label.md
@@ -31,4 +32,4 @@ nav:
     - Intel Channels: sharing/intel-channels.md
     - Signatures: data/signatures.md   
     - Custom Marks: data/custom-marks.md 
-- History: history.md
+

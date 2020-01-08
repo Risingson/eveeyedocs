@@ -24,7 +24,7 @@ Using this you can clear your current trail.
 ## Route
 
 !!! attention
-    Match your ingame route settingsRoutes displayed may not match ingame routing even if you match ingame route settings.
+    Routes displayed may not match ingame routing even if you match ingame and eveeye route settings.
 
 #### Display Route
 Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu.
@@ -54,6 +54,6 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eedocs.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDY3NDgzNTIsMTM1OTk5OTY0NSwxNz
+eyJoaXN0b3J5IjpbLTEwMzA0MDEwOTcsMTM1OTk5OTY0NSwxNz
 k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
 -->

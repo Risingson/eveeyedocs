@@ -23,7 +23,7 @@ Third party vendors, including Google, use cookies to serve ads based on a user'
 Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to eveeye.com and/or other sites on the Internet.
 Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>.
 
-!!!! tip "Third Party Free Zone"
+!!! tip "Third Party Free Zone"
     [If you choose to support Eveeye development by donating no code will get loaded from google by eveeye anymore.](https://donorbox.org/eveeye)**
 
 ## CCP Disclaimer and License
@@ -35,6 +35,6 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEzNDU2NTc0LC04NjAwNDE5MjQsOTIxMz
-AzMTkyLDY2NzcyNjk0NF19
+eyJoaXN0b3J5IjpbLTEyMjgxMjIyMjUsLTg2MDA0MTkyNCw5Mj
+EzMDMxOTIsNjY3NzI2OTQ0XX0=
 -->

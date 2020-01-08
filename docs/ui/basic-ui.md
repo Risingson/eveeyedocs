@@ -25,7 +25,7 @@
 !!! error "Mobile"
     Keyboard shortcuts do not apply to mobile apps.
 
-Hold SHIFT while clicking a system to show info on it.
+Hold SHIFT while clicking a system to show info on it.<b
 Hold CTRL while clicking a non-regional system to go to its map.
 Hold CTRL-SHIFT while clicking a system to go to its radar map.
 
@@ -36,5 +36,5 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODcwMTM5OF19
+eyJoaXN0b3J5IjpbNTkxMTgxMzA4XX0=
 -->

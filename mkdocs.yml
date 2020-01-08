@@ -1,7 +1,7 @@
 site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
 theme:
-  name: material
+  name: bootstrap4
 markdown_extensions:
   - admonition  
 extra_css: [css/extra.css]

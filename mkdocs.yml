@@ -11,7 +11,7 @@ nav:
 - User Interface:
     - User Interface: user-interface/basic-user-interface.md
     - Settings: user-interface/settings.md
-    - Search: user-interface/search.md
+    - Search Interface: user-interface/search.md
     - Solarsystem Info: user-interface/solarsystem-info.md
 - Map Options:   
     - Overview: map/map-options-overview.md

@@ -20,14 +20,14 @@ nav:
     - Map Shapes: map/shapes.md   
     - Chain Mapping: map/chain-mapping.md
 - Data Displays:   
-    - Overview: data/map-options-overview.md
-    - Presets: data/map-options-presets.md
-    - Nodes: data/map-options-node.md
-    - Labels: data/map-options-label.md
-    - Sectors: data/map-options-sector.md
-    - Constellation Outlines: data/map-options-con.md
-    - Tags: data/map-options-tag.md
-    - Miscellaneous: data/map-options-misc.md
+    - Overview: data/overview.md
+    - Presets: data/presets.md
+    - Nodes: data/node.md
+    - Labels: data/label.md
+    - Sectors: data/sector.md
+    - Constellation Outlines: data/constellation.md
+    - Tags: data/tag.md
+    - Miscellaneous: data/misc.md
 - Client Sync:
     - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation.md    

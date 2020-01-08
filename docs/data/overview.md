@@ -1,5 +1,8 @@
-
+# Overview
 Configure the map representation with various options.
+## UI
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" border="0" style="opacity:0.9;"> Data options menu icon
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/NodeRed-100_on.png" width="24" height="24" border="0" style="opacity:0.9;"> Data update of an active data option failed
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/menus/data-displays.png)
 
@@ -14,6 +17,6 @@ Configure the map representation with various options.
 |[pic]|  [EXTRA TAG](https://eedocs.readthedocs.io/en/latest/map/map-options-tag/) | Symbols to the left and right of solarsystem |
 | | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NTUyMzUyNCwxNzAyNTgzNzE5LDUzOT
-gwMDk0MywtOTEwOTUyMzIyXX0=
+eyJoaXN0b3J5IjpbLTE4NzE5MDk1MzgsMTcwMjU4MzcxOSw1Mz
+k4MDA5NDMsLTkxMDk1MjMyMl19
 -->

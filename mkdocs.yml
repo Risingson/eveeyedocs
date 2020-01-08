@@ -32,7 +32,7 @@ nav:
     - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation.md    
 - Data Sharing:    
-    - Data Sharing: sharing/data-sharing-overview.md
+    - Cloud: sharing/cloud.md
     - Intel Channels: sharing/intel-channels.md
     - Signatures: sharing/signatures.md   
     - Custom Marks: sharing/custom-marks.md 

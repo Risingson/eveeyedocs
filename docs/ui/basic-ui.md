@@ -20,8 +20,7 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" ><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" ><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" ><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png" width="24" height="24" ><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png" width="24" height="15" ><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png" width="24" height="15" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png" width="24" height="15" ><br>
 ## Browser keyboard shortcuts
 
 !!! error "Mobile"
@@ -38,5 +37,5 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzMDUzMDEyXX0=
+eyJoaXN0b3J5IjpbNDAxODM4MTk4XX0=
 -->

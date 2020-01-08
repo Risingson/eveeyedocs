@@ -24,15 +24,15 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Support & Social
 
-Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a>
-Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a>
+Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
+Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
 
 ## Feedback
 I am happy about any feedback.
 
-There is a [Feedback Forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)
-You can [Submit Bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) there aswell
+There is a [Feedback Forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)<br>
+You can [Submit Bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) there aswell<br>
 Or just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>
 
 ## Sponsorship
@@ -47,7 +47,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDkzMzIyOCw5MTg1MTM3NTIsMTQ5MD
+eyJoaXN0b3J5IjpbLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MD
 I4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEy
 MiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ==
 -->

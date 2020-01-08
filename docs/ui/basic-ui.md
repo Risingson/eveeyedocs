@@ -9,7 +9,7 @@
 
 ## Menu
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > [Character Management](https://eveeye.readthedocs.io/en/latest/sync/character-management/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > [Client and Data Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > [Cloud and Data Sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > [Data Configuration](https://eveeye.readthedocs.io/en/latest/data/overview/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24" style="opacity:0.8;"> [Map Selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
@@ -32,5 +32,5 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NTcyNDMzNF19
+eyJoaXN0b3J5IjpbLTE1NDUxMzQ3NzNdfQ==
 -->

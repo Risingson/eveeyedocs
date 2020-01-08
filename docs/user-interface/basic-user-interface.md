@@ -18,7 +18,7 @@
 
 ## Browser keyboard shortcuts
 
-!!! fail "Mobile"
+!!! error "Mobile"
     keyboard shortcuts do not apply to mobile apps.
 
 Hold SHIFT while clicking a system to show info on it.
@@ -32,6 +32,6 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzgyNzIyNTgsNzkxNzc0NTAxLDIzNT
+eyJoaXN0b3J5IjpbLTE2NTQ5MTI1ODIsNzkxNzc0NTAxLDIzNT
 QyMDQ0NSwtMzI0Nzk4NTQ4LC0yODU5ODQwNjNdfQ==
 -->

@@ -4,13 +4,14 @@ theme:
   name: rtd-dropdown
 markdown_extensions:
   - admonition  
+  - footnotes
 extra_css: [css/extra.css]
 nav:
 - Eveeye Explorer Docs: index.md
 - Desktop app: desktop-app.md
 - Credits: credits.md
 - User Interface:
-    - User Interface: user-interface/basic-user-interface.md
+    - Basics: user-interface/basic-user-interface.md
     - Settings: user-interface/settings.md
     - Search Interface: user-interface/search.md
     - Solarsystem Info: user-interface/solarsystem-info.md

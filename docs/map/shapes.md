@@ -1,4 +1,4 @@
-# Map Shapes
+# Shapes
 
 ## Basics
 | |  |
@@ -23,6 +23,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwODI0NDA4LDEyNDgwMzM2NDksMjA4NT
-UyNDIyNywzMDY4MTMzNDhdfQ==
+eyJoaXN0b3J5IjpbLTYxNTIzMjcwOCwxMjQ4MDMzNjQ5LDIwOD
+U1MjQyMjcsMzA2ODEzMzQ4XX0=
 -->

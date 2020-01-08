@@ -1,4 +1,4 @@
-# Data Displays
+# Overview
 Configure the map representation with various options.
 
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" border="0" style="opacity:0.9;"> Data options menu icon<br>
@@ -18,6 +18,6 @@ Configure the map representation with various options.
 | | [MISC](https://eedocs.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkzMDY2NzAsLTMyNzk1MDA2NCwtMT
-E4MTMxMzA3NSwtMjY4Njc0NzAwXX0=
+eyJoaXN0b3J5IjpbMjExNzIyNjEyMiwtMzI3OTUwMDY0LC0xMT
+gxMzEzMDc1LC0yNjg2NzQ3MDBdfQ==
 -->

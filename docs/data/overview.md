@@ -1,4 +1,4 @@
-# Data Displays
+# Overview
 Configure the map representation with various options.
 ## UI
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" border="0" style="opacity:0.9;"> Data options menu icon
@@ -16,5 +16,6 @@ Configure the map representation with various options.
 | |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5ODAwOTQzLC05MTA5NTIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTcwMjU4MzcxOSw1Mzk4MDA5NDMsLTkxMD
+k1MjMyMl19
 -->

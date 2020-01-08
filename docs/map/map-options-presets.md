@@ -1,5 +1,6 @@
-# Map Option Presets
+# Presets
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzczMDYwNjRdfQ==
+eyJoaXN0b3J5IjpbLTExNzc5MDkxODUsLTE4NzczMDYwNjRdfQ
+==
 -->

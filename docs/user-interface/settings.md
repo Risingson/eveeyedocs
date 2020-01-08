@@ -22,10 +22,6 @@ Trails will fade over time and be hardly visible after 20h.
 Using this you can clear your current trail.
 
 ## Route
-
-!!! attention
-    Routes displayed may not match ingame routing even if you match ingame and eveeye route settings.
-
 #### Display Route
 Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu.
 #### Use Wormholes
@@ -38,22 +34,20 @@ Set your preferred travel security. This should match your ingame setting.
 Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eedocs.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa.
 #### Avoidance List
 Systems you set avoided are listed here. Clicking the system will let you remove it from the list.
+!!! attention
+    Routes displayed may not match ingame routing even if you match ingame and eveeye route settings.
 
 ## Jump
-
-!!! info
-    While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="18" height="18"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="18" height="18"> Client Sync.
-
-
 #### Display Jumprange
 Enables/Disables displaying jumpranges on the map.
 #### Skill and Fitting Settings
 Match your skills and fit for the app to calc your range and isotopes correctly.
 
+
 ## Names
 You can set names for your [Custom Marks](https://eedocs.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA0MDEwOTcsMTM1OTk5OTY0NSwxNz
+eyJoaXN0b3J5IjpbLTE4NTUyMjc0MjEsMTM1OTk5OTY0NSwxNz
 k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
 -->

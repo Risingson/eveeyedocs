@@ -5,7 +5,7 @@ theme:
   collapse_by_default: false
 extra_css: [css/extra.css]
 nav:
-- Welcome: index.md
+- Eveeye Explorer Docs: index.md
 - Desktop app: desktop-app.md
 - Credits: credits.md
 - User Interface:
@@ -30,6 +30,6 @@ nav:
 - Data Sharing:    
     - Data Sharing: sharing/data-sharing-overview.md
     - Intel Channels: sharing/intel-channels.md
-    - Signatures: data/signatures.md   
-    - Custom Marks: data/custom-marks.md 
+    - Signatures: sharing/signatures.md   
+    - Custom Marks: sharing/custom-marks.md 
 

@@ -1,4 +1,4 @@
-# Welcome to Eveeye Explorer documentation!
+# Eveeye Explorer Docs
 
 
 Interactive intel map system and chain mapping for [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
@@ -48,7 +48,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODM4MDA0MywxNDkwMjg2NDgxLDE0Nj
-M4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIw
-OSwtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbOTE4NTEzNzUyLDE0OTAyODY0ODEsMTQ2Mz
+g3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5
+LC0xNDQzODc3MjI2XX0=
 -->

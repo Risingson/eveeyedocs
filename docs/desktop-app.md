@@ -18,6 +18,10 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 
 ==If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.==
 
+	If you can do a working package for one of those platforms
+	i would be happy if you could provide it via github and let me know.
+
+
 ## User Interface
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app<br>
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/maximize-window-100.png" width="24" height="24" > Maximize window<br>
@@ -29,6 +33,7 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 ## Intel Channels
 The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/data-options/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4OTQ3NDQzLC01OTQ4NjAzNzUsLTQwNj
-IzMjMwNCwtMTAxMjM1Njg4MSwtNDc5MTU5MDg4XX0=
+eyJoaXN0b3J5IjpbLTEyNDQwMDA1NTMsNTg4OTQ3NDQzLC01OT
+Q4NjAzNzUsLTQwNjIzMjMwNCwtMTAxMjM1Njg4MSwtNDc5MTU5
+MDg4XX0=
 -->

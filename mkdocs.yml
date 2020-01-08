@@ -11,10 +11,10 @@ nav:
 - Desktop app: desktop-app.md
 - Credits: credits.md
 - User Interface:
-    - Basics: user-interface/basic-user-interface.md
-    - Settings: user-interface/settings.md
-    - Search Interface: user-interface/search.md
-    - Solarsystem Info: user-interface/solarsystem-info.md
+    - Basics: ui/basic-ui.md
+    - Settings: ui/settings.md
+    - Search Interface: ui/search.md
+    - Solarsystem Info: ui/solarsystem-info.md
 - Map:
     - Layout: map/layout.md
     - Shapes: map/shapes.md   

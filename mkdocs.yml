@@ -4,6 +4,9 @@ theme:
   name: rtd-dropdown
   collapse_by_default: false
   highlightjs: true  
+  hljs_languages:
+      - yaml
+      - django  
 extra_css: [css/extra.css]
 nav:
 - Welcome: index.md

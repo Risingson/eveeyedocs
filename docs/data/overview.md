@@ -8,15 +8,15 @@ Configure the map representation with various options.
 
 | Representation| Name | Description |
 |--|--|--|
-| | [PRESETS](https://eveeye.readthedocs.io/en/latest/map/map-options-presets/) | Saved map configurations |
-| [pic]| [NODE](https://eveeye.readthedocs.io/en/latest/map/map-options-node/) | Center of solarsystem symbols |
-| [pic]| [LABEL](https://eveeye.readthedocs.io/en/latest/map/map-options-label/) | Text below system name|
-|[pic]|  [SECTOR](https://eveeye.readthedocs.io/en/latest/map/map-options-sector/) | Background tiles |
-|[pic]|  [CON](https://eveeye.readthedocs.io/en/latest/map/map-options-con/) | Constellation outlines |
-| [pic]| [TAG](https://eveeye.readthedocs.io/en/latest/map/map-options-tag/) | Outline of solarsystem symbol |
-|[pic]|  [EXTRA TAG](https://eveeye.readthedocs.io/en/latest/map/map-options-tag/) | Symbols to the left and right of solarsystem |
-| | [MISC](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
+| | [PRESETS](https://eveeye.readthedocs.io/en/latest/map/presets/) | Saved map configurations |
+| [pic]| [NODE](https://eveeye.readthedocs.io/en/latest/map/node/) | Center of solarsystem symbols |
+| [pic]| [LABEL](https://eveeye.readthedocs.io/en/latest/map/label/) | Text below system name|
+|[pic]|  [SECTOR](https://eveeye.readthedocs.io/en/latest/map/sector/) | Background tiles |
+|[pic]|  [CON](https://eveeye.readthedocs.io/en/latest/map/constellation/) | Constellation outlines |
+| [pic]| [TAG](https://eveeye.readthedocs.io/en/latest/map/tag/) | Outline of solarsystem symbol |
+|[pic]|  [EXTRA TAG](https://eveeye.readthedocs.io/en/latest/map/tag/) | Symbols to the left and right of solarsystem |
+| | [MISC](https://eveeye.readthedocs.io/en/latest/map/misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4OTExMjI2XX0=
+eyJoaXN0b3J5IjpbMTg3NzYyMDYxOSwzNDg5MTEyMjZdfQ==
 -->

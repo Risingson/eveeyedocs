@@ -1,4 +1,4 @@
-# Basic User Interface
+# Basics
 
 ## Tap or click
 ... solarsystems for options
@@ -30,6 +30,6 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzU4MDQ5MCwyMzU0MjA0NDUsLTMyND
-c5ODU0OCwtMjg1OTg0MDYzXX0=
+eyJoaXN0b3J5IjpbNzkxNzc0NTAxLDIzNTQyMDQ0NSwtMzI0Nz
+k4NTQ4LC0yODU5ODQwNjNdfQ==
 -->

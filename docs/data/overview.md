@@ -16,7 +16,9 @@ Configure the map representation with various options.
 | [pic]| [TAG](https://eveeye.readthedocs.io/en/latest/map/map-options-tag/) | Outline of solarsystem symbol |
 |[pic]|  [EXTRA TAG](https://eveeye.readthedocs.io/en/latest/map/map-options-tag/) | Symbols to the left and right of solarsystem |
 | | [MISC](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) | Miscellaneous map options |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI1MzI3ODgsLTczNDEzNjQzMiwxNz
+eyJoaXN0b3J5IjpbLTE5NjUxNDI0ODgsLTczNDEzNjQzMiwxNz
 AyNTgzNzE5LDUzOTgwMDk0MywtOTEwOTUyMzIyXX0=
 -->

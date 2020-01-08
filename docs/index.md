@@ -41,13 +41,13 @@ Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
 **Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
-**Bitcoin Address:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
-**Ether Address:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
+**Bitcoin:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
+**Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk4NTE0NTE2LDkxODUxMzc1MiwxNDkwMj
-g2NDgxLDE0NjM4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIy
-LC0xNDIzMjIwOSwtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbMTkzNDkzMzIyOCw5MTg1MTM3NTIsMTQ5MD
+I4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEy
+MiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ==
 -->

@@ -42,12 +42,13 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 Enables/Disables displaying jumpranges on the map.
 #### Skill and Fitting Settings
 Match your skills and fit for the app to calc your range and isotopes correctly.
-
+!!! info
+    While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="18" height="18"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="18" height="18"> Client Sync.
 
 ## Names
 You can set names for your [Custom Marks](https://eedocs.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUyMjc0MjEsMTM1OTk5OTY0NSwxNz
-k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbLTMzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OT
+kxODUxOTYsMTMxMTc0MjQ4NCwxODMyMTU2Mjg2XX0=
 -->

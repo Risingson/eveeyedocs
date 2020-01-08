@@ -5,6 +5,7 @@
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_01.png) | Square shaped systems got NPC-stations|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_04.png) | Shattered wormhole systems display with dashed outlines. |
+
 ## Station Services and Signatures
 | | |
 |--|--|
@@ -22,5 +23,6 @@
 
 When sovereignty campaign constellation outline option is enabled pale red lines indicate that a structure is reinforced within the constellation. Bright red lines mark an ongoing campaign.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTUyNDIyNywzMDY4MTMzNDhdfQ==
+eyJoaXN0b3J5IjpbMTI0ODAzMzY0OSwyMDg1NTI0MjI3LDMwNj
+gxMzM0OF19
 -->

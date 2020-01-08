@@ -1,5 +1,5 @@
-# Constellation Outline Options
+# Constellation Outlines
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzMwNjU2XX0=
+eyJoaXN0b3J5IjpbODUxMzIxMjcsNjQxNzMwNjU2XX0=
 -->

@@ -16,18 +16,21 @@ A reference on how to package for that platforms can be found [here](http://docs
 
 Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0), [logo.png](https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0), [nw.icns](https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0)
 
-> *If you can do a package for a platform and tested it i would be happy if you could provide it via github and let me know.*
+!!! help "Help needed"
+    If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.
 
 ## User Interface
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/maximize-window-100.png" width="24" height="24" > Maximize window
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/minimize-window-100.png" width="24" height="24" > Minimize window
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/full-screen-100.png" width="24" height="24" > Toggle Fullscreen
-<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/up-squared-100.png" width="24" height="24" > Toggle always on top mode
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/maximize-window-100.png" width="24" height="24" > Maximize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/minimize-window-100.png" width="24" height="24" > Minimize window<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/full-screen-100.png" width="24" height="24" > Toggle Fullscreen<br>
+<img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/up-squared-100.png" width="24" height="24" > Toggle always on top mode<br>
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/transparency-100.png" width="24" height="24" > Window transparency slider
 
 ## Intel Channels
-The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eedocs.readthedocs.io/en/latest/data-options/) for further explanations.
+The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/data-options/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTIzNTY4ODEsLTQ3OTE1OTA4OF19
+eyJoaXN0b3J5IjpbLTgwNzM1MTE3NSwtODA3MzUxMTc1LC0xMz
+k1ODgzODYyLDU4ODk0NzQ0MywtNTk0ODYwMzc1LC00MDYyMzIz
+MDQsLTEwMTIzNTY4ODEsLTQ3OTE1OTA4OF19
 -->

@@ -3,14 +3,14 @@
 This app would not be possible without the following API data (in alphabetical order)
 
 ## Data Credits
-EVE Online by [CCP](https://ccpgames.com) 
-[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa  
-Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)  
+EVE Online by [CCP](https://ccpgames.com) <br>
+[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa <br>
+Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br> 
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)  
 
 ## Software Credits
-<a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://chartjs.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">chartjs</span></a>
-Icons by <a href="https://icons8.com/icons/" target="_blank" style="text-decoration: none;" class="help_links">icons8.com</span></a>
+<a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://chartjs.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">chartjs</span></a><br>
+Icons by <a href="https://icons8.com/icons/" target="_blank" style="text-decoration: none;" class="help_links">icons8.com</span></a><br>
 Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links" style="font-size:10px;color:#777;">Donorbox</span></a><br><!--onClick="if (analytics) _paq.push(['trackEvent','Donationlink', 'Donorbox (ref)']);" -->
 
 ## Analytics and Privacy    
@@ -23,7 +23,8 @@ Third party vendors, including Google, use cookies to serve ads based on a user'
 Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to eveeye.com and/or other sites on the Internet.
 Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>.
 
-**[If you choose to support Eveeye development by donating no code will get loaded from google by eveeye anymore.](https://donorbox.org/eveeye)**
+!!! tip
+    [**No advertisements and no code will get loaded from google by eveeye anymore if you choose to support Eveeye development by donating .**](https://donorbox.org/eveeye)
 
 ## CCP Disclaimer and License
 #### Disclaimer
@@ -34,6 +35,6 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjMyOTg2MCwtODYwMDQxOTI0LDkyMT
-MwMzE5Miw2Njc3MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtOD
+YwMDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
 -->

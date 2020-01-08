@@ -21,8 +21,8 @@
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_08.png) |IHUB under attack with defence at 60% |
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_03.png) | 48% contested Faction Warfare system.<br>When selecting a faction warfare map the campaign tag<br>option gets enabled automatically. |
 
-When sovereignty campaign constellation outline option is enabled pale red lines indicate that a structure is reinforced within the constellation. Bright red lines mark an ongoing campaign.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODAzMzY0OSwyMDg1NTI0MjI3LDMwNj
-gxMzM0OF19
+eyJoaXN0b3J5IjpbMzUwODI0NDA4LDEyNDgwMzM2NDksMjA4NT
+UyNDIyNywzMDY4MTMzNDhdfQ==
 -->

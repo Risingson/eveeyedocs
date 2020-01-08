@@ -17,7 +17,9 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" style="opacity:0.8;"> Toggle Fullscreen<br>
 
 ## Browser keyboard shortcuts
-*Does not apply to mobile apps.* 
+
+!!! fail "Mobile"
+    keyboard shortcuts do not apply to mobile apps.
 
 Hold SHIFT while clicking a system to show info on it.
 Hold CTRL while clicking a non-regional system to go to its map.
@@ -30,6 +32,6 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxNzc0NTAxLDIzNTQyMDQ0NSwtMzI0Nz
-k4NTQ4LC0yODU5ODQwNjNdfQ==
+eyJoaXN0b3J5IjpbLTEzNzgyNzIyNTgsNzkxNzc0NTAxLDIzNT
+QyMDQ0NSwtMzI0Nzk4NTQ4LC0yODU5ODQwNjNdfQ==
 -->

@@ -15,17 +15,19 @@ nav:
     - Settings: user-interface/settings.md
     - Search Interface: user-interface/search.md
     - Solarsystem Info: user-interface/solarsystem-info.md
-- Data Displays:   
-    - Overview: map/map-options-overview.md
-    - Map Shapes: map/shapes.md
-    - Presets: map/map-options-presets.md
-    - Nodes: map/map-options-node.md
-    - Labels: map/map-options-label.md
-    - Sectors: map/map-options-sector.md
-    - Constellation Outlines: map/map-options-con.md
-    - Tags: map/map-options-tag.md
-    - Miscellaneous: map/map-options-misc.md
+- Map:
+    - Map Layouts: map/layout.md
+    - Map Shapes: map/shapes.md   
     - Chain Mapping: map/chain-mapping.md
+- Data Displays:   
+    - Overview: data/map-options-overview.md
+    - Presets: data/map-options-presets.md
+    - Nodes: data/map-options-node.md
+    - Labels: data/map-options-label.md
+    - Sectors: data/map-options-sector.md
+    - Constellation Outlines: data/map-options-con.md
+    - Tags: data/map-options-tag.md
+    - Miscellaneous: data/map-options-misc.md
 - Client Sync:
     - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation.md    

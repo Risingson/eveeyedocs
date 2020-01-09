@@ -18,8 +18,8 @@ Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player 
 ### IHUB Sovereign Coalition
 
 !!! warning
-    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/)
+    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTU0ODA2MSwtMTE4NDQ2MjQzNiwxOD
+eyJoaXN0b3J5IjpbLTY4MzQ1NjExMSwtMTE4NDQ2MjQzNiwxOD
 Y1ODEyNDcsMTY1NTYzODU5OV19
 -->

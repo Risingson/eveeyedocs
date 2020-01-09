@@ -1,5 +1,8 @@
 # Release Notes (TBD)
-#### Release 3.00.0 Beta 03</span><br><br>   
+#### Release 3.00.0 Beta 05 
+- 
+
+#### Release 3.00.0 Beta 03  
 - Beta connections and signatures sharing.
 - Beta sync data to different devices.
 - Reworked UI for connections and sigs in show info pane.
@@ -7,6 +10,7 @@
 - Signatures and K-K connections now display on region overview map.
 - Podding and clone jumps do not create a connection anymore.
 - F353 and F355 wormhole types were missing.
+
 #### Release 3.00.0 Beta 01
 - Beta location sharing.
 - 24-hour activity stats.
@@ -14,18 +18,17 @@
 - INT tab with 48h graph in solarsystem info.
 - Better differentiation of connections between different constellations and regions.
 - Click wormhole connections in info pane to edit.
-- Faster loading at startup.<br>
-                    <br>
-                    <br><span style="color:#3e8df5;">Release 2.00.2</span><br><br>   
-                    Fixes to preset saving and user interface.<br><br>
-                    <br><span style="color:#3e8df5;">Release 2.00.0</span><br><br>   
-                    New Layout for Tablets and Browsers.<br>
-                    Save and Load Data Options + Presets.<br>
-                    All Sovereignty now relates to IHUB owner.<br>
-                    Ice systems updated.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.2</span><br><br>   
-                    Bugfix: Saved marks did not display on reload.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.1</span><br><br>   
+- Faster loading at startup.<
+
+#### Release 2.00.2
+- Fixes to preset saving and user interface.
+#### Release 2.00.0
+- New Layout for Tablets and Browsers.
+- Save and Load Data Options + Presets.
+- All Sovereignty now relates to IHUB owner.
+- Ice systems updated.
+#### Release 1.10.2
+- Bugfix: Saved marks did not display on reload.Release 1.10.1</span><br><br>   
                     Route plotting improved.<br><br>
                     <br><span style="color:#3e8df5;">Release 1.10.0.3</span><br><br>   
                     Legend added.<br>
@@ -63,5 +66,5 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDcxNDM5Nl19
+eyJoaXN0b3J5IjpbMzQ0MDE2NDA2XX0=
 -->

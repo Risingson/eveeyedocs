@@ -1,4 +1,6 @@
 # Sectors
+Colored background tiles of solarsystems.
+
 ## Activity
 
 **Recent/24h kills**<br>
@@ -36,7 +38,7 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTUxNjA5MDcsLTg0OTM2MTMyNywtMT
-A5NDIyNjUyOCwtMTI5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1
-ODc0MSwtNjg3OTM3NTAyLDEzMDcxNzE1MzZdfQ==
+eyJoaXN0b3J5IjpbMTkyNTgzNDA1NiwtODQ5MzYxMzI3LC0xMD
+k0MjI2NTI4LC0xMjk4NjY0MDU5LC01Njg1MzgxMjksNzE0MTU4
+NzQxLC02ODc5Mzc1MDIsMTMwNzE3MTUzNl19
 -->

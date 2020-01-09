@@ -12,7 +12,11 @@ For wormhole systems there is no api data available for recent jumps or NPC kill
 ## Connection Lines
 |type| meaning |
 |--|--|
-| b |  |
+| blue lines | Not end of life |
+| red lines | End of life |
+| continous lines | Stability not reduced |
+| dashed line | Not end of life |
+| wide dashed line| blue lines | Not end of life | | Not end of life |
 
 ## Add data to connections
 To add data to connections you can click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
@@ -22,6 +26,6 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjY4NjcwOCwxNjM3MTg0OTAsNjcwNz
+eyJoaXN0b3J5IjpbMjAyNTQ3OTI4NiwxNjM3MTg0OTAsNjcwNz
 E5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX0=
 -->

@@ -1,4 +1,5 @@
 # Tags
+Colored outline of a solarsystem shape.
 
 ## Basic
 **Ice Occurrence**<br>
@@ -26,6 +27,6 @@ Shows [signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) 
 **Station Services**<br>
 Shows which crucial NPC station services are available within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMTQ4NzYzLDExNzA4OTY4NDEsMTMwNT
-k0NDI3Niw1ODEzMDEzNDgsNTE1MDA5ODddfQ==
+eyJoaXN0b3J5IjpbLTU2NDc2OTM2NiwxMTcwODk2ODQxLDEzMD
+U5NDQyNzYsNTgxMzAxMzQ4LDUxNTAwOTg3XX0=
 -->

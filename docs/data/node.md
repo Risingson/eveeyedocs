@@ -11,15 +11,17 @@ Shows the custom node color you set via the [custom mark options](https://eveeye
 
 ## Activity
 ### Recent/24h kills
-Colors the nodes after ship + pod-kills within that solarsystem/region. 
+Colors nodes after ship + pod-kills within that solarsystem/region. 
 ### Recent/24h NPC kills
-Colors the nodes after npc-kills within that solarsystem/region. 
+Colors nodes after npc-kills within that solarsystem/region. 
 ### Recent/24h jumps
-Colors the nodes after jumps to that solarsystem/region. 
+Colors nodes after jumps to that solarsystem/region. 
 
 ## Sovereignty
 ### TCU alliance / faction logo
+Shows the logo of the sovereign alliance or faction.
 ### IHUB Activity defense modifier
+Colors nodes after the sovereign alliance and dispfaction and shows the NPC faction logo.
 ### IHUB Sovereign Coalition
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
@@ -34,6 +36,6 @@ Colors the nodes after jumps to that solarsystem/region.
 ## Celestials
 ### Planets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTc4NTg3OSwtMTYzMjIzNjMyNiwxNz
-cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
+eyJoaXN0b3J5IjpbODY5ODM2Mjc2LC0xNjMyMjM2MzI2LDE3Nz
+E5NDkzNDYsMTU5NzM5NDIzN119
 -->

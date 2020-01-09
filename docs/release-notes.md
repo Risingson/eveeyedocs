@@ -5,25 +5,13 @@
 - Release of a desktop app
 - Intel channel chat parsing (desktop app only)
 - Comprehensive documentation
-- 
-
-CORE
-Store data in cloud to backup and sync amongst your devices
-Share your location and data with Corp/Alliance/Groups
-Stations and Agents added
-Search includes Stations and Agents
-Activity Graph added to Solarsystem Info
-New Signatures and Connections UI
-(Add notes to connections)
-(Set signature warped for despawn timers)
-
-General Improvements
-Legend shows your map configuration
-Setting ingame destinations will now set waypoints to wormholes and jumpbridges according to your route settings
-Better differentiation of connections between constellations and regions
-(change: will switch to chain map if connectied system got more connections)
-
-New Map Options
+- Stations and Agents added
+- Search includes Stations and Agents
+- New Signatures and Connections UI
+- Add notes to connections
+- Set signature warped for despawn timers
+- Legend shows your map configuration
+- Setting ingame destinations will now set waypoints to wormholes and - jumpbridges according to your route settings
 Emphasize Constellation Outlines  option
 Diameter sublabel  option
 Cost Indices Sectors  option
@@ -83,6 +71,6 @@ Name custom system marks + legend
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExODA5NzA3LDYzOTY3MTIzLDc3ODI5MT
+eyJoaXN0b3J5IjpbMzA2NDM0ODkwLDYzOTY3MTIzLDc3ODI5MT
 Y1MSwtMTk0ODIzNzE4NF19
 -->

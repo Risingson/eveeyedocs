@@ -28,14 +28,15 @@
 - All Sovereignty now relates to IHUB owner.
 - Ice systems updated.
 #### Release 1.10.2
-- Bugfix: Saved marks did not display on reload.Release 1.10.1</span><br><br>   
-                    Route plotting improved.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.0.3</span><br><br>   
-                    Legend added.<br>
-                    Faction sectors.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.0.2</span><br><br>   
-                    Set names for w-space systems by clicking the system and choose from menu.<br>
-                    Set sig codes and wormhole-type by clicking connection lines.<br><br>
+- Bugfix: Saved marks did not display on reload.
+#### Release 1.10.1
+- Route plotting improved.
+#### Release 1.10.0.3
+-  Legend added.
+- Faction sectors.
+#### Release 1.10.0.2
+- Set names for w-space systems by clicking the system and choose from menu.
+- Set sig codes and wormhole-type by clicking connection lines.<br><br>
                     <br><span style="color:#3e8df5;">Release 1.10.0.1</span><br><br>  
                     Paste signatures by copying them from ingame<br>using Ctrl+A and Ctrl+C to paste them anywhere<br>whitin eveeye using Ctrl+V.<br><br>
                     When in sync the sigs will get added to your current ingame location system.<br> if not in sync you got to show info on the system you want to paste the sigs to.<br><br>
@@ -66,5 +67,5 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MDE2NDA2XX0=
+eyJoaXN0b3J5IjpbLTE5NDgyMzcxODRdfQ==
 -->

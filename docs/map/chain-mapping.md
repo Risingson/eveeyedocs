@@ -9,6 +9,11 @@ A connection will get created when jumnping a cyno. Stop sync before jumping or 
 
 For wormhole systems there is no api data available for recent jumps or NPC kills.
 
+## Connection Lines
+|type| meaning |
+|--|--|
+| b |  |
+
 ## Add data to connections
 To add data to connections you can click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
 
@@ -17,6 +22,6 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjQxODU2MCwxNjM3MTg0OTAsNjcwNz
+eyJoaXN0b3J5IjpbLTQzNjY4NjcwOCwxNjM3MTg0OTAsNjcwNz
 E5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX0=
 -->

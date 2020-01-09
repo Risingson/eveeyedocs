@@ -1,4 +1,4 @@
-# Sectors (TBD)
+# Sectors
 ## Activity
 
 ### Recent/24h kills
@@ -16,19 +16,22 @@ Colors sectors after their owning NPC faction.
 ### IHUB Sovereign Alliance
 Colors sectors after the alliance owning the infrastrucutre hub.
 ### IHUB Sovereign Coalition
+Colors sectors after the coalition of the alliance owning the infrastrucutre hub.
+
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
-### Manufacturing
+Colors sectors after the selected cost index.
+<!--### Manufacturing
 ### Invention
 ### Copying
 ### Time Efficiency research
-### Material Efficiency research
+### Material Efficiency research-->
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ3MzU2MzQsLTEwOTQyMjY1MjgsLT
+eyJoaXN0b3J5IjpbLTExNDgzODMzMTAsLTEwOTQyMjY1MjgsLT
 EyOTg2NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4Nzkz
 NzUwMiwxMzA3MTcxNTM2XX0=
 -->

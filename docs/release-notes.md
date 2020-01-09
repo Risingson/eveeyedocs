@@ -1,4 +1,4 @@
-# Release Notes (TBD)
+# Release Notes
 
 ## Browser Only
 #### Release 3.00.0 Beta 3 
@@ -11,18 +11,14 @@
 - Add notes to connections
 - Set signature warped for despawn timers
 - Legend shows your map configuration
-- Setting ingame destinations will now set waypoints to wormholes and - jumpbridges according to your route settings
-Emphasize Constellation Outlines  option
-Diameter sublabel  option
-Cost Indices Sectors  option
-NPC faction node option
-Constellations node option
-Planets node and sublabel option
-Name custom system marks + legend
-
-
-
-
+- Setting ingame destinations will now set waypoints to wormholes and jumpbridges according to your route settings.
+- Emphasize Constellation Outlines  option
+- Diameter sublabel  option
+- Cost Indices Sectors  option
+- NPC faction node option
+- Constellations node option
+- Planets node and sublabel option
+- Name custom system marks + legend
 
 #### Release 3.00.0 Beta 2  
 - Beta connections and signatures sharing.
@@ -71,6 +67,6 @@ Name custom system marks + legend
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2NDM0ODkwLDYzOTY3MTIzLDc3ODI5MT
+eyJoaXN0b3J5IjpbMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MT
 Y1MSwtMTk0ODIzNzE4NF19
 -->

@@ -1,7 +1,9 @@
 # Labels
 
+### Security
+Will display the solarsystem's security or average regional security on Region Overview Map.
 Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player ships destroyed</span>&nbsp;&nbsp;<span style="color:#ac2d2d">P = Podkills</span><br><span style="color:#888888">N = Npcs destroyed</span>&nbsp;&nbsp;<span style="color:#e6cf18">J = Jumps</span>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODQ0NjI0MzYsMTg2NTgxMjQ3LDE2NT
-U2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbNTc5MjY2NjY3LC0xMTg0NDYyNDM2LDE4Nj
+U4MTI0NywxNjU1NjM4NTk5XX0=
 -->

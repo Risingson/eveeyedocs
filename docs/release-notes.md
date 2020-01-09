@@ -1,8 +1,8 @@
 # Release Notes (TBD)
-#### Release 3.00.0 Beta 05 
+#### Release 3.00.0 Beta 3 
 - 
 
-#### Release 3.00.0 Beta 03  
+#### Release 3.00.0 Beta 2  
 - Beta connections and signatures sharing.
 - Beta sync data to different devices.
 - Reworked UI for connections and sigs in show info pane.
@@ -11,7 +11,7 @@
 - Podding and clone jumps do not create a connection anymore.
 - F353 and F355 wormhole types were missing.
 
-#### Release 3.00.0 Beta 01
+#### Release 3.00.0 Beta 1
 - Beta location sharing.
 - 24-hour activity stats.
 - NPC delta stats.
@@ -36,12 +36,13 @@
 - Faction sectors.
 #### Release 1.10.0.2
 - Set names for w-space systems by clicking the system and choose from menu.
-- Set sig codes and wormhole-type by clicking connection lines.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.0.1</span><br><br>  
-                    Paste signatures by copying them from ingame<br>using Ctrl+A and Ctrl+C to paste them anywhere<br>whitin eveeye using Ctrl+V.<br><br>
-                    When in sync the sigs will get added to your current ingame location system.<br> if not in sync you got to show info on the system you want to paste the sigs to.<br><br>
-                    If you got a wormhole connection displayed in the sigs tab<br>and got the sig pasted you can merge the two<br>by dragging the sig onto the wormhole connection.<br><br>
-                    This system is quite new and is likely to change (BETA).
+- Set sig codes and wormhole-type by clicking connection lines.
+
+#### Release 1.10.0.1
+- Paste signatures by copying them from ingame using Ctrl+A and Ctrl+C to paste them anywhere whitin eveeye using Ctrl+V.
+- When in sync the sigs will get added to your current ingame location system. If not in sync you got to show info on the system you want to paste the sigs to.
+- If you got a wormhole connection displayed in the sigs tab and got the sig pasted you can merge the two by dragging the sig onto the wormhole connection.
+- This system is quite new and is likely to change (BETA).
                 </td></tr>
                 
                 <tr class="only_mobile">
@@ -67,5 +68,6 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTE4MTc0MTYsLTE5NDgyMzcxODRdfQ
+==
 -->

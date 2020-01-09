@@ -1,4 +1,6 @@
 # Release Notes (TBD)
+
+## Beta Versions (rowser Only (BETA)
 #### Release 3.00.0 Beta 3 
 - 
 
@@ -20,6 +22,7 @@
 - Click wormhole connections in info pane to edit.
 - Faster loading at startup.<
 
+## All Apps
 #### Release 2.00.2
 - Fixes to preset saving and user interface.
 #### Release 2.00.0
@@ -68,6 +71,6 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE4MTc0MTYsLTE5NDgyMzcxODRdfQ
+eyJoaXN0b3J5IjpbLTEwMjAzMTUxNTcsLTE5NDgyMzcxODRdfQ
 ==
 -->

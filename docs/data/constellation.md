@@ -1,21 +1,21 @@
 # Constellation Outlines
 
 ## Basic
-#### Constellations
+**Constellations**<br>
 Displays constellation boundaries.
 
-#### Cosmos
+**Cosmos**<br>
 Marks Cosmos Constellations.
 
-#### Booster Gas
+**Booster Gas**<br>
 Marks Booster Constellations.
 
-#### Incursions
+**Incursions**<br>
 Marks Constellations with ongoing Incursions.
 
-#### Sovereignty Campaigns
+**Sovereignty Campaigns**<br>
 When sovereignty campaign constellation outline option is enabled pale red lines indicate that a structure is reinforced within the constellation. Bright red lines mark an ongoing campaign.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY1ODc0NzgsLTk1NDM3MjAwMyw3Mj
-A2ODU0MjIsODUxMzIxMjcsNjQxNzMwNjU2XX0=
+eyJoaXN0b3J5IjpbMTY3ODcyMjgxMiwtOTU0MzcyMDAzLDcyMD
+Y4NTQyMiw4NTEzMjEyNyw2NDE3MzA2NTZdfQ==
 -->

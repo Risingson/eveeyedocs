@@ -27,7 +27,7 @@ Colors sectors after the coalition of the alliance owning the infrastrucutre hub
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
-Colors sectors after the selected cost index. Available indices are:
+Colors sectors after the selected cost index. Available indices are:<br>
 **Manufacturing<br>
 Invention<br>
 Copying<br>
@@ -36,7 +36,7 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc5OTM4NTMsLTg0OTM2MTMyNywtMT
+eyJoaXN0b3J5IjpbLTE2NTUxNjA5MDcsLTg0OTM2MTMyNywtMT
 A5NDIyNjUyOCwtMTI5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1
 ODc0MSwtNjg3OTM3NTAyLDEzMDcxNzE1MzZdfQ==
 -->

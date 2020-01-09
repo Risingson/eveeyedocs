@@ -23,15 +23,15 @@ Colors sectors after the coalition of the alliance owning the infrastrucutre hub
 
 ## Cost Indices
 Colors sectors after the selected cost index. Available indices are:
-#### Manufacturing
-#### Invention
-#### Copying
-#### Time Efficiency research
-#### Material Efficiency research
+**Manufacturing<br>
+Invention<br>
+Copying<br>
+Time Efficiency research<br>
+Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTMyMzE2LC0xMDk0MjI2NTI4LC0xMj
-k4NjY0MDU5LC01Njg1MzgxMjksNzE0MTU4NzQxLC02ODc5Mzc1
-MDIsMTMwNzE3MTUzNl19
+eyJoaXN0b3J5IjpbLTE5OTY3NTEwNzYsLTEwOTQyMjY1MjgsLT
+EyOTg2NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4Nzkz
+NzUwMiwxMzA3MTcxNTM2XX0=
 -->

@@ -23,7 +23,8 @@ Shows the logo of the sovereign alliance or faction.
 ### IHUB Activity defense modifier
 Colors nodes after the sovereign alliance and displays the ADM index number.
 ### IHUB Sovereign Coalition
-Colors nodes after the sovereign coalition and displays the IHUB owning alliance log
+Colors nodes after the sovereign coalition and displays the IHUB owning alliance logo.
+
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
@@ -39,6 +40,6 @@ Colors nodes after the selected index and displays its index number.
 ### Planets
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTUzODc4MiwtMTYzMjIzNjMyNiwxNz
+eyJoaXN0b3J5IjpbMTQ4ODYxMzUyMywtMTYzMjIzNjMyNiwxNz
 cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

@@ -14,6 +14,7 @@ Name of the NPC faction owning the system/region.
 **Planets**<br>
 Displays planet type count within that system.
 E.g. L2 = 2 Lava planets within the solarsystem.
+
 |Letter| Meaning |
 |--|--|
 | B | Barren|
@@ -44,6 +45,6 @@ Displays the IHUB owning alliance's coalition.
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODQ3ODA1MywxOTE1OTM1NDY3LC0xMT
-g0NDYyNDM2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
+eyJoaXN0b3J5IjpbLTExOTk5MzExMTcsMTkxNTkzNTQ2NywtMT
+E4NDQ2MjQzNiwxODY1ODEyNDcsMTY1NTYzODU5OV19
 -->

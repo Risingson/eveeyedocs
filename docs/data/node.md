@@ -18,10 +18,15 @@
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
+### Manufacturing
+### Invention
+### Copying
+### Time Efficiency research
+### Material Efficiency research
 
 ## Celestials
 ### Planets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI5MzMzOTEsMTc3MTk0OTM0NiwxNT
-k3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbMTIwOTU3MjY5LDE3NzE5NDkzNDYsMTU5Nz
+M5NDIzN119
 -->

@@ -14,9 +14,9 @@ Only shared marks would be shared amongst your sharing group. Own marks never ge
 
 ### Name Marks
 You can name marks within [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/).  Click the little <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > on the left within the menu to get there. 
-
 If a named mark appears on a map it will show up in the legend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcxMTU2MzksLTUwODU5MzY0NSwtNj
-I2MDM0ODg3LDE2OTU2NDQ4NTIsMTUyMzY2ODk5OF19
+eyJoaXN0b3J5IjpbLTEwMTM2NzEyNDEsLTE5NDcxMTU2MzksLT
+UwODU5MzY0NSwtNjI2MDM0ODg3LDE2OTU2NDQ4NTIsMTUyMzY2
+ODk5OF19
 -->

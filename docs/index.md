@@ -6,14 +6,14 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 ## Features
 
  - Travel and tactical companion of New Eden
- - [Search](https://eveeye.readthedocs.io/en/latest/user-interface/search/) for places, stations or agents
- - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/user-interface/solarsystem-info/)
+ - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places, stations or agents
+ - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
  - [Chain-mapping](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) including connected k-space
  - Track [Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)
- - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/map-options-overview/) to display live data
+ - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/layout/) to display live data
  - [Track](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) your ingame location
  - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) to the eve client
- - Find [Routes](https://eveeye.readthedocs.io/en/latest/user-interface/settings/#Route) using your chain, jumpbridges and Thera
+ - Find [Routes](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) using your chain, jumpbridges and Thera
  - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/data-sharing-overview/) with your fellow pilots
  - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
  - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/user-interface/settings/#Jump)
@@ -47,7 +47,8 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzODY3NDcsLTg2MDA0MjczNiw5MTg1MT
-M3NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAs
-MTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjY3NTI5NTEsLTg2MDA0MjczNiw5MT
+g1MTM3NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1
+MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ
+==
 -->

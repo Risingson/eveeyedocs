@@ -15,7 +15,7 @@ Name of the NPC faction owning the system/region.
 Displays planet type count within that system.
 E.g. L2 = 2 Lava planets within the solarsystem.
 
-|Letter| Meaning |
+|Letter| Planet-type|
 |--|--|
 | B | Barren|
 | G | Gas|
@@ -25,7 +25,7 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 | P | Plasma |
 | S | Storm |
 | T | Temperate|
-| X | Shattered planets|
+| X | Shattered|
 
 **Diameter**<br>
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
@@ -45,6 +45,6 @@ Displays the IHUB owning alliance's coalition.
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTk5MzExMTcsMTkxNTkzNTQ2NywtMT
+eyJoaXN0b3J5IjpbLTIwMjg5MTUwMDIsMTkxNTkzNTQ2NywtMT
 E4NDQ2MjQzNiwxODY1ODEyNDcsMTY1NTYzODU5OV19
 -->

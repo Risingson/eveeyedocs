@@ -1,4 +1,4 @@
-# Sectors
+# Sectors (TBD)
 ## Activity
 ### Recent/24h kills
 ### Recent/24h NPC kills
@@ -22,6 +22,7 @@ The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg2NjQwNTksLTU2ODUzODEyOSw3MT
-QxNTg3NDEsLTY4NzkzNzUwMiwxMzA3MTcxNTM2XX0=
+eyJoaXN0b3J5IjpbLTEwOTQyMjY1MjgsLTEyOTg2NjQwNTksLT
+U2ODUzODEyOSw3MTQxNTg3NDEsLTY4NzkzNzUwMiwxMzA3MTcx
+NTM2XX0=
 -->

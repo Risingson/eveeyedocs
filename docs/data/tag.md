@@ -15,7 +15,7 @@ Tags systems holding a Jove observatory.
 Tags systems of a constellation with an ongoing incursion. The color of the tag of the staging system is brighter.
 
 **Sovereignty and FW Campaigns**<br>
-Enables the TCU and IHUB mode. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Sovereignty-Structures-and-Campaigns) for further explanations.
+Enables the TCU and IHUB / Faction Warfare contested state mode. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Sovereignty-Structures-and-Campaigns) for further explanations.
 
 **Custom Marks**<br>
 Shows the custom tag color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
@@ -27,6 +27,6 @@ Shows [signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) 
 **Station Services**<br>
 Shows which crucial NPC station services are available within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDc2OTM2NiwxMTcwODk2ODQxLDEzMD
+eyJoaXN0b3J5IjpbLTYzNTg0MDYzNSwxMTcwODk2ODQxLDEzMD
 U5NDQyNzYsNTgxMzAxMzQ4LDUxNTAwOTg3XX0=
 -->

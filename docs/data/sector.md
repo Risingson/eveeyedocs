@@ -14,11 +14,13 @@ The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in 
 Colors sectors after jumps to that solarsystem/region. 
 
 ## Sovereignty
-#### Faction
+**Faction**<br>
 Colors sectors after their owning NPC faction.
-#### IHUB Sovereign Alliance
+
+**IHUB Sovereign Alliance**<br>
 Colors sectors after the alliance owning the infrastrucutre hub.
-#### IHUB Sovereign Coalition
+
+**IHUB Sovereign Coalition**<br>
 Colors sectors after the coalition of the alliance owning the infrastrucutre hub.
 
 !!! warning
@@ -34,7 +36,7 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTM2MTMyNywtMTA5NDIyNjUyOCwtMT
-I5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1ODc0MSwtNjg3OTM3
-NTAyLDEzMDcxNzE1MzZdfQ==
+eyJoaXN0b3J5IjpbLTEwOTc5OTM4NTMsLTg0OTM2MTMyNywtMT
+A5NDIyNjUyOCwtMTI5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1
+ODc0MSwtNjg3OTM3NTAyLDEzMDcxNzE1MzZdfQ==
 -->

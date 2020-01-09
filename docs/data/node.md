@@ -21,9 +21,9 @@ Colors nodes after jumps to that solarsystem/region and displays the number.
 ### TCU alliance / faction logo
 Shows the logo of the sovereign alliance or faction.
 ### IHUB Activity defense modifier
-Colors nodes after the sovereign alliance and displays the ADM index number.
+Colors nodes after the infrastrucutre hub owning alliance and displays the ADM index number.
 ### IHUB Sovereign Coalition
-Colors nodes after the sovereign coalition and displays the IHUB owning alliance logo.
+Colors nodes after the sovereign coalition and displays the infrastrucutre hub owning alliance logo.
 
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
@@ -40,6 +40,6 @@ Colors nodes after the selected index and displays its index number.
 ### Planets
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODQ5Mjk4NCwtMTYzMjIzNjMyNiwxNz
+eyJoaXN0b3J5IjpbLTE4OTkwMzI0MiwtMTYzMjIzNjMyNiwxNz
 cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

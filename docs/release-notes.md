@@ -1,6 +1,6 @@
 # Release Notes (TBD)
 
-## Beta Versions (rowser Only (BETA)
+## Browser Only
 #### Release 3.00.0 Beta 3 
 - 
 
@@ -42,8 +42,7 @@
 - Set sig codes and wormhole-type by clicking connection lines.
 
 #### Release 1.10.0.1
-- Paste signatures by copying them from ingame using Ctrl+A and Ctrl+C to paste them anywhere whitin eveeye using Ctrl+V.
-- When in sync the sigs will get added to your current ingame location system. If not in sync you got to show info on the system you want to paste the sigs to.
+- Browser only: Paste signatures
 - If you got a wormhole connection displayed in the sigs tab and got the sig pasted you can merge the two by dragging the sig onto the wormhole connection.
 - This system is quite new and is likely to change (BETA).
                 </td></tr>
@@ -71,6 +70,5 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAzMTUxNTcsLTE5NDgyMzcxODRdfQ
-==
+eyJoaXN0b3J5IjpbMTg3NzI5MTk4NSwtMTk0ODIzNzE4NF19
 -->

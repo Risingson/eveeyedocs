@@ -1,6 +1,7 @@
 # Labels
 The sub-label beneath a solarsystem's name.
 
+## Basic
 #### Security
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
 #### Constellations
@@ -39,6 +40,6 @@ Displays the IHUB owning alliance's coalition.
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MDAyNzA3LDE5MTU5MzU0NjcsLTExOD
-Q0NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbLTE0MjM4MjQ1ODksMTkxNTkzNTQ2NywtMT
+E4NDQ2MjQzNiwxODY1ODEyNDcsMTY1NTYzODU5OV19
 -->

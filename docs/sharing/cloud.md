@@ -30,7 +30,9 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 | Alliance | Only pilots within your alliance can see your data |
 | Group | Only pilots using the same group code can see your data |
 
-
+## Other options
+### Switch custom marks
+### Intel channels
 ## Remove character and data from cloud
 Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
@@ -40,6 +42,6 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjMwMTM5NCwtMjM1MTM5NjUyLDE2MD
-Q5NTUxNzEsLTkwMzE2OTkwMV19
+eyJoaXN0b3J5IjpbLTE1NzExNzA2MTUsLTIzNTEzOTY1MiwxNj
+A0OTU1MTcxLC05MDMxNjk5MDFdfQ==
 -->

@@ -1,5 +1,6 @@
 # Tags
 
+## Basic Tags
 ### Ice Occurrence
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
 ### Agents in Space
@@ -15,10 +16,10 @@ Shows the custom tag color you set via the [custom mark options](https://eveeye.
 
 ## Extra Tags
 ### Signatures
-Shows signatures pasted within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
+Shows [signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) pasted within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
 ### Station Services
-Shows which crucial station services are available within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
+Shows which crucial NPC station services are available within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4MzgyMTE3LDEzMDU5NDQyNzYsNTgxMz
-AxMzQ4LDUxNTAwOTg3XX0=
+eyJoaXN0b3J5IjpbLTEyMTIzNzg5MTIsMTMwNTk0NDI3Niw1OD
+EzMDEzNDgsNTE1MDA5ODddfQ==
 -->

@@ -6,7 +6,9 @@ Will display the solarsystem's security or average regional security on [Region 
 ### Constellations
 Displays the name of the constellation that solarsystem is in. On Region Ovierview map
 ### NPC Faction
+Name of the NPC faction owning the system/region.
 ### Planets
+Displays planet type count within that system.
 |Letter| Meaning |
 |--|--|
 | B | Barren planets|
@@ -20,6 +22,7 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 | X | Shattered planets|
 
 ### Diameter
+Displays the systems diameter in astronomical units [au].
 
 ## Activity
 ### Recent Activity
@@ -32,6 +35,6 @@ Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player 
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQ1Mzg5MDAsLTExODQ0NjI0MzYsMT
+eyJoaXN0b3J5IjpbLTE4MDc4NzY5MzEsLTExODQ0NjI0MzYsMT
 g2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
 -->

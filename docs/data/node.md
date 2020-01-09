@@ -21,12 +21,13 @@ Colors nodes after jumps to that solarsystem/region and displays the number.
 ### TCU alliance / faction logo
 Shows the logo of the sovereign alliance or faction.
 ### IHUB Activity defense modifier
-Colors nodes after the sovereign alliance and displays the ADM index n.
+Colors nodes after the sovereign alliance and displays the ADM index number.
 ### IHUB Sovereign Coalition
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
+Colors nodes after the sele corresponding index and displays the number.
 ### Manufacturing
 ### Invention
 ### Copying
@@ -36,6 +37,6 @@ Colors nodes after the sovereign alliance and displays the ADM index n.
 ## Celestials
 ### Planets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEwMzU1NTQsLTE2MzIyMzYzMjYsMT
-c3MTk0OTM0NiwxNTk3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbMTI2MzQ0NDA0MSwtMTYzMjIzNjMyNiwxNz
+cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

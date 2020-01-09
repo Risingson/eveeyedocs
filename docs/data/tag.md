@@ -1,25 +1,25 @@
 # Tags
 
 ## Basic Tags
-### Ice Occurrence
+#### Ice Occurrence
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
-### Agents in Space
+#### Agents in Space
 Tags systems holding agents in space.
-### Jove Observatories
+#### Jove Observatories
 Tags systems holding a Jove observatory.
-### Incursions
+#### Incursions
 Tags systems of a constellation with an ongoing incursion. The color of the tag of the staging system is brighter.
-### Sovereignty and FW Campaigns
+#### Sovereignty and FW Campaigns
 Enables the TCU and IHUB mode. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Sovereignty-Structures-and-Campaigns) for further explanations.
-### Custom Marks
+#### Custom Marks
 Shows the custom tag color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
 
 ## Extra Tags
-### Signatures
+#### Signatures
 Shows [signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) pasted within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
-### Station Services
+#### Station Services
 Shows which crucial NPC station services are available within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIzNzg5MTIsMTMwNTk0NDI3Niw1OD
+eyJoaXN0b3J5IjpbLTE2MzE3NzI1ODYsMTMwNTk0NDI3Niw1OD
 EzMDEzNDgsNTE1MDA5ODddfQ==
 -->

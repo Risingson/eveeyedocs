@@ -12,7 +12,7 @@
  - Phenomenons are stated as an extra sub-label. To view its effects
    click the wormhole and select "Show Info" from the menu.
 
-## Styles
+## Display Styles
 Solarsystem oultines are solid or dashed. 
 Connection lines are colored and solid or dashed.
 
@@ -38,7 +38,7 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODUwMTg5LC0xOTQzOTU1OTc5LDE2Mz
-cxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTdd
-fQ==
+eyJoaXN0b3J5IjpbLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OSwxNj
+M3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3
+XX0=
 -->

@@ -1,8 +1,11 @@
 # Nodes (TBD)
 
 ### Security
+Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
 ### Constellation
+Colors the nodes after their constellation.
 ### NPC faction
+Colors the nodes after their owining faction and shows the faction logo.
 ### Custom marks
 
 ## Activity
@@ -27,6 +30,6 @@
 ## Celestials
 ### Planets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIyMzYzMjYsMTc3MTk0OTM0NiwxNT
-k3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbLTc1NjMyNzIyMSwtMTYzMjIzNjMyNiwxNz
+cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

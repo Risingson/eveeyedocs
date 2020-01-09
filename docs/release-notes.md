@@ -45,12 +45,11 @@
 - Faction sectors.
 - Set names for w-space systems by clicking the system and choose from menu.
 - Set sig codes and wormhole-type by clicking connection lines.
-- Browser only: Paste signatures
-- Browser only: Merge signature and connection.
 - Wormhole connection line labels added.
+- Paste signatures (browser only)
+- Merge signature and connection (browser only).
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA0NDg2ODMsLTE5NDgyMzcxODRdfQ
-==
+eyJoaXN0b3J5IjpbNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
 -->

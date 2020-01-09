@@ -5,8 +5,9 @@ Will display the solarsystem's security or average regional security on [Region 
 ### Constellation
 Colors the nodes after their constellation.
 ### NPC faction
-Colors the nodes after their owining faction and shows the faction logo.
+Colors the nodes after their NPC faction and shows the NPC faction logo.
 ### Custom marks
+Shows the custom node color you set via the custom mark options of the solarsystem menu.
 
 ## Activity
 ### Recent/24h kills
@@ -30,6 +31,6 @@ Colors the nodes after their owining faction and shows the faction logo.
 ## Celestials
 ### Planets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjMyNzIyMSwtMTYzMjIzNjMyNiwxNz
+eyJoaXN0b3J5IjpbMTU1NDM2NTk3OCwtMTYzMjIzNjMyNiwxNz
 cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

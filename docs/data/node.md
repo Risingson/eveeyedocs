@@ -1,5 +1,6 @@
 # Nodes
 
+## Basic
 #### Security
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
 #### Constellation
@@ -40,7 +41,7 @@ Material Efficiency research**
 #### Planets
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3NzgwOTQsMTc1Mjg0MjUwMywtMTA3Mj
-kwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTczOTQy
-MzddfQ==
+eyJoaXN0b3J5IjpbMTA0MDcxNjk0MiwxNzUyODQyNTAzLC0xMD
+cyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3NzE5NDkzNDYsMTU5NzM5
+NDIzN119
 -->

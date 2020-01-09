@@ -11,7 +11,9 @@ Node mark colors the solarsystem node.
 Tag marks outline a solarsystem node.
 
 ### Own and Shared Marks
-Only shared marks would be shared amongst your sharing group. Own marks never get shared. To switch
+Only shared marks would be shared amongst your sharing group. Own marks never get shared. You got 2 possibilities to switch which marks you set and at the same time which ones get displayed on maps.
+1) Click "Personal" or "Shared" in the solarsystem menu to switch or
+2) Toggle them within the sharing settings.
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/menus/custom-marks-400.png)
 
@@ -19,6 +21,6 @@ You can name tags within [Settings](https://eveeye.readthedocs.io/en/latest/ui/s
 
 If a named tag appears on a map it will show up in the legend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTM4NDI1OCwtNTA4NTkzNjQ1LC02Mj
-YwMzQ4ODcsMTY5NTY0NDg1MiwxNTIzNjY4OTk4XX0=
+eyJoaXN0b3J5IjpbLTE2MzA3MTY3NzQsLTUwODU5MzY0NSwtNj
+I2MDM0ODg3LDE2OTU2NDQ4NTIsMTUyMzY2ODk5OF19
 -->

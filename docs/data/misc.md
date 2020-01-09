@@ -6,9 +6,9 @@ Will display Thera connections scouted by [Eve Scout](https://www.eve-scout.com/
 
 
 ## zKillboard Livestream
-Killstream shows live [zKillboard](https://zkillboard.com/) killmails within 20 minutes.
+Killstream shows live [zKillboard](https://zkillboard.com/) killmails within 20 minutes. A list will get overlayed on the left side of the map
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNzEzMTM1LDcwNDA3Mjk0MywxOTE3Nj
-YzMDE4LDI1ODIxODczNiwtMTM4MjMxOTM3Ml19
+eyJoaXN0b3J5IjpbLTEwNDk3NTQ3MzUsNzA0MDcyOTQzLDE5MT
+c2NjMwMTgsMjU4MjE4NzM2LC0xMzgyMzE5MzcyXX0=
 -->

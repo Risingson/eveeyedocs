@@ -3,12 +3,14 @@
 
 **Recent/24h kills**<br>
 Colors sectors after ship + pod-kills within that solarsystem/region. 
+
 **Recent/24h NPC kills**<br>
 Colors sectors after npc-kills within that solarsystem/region. 
 
 **Recent NPC kill Delta**<br>
 The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in that solarsystem.
-#### Recent/24h jumps
+
+**Recent/24h jumps**<br>
 Colors sectors after jumps to that solarsystem/region. 
 
 ## Sovereignty
@@ -32,7 +34,7 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk4MTkzMDEsLTEwOTQyMjY1MjgsLT
-EyOTg2NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4Nzkz
-NzUwMiwxMzA3MTcxNTM2XX0=
+eyJoaXN0b3J5IjpbLTg0OTM2MTMyNywtMTA5NDIyNjUyOCwtMT
+I5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1ODc0MSwtNjg3OTM3
+NTAyLDEzMDcxNzE1MzZdfQ==
 -->

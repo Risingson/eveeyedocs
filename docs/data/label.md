@@ -12,9 +12,14 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 ## Activity
 ### Recent Activity
 Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player ships destroyed</span>&nbsp;&nbsp;<span style="color:#ac2d2d">P = Podkills</span><br><span style="color:#888888">N = Npcs destroyed</span>&nbsp;&nbsp;<span style="color:#e6cf18">J = Jumps</span>
-### 
+### Activity Last 24 hours
 ## Sovereignty
+### IHUB Sovereignty Alliance / Faction
+### IHUB Sovereign Coalition
+
+!!! warning
+    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjAwOTY0OCwtMTE4NDQ2MjQzNiwxOD
+eyJoaXN0b3J5IjpbMTY1NTU0ODA2MSwtMTE4NDQ2MjQzNiwxOD
 Y1ODEyNDcsMTY1NTYzODU5OV19
 -->

@@ -1,10 +1,10 @@
 # Overview
 Configure the map representation with various options.
-## UI
+### Menu Icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" border="0" style="opacity:0.9;"> Data options menu icon<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/NodeRed-100_on.png" width="24" height="24" border="0" style="opacity:0.9;"> Data update of an active data option failed
 
-![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/menus/data-displays.png)
+### Data Display Menu
 
 | Representation| Name | Description |
 |--|--|--|
@@ -18,6 +18,6 @@ Configure the map representation with various options.
 | | [MISC](https://eveeye.readthedocs.io/en/latest/data/misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDQwMTkwMSwxODc3NjIwNjE5LDM0OD
-kxMTIyNl19
+eyJoaXN0b3J5IjpbMTg1NDU4MzM4MSwxMzQwNDAxOTAxLDE4Nz
+c2MjA2MTksMzQ4OTExMjI2XX0=
 -->

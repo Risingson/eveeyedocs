@@ -1,4 +1,4 @@
-# Custom Marks (TBD)
+# Custom Marks
 
 When clicking a solarsystem a menu will show up including Custom Mark options amongst other functions.
 
@@ -17,6 +17,6 @@ You can name marks within [Settings](https://eveeye.readthedocs.io/en/latest/ui/
 
 If a named mark appears on a map it will show up in the legend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTI2MTk2NiwtNTA4NTkzNjQ1LC02Mj
-YwMzQ4ODcsMTY5NTY0NDg1MiwxNTIzNjY4OTk4XX0=
+eyJoaXN0b3J5IjpbLTE5NDcxMTU2MzksLTUwODU5MzY0NSwtNj
+I2MDM0ODg3LDE2OTU2NDQ4NTIsMTUyMzY2ODk5OF19
 -->

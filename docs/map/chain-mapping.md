@@ -1,13 +1,20 @@
 # Chain Mapping
 
 ## Mechanics
-While syncing your ingame location jumps via wormholes or jump bridges will get mapped automatically.
 
-Wormhole connections get removed after 48h.
-
-A connection will get created when jumnping a cyno. Stop sync before jumping or remove the connection created manually.
-
-For wormhole systems there is no api data available for recent jumps or NPC kills.
+ - While syncing your ingame location jumps via wormholes or jump
+   bridges will get mapped automatically.
+   
+   Wormhole connections get removed after 48h.
+   
+   A connection will get created when jumnping a cyno. Stop sync before
+   jumping or remove the connection created manually.
+   
+   For wormhole systems there is no api data available for recent jumps
+   or NPC kills.
+   
+   Phenomenons are stated as an extra sub-label. To view its effects
+   click the wormhole and select "Show Info" from the menu.
 
 ## Styles
 Solarsystem oultines are solid or dashed. 
@@ -31,7 +38,7 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODk5NTQ2NiwtMTk0Mzk1NTk3OSwxNj
-M3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3
-XX0=
+eyJoaXN0b3J5IjpbLTE1MzI4NjUzNzIsLTE5NDM5NTU5NzksMT
+YzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5
+N119
 -->

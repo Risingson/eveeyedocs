@@ -1,21 +1,21 @@
 # Sectors
 ## Activity
 
-### Recent/24h kills
+#### Recent/24h kills
 Colors sectors after ship + pod-kills within that solarsystem/region. 
-### Recent/24h NPC kills
+#### Recent/24h NPC kills
 Colors sectors after npc-kills within that solarsystem/region. 
-### Recent NPC kill Delta
+#### Recent NPC kill Delta
 The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in that solarsystem.
-### Recent/24h jumps
+#### Recent/24h jumps
 Colors sectors after jumps to that solarsystem/region. 
 
 ## Sovereignty
-### Faction
+#### Faction
 Colors sectors after their owning NPC faction.
-### IHUB Sovereign Alliance
+#### IHUB Sovereign Alliance
 Colors sectors after the alliance owning the infrastrucutre hub.
-### IHUB Sovereign Coalition
+#### IHUB Sovereign Coalition
 Colors sectors after the coalition of the alliance owning the infrastrucutre hub.
 
 !!! warning
@@ -31,7 +31,7 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTY3NTEwNzYsLTEwOTQyMjY1MjgsLT
+eyJoaXN0b3J5IjpbLTE3NjgyMDk1NzcsLTEwOTQyMjY1MjgsLT
 EyOTg2NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4Nzkz
 NzUwMiwxMzA3MTcxNTM2XX0=
 -->

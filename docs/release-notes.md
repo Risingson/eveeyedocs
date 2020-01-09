@@ -40,22 +40,17 @@
 - Route plotting improved.
 - Fix: Trails and marks won't clear anymore after a reload.
 
-#### Release 1.10.0.3
+#### Release 1.10.0
 - Legend added.
 - Faction sectors.
-
-#### Release 1.10.0.2
 - Set names for w-space systems by clicking the system and choose from menu.
 - Set sig codes and wormhole-type by clicking connection lines.
-
-#### Release 1.10.0.1
 - Browser only: Paste signatures
 - Browser only: Merge signature and connection.
-
-#### Release 1.10.0
 - Wormhole connection line labels added.
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDM3MTUwNCwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbLTIwMjA0NDg2ODMsLTE5NDgyMzcxODRdfQ
+==
 -->

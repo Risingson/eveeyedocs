@@ -22,7 +22,7 @@ Displays planet type count within that system.
 | X | Shattered planets|
 
 ### Diameter
-Displays the systems diameter in astronomical units [au].
+Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 ## Activity
 ### Recent Activity
@@ -35,6 +35,6 @@ Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player 
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc4NzY5MzEsLTExODQ0NjI0MzYsMT
-g2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbMjA0NTg5OTcyMywtMTE4NDQ2MjQzNiwxOD
+Y1ODEyNDcsMTY1NTYzODU5OV19
 -->

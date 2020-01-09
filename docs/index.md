@@ -14,9 +14,9 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  - [Track](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) your ingame location
  - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) to the eve client
  - Find [Routes](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) using your chain, jumpbridges and Thera
- - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/data-sharing-overview/) with your fellow pilots
+ - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) with your fellow pilots
  - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
- - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/user-interface/settings/#Jump)
+ - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/ui/settings/#Jump)
 
 ## Platforms
 
@@ -47,7 +47,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY3NTI5NTEsLTg2MDA0MjczNiw5MT
+eyJoaXN0b3J5IjpbLTE4MjM0MTMyNzYsLTg2MDA0MjczNiw5MT
 g1MTM3NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1
 MzAsMTA2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ
 ==

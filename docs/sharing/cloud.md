@@ -9,11 +9,12 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
     The Cloud Storage is hosted on eveeye server.
 
 ### Shared data
- - Wormhole Connections
+- Your pilot's location and ship
+- Wormhole Connections
  - Signatures
  - Shared Custom Marks
  - Intel data via [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
- - Your pilot's location and ship
+
 
 ### Additionally backed up data
  - Map Presets
@@ -39,5 +40,5 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzE2OTkwMV19
+eyJoaXN0b3J5IjpbMTYwNDk1NTE3MSwtOTAzMTY5OTAxXX0=
 -->

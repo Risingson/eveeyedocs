@@ -1,21 +1,20 @@
 # Release Notes (TBD)
-<span style="color:#3e8df5;">Release 3.00.0 Beta 03</span><br><br>   
-                    Beta connections and signatures sharing.<br>
-                    Beta sync data to different devices.<br>
-                    Reworked UI for connections and sigs in show info pane.<br>
-                    Adding notes to sigs. Click sigs in info pane to edit.<br>
-                    Signatures and K-K connections now display on region overview map.<br>
-                    Podding and clone jumps do not create a connection anymore.<br>
-                    F353 and F355 wormhole types were missing.<br>
-                    <br>
-                    <br><span style="color:#3e8df5;">Release 3.00.0 Beta 01</span><br><br>   
-                    Beta location sharing.<br>
-                    24-hour activity stats.<br>
-                    NPC delta stats.<br>
-                    INT tab with 48h graph in solarsystem info.<br>
-                    Better differentiation of connections between different constellations and regions.<br>
-                    Click wormhole connections in info pane to edit.<br>
-                    Faster loading at startup.<br>
+#### Release 3.00.0 Beta 03</span><br><br>   
+- Beta connections and signatures sharing.
+- Beta sync data to different devices.
+- Reworked UI for connections and sigs in show info pane.
+- Adding notes to sigs. Click sigs in info pane to edit.
+- Signatures and K-K connections now display on region overview map.
+- Podding and clone jumps do not create a connection anymore.
+- F353 and F355 wormhole types were missing.
+#### Release 3.00.0 Beta 01
+- Beta location sharing.
+- 24-hour activity stats.
+- NPC delta stats.
+- INT tab with 48h graph in solarsystem info.
+- Better differentiation of connections between different constellations and regions.
+- Click wormhole connections in info pane to edit.
+- Faster loading at startup.<br>
                     <br>
                     <br><span style="color:#3e8df5;">Release 2.00.2</span><br><br>   
                     Fixes to preset saving and user interface.<br><br>
@@ -64,5 +63,5 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTk3ODIyM119
+eyJoaXN0b3J5IjpbLTEyMDcxNDM5Nl19
 -->

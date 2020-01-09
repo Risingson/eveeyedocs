@@ -1,6 +1,6 @@
 # Tags
 
-## Basic Tags
+## Basic
 #### Ice Occurrence
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
 #### Agents in Space
@@ -20,6 +20,6 @@ Shows [signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) 
 #### Station Services
 Shows which crucial NPC station services are available within a solarsystem. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Station-Services-and-Signatures) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE3NzI1ODYsMTMwNTk0NDI3Niw1OD
-EzMDEzNDgsNTE1MDA5ODddfQ==
+eyJoaXN0b3J5IjpbMTE3MDg5Njg0MSwxMzA1OTQ0Mjc2LDU4MT
+MwMTM0OCw1MTUwMDk4N119
 -->

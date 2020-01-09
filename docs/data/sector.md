@@ -10,6 +10,8 @@ The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in 
 ### Faction
 ### IHUB Sovereign Alliance
 ### IHUB Sovereign Coalition
+!!! warning
+    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
 ### Manufacturing
@@ -20,6 +22,6 @@ The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwNjQ3NTAxLC01Njg1MzgxMjksNzE0MT
-U4NzQxLC02ODc5Mzc1MDIsMTMwNzE3MTUzNl19
+eyJoaXN0b3J5IjpbLTEyOTg2NjQwNTksLTU2ODUzODEyOSw3MT
+QxNTg3NDEsLTY4NzkzNzUwMiwxMzA3MTcxNTM2XX0=
 -->

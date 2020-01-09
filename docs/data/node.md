@@ -1,28 +1,28 @@
 # Nodes
 
-### Security
+#### Security
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
-### Constellation
+#### Constellation
 Colors nodes after their constellation.
-### NPC faction
+#### NPC faction
 Colors nodes after their NPC faction and shows the NPC faction logo.
-### Custom marks
+#### Custom marks
 Shows the custom node color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
 
 ## Activity
-### Recent/24h kills
+#### Recent/24h kills
 Colors nodes after ship + pod-kills within that solarsystem/region and displays the number. 
-### Recent/24h NPC kills
+#### Recent/24h NPC kills
 Colors nodes after npc-kills within that solarsystem/region and displays the number.
-### Recent/24h jumps
+#### Recent/24h jumps
 Colors nodes after jumps to that solarsystem/region and displays the number. 
 
 ## Sovereignty
-### TCU alliance / faction logo
+#### TCU alliance / faction logo
 Shows the logo of the territorial claim unit owning alliance or sovereign faction.
-### IHUB Activity defense modifier
+#### IHUB Activity defense modifier
 Colors nodes after the infrastrucutre hub owning alliance and displays the ADM index number.
-### IHUB Sovereign Coalition
+#### IHUB Sovereign Coalition
 Colors nodes after the sovereign coalition and displays the infrastrucutre hub owning alliance logo.
 
 !!! warning
@@ -37,9 +37,10 @@ Time Efficiency research<br>
 Material Efficiency research**
 
 ## Celestials
-### Planets
+#### Planets
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mjg0MjUwMywtMTA3MjkwNzM0NiwtMT
-YzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
+eyJoaXN0b3J5IjpbNjE3NzgwOTQsMTc1Mjg0MjUwMywtMTA3Mj
+kwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTczOTQy
+MzddfQ==
 -->

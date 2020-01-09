@@ -12,15 +12,15 @@ For wormhole systems there is no api data available for recent jumps or NPC kill
 ## Styles
 Solarsystem oultine is solid or dashed. Connection lines are colored, solid or dashed.
 
-|type| meaning |
+|Type| Meaning |
 |--|--|
 | Dashed system outline | Shattered wormhole |
 | Blue lines | Not end of life |
-| red lines | End of life |
-| solid lines | Stability not reduced |
-| dashed line | Stability reduced|
-| wide dashed line| Stability critical |
-| dotted line| Frigate sized |
+| Red lines | End of life |
+| Solid lines | Stability not reduced |
+| Dashed line | Stability reduced|
+| Wide dashed line| Stability critical |
+| Dotted line| Frigate sized |
 
 ## Add data to connections
 To add data to connections you can click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
@@ -30,7 +30,7 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjEzNDY4LC0xOTQzOTU1OTc5LDE2Mz
-cxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTdd
-fQ==
+eyJoaXN0b3J5IjpbMTIzNzgwNDA5MiwtMTk0Mzk1NTk3OSwxNj
+M3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3
+XX0=
 -->

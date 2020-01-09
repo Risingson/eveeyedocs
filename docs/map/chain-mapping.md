@@ -4,7 +4,7 @@
 
  - While syncing your ingame location jumps via wormholes or jump
    bridges will get mapped automatically.
- - Wormhole connections get removed after 48h.
+ - Wormhole connections get removed after 48h. You can always remove them manually by cliking the connection line and selecting "Remove Connection" from the solarsystem menu.
  - A connection will get created when jumnping a cyno. Stop sync before
    jumping or remove the connection created manually.
  - For wormhole systems there is no api data available for recent jumps
@@ -38,7 +38,7 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM1OTU5MDAsLTE5NDM5NTU5NzksMT
-YzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5
-N119
+eyJoaXN0b3J5IjpbMTk4ODUwMTg5LC0xOTQzOTU1OTc5LDE2Mz
+cxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTdd
+fQ==
 -->

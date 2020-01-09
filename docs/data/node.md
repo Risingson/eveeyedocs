@@ -27,16 +27,17 @@ Colors nodes after the sovereign alliance and displays the ADM index number.
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
-Colors nodes after the sele corresponding index and displays the number.
-### Manufacturing
+Colors nodes after the selected index and displays the number.
+<!--### Manufacturing
 ### Invention
 ### Copying
 ### Time Efficiency research
-### Material Efficiency research
+### Material Efficiency research -->
 
 ## Celestials
 ### Planets
+Displays theColors nodes brithe selected index and displays the number.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzQ0NDA0MSwtMTYzMjIzNjMyNiwxNz
-cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
+eyJoaXN0b3J5IjpbNTk1ODI3ODM1LC0xNjMyMjM2MzI2LDE3Nz
+E5NDkzNDYsMTU5NzM5NDIzN119
 -->

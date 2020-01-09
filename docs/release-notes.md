@@ -18,22 +18,19 @@ New Signatures and Connections UI
 (Set signature warped for despawn timers)
 
 General Improvements
-Faster loading at startup
 Legend shows your map configuration
 Setting ingame destinations will now set waypoints to wormholes and jumpbridges according to your route settings
 Better differentiation of connections between constellations and regions
 (change: will switch to chain map if connectied system got more connections)
 
 New Map Options
-Emphasize Constellation Outlines (well done ??? recheck please)
-24 hour activity stats
-NPC delta
-Diameter sublabel
-Cost Indices Sectors
+Emphasize Constellation Outlines  option
+Diameter sublabel  option
+Cost Indices Sectors  option
 NPC faction node option
 Constellations node option
 Planets node and sublabel option
-Name system marks + legend
+Name custom system marks + legend
 
 
 
@@ -86,6 +83,6 @@ Name system marks + legend
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMjc5NDE2LDYzOTY3MTIzLDc3ODI5MT
+eyJoaXN0b3J5IjpbNzExODA5NzA3LDYzOTY3MTIzLDc3ODI5MT
 Y1MSwtMTk0ODIzNzE4NF19
 -->

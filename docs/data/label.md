@@ -11,14 +11,14 @@ Name of the NPC faction owning the system/region.
 Displays planet type count within that system.
 |Letter| Meaning |
 |--|--|
-| B | Barren planets|
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
-|  | |
+| B | Barren|
+| G | Gas|
+| I | Ice planets|
+| L | Lava planets|
+| O | Oceanic planets|
+| P | Plasma planets|
+| S | Storm planets|
+| T | |
 | X | Shattered planets|
 
 ### Diameter
@@ -35,6 +35,6 @@ Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player 
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTg5OTcyMywtMTE4NDQ2MjQzNiwxOD
-Y1ODEyNDcsMTY1NTYzODU5OV19
+eyJoaXN0b3J5IjpbLTM4MDIyMTQwLC0xMTg0NDYyNDM2LDE4Nj
+U4MTI0NywxNjU1NjM4NTk5XX0=
 -->

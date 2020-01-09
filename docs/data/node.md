@@ -1,4 +1,5 @@
 # Nodes
+Center color, text or logo of solarsystem shape.
 
 ## Basic
 **Security**<br>
@@ -48,7 +49,7 @@ Material Efficiency research**
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM1Mzk2MDIsMTc1Mjg0MjUwMywtMT
-A3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTcz
-OTQyMzddfQ==
+eyJoaXN0b3J5IjpbMTY1NTM5NjA1MywxNzUyODQyNTAzLC0xMD
+cyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3NzE5NDkzNDYsMTU5NzM5
+NDIzN119
 -->

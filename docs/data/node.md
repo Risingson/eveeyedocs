@@ -1,4 +1,4 @@
-# Nodes (TBD)
+# Nodes
 
 ### Security
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
@@ -40,6 +40,6 @@ Colors nodes after the selected index and displays its index number.
 ### Planets
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4ODYxMzUyMywtMTYzMjIzNjMyNiwxNz
+eyJoaXN0b3J5IjpbMTk2ODQ5Mjk4NCwtMTYzMjIzNjMyNiwxNz
 cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

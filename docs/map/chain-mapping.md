@@ -9,12 +9,13 @@ A connection will get created when jumnping a cyno. Stop sync before jumping or 
 
 For wormhole systems there is no api data available for recent jumps or NPC kills.
 
-## Connection Lines
-Connection lines are colored, solid or dashed.
+## Styles
+Solarsystem oultine is solid or dashed. Connection lines are colored, solid or dashed.
 
 |type| meaning |
 |--|--|
-| blue lines | Not end of life |
+| Dashed system outline | Shattered wormhole |
+| Blue lines | Not end of life |
 | red lines | End of life |
 | solid lines | Stability not reduced |
 | dashed line | Stability reduced|
@@ -29,6 +30,7 @@ In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM5NTU5NzksMTYzNzE4NDkwLDY3MD
-cxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbMTI0MjEzNDY4LC0xOTQzOTU1OTc5LDE2Mz
+cxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTdd
+fQ==
 -->

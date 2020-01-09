@@ -20,7 +20,7 @@
 - INT tab with 48h graph in solarsystem info.
 - Better differentiation of connections between different constellations and regions.
 - Click wormhole connections in info pane to edit.
-- Faster loading at startup.<
+- Faster loading at startup.
 
 ## All Apps
 #### Release 2.00.2
@@ -30,33 +30,26 @@
 - Save and Load Data Options + Presets.
 - All Sovereignty now relates to IHUB owner.
 - Ice systems updated.
+
 #### Release 1.10.2
 - Bugfix: Saved marks did not display on reload.
+
 #### Release 1.10.1
 - Route plotting improved.
+
 #### Release 1.10.0.3
--  Legend added.
+- Legend added.
 - Faction sectors.
+
 #### Release 1.10.0.2
 - Set names for w-space systems by clicking the system and choose from menu.
 - Set sig codes and wormhole-type by clicking connection lines.
 
 #### Release 1.10.0.1
 - Browser only: Paste signatures
-- If you got a wormhole connection displayed in the sigs tab and got the sig pasted you can merge the two by dragging the sig onto the wormhole connection.
-- This system is quite new and is likely to change (BETA).
-                </td></tr>
-                
-                <tr class="only_mobile">
-                <td class="td_hlp">
-                    <span style="color:#3e8df5;">Release 2.00.2</span><br><br>   
-                    Fixes to preset saving and user interface<br><br>
-                    <br><span style="color:#3e8df5;">Release 2.00.0</span><br><br>   
-                    New Layout for Tablets.<br>
-                    Save and Load Data Options + Presets.<br>
-                    All Sovereignty now relates to IHUB owner.<br>
-                    Ice systems updated.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.2</span><br><br>   
+- Browser only: Merge signature and connection.
+
+    
                     Bugfix: Saved marks did not display on reload.<br><br>
                     <br><span style="color:#3e8df5;">Release 1.10.1</span><br><br>   
                     Trails and marks won't clear anymore after a reload.<br>
@@ -70,5 +63,6 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NzI5MTk4NSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbLTE4MzE2NjY5MzQsLTE5NDgyMzcxODRdfQ
+==
 -->

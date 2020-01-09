@@ -6,6 +6,9 @@
 
 ## Map Types
 
+### Region Overview Map
+
+
 ### Regional Map
 Special: Faction Warfare
 
@@ -14,6 +17,6 @@ Special: Faction Warfare
 ### Radar Map
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDIzNjI4Miw5MTg1MzQ0NzQsMTQ1OT
-Q4MTMyNiwtMTI1NDgyMTcyN119
+eyJoaXN0b3J5IjpbLTQyODI4MjAzNiwtNDUwMjM2MjgyLDkxOD
+UzNDQ3NCwxNDU5NDgxMzI2LC0xMjU0ODIxNzI3XX0=
 -->

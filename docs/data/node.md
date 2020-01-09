@@ -3,9 +3,9 @@
 ### Security
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
 ### Constellation
-Colors the nodes after their constellation.
+Colors nodes after their constellation.
 ### NPC faction
-Colors the nodes after their NPC faction and shows the NPC faction logo.
+Colors nodes after their NPC faction and shows the NPC faction logo.
 ### Custom marks
 Shows the custom node color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
 
@@ -13,8 +13,9 @@ Shows the custom node color you set via the [custom mark options](https://eveeye
 ### Recent/24h kills
 Colors the nodes after ship + pod-kills within that solarsystem/region. 
 ### Recent/24h NPC kills
-
+Colors the nodes after npc-kills within that solarsystem/region. 
 ### Recent/24h jumps
+Colors the nodes after jumps to that solarsystem/region. 
 
 ## Sovereignty
 ### TCU alliance / faction logo
@@ -33,6 +34,6 @@ Colors the nodes after ship + pod-kills within that solarsystem/region.
 ## Celestials
 ### Planets
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTY4NDEzLC0xNjMyMjM2MzI2LDE3Nz
-E5NDkzNDYsMTU5NzM5NDIzN119
+eyJoaXN0b3J5IjpbMTg2NTc4NTg3OSwtMTYzMjIzNjMyNiwxNz
+cxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

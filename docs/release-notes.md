@@ -36,6 +36,7 @@
 
 #### Release 1.10.1
 - Route plotting improved.
+- Fix: Trails and marks won't clear anymore after a reload.
 
 #### Release 1.10.0.3
 - Legend added.
@@ -50,11 +51,7 @@
 - Browser only: Merge signature and connection.
 
     
-                    Bugfix: Saved marks did not display on reload.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.1</span><br><br>   
-                    Trails and marks won't clear anymore after a reload.<br>
-                    Route plotting improved.<br><br>
-                    <br><span style="color:#3e8df5;">Release 1.10.0</span><br><br>   
+                    style="color:#3e8df5;">Release 1.10.0</span><br><br>   
                     Legend added.<br>
                     Faction sectors option added.<br>
                     Set names for w-space systems by clicking the system and choose from menu.<br>
@@ -63,6 +60,5 @@
                     Fix: Adding a character won't reset options anymore.<br>
                     Fix: Syncing ingame location will not fail as often anymore.<br><br>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzE2NjY5MzQsLTE5NDgyMzcxODRdfQ
-==
+eyJoaXN0b3J5IjpbMTM1MTU0NjYxNSwtMTk0ODIzNzE4NF19
 -->

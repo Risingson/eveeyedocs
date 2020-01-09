@@ -29,17 +29,17 @@ Colors nodes after the sovereign coalition and displays the infrastrucutre hub o
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Cost Indices
-Colors nodes after the selected index and displays its index number.
-### Manufacturing
-### Invention
-### Copying
-### Time Efficiency research
-### Material Efficiency research 
+Colors nodes after the selected index and displays its index number. Available indices are:
+#### Manufacturing
+#### Invention
+#### Copying
+#### Time Efficiency research
+#### Material Efficiency research 
 
 ## Celestials
 ### Planets
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI5MDczNDYsLTE2MzIyMzYzMjYsMT
-c3MTk0OTM0NiwxNTk3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbLTE4NTk3MDA5MDksLTEwNzI5MDczNDYsLT
+E2MzIyMzYzMjYsMTc3MTk0OTM0NiwxNTk3Mzk0MjM3XX0=
 -->

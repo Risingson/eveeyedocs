@@ -3,8 +3,8 @@
 When clicking a solarsystem a menu will show up including Custom Mark options amongst other functions.
 
 ### Mark Types
-**DOTS** appear above the solarsystem node.
-**NODE** mark colors the solarsystem node.
+**DOTS** appear above the solarsystem node.<br>
+**NODE** mark colors the solarsystem node.<br>
 **TAG** marks outline a solarsystem node.
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/menus/custom-marks-400.png)
@@ -16,7 +16,7 @@ Only shared marks would be shared amongst your sharing group. Own marks never ge
 You can name marks within [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/).  Click the little <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > on the left within the menu to get there. 
 If a named mark appears on a map it will show up in the legend.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM2NzEyNDEsLTE5NDcxMTU2MzksLT
+eyJoaXN0b3J5IjpbLTEzNzUxMDAzODksLTE5NDcxMTU2MzksLT
 UwODU5MzY0NSwtNjI2MDM0ODg3LDE2OTU2NDQ4NTIsMTUyMzY2
 ODk5OF19
 -->

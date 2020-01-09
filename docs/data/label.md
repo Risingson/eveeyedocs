@@ -9,16 +9,17 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 Name of the NPC faction owning the system/region.
 ### Planets
 Displays planet type count within that system.
+E.g. L2 = 2 Lava planets within the solarsystem.
 |Letter| Meaning |
 |--|--|
 | B | Barren|
 | G | Gas|
-| I | Ice planets|
-| L | Lava planets|
-| O | Oceanic planets|
-| P | Plasma planets|
-| S | Storm planets|
-| T | |
+| I | Ice |
+| L | Lava |
+| O | Oceanic |
+| P | Plasma |
+| S | Storm |
+| T | Temperate|
 | X | Shattered planets|
 
 ### Diameter
@@ -27,6 +28,7 @@ Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronom
 ## Activity
 ### Recent Activity
 Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player ships destroyed</span>&nbsp;&nbsp;<span style="color:#ac2d2d">P = Podkills</span><br><span style="color:#888888">N = Npcs destroyed</span>&nbsp;&nbsp;<span style="color:#e6cf18">J = Jumps</span>
+The number after the le
 ### Activity Last 24 hours
 ## Sovereignty
 ### IHUB Sovereignty Alliance / Faction
@@ -35,6 +37,6 @@ Activity Intel sublabel abbreviations<br><span style="color:#437c97">K = Player 
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDIyMTQwLC0xMTg0NDYyNDM2LDE4Nj
+eyJoaXN0b3J5IjpbNzQ5NzkyOTc0LC0xMTg0NDYyNDM2LDE4Nj
 U4MTI0NywxNjU1NjM4NTk5XX0=
 -->

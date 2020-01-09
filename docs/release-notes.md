@@ -23,8 +23,10 @@
 - Faster loading at startup.
 
 ## All Apps
+
 #### Release 2.00.2
 - Fixes to preset saving and user interface.
+
 #### Release 2.00.0
 - New Layout for Tablets and Browsers.
 - Save and Load Data Options + Presets.
@@ -50,15 +52,10 @@
 - Browser only: Paste signatures
 - Browser only: Merge signature and connection.
 
-    
-                    style="color:#3e8df5;">Release 1.10.0</span><br><br>   
-                    Legend added.<br>
-                    Faction sectors option added.<br>
-                    Set names for w-space systems by clicking the system and choose from menu.<br>
-                    Set sig codes, wormhole-type and K162 side by clicking connection lines.<br>
-                    Wormhole connection line labels added.<br>
-                    Fix: Adding a character won't reset options anymore.<br>
-                    Fix: Syncing ingame location will not fail as often anymore.<br><br>
+#### Release 1.10.0
+- Wormhole connection line labels added.
+- Fix: Adding a character won't reset options anymore.
+- Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTU0NjYxNSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbMTIxMDM3MTUwNCwtMTk0ODIzNzE4NF19
 -->

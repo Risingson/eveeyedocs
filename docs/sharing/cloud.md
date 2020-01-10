@@ -3,6 +3,9 @@
 Basically Eveeye Explorer apps do store all data locally (client-side). If you do not enable the cloud service no data will ever get sent anywhere.
 
 ## Cloud Storage
+!!! warning
+    Syncing data to and from mobile apps is not working yet. 
+
 Turning on Cloud Storage enables you to backup and sync data amongst your own devices and would enable options to share data with other pilots.
 
 !!! info
@@ -43,6 +46,6 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA3MjU4ODgsLTIzNTEzOTY1MiwxNj
-A0OTU1MTcxLC05MDMxNjk5MDFdfQ==
+eyJoaXN0b3J5IjpbMTUzNDYyMDQzMCwtMTQwMDcyNTg4OCwtMj
+M1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
 -->

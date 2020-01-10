@@ -1,6 +1,9 @@
 a:visited {
   color: #2980B9 !important;
 }
+.wy-menu-vertical > a {
+    color: #b3b3b3 !important;
+}
 img {
   border: 1px solid;
   border-radius: 4px;

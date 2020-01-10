@@ -24,7 +24,7 @@ Google's use of advertising cookies enables it and its partners to serve ads to 
 Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>.
 
 !!! tip
-    [**No advertisements and no code will get loaded from google by eveeye anymore if you choose to support Eveeye development by donating .**](https://donorbox.org/eveeye)
+    [**No advertisements and no code will get loaded from google by eveeye anymore if you choose to support Eveeye development by donating.**](https://donorbox.org/eveeye)
 
 ## CCP Disclaimer and License
 #### Disclaimer
@@ -35,6 +35,7 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtOD
-YwMDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbNTk2ODIxOTI2LC0xMTEyMzAwNDAyLDEwMD
+cyOTQ2ODUsLTg2MDA0MTkyNCw5MjEzMDMxOTIsNjY3NzI2OTQ0
+XX0=
 -->

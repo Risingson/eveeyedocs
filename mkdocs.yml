@@ -9,6 +9,7 @@ extra_css: [css/extra.css]
 nav:
 - Eveeye Explorer Docs: index.md
 - Desktop app: desktop-app.md
+- Release Notes: release-notes.md
 - Credits: credits.md
 - User Interface:
     - Basics: ui/basic-ui.md

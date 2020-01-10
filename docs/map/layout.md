@@ -24,11 +24,11 @@ To set the system range displayed use the following icons in bottom left:<br>
 
 ### Faction Warfare Maps
 These maps feature all Minmatar/Amarr or Caldari/Gallente Faction Warfe systems on one map. 
-### Thera Connections
+### Thera Connection Chain Map
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjYyMDM2OSwxNTExMTgyMjI1LC00NT
+eyJoaXN0b3J5IjpbMTU0Mjc2MjY1MSwxNTExMTgyMjI1LC00NT
 AyMzYyODIsOTE4NTM0NDc0LDE0NTk0ODEzMjYsLTEyNTQ4MjE3
 MjddfQ==
 -->

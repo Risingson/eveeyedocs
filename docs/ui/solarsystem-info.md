@@ -17,11 +17,13 @@
 Includes info about count of planets, moons, belts etc.
 
 **PI Planetary interaction**<br>
-Displays possible produc
+Displays possible product chains and planet type count.
+
 **STA Stations**<br>
+All stations in system including station service info.
 
 **AGT Agents**<br>
-
+Shows available agents within stations including ty
 **DST Destinations**<br>
 
 **ACT Activity**<br>
@@ -34,6 +36,6 @@ For wormhole systems there is no api data available for recent jumps or NPC kill
 **SIG Signatures**<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkyMjMxMTksLTEzOTE4NDQzOTIsLT
-c1Mjc3MDA1OCwtNDk3MDgwOTExXX0=
+eyJoaXN0b3J5IjpbNTQ1OTAzNjA2LC0xMzkxODQ0MzkyLC03NT
+I3NzAwNTgsLTQ5NzA4MDkxMV19
 -->

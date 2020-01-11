@@ -1,26 +1,25 @@
 .wy-nav-content a:visited {
-  color: #2980B9 !important;
+	color: #2980B9 !important;
 }
 img {
-  border: 1px solid;
-  border-radius: 4px;
-  border-color: #CCC;
-  padding: 2px;
-  margin-bottom: 2px;
+	border: 1px solid;
+	border-radius: 4px;
+	border-color: #CCC;
+	padding: 2px;
+	margin-bottom: 2px;
 }
 /* div scrollbars */
-div::-webkit-scrollbar{ 
-    background-color:rgba(0,0,0,0);
+	div::-webkit-scrollbar{ 
+	background-color:rgba(0,0,0,0);
 	width:6px; 
-	}		
+}		
 div::-webkit-scrollbar-track {
-    background-color:rgba(0,0,0,0);
-    -webkit-border-radius: 10px;
-    border-radius: 10px;
+	background-color:rgba(0,0,0,0);
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
 }
 div::-webkit-scrollbar-thumb{ 
 	background-color:#141414;
-    border: 1px solid rgba(0, 0, 0, 0);
-    /*border-radius:4px;242424*/
-	}	
+	border: 1px solid rgba(0, 0, 0, 0);
+}	
 

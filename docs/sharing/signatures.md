@@ -12,9 +12,9 @@ If you are not syncing your location sigs get added to the system you are showin
 ## SIG tab
 Pasting sigs will open the SIG info tab of solarsystem info pane. In that tab signatures and wormhole connection data get shown. In browser version you can drag wormhole signatures onto wormhole connections to merge the signature ID.
 
-Using the Anomaly, Signatures
+Using the filter buttons you can toggle the display of those signatures or co.
                
-You can delete a signature by clicking the X top right of it and confirm.
+A signature can be deleted by clicking the X top right of it and confirm.
 
 Deleted sigs can be undeleted for up to 3 hours.
 You can show and hide anomalies, cosmics and deleted sigs by clicking the corresponding tab above the signatures displayed.                
@@ -29,6 +29,6 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5MjA3OTc0LC00NTA1NTYxNCwzODgxOD
+eyJoaXN0b3J5IjpbNjAyNzU3MDI1LC00NTA1NTYxNCwzODgxOD
 E0NzIsLTE0NTkxNDQ2MjBdfQ==
 -->

@@ -1,11 +1,11 @@
 # Basics
 
-## Tap or click
-... solarsystems for options
-... wormhole connection lines to set sigs, wormhole type and entry side.
-... empty space in map area to close any menus
-... region name in top row to go to Region Overview map
-... solarsystem name in top row to center the map on it
+## Tap/click
+- Solarsystems for options
+- Wormhole connection lines to set sigs, wormhole type and entry side.
+- Empty space in map area to close any menus
+- Region name in top row to go to Region Overview map
+- Solarsystem name in top row to center the map on it
 
 ## Menu
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > [Character Management](https://eveeye.readthedocs.io/en/latest/sync/character-management/)<br>
@@ -42,6 +42,6 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3MjY5MDM4LDExNTA2ODg1NTYsLTIwNj
+eyJoaXN0b3J5IjpbMzY5NTYxMjI5LDExNTA2ODg1NTYsLTIwNj
 cwMjUzMzZdfQ==
 -->

@@ -36,9 +36,11 @@ Start typing to search for various categories.
 | FACTION WARFARE| Shows Faction Warfare agents only. |
 | FACTION| Shows stations of selected faction only. |
 | LOC| Shows locator agents only. |
-| L1-5 | Shows agents of those levels only. |
+| L1-5 | Shows agents of that level only. |
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQyNDIwOTEsODg4NTcyNDksLTg3Mj
-A1MDI4XX0=
+eyJoaXN0b3J5IjpbLTIwMDU2Mzg2NCw4ODg1NzI0OSwtODcyMD
+UwMjhdfQ==
 -->

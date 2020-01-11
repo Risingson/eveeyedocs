@@ -13,10 +13,12 @@
 | WH | Wormhole info including phenomenon effects |
 | SIG| Signatures and wormhgole connections |
 
-Celestials
+**CEL Celestials**<br>
+Includes info about count of planets, moons, belts etc.
 
+**ACT Activity**<br>
 For wormhole systems there is no api data available for recent jumps or NPC kills.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NTI3NTg1LC0xMzkxODQ0MzkyLC03NT
-I3NzAwNTgsLTQ5NzA4MDkxMV19
+eyJoaXN0b3J5IjpbLTIwMjE1NTI5NjUsLTEzOTE4NDQzOTIsLT
+c1Mjc3MDA1OCwtNDk3MDgwOTExXX0=
 -->

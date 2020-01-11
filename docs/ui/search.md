@@ -7,6 +7,7 @@ Start typing to search for various categories.
 | HIGH | Shows high-sec systems only. |
 | LOW| Shows low-sec systems only. |
 | NULL| Shows null-sec systems only. |
+| FACTION| Shows stations of selected faction only. |
 
 ### NPC Stations
 | Button | Filter |
@@ -41,6 +42,6 @@ Start typing to search for various categories.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU2Mzg2NCw4ODg1NzI0OSwtODcyMD
-UwMjhdfQ==
+eyJoaXN0b3J5IjpbLTEyNjA2NDE1NDksODg4NTcyNDksLTg3Mj
+A1MDI4XX0=
 -->

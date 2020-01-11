@@ -2,16 +2,16 @@
 
 | Tab | Content |
 |--|--|
-| CEL| **Celestials** Includes info about count of planets, moons, belts etc.|
-| PI | Planetary interaction |
-| STA| Stations|
-| AGT| Agents (will activate stations tab aswell)|
-| DST| Destinations to hubs or bookmarked systems |
-| ACT| Activity graph|
+| **CEL**| **Celestials:** Includes info about count of planets, moons, belts etc.|
+| **PI** | **Planetary interaction:** Displays possible product chains and planet type count. |
+| **STA**| **Stations:** All stations in system including station service info.|
+| **AGT**| Agents (will activate stations tab aswell)|
+| **DST**| Destinations to hubs or bookmarked systems |
+| **ACT**| Activity graph|
 | | *to be done* |
-| SOV| Sovereignty details |
-| WH | Wormhole info including phenomenon effects |
-| SIG| Signatures and wormhgole connections |
+| **SOV**| Sovereignty details |
+| **WH** | Wormhole info including phenomenon effects |
+| **SIG**| Signatures and wormhgole connections |
 
 **CEL Celestials**<br>
 Includes info about count of planets, moons, belts etc.
@@ -38,6 +38,6 @@ For wormhole systems there is no api data available for recent jumps or NPC kill
 **SIG Signatures**<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzYyNjE0MywtMTM5MTg0NDM5MiwtNz
+eyJoaXN0b3J5IjpbLTY2MTE3ODIyMCwtMTM5MTg0NDM5MiwtNz
 UyNzcwMDU4LC00OTcwODA5MTFdfQ==
 -->

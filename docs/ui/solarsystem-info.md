@@ -23,8 +23,10 @@ Displays possible product chains and planet type count.
 All stations in system including station service info.
 
 **AGT Agents**<br>
-Shows available agents within stations including ty
+Shows available agents within stations including agent type and level. Enabling the agents tab will enable the stations tab automatically.
+
 **DST Destinations**<br>
+Will display route to bookmarked systems. Preset are trade hubs.
 
 **ACT Activity**<br>
 For wormhole systems there is no api data available for recent jumps or NPC kills.
@@ -36,6 +38,6 @@ For wormhole systems there is no api data available for recent jumps or NPC kill
 **SIG Signatures**<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ1OTAzNjA2LC0xMzkxODQ0MzkyLC03NT
-I3NzAwNTgsLTQ5NzA4MDkxMV19
+eyJoaXN0b3J5IjpbMTcxMjYyNDgwOCwtMTM5MTg0NDM5MiwtNz
+UyNzcwMDU4LC00OTcwODA5MTFdfQ==
 -->

@@ -22,7 +22,6 @@ Start typing to search for various categories.
 ### Agents 
 | Button | Filter |
 |--|--|
-
 | DISTRIBUTION| Shows agents of division distribution only. |
 | MINING| Shows agents of division mining only. |
 | SECURITY| Shows agents of division security only. |
@@ -33,10 +32,9 @@ Start typing to search for various categories.
 | FACTION| Shows stations of selected faction only. |
 | LOC| Shows locator agents only. |
 | L1-5 | Shows agents of that level only. |
-| GLOBAL/REGIONAL RESULTS | Toggles if search is limited to systems on the current map. |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwOTczMTMwLDg4ODU3MjQ5LC04NzIwNT
-AyOF19
+eyJoaXN0b3J5IjpbNDI5NDI0OTUsODg4NTcyNDksLTg3MjA1MD
+I4XX0=
 -->

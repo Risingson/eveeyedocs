@@ -1,7 +1,7 @@
 # Search Interface
 Start typing to search for various categories.
 ## Search filters
-### System 
+### General
 | Button | Filter |
 |--|--|
 | HIGH | Shows high-sec systems only. |
@@ -12,23 +12,17 @@ Start typing to search for various categories.
 ### NPC Stations
 | Button | Filter |
 |--|--|
-| HIGH | Shows high-sec stations only. |
-| LOW| Shows low-sec stations only. |
-| NULL| Shows null-sec stations only. |
 | CLONING| Shows stations with a cloning facility only. |
 | REPAIR| Shows stations with a repair facility only. |
 | FACTORY| Shows stations with a factory facility only. |
 | LABORATORY| Shows stations with a lab facility only. |
 | FACTION WARFARE| Shows Faction Warfare corporation stations only. |
 | FACTION| Shows stations of selected faction only. |
-| GLOBAL/REGIONAL RESULTS | Toggles if search is limited to systems on the current map. |
 
 ### Agents 
 | Button | Filter |
 |--|--|
-| HIGH | Shows high-sec agents only. |
-| LOW| Shows low-sec agents only. |
-| NULL| Shows null-sec agents only. |
+
 | DISTRIBUTION| Shows agents of division distribution only. |
 | MINING| Shows agents of division mining only. |
 | SECURITY| Shows agents of division security only. |
@@ -43,6 +37,6 @@ Start typing to search for various categories.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1Mjg4NDIzLDg4ODU3MjQ5LC04NzIwNT
+eyJoaXN0b3J5IjpbNTMwOTczMTMwLDg4ODU3MjQ5LC04NzIwNT
 AyOF19
 -->

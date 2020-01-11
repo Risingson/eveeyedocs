@@ -1,4 +1,4 @@
-# Solarsystem Info (TBD)
+# Solarsystem Info
 
 | Tab | Content |
 |--|--|
@@ -8,13 +8,14 @@
 | **AGT**| **Agents** Shows available agents within stations including agent type and level. Enabling the agents tab will enable the stations tab automatically.|
 | **DST**| **Destinations** Will display route to bookmarked systems. Preset are trade hubs. |
 | **ACT**| **Activity** For wormhole systems there is no api data available for recent jumps or NPC kills.|
-| | *to be done* |
 | **SOV**| **Sovereignty** details |
 | **WH** | **Wormhole info** including phenomenon effects |
 | **SIG**| **Signatures** and wormhgole connections |
 
+## Extended tab functions
+### Signatures
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDk2MDMxMjYsLTEzOTE4NDQzOTIsLT
-c1Mjc3MDA1OCwtNDk3MDgwOTExXX0=
+eyJoaXN0b3J5IjpbLTgwNzY2ODExNCwtMTM5MTg0NDM5MiwtNz
+UyNzcwMDU4LC00OTcwODA5MTFdfQ==
 -->

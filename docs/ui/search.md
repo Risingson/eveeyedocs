@@ -1,4 +1,5 @@
 # Search Interface
+Start typing to search for various categories.
 ## Search filters
 ### System 
 | Button | Filter |
@@ -23,10 +24,16 @@
 ### Agents 
 | Button | Filter |
 |--|--|
-| HIGH | Will only show high-sec systems. |
-| LOW| Will only show low-sec systems. |
-| NULL| Will only show null-sec systems. |
+| HIGH | Shows high-sec agents only. |
+| LOW| Shows low-sec agents only. |
+| NULL| Shows null-sec agents only. |
+| DISTRIBUTION| Shows agents of division distribution only. |
+| MINING| Shows agents of division mining only. |
+| SECURITY| Shows agents of division security only. |
+| LABORATORY| Shows stations with a lab facility only. |
+| FACTION WARFARE| Shows Faction Warfare corporation stations only. |
+| FACTION| Shows stations of selected faction only. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMDEyNzQ2OSw4ODg1NzI0OSwtODcyMD
+eyJoaXN0b3J5IjpbMTQ1MzI1MzMzMSw4ODg1NzI0OSwtODcyMD
 UwMjhdfQ==
 -->

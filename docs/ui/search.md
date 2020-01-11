@@ -30,10 +30,12 @@ Start typing to search for various categories.
 | DISTRIBUTION| Shows agents of division distribution only. |
 | MINING| Shows agents of division mining only. |
 | SECURITY| Shows agents of division security only. |
-| LABORATORY| Shows stations with a lab facility only. |
-| FACTION WARFARE| Shows Faction Warfare corporation stations only. |
+| CAREER| Shows agents of type career only. |
+| STORYLINE| Shows agents of type storyline only.  |
+| EPIC ARC| Shows epic arc agents only. |
+| FACTION WARFARE| Shows Faction Warfare agents only. |
 | FACTION| Shows stations of selected faction only. |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzI1MzMzMSw4ODg1NzI0OSwtODcyMD
-UwMjhdfQ==
+eyJoaXN0b3J5IjpbLTE0NDEzMTYzODksODg4NTcyNDksLTg3Mj
+A1MDI4XX0=
 -->

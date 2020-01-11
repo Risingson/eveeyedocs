@@ -19,6 +19,7 @@
 - Constellations node option
 - Planets node and sublabel option
 - Name custom system marks + legend
+- Bookmark systems to appear in DST (former HUB) tab
 
 #### Release 3.00.0 Beta 2  
 - Beta connections and signatures sharing.

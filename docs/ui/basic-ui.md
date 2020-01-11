@@ -22,7 +22,7 @@
 
 ## Other Icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="15" height="15" > Open legend/current route<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="15" height="15" >  Close legend/current route<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="15" height="15" > Close legend/current route<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png" width="24" height="15" > Set Destination<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png" width="24" height="15" > Set Waypoint<br>
 
@@ -42,6 +42,6 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQ5OTQ1OTQsMTE1MDY4ODU1NiwtMj
-A2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbOTg3MjY5MDM4LDExNTA2ODg1NTYsLTIwNj
+cwMjUzMzZdfQ==
 -->

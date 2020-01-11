@@ -1,8 +1,5 @@
-a:visited {
+wy-nav-content > a:visited {
   color: #2980B9 !important;
-}
-.wy-menu-vertical ul.tocbase li.navtree.toctree-l2.inactive > a{
-    color: #b3b3b3 !important;
 }
 img {
   border: 1px solid;

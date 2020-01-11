@@ -10,9 +10,9 @@
 | **ACT**| **Activity** For wormhole systems there is no api data available for recent jumps or NPC kills.|
 | **SOV**| **Sovereignty** details |
 | **WH** | **Wormhole info** including phenomenon effects |
-| **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhgole connections |
+| **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzUwODU4OCwtMTM5MTg0NDM5MiwtNz
+eyJoaXN0b3J5IjpbMTQxMzI1MjYwMSwtMTM5MTg0NDM5MiwtNz
 UyNzcwMDU4LC00OTcwODA5MTFdfQ==
 -->

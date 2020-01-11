@@ -2,7 +2,7 @@
 
 | Tab | Content |
 |--|--|
-| CEL| Celestials |
+| CEL| **Celestials** Includes info about count of planets, moons, belts etc.|
 | PI | Planetary interaction |
 | STA| Stations|
 | AGT| Agents (will activate stations tab aswell)|
@@ -38,6 +38,6 @@ For wormhole systems there is no api data available for recent jumps or NPC kill
 **SIG Signatures**<br>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjYyNDgwOCwtMTM5MTg0NDM5MiwtNz
+eyJoaXN0b3J5IjpbMTQ1NzYyNjE0MywtMTM5MTg0NDM5MiwtNz
 UyNzcwMDU4LC00OTcwODA5MTFdfQ==
 -->

@@ -7,7 +7,7 @@ Start typing to search for various categories.
 | HIGH | Shows high-sec systems only. |
 | LOW| Shows low-sec systems only. |
 | NULL| Shows null-sec systems only. |
-| FACTION| Shows stations of selected faction only. |
+| GLOBAL/REGIONAL RESULTS | Toggles if search is limited to systems on the current map. |
 
 ### NPC Stations
 | Button | Filter |
@@ -21,6 +21,7 @@ Start typing to search for various categories.
 | LABORATORY| Shows stations with a lab facility only. |
 | FACTION WARFARE| Shows Faction Warfare corporation stations only. |
 | FACTION| Shows stations of selected faction only. |
+| GLOBAL/REGIONAL RESULTS | Toggles if search is limited to systems on the current map. |
 
 ### Agents 
 | Button | Filter |
@@ -38,10 +39,10 @@ Start typing to search for various categories.
 | FACTION| Shows stations of selected faction only. |
 | LOC| Shows locator agents only. |
 | L1-5 | Shows agents of that level only. |
-
+| GLOBAL/REGIONAL RESULTS | Toggles if search is limited to systems on the current map. |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA2NDE1NDksODg4NTcyNDksLTg3Mj
-A1MDI4XX0=
+eyJoaXN0b3J5IjpbNjE1Mjg4NDIzLDg4ODU3MjQ5LC04NzIwNT
+AyOF19
 -->

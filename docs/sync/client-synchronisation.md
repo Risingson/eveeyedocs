@@ -9,10 +9,11 @@
 
 ## Setting Waypoints
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. To do this tap/click a solarsystem. I the appearing menu hit *Set Waypoint* or *Set Destination*.
-#
+### Option Use Wormholes/Jumpbridges
+When you got one or both of the options Use Wormholes or Use Jumpbridges enabled in Routing Settings.
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU1MjExMDEsMTI1MzE0NzY1NSwtMT
-Q2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1
-ODUzMjc5XX0=
+eyJoaXN0b3J5IjpbNzgxMTM0ODkxLDEyNTMxNDc2NTUsLTE0Nj
+cwODg4OTQsMjAyODc3NjYyMSwtMTUxMDUyNjA5MSwtMTM0NTg1
+MzI3OV19
 -->

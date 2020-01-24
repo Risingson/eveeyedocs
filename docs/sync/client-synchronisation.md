@@ -6,7 +6,10 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_standby.png" width="24" height="24" > Connecting to EVE<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="24" height="24" > On<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_fail.png" width="24" height="24" > Failed<br>
+
+## Setting Waypoints
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzE0NzY1NSwtMTQ2NzA4ODg5NCwyMD
-I4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
+eyJoaXN0b3J5IjpbNDg2NzM2MjI1LDEyNTMxNDc2NTUsLTE0Nj
+cwODg4OTQsMjAyODc3NjYyMSwtMTUxMDUyNjA5MSwtMTM0NTg1
+MzI3OV19
 -->

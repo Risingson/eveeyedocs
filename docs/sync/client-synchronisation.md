@@ -9,9 +9,10 @@
 
 ## Setting Waypoints
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. To do this tap/click a solarsystem. I the appearing menu hit *Set Waypoint* or *Set Destination*.
-
+#
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA1NTUxMDYsMTI1MzE0NzY1NSwtMT
+eyJoaXN0b3J5IjpbLTE5NzU1MjExMDEsMTI1MzE0NzY1NSwtMT
 Q2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1
 ODUzMjc5XX0=
 -->

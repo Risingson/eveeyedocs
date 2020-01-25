@@ -9,6 +9,8 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="24" height="24" > On<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_fail.png" width="24" height="24" > Failed<br>
 
+<br><br><br><br><br>
+
 ## Setting Waypoints
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. To do this tap/click a solarsystem. I the appearing menu hit *Set Waypoint* or *Set Destination*.
 ### Option Use Wormholes/Jumpbridges
@@ -25,10 +27,10 @@ Within the EVE Client your route would look like this since it does not know abo
 The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps.<br> 
 The Thera route in this case got 12 jumps but sees 17 recent player ship kills within Thera.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUxNTQ4MjcsODI3ODA2ODI3LDE4OD
-AwMDE4LDE4OTI5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwt
-MTI4MzUzNTA5NywtNzcwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNz
-c1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1
-LC0xNDY3MDg4ODk0LDIwMjg3NzY2MjEsLTE1MTA1MjYwOTEsLT
-EzNDU4NTMyNzldfQ==
+eyJoaXN0b3J5IjpbNTcyMjM5Mzc5LDgyNzgwNjgyNywxODgwMD
+AxOCwxODkyOTI2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEy
+ODM1MzUwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NT
+g2Myw0MDQ0MTQ2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwt
+MTQ2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMz
+Q1ODUzMjc5XX0=
 -->

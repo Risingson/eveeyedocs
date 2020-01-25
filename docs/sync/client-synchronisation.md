@@ -16,15 +16,14 @@ When you got one or both of the options *Use Wormholes* or *Use Jumpbridges* ena
 We like to go from `PR-8CA` to `Nasreri`.
 A route including a detour via Thera was found.![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client1.png)
 
-If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. From there find the exit to Vecamia.
+If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. The corresponding Signature Code is found in the solarsystem-tab SIG or on the line on the map. From Thera do the same for the exit to `Vecamia`.
 Within the EVE Client your route would look like this since it does not know about Thera:
- ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client.png)
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client2.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MTYzMTQ4MCwtMTI4MzUzNTA5NywtNz
-cwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYx
-OSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0LD
-IwMjg3NzY2MjEsLTE1MTA1MjYwOTEsLTEzNDU4NTMyNzldfQ==
+eyJoaXN0b3J5IjpbLTEwNDUzMTI1MzUsLTEyODM1MzUwOTcsLT
+c3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2
+MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwtMTQ2NzA4ODg5NC
+wyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
 
 -->

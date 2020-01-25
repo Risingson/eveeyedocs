@@ -22,12 +22,13 @@ If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `P
 Within the EVE Client your route would look like this since it does not know about Thera:<br>
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_1.png)
 
-The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps. 
-The Thera route in this case got 12 jumps.
+The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps.<br> 
+The Thera route in this case got 12 jumps but sees 17 recent player ship kills.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NT
-UyOTgsMTA2NDExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAs
-NjA3NTY0NDcsLTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNT
-A4NTQ3LDEyNTMxNDc2NTUsLTE0NjcwODg4OTQsMjAyODc3NjYy
-MSwtMTUxMDUyNjA5MSwtMTM0NTg1MzI3OV19
+eyJoaXN0b3J5IjpbMTQ3ODYyMTY4OCwxODgwMDAxOCwxODkyOT
+I2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEyODM1MzUwOTcs
+LTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MT
+Q2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwtMTQ2NzA4ODg5
+NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX
+0=
 -->

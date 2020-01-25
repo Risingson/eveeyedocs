@@ -25,12 +25,12 @@ Within the EVE Client your route would look like this though:<br>
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_1.png)
 
 The actual shortest route from `PR-8CA` to `Nasreri` is 32 jumps.<br> 
-The Thera route in this case got 12 jumps and sees 17 recent player ship kills within Thera.
+The Thera route in this case got 12 jumps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNjU1NjYyLC0xNzY5Mzk0MDg4LDgyNz
-gwNjgyNywxODgwMDAxOCwxODkyOTI2MDgsLTQyMTQ1NTI5OCwx
-MDY0MTEzNzksLTEyODM1MzUwOTcsLTc3MDkzNjg0MCw2MDc1Nj
-Q0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2MTksLTIwODA1MDg1NDcs
-MTI1MzE0NzY1NSwtMTQ2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNT
-EwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
+eyJoaXN0b3J5IjpbMTk5OTMyNzQ3MywtMTc2OTM5NDA4OCw4Mj
+c4MDY4MjcsMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgs
+MTA2NDExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NT
+Y0NDcsLTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4NTQ3
+LDEyNTMxNDc2NTUsLTE0NjcwODg4OTQsMjAyODc3NjYyMSwtMT
+UxMDUyNjA5MSwtMTM0NTg1MzI3OV19
 -->

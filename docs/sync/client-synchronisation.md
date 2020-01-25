@@ -20,10 +20,11 @@ If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `P
 Within the EVE Client your route would look like this since it does not know about Thera:
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client2.png)
 
+The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps. 
+The Thera route in this case got 13 jumps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUzMTI1MzUsLTEyODM1MzUwOTcsLT
-c3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2
-MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwtMTQ2NzA4ODg5NC
-wyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
-
+eyJoaXN0b3J5IjpbMTA2NDExMzc5LC0xMjgzNTM1MDk3LC03Nz
+A5MzY4NDAsNjA3NTY0NDcsLTIxMDM3NzU4NjMsNDA0NDE0NjE5
+LC0yMDgwNTA4NTQ3LDEyNTMxNDc2NTUsLTE0NjcwODg4OTQsMj
+AyODc3NjYyMSwtMTUxMDUyNjA5MSwtMTM0NTg1MzI3OV19
 -->

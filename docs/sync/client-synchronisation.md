@@ -10,7 +10,7 @@
 ## Setting Waypoints
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. To do this tap/click a solarsystem. I the appearing menu hit *Set Waypoint* or *Set Destination*.
 ### Option Use Wormholes/Jumpbridges
-When you got one or both of the options *Use Wormholes* or *Use Jumpbridges* enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
+When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
 
 #### Example
 We like to go from `PR-8CA` to `Nasreri`.
@@ -23,7 +23,7 @@ Within the EVE Client your route would look like this since it does not know abo
 The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps. 
 The Thera route in this case got 12 jumps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5OTkyMzg0LC00MjE0NTUyOTgsMTA2ND
+eyJoaXN0b3J5IjpbMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2ND
 ExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDcs
 LTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4NTQ3LDEyNT
 MxNDc2NTUsLTE0NjcwODg4OTQsMjAyODc3NjYyMSwtMTUxMDUy

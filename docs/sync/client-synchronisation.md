@@ -1,6 +1,6 @@
 # Client Sync
 
-!!! Warning 
+!!! attention
     This page is work in progress.
 
 ## Icons
@@ -25,10 +25,10 @@ Within the EVE Client your route would look like this since it does not know abo
 The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps.<br> 
 The Thera route in this case got 12 jumps but sees 17 recent player ship kills within Thera.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5Mj
-YwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5Nywt
-NzcwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxND
-YxOSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0
-LDIwMjg3NzY2MjEsLTE1MTA1MjYwOTEsLTEzNDU4NTMyNzldfQ
-==
+eyJoaXN0b3J5IjpbLTIxNDUxNTQ4MjcsODI3ODA2ODI3LDE4OD
+AwMDE4LDE4OTI5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwt
+MTI4MzUzNTA5NywtNzcwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNz
+c1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1
+LC0xNDY3MDg4ODk0LDIwMjg3NzY2MjEsLTE1MTA1MjYwOTEsLT
+EzNDU4NTMyNzldfQ==
 -->

@@ -20,10 +20,10 @@ If you Set Destination to Nasreri via Eveeye the app will set a waypoint at PUIG
 Within the EVE Client your route would look like this since it does not know about Thera:
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client.png)
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client2.png)
-There you go taking the risk to halve the jumps on your journey.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzI1OTkwMywtNzcwOTM2ODQwLDYwNz
-U2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0
-NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0LDIwMjg3NzY2MjEsLT
-E1MTA1MjYwOTEsLTEzNDU4NTMyNzldfQ==
+eyJoaXN0b3J5IjpbLTEyODM1MzUwOTcsLTc3MDkzNjg0MCw2MD
+c1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2MTksLTIwODA1MDg1
+NDcsMTI1MzE0NzY1NSwtMTQ2NzA4ODg5NCwyMDI4Nzc2NjIxLC
+0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
 -->

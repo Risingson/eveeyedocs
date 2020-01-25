@@ -19,8 +19,7 @@ When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` ena
 
 #### Example
 We like to go from `PR-8CA` to `Nasreri`.<br>
-The shortest route from `PR-8CA` to `Nasreri` via k-space is 32 jumps.<br> 
-![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_00.png)
+The shortest route from `PR-8CA` to `Nasreri` via k-space is 32 jumps.<br> ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_00.png)
 
 A 12-jump route including a detour via Thera was found:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_0.png)
 
@@ -28,10 +27,11 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this though since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLTE3Nj
-kzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYwOCwt
-NDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5NywtNzcwOT
-M2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwt
-MjA4MDUwODU0NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0LDIwMj
-g3NzY2MjEsLTE1MTA1MjYwOTEsLTEzNDU4NTMyNzldfQ==
+eyJoaXN0b3J5IjpbLTI1MTAwMjE2LDEzNTQ1NDI5NjYsNzIwOT
+AzMDIzLC0xNzY5Mzk0MDg4LDgyNzgwNjgyNywxODgwMDAxOCwx
+ODkyOTI2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEyODM1Mz
+UwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2Myw0
+MDQ0MTQ2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwtMTQ2Nz
+A4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUz
+Mjc5XX0=
 -->

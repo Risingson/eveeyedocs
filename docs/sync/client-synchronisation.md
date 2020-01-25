@@ -21,11 +21,11 @@ Within the EVE Client your route would look like this since it does not know abo
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client2.png)
 
 The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps. 
-The Thera route in this case got 13 jumps.
+The Thera route in this case got 12 jumps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcxNjQ2Mzk5LDEwNjQxMTM3OSwtMTI4Mz
-UzNTA5NywtNzcwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYz
-LDQwNDQxNDYxOSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1LC0xND
-Y3MDg4ODk0LDIwMjg3NzY2MjEsLTE1MTA1MjYwOTEsLTEzNDU4
-NTMyNzldfQ==
+eyJoaXN0b3J5IjpbLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEyOD
+M1MzUwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2
+Myw0MDQ0MTQ2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwtMT
+Q2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1
+ODUzMjc5XX0=
 -->

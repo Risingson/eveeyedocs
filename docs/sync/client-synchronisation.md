@@ -1,5 +1,6 @@
-# Client Sync (TBD)
+# Client Sync (page work in progress)
 
+!!! Warning 
 
 ## Icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > Off<br>
@@ -23,9 +24,9 @@ Within the EVE Client your route would look like this since it does not know abo
 The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps. 
 The Thera route in this case got 12 jumps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2ND
-ExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDcs
-LTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4NTQ3LDEyNT
-MxNDc2NTUsLTE0NjcwODg4OTQsMjAyODc3NjYyMSwtMTUxMDUy
-NjA5MSwtMTM0NTg1MzI3OV19
+eyJoaXN0b3J5IjpbLTQyMTk3NDA0NywxODkyOTI2MDgsLTQyMT
+Q1NTI5OCwxMDY0MTEzNzksLTEyODM1MzUwOTcsLTc3MDkzNjg0
+MCw2MDc1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2MTksLTIwOD
+A1MDg1NDcsMTI1MzE0NzY1NSwtMTQ2NzA4ODg5NCwyMDI4Nzc2
+NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
 -->

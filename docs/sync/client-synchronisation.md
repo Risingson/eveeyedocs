@@ -12,7 +12,7 @@
 <br><br>...<br><br>
 
 ## Setting Waypoints
-With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. To do this tap/click a solarsystem. I the appearing menu hit *Set Waypoint* or *Set Destination*.
+With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. To do this tap/click a solarsystem. I the appearing menu hit `Set Waypoint` or `Set Destination`.
 
 ### Option Use Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
@@ -27,11 +27,11 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this though since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1MzkyNjc5LDEzNTQ1NDI5NjYsNzIwOT
-AzMDIzLC0xNzY5Mzk0MDg4LDgyNzgwNjgyNywxODgwMDAxOCwx
-ODkyOTI2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEyODM1Mz
-UwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2Myw0
-MDQ0MTQ2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwtMTQ2Nz
-A4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMzQ1ODUz
-Mjc5XX0=
+eyJoaXN0b3J5IjpbLTQ1NzE3NDE0OSwzMTUzOTI2NzksMTM1ND
+U0Mjk2Niw3MjA5MDMwMjMsLTE3NjkzOTQwODgsODI3ODA2ODI3
+LDE4ODAwMDE4LDE4OTI5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMT
+M3OSwtMTI4MzUzNTA5NywtNzcwOTM2ODQwLDYwNzU2NDQ3LC0y
+MTAzNzc1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0NywxMjUzMT
+Q3NjU1LC0xNDY3MDg4ODk0LDIwMjg3NzY2MjEsLTE1MTA1MjYw
+OTFdfQ==
 -->

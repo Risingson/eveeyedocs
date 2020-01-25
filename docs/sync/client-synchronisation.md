@@ -20,17 +20,17 @@ When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` ena
 We like to go from `PR-8CA` to `Nasreri`.
 A route including a detour via Thera was found:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_0.png)
 
-If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. The corresponding Signature Code is found in the solarsystem-tab SIG or on the line on the map. From Thera do the same for the exit to `Vecamia`.
-Within the EVE Client your route would look like this since it does not know about Thera:<br>
+If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. The corresponding Signature Code is found in the solarsystem-tab SIG or on the line on the map. From Thera do the same for the exit -in this case- to `Vecamia`.<br>
+Within the EVE Client your route would look like this t:<br>
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_1.png)
 
 The actual shortest route from `PR-8CA` to `Nasreri` is 49 jumps.<br> 
 The Thera route in this case got 12 jumps but sees 17 recent player ship kills within Thera.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDAwNTE2Nyw4Mjc4MDY4MjcsMTg4MD
-AwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2NDExMzc5LC0x
-MjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDcsLTIxMDM3Nz
-U4NjMsNDA0NDE0NjE5LC0yMDgwNTA4NTQ3LDEyNTMxNDc2NTUs
-LTE0NjcwODg4OTQsMjAyODc3NjYyMSwtMTUxMDUyNjA5MSwtMT
-M0NTg1MzI3OV19
+eyJoaXN0b3J5IjpbLTY5MTM5ODg1LDgyNzgwNjgyNywxODgwMD
+AxOCwxODkyOTI2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEy
+ODM1MzUwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NT
+g2Myw0MDQ0MTQ2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1NSwt
+MTQ2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC0xMz
+Q1ODUzMjc5XX0=
 -->

@@ -13,17 +13,18 @@ With sync active you got the possibility to set destinations/waypoints from Evee
 When you got one or both of the options *Use Wormholes* or *Use Jumpbridges* enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
 
 #### Example
-We like to go from PR-8CA to Nasreri.
-A route including a detour via Thera was found. **MISSES WAYPOINT MARKER !?!?!?**![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_ee.png)
+We like to go from `PR-8CA` to `Nasreri`.
+A route including a detour via Thera was found.![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client1.png)
 
-If you Set Destination to Nasreri via Eveeye the app will set a waypoint at PUIG-F. There you would have to find the entrance to Thera. From there find the exit to Vecamia.
+If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. From there find the exit to Vecamia.
 Within the EVE Client your route would look like this since it does not know about Thera:
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client.png)
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client2.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1MzUwOTcsLTc3MDkzNjg0MCw2MD
-c1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2MTksLTIwODA1MDg1
-NDcsMTI1MzE0NzY1NSwtMTQ2NzA4ODg5NCwyMDI4Nzc2NjIxLC
-0xNTEwNTI2MDkxLC0xMzQ1ODUzMjc5XX0=
+eyJoaXN0b3J5IjpbMTk4MTYzMTQ4MCwtMTI4MzUzNTA5NywtNz
+cwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYx
+OSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0LD
+IwMjg3NzY2MjEsLTE1MTA1MjYwOTEsLTEzNDU4NTMyNzldfQ==
+
 -->

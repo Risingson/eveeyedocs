@@ -26,12 +26,11 @@ A shorter route including a detour via Thera was found:<br>![enter image descrip
 
 If you Set Destination to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. The corresponding Signature Code is found in the solarsystem-tab SIG or on the line on the map. From Thera do the same for the exit -in this case- to `Vecamia`.<br>
 
-Within the EVE Client your route would look like this though:<br>
-![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
+Within the EVE Client your route would look like this though since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 
 The Thera route in this example got 12 jumps.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODE1NDUyNiw3MjA5MDMwMjMsLTE3Nj
+eyJoaXN0b3J5IjpbLTMyNjgwMzc5OSw3MjA5MDMwMjMsLTE3Nj
 kzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYwOCwt
 NDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5NywtNzcwOT
 M2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwt

@@ -14,7 +14,7 @@ When you got one or both of the options *Use Wormholes* or *Use Jumpbridges* ena
 
 #### Example
 We like to go from PR-8CA to Nasreri.
-A route including a detour via Thera was found.![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_ee.png)
+A route including a detour via Thera was found. **MISSES WAYPOINT MARKER !?!?!?**![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_ee.png)
 
 If you Set Destination to Nasreri via Eveeye the app will set a waypoint at PUIG-F. There you would have to find the entrance to Thera. From there find the exit to Vecamia.
 Within the EVE Client your route would look like this since it does not know about Thera:
@@ -22,8 +22,8 @@ Within the EVE Client your route would look like this since it does not know abo
  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/route_wh_client2.png)
 There you go taking the risk to halve the jumps on your journey.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMz
-c3NTg2Myw0MDQ0MTQ2MTksLTIwODA1MDg1NDcsMTI1MzE0NzY1
-NSwtMTQ2NzA4ODg5NCwyMDI4Nzc2NjIxLC0xNTEwNTI2MDkxLC
-0xMzQ1ODUzMjc5XX0=
+eyJoaXN0b3J5IjpbLTM1MzI1OTkwMywtNzcwOTM2ODQwLDYwNz
+U2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0
+NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0LDIwMjg3NzY2MjEsLT
+E1MTA1MjYwOTEsLTEzNDU4NTMyNzldfQ==
 -->

@@ -2,7 +2,7 @@
 Enabling Client sync will trigger the following:
 
  - Start fetching your ingame location to follow your ship on the map
- - Routing options
+ - [Waypoint interaction](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) options
  - Using your current ship for jumprange calculations
  - Start [sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) your data if you chose to do so
 
@@ -15,11 +15,11 @@ Enabling Client sync will trigger the following:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjExMDAyNywtNDU3MTc0MTQ5LDMxNT
-M5MjY3OSwxMzU0NTQyOTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4
-OCw4Mjc4MDY4MjcsMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NT
-UyOTgsMTA2NDExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAs
-NjA3NTY0NDcsLTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNT
-A4NTQ3LDEyNTMxNDc2NTUsLTE0NjcwODg4OTQsMjAyODc3NjYy
-MV19
+eyJoaXN0b3J5IjpbLTE4ODk0MDcyMjUsLTQ1NzE3NDE0OSwzMT
+UzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLTE3NjkzOTQw
+ODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYwOCwtNDIxND
+U1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5NywtNzcwOTM2ODQw
+LDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwtMjA4MD
+UwODU0NywxMjUzMTQ3NjU1LC0xNDY3MDg4ODk0LDIwMjg3NzY2
+MjFdfQ==
 -->

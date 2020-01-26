@@ -36,7 +36,7 @@ Avoid systems you set avoided by clicking it and choosing "Avoid System" in the 
 Systems you set avoided are listed here. Clicking the system will let you remove it from the list.
 
 !!! attention
-    Routes displayed may not match ingame routing even if you match ingame and eveeye route settings.
+    You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
 
 ## Jump
 #### Display Jumprange
@@ -51,7 +51,7 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMz
-MzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQy
-NDg0LDE4MzIxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMj
+IyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1
+MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
 -->

@@ -31,7 +31,8 @@ nav:
     - Miscellaneous: data/misc.md
 - Client Sync:
     - Character Management: sync/character-management.md
-    - Client Sync: sync/client-synchronisation.md    
+    - Client Sync: sync/client-synchronisation.md 
+    - Waypoints: sync/waypoints.md 
 - Data Sharing:    
     - Cloud: sharing/cloud.md
     - Intel Channels: sharing/intel-channels.md

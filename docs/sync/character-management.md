@@ -11,15 +11,15 @@ Logging in characters is not necessary to use this app but unlocks the following
 This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. Since the ingame browser has been removed it is not possible to track your ingame location without a SSO login hence using an API KEY is not an option anymore.
 
 !!! success "Security"
-    Unless you enable the [Cloud](https://eveeye.readthedocs.io/en/latest/sharing/cloud) services no data gets stored on Eveeye server. If cloud sync is enabled only a complementary key is stored on the server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
+    Unless you enable the [Cloud](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) services no data gets stored on Eveeye server. If cloud sync is enabled only a complementary key is stored on the server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
 
 ## Login process
 To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu.
 At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" > top left.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDc1OTM5OSwtMTUyMzE4MjI3NiwxMD
-YzNjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2MzQ1NjEsLTM4MDQ5
-ODAyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3MjgsMTY3OTY2ODA5M1
-19
+eyJoaXN0b3J5IjpbLTY1Nzg0Njg5NCwtODc0NzU5Mzk5LC0xNT
+IzMTgyMjc2LDEwNjM2NTEwMTEsLTEzOTEwMjE0MTcsMTgzNTYz
+NDU2MSwtMzgwNDk4MDIwLDEyODY5MTk3ODcsMTIyNjk5NzcyOC
+wxNjc5NjY4MDkzXX0=
 -->

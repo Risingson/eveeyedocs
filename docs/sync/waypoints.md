@@ -4,10 +4,10 @@ With sync active you got the possibility to set destinations/waypoints from Evee
 
 ## Interaction
 To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination`.<br>
-In the same menu you can select `Avoid System`. To mange your avoided systems goto the Routing options in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > Settings menu.
+In the same menu you can select `Avoid System`. To mange your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 !!! attention
-    Routes displayed may not match ingame routing even if you match ingame and eveeye route settings.
+    You shouldRoutes displayed may not match ingame routing even if you match ingame and eveeye route settings.
 
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
@@ -22,5 +22,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this though since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbMTYwNTAzNzkyLC00NDE3MjI1MzYsLTE4MD
+U1ODY0NTVdfQ==
 -->

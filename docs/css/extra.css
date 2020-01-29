@@ -22,7 +22,7 @@ nav::-webkit-scrollbar-thumb{
 	background-color:#141414;
 	border: 1px solid rgba(0, 0, 0, 0);
 }	
-.injected {
+.injected, .wy-breadcrumbs-aside {
 	display:none;
 }
 

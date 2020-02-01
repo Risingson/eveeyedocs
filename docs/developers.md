@@ -19,11 +19,11 @@ Check browser version urls for reference.<br>
 
 For example `eveautheveeye://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 centered. 
 
-If a check on if eveeye is installed fails you can redirect the to<br>
+If a check on if eveeye is installed fails you could redirect to<br>
 iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
 Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzUyNDkwMCw0MzA3NDA2NzAsLTI2MT
-ExMDc5NF19
+eyJoaXN0b3J5IjpbNjEwMjk4ODg2LDIwNTM1MjQ5MDAsNDMwNz
+QwNjcwLC0yNjExMTA3OTRdfQ==
 -->

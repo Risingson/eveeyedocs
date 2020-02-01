@@ -25,9 +25,6 @@ nav::-webkit-scrollbar-thumb{
 .injected, .wy-breadcrumbs-aside {
 	display:none !important;
 }
-.rst-versions {
-	display:none !important;
-}
 footer {
 	display: none;
 }

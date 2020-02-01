@@ -19,11 +19,11 @@ To revoke access for Eveeye goto [https://community.eveonline.com/support/third-
 To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu.
 At the Character Management page tap/click <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" > top left.
 
-To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu. This will not 
+To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep the data stored for a while to not loose it by accident.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzQzODAwLC01NTc1MDM1MzEsLTg3ND
-c1OTM5OSwtMTUyMzE4MjI3NiwxMDYzNjUxMDExLC0xMzkxMDIx
-NDE3LDE4MzU2MzQ1NjEsLTM4MDQ5ODAyMCwxMjg2OTE5Nzg3LD
-EyMjY5OTc3MjgsMTY3OTY2ODA5M119
+eyJoaXN0b3J5IjpbLTE2ODUxNTY1NjYsLTU1NzUwMzUzMSwtOD
+c0NzU5Mzk5LC0xNTIzMTgyMjc2LDEwNjM2NTEwMTEsLTEzOTEw
+MjE0MTcsMTgzNTYzNDU2MSwtMzgwNDk4MDIwLDEyODY5MTk3OD
+csMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=
 -->

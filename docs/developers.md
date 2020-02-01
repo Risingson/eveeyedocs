@@ -11,9 +11,9 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
     
 ## Eveeye custom-url-scheme
 You can call Eveeye on iOS or Android via the custom-url-scheme `eveautheveeye` with parameters 
-`m` for mapnames
-`s` for solarsystemnames
-`t` for info tab open
+`m` for mapname
+`s` for solarsystemname
+`t` for info tab opened 
 `o` for options
 Check browser version urls for reference.
 
@@ -24,5 +24,5 @@ iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`
 Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc5NDAxMDVdfQ==
+eyJoaXN0b3J5IjpbLTI2MTExMDc5NF19
 -->

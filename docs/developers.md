@@ -9,8 +9,13 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 !!! help "Help needed"
     If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.
     
-## Eveeye Custom Url Scheme
-You can call Eveeye on iOS or Android via the custom-url-scheme `eveautheveeye` with parameters `m` for mapnames or `s` for solarsystemnames.
+## Eveeye custom-url-scheme
+You can call Eveeye on iOS or Android via the custom-url-scheme `eveautheveeye` with parameters 
+`m` for mapnames
+`s` for solarsystemnames
+`t` for info tab open
+`o` for options
+Check browser version urls for reference.
 
 For example `eveautheveeye://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 centered. 
 
@@ -19,5 +24,5 @@ iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`
 Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc5MjkyNThdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjc5NDAxMDVdfQ==
 -->

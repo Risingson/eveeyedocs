@@ -23,12 +23,12 @@ To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/
 When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal.
 
 ## Re-authing
-If you updated your character image you can update it be just authorizing the char again. Also if a new version of Eveeye was installed sometimes new features added would need you to update the character
+If you updated your character image you can update it by just authorizing the char again. Also if a new version of Eveeye was installed sometimes new features added would need you to authorize your character for using additional data interfaces by EVE Online.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjYxMjcwMiwtODM4NzY3OTE4LDE0Nz
-czMTg0NzQsLTM0NjI2NjIwNywtMTUzMTE1NjQ5MCwtNTU3NTAz
-NTMxLC04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2MzY1MTAxMS
-wtMTM5MTAyMTQxNywxODM1NjM0NTYxLC0zODA0OTgwMjAsMTI4
-NjkxOTc4NywxMjI2OTk3NzI4LDE2Nzk2NjgwOTNdfQ==
+eyJoaXN0b3J5IjpbNzUwNjU1MTc4LC04Mzg3Njc5MTgsMTQ3Nz
+MxODQ3NCwtMzQ2MjY2MjA3LC0xNTMxMTU2NDkwLC01NTc1MDM1
+MzEsLTg3NDc1OTM5OSwtMTUyMzE4MjI3NiwxMDYzNjUxMDExLC
+0xMzkxMDIxNDE3LDE4MzU2MzQ1NjEsLTM4MDQ5ODAyMCwxMjg2
+OTE5Nzg3LDEyMjY5OTc3MjgsMTY3OTY2ODA5M119
 -->

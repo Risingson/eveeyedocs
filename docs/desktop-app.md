@@ -11,13 +11,10 @@ If you do not trust the installer you can do the same as described for Mac and L
 
 ### Mac and Linux
 I am sorry but i got no installer available for those platforms. 
-If you are capable of stuff like this you can download the program at [https://nwjs.io/downloads/](https://nwjs.io/downloads/).
-A reference on how to package for that platforms can be found [here](http://docs.nwjs.io/en/latest/For%20Users/Package%20and%20Distribute/#platform-specific-steps).
-
-Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0), [logo.png](https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0), [nw.icns](https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0)
+If you are capable of stuff like this see the [developer page](https://eveeye.readthedocs.io/en/latest/developers/).
 
 !!! help "Help needed"
-    If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.
+    If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know. See [developer page](https://eveeye.readthedocs.io/en/latest/developers/)
 
 ## User Interface
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app<br>
@@ -30,8 +27,8 @@ Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.js
 ## Intel Channels
 The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM2MDAxMDIsNjAxOTg1MzU3LC04MD
-czNTExNzUsLTgwNzM1MTE3NSwtMTM5NTg4Mzg2Miw1ODg5NDc0
-NDMsLTU5NDg2MDM3NSwtNDA2MjMyMzA0LC0xMDEyMzU2ODgxLC
-00NzkxNTkwODhdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzU0MzQ5LC0xNDAzNjAwMTAyLDYwMT
+k4NTM1NywtODA3MzUxMTc1LC04MDczNTExNzUsLTEzOTU4ODM4
+NjIsNTg4OTQ3NDQzLC01OTQ4NjAzNzUsLTQwNjIzMjMwNCwtMT
+AxMjM1Njg4MSwtNDc5MTU5MDg4XX0=
 -->

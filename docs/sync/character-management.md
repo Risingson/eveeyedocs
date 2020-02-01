@@ -16,16 +16,16 @@ This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.co
 To revoke access for Eveeye goto [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)
 
 ## Login process
-To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu.
+To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. You will get redirected to a new native browser window to log into EVE Online. After selecting your char you either get redirected to eveeye with the character already added or you will get asked
 
 To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install the app or clear browser cache.
 
 When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzMxODQ3NCwtMzQ2MjY2MjA3LC0xNT
-MxMTU2NDkwLC01NTc1MDM1MzEsLTg3NDc1OTM5OSwtMTUyMzE4
-MjI3NiwxMDYzNjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2MzQ1Nj
-EsLTM4MDQ5ODAyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3MjgsMTY3
-OTY2ODA5M119
+eyJoaXN0b3J5IjpbMTQ2MDU1OTIxNSwxNDc3MzE4NDc0LC0zND
+YyNjYyMDcsLTE1MzExNTY0OTAsLTU1NzUwMzUzMSwtODc0NzU5
+Mzk5LC0xNTIzMTgyMjc2LDEwNjM2NTEwMTEsLTEzOTEwMjE0MT
+csMTgzNTYzNDU2MSwtMzgwNDk4MDIwLDEyODY5MTk3ODcsMTIy
+Njk5NzcyOCwxNjc5NjY4MDkzXX0=
 -->

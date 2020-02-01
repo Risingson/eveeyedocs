@@ -14,7 +14,7 @@ I am sorry but i got no installer available for those platforms.
 If you are capable of stuff like this see the [developer page](https://eveeye.readthedocs.io/en/latest/developers/).
 
 !!! help "Help needed"
-    If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know. See [developer page](https://eveeye.readthedocs.io/en/latest/developers/)
+    If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know. See [developer page](https://eveeye.readthedocs.io/en/latest/developers/).
 
 ## User Interface
 <img src="https://raw.githubusercontent.com/Risingson/E3documentation/master/docs/images/nw/close-window-100.png" width="24" height="24" > Close the app<br>
@@ -27,8 +27,8 @@ If you are capable of stuff like this see the [developer page](https://eveeye.re
 ## Intel Channels
 The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzU0MzQ5LC0xNDAzNjAwMTAyLDYwMT
-k4NTM1NywtODA3MzUxMTc1LC04MDczNTExNzUsLTEzOTU4ODM4
-NjIsNTg4OTQ3NDQzLC01OTQ4NjAzNzUsLTQwNjIzMjMwNCwtMT
-AxMjM1Njg4MSwtNDc5MTU5MDg4XX0=
+eyJoaXN0b3J5IjpbODc0NTA4MTkzLDE0Nzc1NDM0OSwtMTQwMz
+YwMDEwMiw2MDE5ODUzNTcsLTgwNzM1MTE3NSwtODA3MzUxMTc1
+LC0xMzk1ODgzODYyLDU4ODk0NzQ0MywtNTk0ODYwMzc1LC00MD
+YyMzIzMDQsLTEwMTIzNTY4ODEsLTQ3OTE1OTA4OF19
 -->

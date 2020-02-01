@@ -25,4 +25,6 @@ nav::-webkit-scrollbar-thumb{
 .injected, .wy-breadcrumbs-aside {
 	display:none;
 }
-
+footer, hr {
+	display: none;
+}

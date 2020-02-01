@@ -20,10 +20,10 @@ To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedo
 
 To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove your data un-install the app or clear browser cache.
 
-When using the cloud storage feature the token styour data will get deleted 30-days after char removal.
+When using the cloud storage feature the token stored to identify your char gets removed immediately. Your custom data will get deleted 30-days after char removal.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc3NTY5NTAsLTU1NzUwMzUzMSwtOD
+eyJoaXN0b3J5IjpbLTE1MzExNTY0OTAsLTU1NzUwMzUzMSwtOD
 c0NzU5Mzk5LC0xNTIzMTgyMjc2LDEwNjM2NTEwMTEsLTEzOTEw
 MjE0MTcsMTgzNTYzNDU2MSwtMzgwNDk4MDIwLDEyODY5MTk3OD
 csMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=

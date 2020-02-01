@@ -16,14 +16,13 @@ This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.co
 To revoke access for Eveeye goto [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)
 
 ## Login process
-To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > in the menu.
+To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu.
 
-
-To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep the data stored for a while to not loose it by accident.
+To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mjg2NDA3MDksLTU1NzUwMzUzMSwtOD
-c0NzU5Mzk5LC0xNTIzMTgyMjc2LDEwNjM2NTEwMTEsLTEzOTEw
-MjE0MTcsMTgzNTYzNDU2MSwtMzgwNDk4MDIwLDEyODY5MTk3OD
-csMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=
+eyJoaXN0b3J5IjpbMjAwMjg3NDQxMCwtNTU3NTAzNTMxLC04Nz
+Q3NTkzOTksLTE1MjMxODIyNzYsMTA2MzY1MTAxMSwtMTM5MTAy
+MTQxNywxODM1NjM0NTYxLC0zODA0OTgwMjAsMTI4NjkxOTc4Ny
+wxMjI2OTk3NzI4LDE2Nzk2NjgwOTNdfQ==
 -->

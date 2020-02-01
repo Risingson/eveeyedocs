@@ -1,6 +1,6 @@
 # Credits
 
-This documentation via [readthedocs](https://readthedocs.org/) and mkdocs
+This documentation provided by built with[MkDocs](http://www.mkdocs.org) [readthedocs](https://readthedocs.org/) 
 
 This app would not be possible without the following API data (in alphabetical order)
 
@@ -37,7 +37,7 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjUwMDgxNSwtMTExMjMwMDQwMiwxMD
-A3Mjk0Njg1LC04NjAwNDE5MjQsOTIxMzAzMTkyLDY2NzcyNjk0
-NF19
+eyJoaXN0b3J5IjpbMjQ1Njg0Nzk5LC0xMTEyMzAwNDAyLDEwMD
+cyOTQ2ODUsLTg2MDA0MTkyNCw5MjEzMDMxOTIsNjY3NzI2OTQ0
+XX0=
 -->

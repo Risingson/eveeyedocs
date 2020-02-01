@@ -18,14 +18,14 @@ To revoke access for Eveeye goto [https://community.eveonline.com/support/third-
 ## Login process
 To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu.
 
-To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove your data un-install the app or clear browser cache.
+To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install the app or clear browser cache.
 
 When using the cloud storage feature the token stored to identify your char gets removed immediately. Your custom data will get deleted 14-days after char removal.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODExMTM2NjgsLTE1MzExNTY0OTAsLT
-U1NzUwMzUzMSwtODc0NzU5Mzk5LC0xNTIzMTgyMjc2LDEwNjM2
-NTEwMTEsLTEzOTEwMjE0MTcsMTgzNTYzNDU2MSwtMzgwNDk4MD
-IwLDEyODY5MTk3ODcsMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=
+eyJoaXN0b3J5IjpbLTE3NjU3MTk3NCwtMTUzMTE1NjQ5MCwtNT
+U3NTAzNTMxLC04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2MzY1
+MTAxMSwtMTM5MTAyMTQxNywxODM1NjM0NTYxLC0zODA0OTgwMj
+AsMTI4NjkxOTc4NywxMjI2OTk3NzI4LDE2Nzk2NjgwOTNdfQ==
 
 -->

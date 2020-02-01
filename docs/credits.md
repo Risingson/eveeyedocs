@@ -1,10 +1,10 @@
 # Credits
 
-This documentation provided by built with[MkDocs](http://www.mkdocs.org) [readthedocs](https://readthedocs.org/) 
-
-This app would not be possible without the following API data (in alphabetical order)
+This documentation provided by [Read the Docs](https://readthedocs.org/) built with [MkDocs](http://www.mkdocs.org) and [StackEdit](https://stackedit.io/)
 
 ## Data Credits
+This app would not be possible without the following API data (in alphabetical order).<br>
+
 EVE Online by [CCP](https://ccpgames.com) <br>
 [Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa <br>
 Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br> 
@@ -37,7 +37,7 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1Njg0Nzk5LC0xMTEyMzAwNDAyLDEwMD
-cyOTQ2ODUsLTg2MDA0MTkyNCw5MjEzMDMxOTIsNjY3NzI2OTQ0
-XX0=
+eyJoaXN0b3J5IjpbLTE1NTE3NTM4NDksLTExMTIzMDA0MDIsMT
+AwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5
+NDRdfQ==
 -->

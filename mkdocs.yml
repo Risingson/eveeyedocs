@@ -1,7 +1,10 @@
 site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
 theme:
-  name: rtd-dropdown
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'blue'
 markdown_extensions:
   - admonition  
   - footnotes

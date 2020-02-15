@@ -1,10 +1,7 @@
 site_name: Eveeye Documentation
 repo_url: https://github.com/Risingson/eedocs/
 theme:
-  name: mkdocs-material
-  palette:
-    primary: 'blue'
-    accent: 'blue'
+  name: rtd-dropdown
 markdown_extensions:
   - admonition  
   - footnotes

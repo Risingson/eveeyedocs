@@ -8,9 +8,6 @@ markdown_extensions:
 extra_css: [css/extra.css]
 nav:
 - Eveeye Explorer Docs: index.md
-- Desktop app: desktop-app.md
-- Release Notes: release-notes.md
-- Credits: credits.md
 - User Interface:
     - Basics: ui/basic-ui.md
     - Settings: ui/settings.md
@@ -38,4 +35,6 @@ nav:
     - Intel Channels: sharing/intel-channels.md
     - Signatures: sharing/signatures.md   
     - Custom Marks: sharing/custom-marks.md 
-
+- Desktop app: desktop-app.md
+- Release Notes: release-notes.md
+- Credits: credits.md

@@ -36,7 +36,9 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 ## Other options
 ### Switch custom marks
 ### Manage Intel channels
-### Manage Intel channels
+### Share and Show K-K Connections
+If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
+!!! 
 
 ## Remove character and data from cloud
 Disabling cloud will delete all data related to that character from cloud.
@@ -47,7 +49,7 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3MjEzMzU4LDQxNzQ5Mzc5NiwtMTQwMD
-cyNTg4OCwtMjM1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkw
-MV19
+eyJoaXN0b3J5IjpbMTQ3MjE4NTU0MCw0MTc0OTM3OTYsLTE0MD
+A3MjU4ODgsLTIzNTEzOTY1MiwxNjA0OTU1MTcxLC05MDMxNjk5
+MDFdfQ==
 -->

@@ -22,8 +22,8 @@
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_03.png) | 48% contested Faction Warfare system.<br>When selecting a faction warfare map the campaign tag<br>option gets enabled automatically. |
 
 ## Other
-A thin green outline of a solarsystem m
+A thin green outline of a solarsystem marks systems with ongoing Sansha incursions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDczNzkyNjIsLTYxNTIzMjcwOCwxMj
-Q4MDMzNjQ5LDIwODU1MjQyMjcsMzA2ODEzMzQ4XX0=
+eyJoaXN0b3J5IjpbMTAzODc1MTcyNywtNjE1MjMyNzA4LDEyND
+gwMzM2NDksMjA4NTUyNDIyNywzMDY4MTMzNDhdfQ==
 -->

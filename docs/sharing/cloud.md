@@ -35,7 +35,11 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 
 ## Other options
 ### Switch custom marks
+These are the toggles to use your own not shared custom marks or the ones shared with your sharing group. If you do not share
 ### Manage Intel channels
+!!! warning "Feature in development"
+    This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
+    
 ### Share and Show K-K Connections
 If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
 !!! warning "Limitation"
@@ -50,7 +54,7 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEyODA4NTEsNDE3NDkzNzk2LC0xND
-AwNzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1NTE3MSwtOTAzMTY5
-OTAxXX0=
+eyJoaXN0b3J5IjpbLTE2NDQ2MjY2NDAsLTE0MzEyODA4NTEsND
+E3NDkzNzk2LC0xNDAwNzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1
+NTE3MSwtOTAzMTY5OTAxXX0=
 -->

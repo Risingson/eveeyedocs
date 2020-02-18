@@ -35,6 +35,7 @@ nav:
     - Intel Channels: sharing/intel-channels.md
     - Signatures: sharing/signatures.md   
     - Custom Marks: sharing/custom-marks.md 
-- Desktop app: desktop-app.md
-- Release Notes: release-notes.md
-- Credits: credits.md
+- Miscellaneous:   
+    - Desktop app: desktop-app.md
+    - Release Notes: release-notes.md
+    - Credits: credits.md

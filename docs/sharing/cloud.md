@@ -38,7 +38,7 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 ### Manage Intel channels
 ### Share and Show K-K Connections
 If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
-!!! warning Limitation
+!!! warning "Limitation"
     Only connections that got edited with a signature-code or wormhole-code will get shown. This is to avoid false connections that get created by cyno-jumping or using jump-bridges.
 
 ## Remove character and data from cloud
@@ -50,7 +50,7 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxODA1MjE3LDQxNzQ5Mzc5NiwtMTQwMD
-cyNTg4OCwtMjM1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkw
-MV19
+eyJoaXN0b3J5IjpbLTE0MzEyODA4NTEsNDE3NDkzNzk2LC0xND
+AwNzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1NTE3MSwtOTAzMTY5
+OTAxXX0=
 -->

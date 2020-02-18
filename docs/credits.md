@@ -13,7 +13,7 @@ Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eve
 ## Software Credits
 <a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://chartjs.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">chartjs</span></a><br>
 Icons by <a href="https://icons8.com/icons/" target="_blank" style="text-decoration: none;" class="help_links">icons8.com</span></a><br>
-Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links" style="font-size:10px;color:#777;">Donorbox</span></a><br><!--onClick="if (analytics) _paq.push(['trackEvent','Donationlink', 'Donorbox (ref)']);" -->
+Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style="text-decoration: none;">Donorbox</a><br>
 
 ## Analytics and Privacy    
 Eveeye uses <a href="https://matomo.org/" target="_blank" style="text-decoration: none;" class="help_links">Matomo</a> to analyze app use anonymized.<span class="only_browser"><br>The app <!--uses first party cookies for Matomo only<br> and --> complies with Do Not Track.</span>
@@ -37,7 +37,7 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE3NTM4NDksLTExMTIzMDA0MDIsMT
-AwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTE3MDMzNzMxODMsLTE1NTE3NTM4NDksLT
+ExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMw
+MzE5Miw2Njc3MjY5NDRdfQ==
 -->

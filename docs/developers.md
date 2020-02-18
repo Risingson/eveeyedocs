@@ -15,6 +15,7 @@ You can call Eveeye on iOS or Android from app version 3.00.0 via the custom-url
 `s` for solarsystemname<br>
 `t` for info tab opened <br>
 `o` for options<br>
+`j` for radar map level <br>
 Check browser version urls for reference.<br>
 
 For example `eveautheveeye://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 centered. 
@@ -24,6 +25,6 @@ iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
 Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwMjk4ODg2LDIwNTM1MjQ5MDAsNDMwNz
-QwNjcwLC0yNjExMTA3OTRdfQ==
+eyJoaXN0b3J5IjpbLTEwOTAwMTE3Nyw2MTAyOTg4ODYsMjA1Mz
+UyNDkwMCw0MzA3NDA2NzAsLTI2MTExMDc5NF19
 -->

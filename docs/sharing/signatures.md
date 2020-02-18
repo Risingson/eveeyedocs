@@ -25,10 +25,10 @@ You can show and hide anomalies, cosmics and deleted sigs by clicking the corres
 The length of the bars to the left and right of the system node reflect the sig count of the corresponding type.
 
 ## Sharing
-If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/data-sharing/) your signatures will get displayed to all other pilots in your sharing group.
+If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) your signatures will get displayed to all other pilots in your sharing group.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjQ2MDU2NiwtNDUwNTU2MTQsMzg4MT
-gxNDcyLC0xNDU5MTQ0NjIwXX0=
+eyJoaXN0b3J5IjpbMzMxNjczOTQyLC00ODI0NjA1NjYsLTQ1MD
+U1NjE0LDM4ODE4MTQ3MiwtMTQ1OTE0NDYyMF19
 -->

@@ -25,9 +25,11 @@ nav::-webkit-scrollbar-thumb{
 .injected, .wy-breadcrumbs-aside {
 	display:none !important;
 }
+/*
 footer {
 	display: none;
 }
+*/
 hr {
 	opacity: 0;
 }

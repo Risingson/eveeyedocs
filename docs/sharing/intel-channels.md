@@ -25,14 +25,14 @@ The system can parse names of:
 
 All of the above need to be separated by 2 spaces.<br>Their order does not matter.<br> For example: `FWST-8` &#9251; &#9251; `Risingson` &#9251; &#9251; `Tengu`
 
-Additionally you can use the following at the end of an intel line:
+Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQyMTYzNTcsNjk0OTI1MTAxLDE4OT
-A2MDA5MTUsLTI0OTk3MjU2MywtMTMxODM0ODg3MCwxMDk2MTE3
-MTMzLC0xNTIyNjgzNjgxLDE4NjI2MDMwNzAsLTIwNjUxNjMwOC
-wxOTkwMjY3NDM5LC0xNDAzNDg5MTAxLC0yMTQxODg3ODI4LDE5
-ODUwMjc1MTEsMTAxNjQ1MzI4MywxMTM5MDE5NjA2LC0xNDE1MD
-AyNzg3LDg5MTY1MjE0OV19
+eyJoaXN0b3J5IjpbMTk4NDIxOTAxLC0xMTI0MjE2MzU3LDY5ND
+kyNTEwMSwxODkwNjAwOTE1LC0yNDk5NzI1NjMsLTEzMTgzNDg4
+NzAsMTA5NjExNzEzMywtMTUyMjY4MzY4MSwxODYyNjAzMDcwLC
+0yMDY1MTYzMDgsMTk5MDI2NzQzOSwtMTQwMzQ4OTEwMSwtMjE0
+MTg4NzgyOCwxOTg1MDI3NTExLDEwMTY0NTMyODMsMTEzOTAxOT
+YwNiwtMTQxNTAwMjc4Nyw4OTE2NTIxNDldfQ==
 -->

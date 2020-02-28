@@ -7,7 +7,9 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
 
 ## Development, current issues
 
- - If a system was cleared via clr or clea
+ - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker
+ - `+[Number]` only works with one space before it
+ - UI
 
 ## Syntax
 What the system can parse names of:
@@ -26,7 +28,7 @@ Additionally you can use the following:
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA5MTkzMzcsLTE0MDM0ODkxMDEsLT
+eyJoaXN0b3J5IjpbLTE1NTM3MTk1MDcsLTE0MDM0ODkxMDEsLT
 IxNDE4ODc4MjgsMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkw
 MTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
 -->

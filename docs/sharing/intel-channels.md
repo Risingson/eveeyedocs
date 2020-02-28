@@ -10,7 +10,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
 This is an alpha test. This means means the feature ist still in development and will have issues. Known issues are as follows:
  - The display of the Intel list is getting a rework. I know the actual intel lines are a pain to read at the moment.
  - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.
- - `+[Number]` only works with one space before it.
+ - `+[Number]` only works with one space before it -> going to be 2.
  
 [Please give feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)
 
@@ -27,9 +27,9 @@ All of the above need to be separated by 2 spaces.
 Additionally you can use the following at the end of an intel line:
 
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
-`character` &#9251; &#9251; `solarsystem` &#9251; `+5`: Will add +5 or any other number behind the plus.
+`character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3NzUyMDQ4LC0xNDAzNDg5MTAxLC0yMT
-QxODg3ODI4LDE5ODUwMjc1MTEsMTAxNjQ1MzI4MywxMTM5MDE5
-NjA2LC0xNDE1MDAyNzg3LDg5MTY1MjE0OV19
+eyJoaXN0b3J5IjpbMTc0OTk2MjE4NCwtMTQwMzQ4OTEwMSwtMj
+E0MTg4NzgyOCwxOTg1MDI3NTExLDEwMTY0NTMyODMsMTEzOTAx
+OTYwNiwtMTQxNTAwMjc4Nyw4OTE2NTIxNDldfQ==
 -->

@@ -17,12 +17,12 @@ All of the above need to be separated by 2 spaces.
 Additionally you can use the following:
 
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
-`character` &#9251; &#9251; `solarsystem` &#9251; `+5`: Will add +5 or any other number you entered (CURRENTLY ONLY ONE SPACE BEFORE THE + PLEASE AND ONLY AT THE END OF THE LINE. will improve)
+`character` &#9251; &#9251; `solarsystem` &#9251; `+5`: Will add +5 or any other number behind the plus (CURRENTLY ONLY ONE SPACE BEFORE THE + PLEASE AND ONLY AT THE END OF THE LINE. will improve)
 
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE4ODc4MjgsMTk4NTAyNzUxMSwxMD
-E2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUwMDI3ODcsODkxNjUy
-MTQ5XX0=
+eyJoaXN0b3J5IjpbLTE0MDM0ODkxMDEsLTIxNDE4ODc4MjgsMT
+k4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUw
+MDI3ODcsODkxNjUyMTQ5XX0=
 -->

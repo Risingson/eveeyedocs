@@ -14,7 +14,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
     <br> 
     [Please help with feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)<br><br> 
     Fixed:<br>
-    - Systems behind jump bridges are report 6+ jumps now.<br>
+    - Systems behind jump bridges report 6+ jumps now.<br>
 
 ## Syntax
 The system can parse names of:
@@ -30,9 +30,10 @@ Additionally you can use the following at the end of an intel line:
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDYwMDkxNSwtMjQ5OTcyNTYzLC0xMz
-E4MzQ4ODcwLDEwOTYxMTcxMzMsLTE1MjI2ODM2ODEsMTg2MjYw
-MzA3MCwtMjA2NTE2MzA4LDE5OTAyNjc0MzksLTE0MDM0ODkxMD
-EsLTIxNDE4ODc4MjgsMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDEx
-MzkwMTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
+eyJoaXN0b3J5IjpbMzQzMzQzNzc1LDE4OTA2MDA5MTUsLTI0OT
+k3MjU2MywtMTMxODM0ODg3MCwxMDk2MTE3MTMzLC0xNTIyNjgz
+NjgxLDE4NjI2MDMwNzAsLTIwNjUxNjMwOCwxOTkwMjY3NDM5LC
+0xNDAzNDg5MTAxLC0yMTQxODg3ODI4LDE5ODUwMjc1MTEsMTAx
+NjQ1MzI4MywxMTM5MDE5NjA2LC0xNDE1MDAyNzg3LDg5MTY1Mj
+E0OV19
 -->

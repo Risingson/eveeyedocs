@@ -16,11 +16,12 @@ All of the above need to be separated by 2 spaces.
 
 Additionally you can use the following:
 
-`clr` or `clear` + `solarsystem` : sets a system empty
-+[Number] + character + solarsystem: Will display 
+`solarsystem` + `clr` or `clear`: sets a system empty
+character + solarsystem +5: Will add +5 or any other number you  
+
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjQ1MzI4MywxMTM5MDE5NjA2LC0xND
-E1MDAyNzg3LDg5MTY1MjE0OV19
+eyJoaXN0b3J5IjpbLTk3MzAwMzc1NiwxMDE2NDUzMjgzLDExMz
+kwMTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
 -->

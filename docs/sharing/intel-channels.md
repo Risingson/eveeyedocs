@@ -13,11 +13,14 @@ What the system can parse names of:
  - Ships
 
 All of the above need to be separated by 2 spaces.
-Additional
 
+Additionally you can use the following:
+
+`clr` or `clear` + `solarsystem` : sets a system empty
++
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTA3MDE5NywxMTM5MDE5NjA2LC0xND
+eyJoaXN0b3J5IjpbMTIwOTg1NjgxMywxMTM5MDE5NjA2LC0xND
 E1MDAyNzg3LDg5MTY1MjE0OV19
 -->

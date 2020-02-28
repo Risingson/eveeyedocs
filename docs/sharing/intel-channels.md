@@ -11,7 +11,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
     - The display of the Intel list is getting a rework. I know the actual intel lines are a pain to read at the moment.<br>
     - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.<br>
     - `+[Number]` only works with one space before it at the moment.<br>
-    - ~~Systems behind jump bridges reported too close~~<br><br> 
+    ~~Systems behind jump bridges reported too close~~<br><br> 
     [Please help with feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)
 
 ## Syntax
@@ -28,7 +28,7 @@ Additionally you can use the following at the end of an intel line:
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjk4Njk2MSwtMjA2NTE2MzA4LDE5OT
+eyJoaXN0b3J5IjpbMTg2MjYwMzA3MCwtMjA2NTE2MzA4LDE5OT
 AyNjc0MzksLTE0MDM0ODkxMDEsLTIxNDE4ODc4MjgsMTk4NTAy
 NzUxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUwMDI3OD
 csODkxNjUyMTQ5XX0=

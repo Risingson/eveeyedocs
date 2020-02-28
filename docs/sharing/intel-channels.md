@@ -24,15 +24,16 @@ What the system can parse names of:
  - `ships`
 
 All of the above need to be separated by 2 spaces.
+For example `FWST-8` &#9251; &#9251; `Risingson` &#9251; &#9251; `Tengu`
 
 Additionally you can use the following at the end of an intel line:
 
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTgzNDg4NzAsMTA5NjExNzEzMywtMT
-UyMjY4MzY4MSwxODYyNjAzMDcwLC0yMDY1MTYzMDgsMTk5MDI2
-NzQzOSwtMTQwMzQ4OTEwMSwtMjE0MTg4NzgyOCwxOTg1MDI3NT
-ExLDEwMTY0NTMyODMsMTEzOTAxOTYwNiwtMTQxNTAwMjc4Nyw4
-OTE2NTIxNDldfQ==
+eyJoaXN0b3J5IjpbMTUzMjYxNjcxNSwtMTMxODM0ODg3MCwxMD
+k2MTE3MTMzLC0xNTIyNjgzNjgxLDE4NjI2MDMwNzAsLTIwNjUx
+NjMwOCwxOTkwMjY3NDM5LC0xNDAzNDg5MTAxLC0yMTQxODg3OD
+I4LDE5ODUwMjc1MTEsMTAxNjQ1MzI4MywxMTM5MDE5NjA2LC0x
+NDE1MDAyNzg3LDg5MTY1MjE0OV19
 -->

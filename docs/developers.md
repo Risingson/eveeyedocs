@@ -4,7 +4,7 @@
 I got no installer available for those platforms. You can download the browser at [https://nwjs.io/downloads/](https://nwjs.io/downloads/). 
 A reference on how to package for that platforms can be found [here](http://docs.nwjs.io/en/latest/For%20Users/Package%20and%20Distribute/#platform-specific-steps).
 
-Extra files: [package.json](https://www.dropbox.com/s/83yjmh3ktzatuny/package.json?dl=0), [logo.png](https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0), [nw.icns](https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0)
+Extra files: [package.json](https://www.dropbox.com/s/0knpy9bi84dp7ay/package.json?dl=0), [logo.png](https://www.dropbox.com/s/b9adylfp2x1fmw6/logo.png?dl=0), [nw.icns](https://www.dropbox.com/s/0u6pfn6qkm33u5t/nw.icns?dl=0)
 
 !!! help "Help needed"
     If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.
@@ -25,6 +25,7 @@ iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
 Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ2MTY0Myw2MTAyOTg4ODYsMjA1Mz
-UyNDkwMCw0MzA3NDA2NzAsLTI2MTExMDc5NF19
+eyJoaXN0b3J5IjpbMjc3Mzk3NDY2LC0xMzI0NjE2NDMsNjEwMj
+k4ODg2LDIwNTM1MjQ5MDAsNDMwNzQwNjcwLC0yNjExMTA3OTRd
+fQ==
 -->

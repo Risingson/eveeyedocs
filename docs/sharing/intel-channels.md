@@ -23,17 +23,16 @@ What the system can parse names of:
  - `solarsystem`
  - `ship` (optional)
 
-All of the above need to be separated by 2 spaces. The order does not matter.
-For example `FWST-8` &#9251; &#9251; `Risingson` &#9251; &#9251; `Tengu`
+All of the above need to be separated by 2 spaces.<br>Their order does not matter.<br> Example `FWST-8` &#9251; &#9251; `Risingson` &#9251; &#9251; `Tengu`
 
 Additionally you can use the following at the end of an intel line:
 
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjMzNjAzMSwtMTMxODM0ODg3MCwxMD
-k2MTE3MTMzLC0xNTIyNjgzNjgxLDE4NjI2MDMwNzAsLTIwNjUx
-NjMwOCwxOTkwMjY3NDM5LC0xNDAzNDg5MTAxLC0yMTQxODg3OD
-I4LDE5ODUwMjc1MTEsMTAxNjQ1MzI4MywxMTM5MDE5NjA2LC0x
-NDE1MDAyNzg3LDg5MTY1MjE0OV19
+eyJoaXN0b3J5IjpbMjAyODI5NTkxLC0xMzE4MzQ4ODcwLDEwOT
+YxMTcxMzMsLTE1MjI2ODM2ODEsMTg2MjYwMzA3MCwtMjA2NTE2
+MzA4LDE5OTAyNjc0MzksLTE0MDM0ODkxMDEsLTIxNDE4ODc4Mj
+gsMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYsLTE0
+MTUwMDI3ODcsODkxNjUyMTQ5XX0=
 -->

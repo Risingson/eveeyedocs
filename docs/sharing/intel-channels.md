@@ -7,9 +7,11 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
 
 ## Development, current issues
 
+ - The display of the Intel list is getting a rework. I know the actual intel lines are a pain to read at the moment.
  - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker
  - `+[Number]` only works with one space before it
- - UI
+ - 
+ 
 
 ## Syntax
 What the system can parse names of:
@@ -28,7 +30,7 @@ Additionally you can use the following:
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM3MTk1MDcsLTE0MDM0ODkxMDEsLT
-IxNDE4ODc4MjgsMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkw
-MTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
+eyJoaXN0b3J5IjpbLTI5Njk0Mzk4OCwtMTQwMzQ4OTEwMSwtMj
+E0MTg4NzgyOCwxOTg1MDI3NTExLDEwMTY0NTMyODMsMTEzOTAx
+OTYwNiwtMTQxNTAwMjc4Nyw4OTE2NTIxNDldfQ==
 -->

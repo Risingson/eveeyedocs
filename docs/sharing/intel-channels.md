@@ -12,7 +12,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
     - Jump bridges will
     - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.<br>
     - `+[Number]` only works with one space before it at the moment.<br>
-    - Systems behind jump bridges are handled as if just a few jumps away<br><br> 
+    - ~~Systems behind jump bridges reporting too close~~<br><br> 
     [Please help with feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)
 
 ## Syntax
@@ -29,8 +29,8 @@ Additionally you can use the following at the end of an intel line:
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTgzNzM2OCwtMjA2NTE2MzA4LDE5OT
-AyNjc0MzksLTE0MDM0ODkxMDEsLTIxNDE4ODc4MjgsMTk4NTAy
-NzUxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUwMDI3OD
-csODkxNjUyMTQ5XX0=
+eyJoaXN0b3J5IjpbLTEwNjU0OTk1OTcsLTIwNjUxNjMwOCwxOT
+kwMjY3NDM5LC0xNDAzNDg5MTAxLC0yMTQxODg3ODI4LDE5ODUw
+Mjc1MTEsMTAxNjQ1MzI4MywxMTM5MDE5NjA2LC0xNDE1MDAyNz
+g3LDg5MTY1MjE0OV19
 -->

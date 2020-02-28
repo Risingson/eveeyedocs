@@ -16,12 +16,12 @@ All of the above need to be separated by 2 spaces.
 
 Additionally you can use the following:
 
-`solarsystem` *2spaces* `clr` or `clear`: Sets a system empty
-`character` *2spaces* `solarsystem` *2spaces* `+5`: Will add +5 or any other number you entered 
+`solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
+`character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number you entered 
 
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NDY2NTY4NCwxMDE2NDUzMjgzLDExMz
+eyJoaXN0b3J5IjpbMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDExMz
 kwMTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
 -->

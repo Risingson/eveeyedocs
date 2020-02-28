@@ -14,7 +14,7 @@ What the system can parse names of:
 
 All of the above need to be separated by 2 spaces.
 
-Additionally you can use the following:
+Additionally you can use the following at the end of the intel line:
 
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty
 `character` &#9251; &#9251; `solarsystem` &#9251; `+5`: Will add +5 or any other number you entered (CURRENTLY ONLY ONE SPACE BEFORE THE + PLEASE. Will change so it works with doublespace aswell)
@@ -22,7 +22,7 @@ Additionally you can use the following:
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NTEzMzQsMTk4NTAyNzUxMSwxMDE2ND
-UzMjgzLDExMzkwMTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5
-XX0=
+eyJoaXN0b3J5IjpbMjA4NzIwMDkyNywxOTg1MDI3NTExLDEwMT
+Y0NTMyODMsMTEzOTAxOTYwNiwtMTQxNTAwMjc4Nyw4OTE2NTIx
+NDldfQ==
 -->

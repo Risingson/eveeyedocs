@@ -8,9 +8,9 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
 ## Syntax
 What the system can parse names of:
 
- - Characters
- - Solarsystems
- - Ships
+ - `character`
+ - `solarsystem`
+ - `ships`
 
 All of the above need to be separated by 2 spaces.
 
@@ -22,7 +22,7 @@ Additionally you can use the following:
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTYyMTk2NiwxOTg1MDI3NTExLDEwMT
-Y0NTMyODMsMTEzOTAxOTYwNiwtMTQxNTAwMjc4Nyw4OTE2NTIx
-NDldfQ==
+eyJoaXN0b3J5IjpbLTIxNDE4ODc4MjgsMTk4NTAyNzUxMSwxMD
+E2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUwMDI3ODcsODkxNjUy
+MTQ5XX0=
 -->

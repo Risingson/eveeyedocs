@@ -5,6 +5,10 @@ To enable chat channel parsing you need to download and install the [desktop app
 
 To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > Sharing Icon and add intel channels. You can turn them on and off by clicking the added channels.
 
+## Development, current issues
+
+ - If a system was cleared via clr or clea
+
 ## Syntax
 What the system can parse names of:
 
@@ -22,7 +26,7 @@ Additionally you can use the following:
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM0ODkxMDEsLTIxNDE4ODc4MjgsMT
-k4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUw
-MDI3ODcsODkxNjUyMTQ5XX0=
+eyJoaXN0b3J5IjpbLTE0NDA5MTkzMzcsLTE0MDM0ODkxMDEsLT
+IxNDE4ODc4MjgsMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkw
+MTk2MDYsLTE0MTUwMDI3ODcsODkxNjUyMTQ5XX0=
 -->

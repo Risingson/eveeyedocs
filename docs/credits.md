@@ -16,7 +16,8 @@ Icons by <a href="https://icons8.com/icons/" target="_blank" style="text-decorat
 Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style="text-decoration: none;">Donorbox</a><br>
 
 ## Analytics and Privacy    
-Eveeye uses <a href="https://matomo.org/" target="_blank" style="text-decoration: none;" class="help_links">Matomo</a> to analyze app use anonymized.<span class="only_browser"><br>The app <!--uses first party cookies for Matomo only<br> and --> complies with Do Not Track.</span>
+Eveeye Apps use <a href="https://matomo.org/" target="_blank" style="text-decoration: none;" class="help_links">Matomo</a> to analyze app use anonymized.<span class="only_browser"><br>The apps <!--uses first party cookies for Matomo only<br> and --> complies with Do Not Track.</span><br>
+This documentation uses [Google Analytics](https://www.termsfeed.com/blog/privacy-policy-google-analytics/).
 
 Eveeye does not share any data with anyone. However Eveeye serves ads to generate revenue for costs due to running the apps. The following is the only *bad* stuff happening:
 
@@ -37,7 +38,7 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDMzNzMxODMsLTE1NTE3NTM4NDksLT
-ExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMw
-MzE5Miw2Njc3MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE4OTgxMzY3ODQsLTE3MDMzNzMxODMsLT
+E1NTE3NTM4NDksLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYw
+MDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
 -->

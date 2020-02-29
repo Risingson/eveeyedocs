@@ -17,6 +17,7 @@ Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style=
 
 ## Analytics and Privacy    
 Eveeye Apps use <a href="https://matomo.org/privacy/" target="_blank" style="text-decoration: none;" class="help_links">Matomo</a> to analyze app use anonymized.<span class="only_browser"><br>The apps comply with Do Not Track.</span><br>
+This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>.
 
 Eveeye does not share any data with anyone. However Eveeye serves ads to generate revenue for costs due to running the apps. The following is the only *bad* stuff happening:
 
@@ -28,7 +29,6 @@ Users may opt out of personalized advertising by visiting <a href="https://www.g
 !!! tip
     [**No advertisements and no code will get loaded from google by eveeye anymore if you choose to support Eveeye development by donating.**](https://donorbox.org/eveeye)
 
-This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>.
 
 ## CCP Disclaimer and License
 #### Disclaimer
@@ -39,8 +39,8 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjMwMjIzNiwtMTUwNTQ2NTk5MCwtMT
-g5ODEzNjc4NCwtMTcwMzM3MzE4MywtMTU1MTc1Mzg0OSwtMTEx
-MjMwMDQwMiwxMDA3Mjk0Njg1LC04NjAwNDE5MjQsOTIxMzAzMT
-kyLDY2NzcyNjk0NF19
+eyJoaXN0b3J5IjpbMTUzMjIyNjIxNiwtNjEyMzAyMjM2LC0xNT
+A1NDY1OTkwLC0xODk4MTM2Nzg0LC0xNzAzMzczMTgzLC0xNTUx
+NzUzODQ5LC0xMTEyMzAwNDAyLDEwMDcyOTQ2ODUsLTg2MDA0MT
+kyNCw5MjEzMDMxOTIsNjY3NzI2OTQ0XX0=
 -->

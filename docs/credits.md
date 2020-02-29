@@ -17,7 +17,6 @@ Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style=
 
 ## Analytics and Privacy    
 Eveeye Apps use <a href="https://matomo.org/privacy/" target="_blank" style="text-decoration: none;" class="help_links">Matomo</a> to analyze app use anonymized.<span class="only_browser"><br>The apps comply with Do Not Track.</span><br>
-This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>.
 
 Eveeye does not share any data with anyone. However Eveeye serves ads to generate revenue for costs due to running the apps. The following is the only *bad* stuff happening:
 
@@ -29,6 +28,8 @@ Users may opt out of personalized advertising by visiting <a href="https://www.g
 !!! tip
     [**No advertisements and no code will get loaded from google by eveeye anymore if you choose to support Eveeye development by donating.**](https://donorbox.org/eveeye)
 
+This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>.
+
 ## CCP Disclaimer and License
 #### Disclaimer
 EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf. CCP hf. has granted permission to eveeye.com to use EVE Online and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not in any way affiliated with, eveeye.com. CCP is in no way responsible for the content on or functioning of this website, nor can it be liable for any damage arising from the use of this website.
@@ -38,8 +39,8 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU0NjU5OTAsLTE4OTgxMzY3ODQsLT
-E3MDMzNzMxODMsLTE1NTE3NTM4NDksLTExMTIzMDA0MDIsMTAw
-NzI5NDY4NSwtODYwMDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5ND
-RdfQ==
+eyJoaXN0b3J5IjpbLTYxMjMwMjIzNiwtMTUwNTQ2NTk5MCwtMT
+g5ODEzNjc4NCwtMTcwMzM3MzE4MywtMTU1MTc1Mzg0OSwtMTEx
+MjMwMDQwMiwxMDA3Mjk0Njg1LC04NjAwNDE5MjQsOTIxMzAzMT
+kyLDY2NzcyNjk0NF19
 -->

@@ -1,6 +1,6 @@
 # Credits
 
-This documentation provided by [Read the Docs](https://readthedocs.org/) built with [MkDocs](http://www.mkdocs.org) and [StackEdit](https://stackedit.io/)
+This documentation powered and builby [Read the Docs](https://readthedocs.org/) built with [MkDocs](http://www.mkdocs.org) and [StackEdit](https://stackedit.io/)
 
 ## Data Credits
 This app would not be possible without the following API data (in alphabetical order).<br>
@@ -33,14 +33,15 @@ Users may opt out of personalized advertising by visiting <a href="https://www.g
 ## CCP Disclaimer and License
 #### Disclaimer
 EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf. CCP hf. has granted permission to eveeye.com to use EVE Online and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not in any way affiliated with, eveeye.com. CCP is in no way responsible for the content on or functioning of this website, nor can it be liable for any damage arising from the use of this website.
+
 #### Developer License
 https://developers.eveonline.com/resource/license-agreement
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4OTg1NTE2LC02MTIzMDIyMzYsLTE1MD
-U0NjU5OTAsLTE4OTgxMzY3ODQsLTE3MDMzNzMxODMsLTE1NTE3
-NTM4NDksLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYwMDQxOT
-I0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbMTc5MTYzOTE5MCw1Njg5ODU1MTYsLTYxMj
+MwMjIzNiwtMTUwNTQ2NTk5MCwtMTg5ODEzNjc4NCwtMTcwMzM3
+MzE4MywtMTU1MTc1Mzg0OSwtMTExMjMwMDQwMiwxMDA3Mjk0Nj
+g1LC04NjAwNDE5MjQsOTIxMzAzMTkyLDY2NzcyNjk0NF19
 -->

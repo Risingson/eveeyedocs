@@ -15,7 +15,8 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
     [Please help with feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)<br><br> 
     Fixed:<br>
     - Systems behind jump bridges report 6+ jumps now.<br>
-    - Possible bug cleared making the system stop working at a lot of intel lines.<br>
+    - System should not stop anymore after a lot of lines processed.<br>
+    
 ## Syntax
 The system can parse names of:
 
@@ -29,7 +30,7 @@ Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzU2ODE0NCwxOTg0MjE5MDEsLTExMj
+eyJoaXN0b3J5IjpbLTMwNDM4NTY3OCwxOTg0MjE5MDEsLTExMj
 QyMTYzNTcsNjk0OTI1MTAxLDE4OTA2MDA5MTUsLTI0OTk3MjU2
 MywtMTMxODM0ODg3MCwxMDk2MTE3MTMzLC0xNTIyNjgzNjgxLD
 E4NjI2MDMwNzAsLTIwNjUxNjMwOCwxOTkwMjY3NDM5LC0xNDAz

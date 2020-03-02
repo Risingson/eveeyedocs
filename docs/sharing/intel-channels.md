@@ -29,9 +29,8 @@ All of the above need to be separated by 2 spaces.<br>Their order does not matte
 Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzU1MzMyNywxMjkzMTYyNzIzLDE5OD
+eyJoaXN0b3J5IjpbMTI5MzE2MjcyMywxMjkzMTYyNzIzLDE5OD
 QyMTkwMSwtMTEyNDIxNjM1Nyw2OTQ5MjUxMDEsMTg5MDYwMDkx
 NSwtMjQ5OTcyNTYzLC0xMzE4MzQ4ODcwLDEwOTYxMTcxMzMsLT
 E1MjI2ODM2ODEsMTg2MjYwMzA3MCwtMjA2NTE2MzA4LDE5OTAy

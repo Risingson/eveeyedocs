@@ -29,12 +29,13 @@ All of the above need to be separated by 2 spaces.<br>Their order does not matte
 Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzE2MjcyMywxOTg0MjE5MDEsLTExMj
-QyMTYzNTcsNjk0OTI1MTAxLDE4OTA2MDA5MTUsLTI0OTk3MjU2
-MywtMTMxODM0ODg3MCwxMDk2MTE3MTMzLC0xNTIyNjgzNjgxLD
-E4NjI2MDMwNzAsLTIwNjUxNjMwOCwxOTkwMjY3NDM5LC0xNDAz
-NDg5MTAxLC0yMTQxODg3ODI4LDE5ODUwMjc1MTEsMTAxNjQ1Mz
-I4MywxMTM5MDE5NjA2LC0xNDE1MDAyNzg3LDg5MTY1MjE0OV19
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc3NzU1MzMyNywxMjkzMTYyNzIzLDE5OD
+QyMTkwMSwtMTEyNDIxNjM1Nyw2OTQ5MjUxMDEsMTg5MDYwMDkx
+NSwtMjQ5OTcyNTYzLC0xMzE4MzQ4ODcwLDEwOTYxMTcxMzMsLT
+E1MjI2ODM2ODEsMTg2MjYwMzA3MCwtMjA2NTE2MzA4LDE5OTAy
+Njc0MzksLTE0MDM0ODkxMDEsLTIxNDE4ODc4MjgsMTk4NTAyNz
+UxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYsLTE0MTUwMDI3ODcs
+ODkxNjUyMTQ5XX0=
 -->

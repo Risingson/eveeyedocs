@@ -11,7 +11,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
      - The display of the intel list is getting a rework.<br>
      - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.<br>
      - `+[Number]` only works with one space before it at the moment.<br>
-     - Some users reported that the app does not update when not the active window or minimized.<br>
+     - Some users reported that the app does stop to update when not the active window or minimized. I cannot reproduce this but am on it.<br>
     <br> 
     [Please help with feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)<br><br> 
     Fixed:<br>
@@ -31,11 +31,11 @@ Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM3NzQwNzgsMTI5MzE2MjcyMywxMj
-kzMTYyNzIzLDE5ODQyMTkwMSwtMTEyNDIxNjM1Nyw2OTQ5MjUx
-MDEsMTg5MDYwMDkxNSwtMjQ5OTcyNTYzLC0xMzE4MzQ4ODcwLD
-EwOTYxMTcxMzMsLTE1MjI2ODM2ODEsMTg2MjYwMzA3MCwtMjA2
-NTE2MzA4LDE5OTAyNjc0MzksLTE0MDM0ODkxMDEsLTIxNDE4OD
-c4MjgsMTk4NTAyNzUxMSwxMDE2NDUzMjgzLDExMzkwMTk2MDYs
-LTE0MTUwMDI3ODddfQ==
+eyJoaXN0b3J5IjpbMTExMDgwMTUyNiwxMjkzMTYyNzIzLDEyOT
+MxNjI3MjMsMTk4NDIxOTAxLC0xMTI0MjE2MzU3LDY5NDkyNTEw
+MSwxODkwNjAwOTE1LC0yNDk5NzI1NjMsLTEzMTgzNDg4NzAsMT
+A5NjExNzEzMywtMTUyMjY4MzY4MSwxODYyNjAzMDcwLC0yMDY1
+MTYzMDgsMTk5MDI2NzQzOSwtMTQwMzQ4OTEwMSwtMjE0MTg4Nz
+gyOCwxOTg1MDI3NTExLDEwMTY0NTMyODMsMTEzOTAxOTYwNiwt
+MTQxNTAwMjc4N119
 -->

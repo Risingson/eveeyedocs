@@ -32,8 +32,8 @@
     Keyboard shortcuts do not apply to mobile apps.
 
 Hold SHIFT while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
-Hold CTRL while clicking a non-regional system to go to its map.<br>
-Hold CTRL-SHIFT while clicking a system to go to its radar map.<br>
+Hold CTRL while clicking a non-regional system to go to its map.<br>Hold CTRL while clicking a regional system to center the map on it.<br>
+Hold CTRL-SHIFT while clicking a system to set it radar map center.<br>
 
 Just start typing to search for a place.
 
@@ -42,6 +42,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNT
-ExMDA5MTMsMTE1MDY4ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMj
+Q5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcwMjUz
+MzZdfQ==
 -->

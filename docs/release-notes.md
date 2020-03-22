@@ -1,6 +1,7 @@
 # Release Notes
 
 ## Browser Only
+
 #### Release 3.00.0 Beta 3 
 - Release of a desktop app
 - Intel channel chat parsing (desktop app only)
@@ -68,6 +69,6 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MT
-Y1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbMTQ3MTU0NzE3NCwyMTE4MDg4ODcsNjM5Nj
+cxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
 -->

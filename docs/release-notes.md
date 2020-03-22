@@ -1,6 +1,12 @@
 # Release Notes
 
 ## Browser Only
+#### Release 3.00.0 Beta 4 
+- UI backend ersponsiveness imporved
+- UI scaling (Settings > General)
+- 2nd Menu added
+- Cache timers added to bottombar
+- Size handler added to top pane in small screen mode
 
 #### Release 3.00.0 Beta 3 
 - Release of a desktop app
@@ -69,6 +75,6 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MTU0NzE3NCwyMTE4MDg4ODcsNjM5Nj
+eyJoaXN0b3J5IjpbMTI5NDAwNjI5NSwyMTE4MDg4ODcsNjM5Nj
 cxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
 -->

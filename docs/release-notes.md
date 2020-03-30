@@ -22,6 +22,7 @@
 - Search includes Stations and Agents
 - New Signatures and Connections UI
 - Add notes to connections
+- Click wormhole connections in info pane to edit.
 - Adding notes to sigs. Click sigs in info pane to edit.
 - Set signature warped for despawn timers
 - Legend shows your map configuration
@@ -42,7 +43,6 @@
 - INT tab with 48h graph in solarsystem info.
 - W-Space Kills in 48h graph.
 - Better differentiation of connections between different constellations and regions.
-- Click wormhole connections in info pane to edit.
 - Faster loading at startup.
 
 #### Release 2.00.2
@@ -72,7 +72,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MD
-ExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwt
-MTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3OD
+E1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3
+NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
 -->

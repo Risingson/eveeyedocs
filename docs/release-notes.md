@@ -14,28 +14,26 @@
 ## All Apps
 
 #### Release 3.00.0
+- Comprehensive documentation
 - UI backend responsiveness improved
 - UI scaling (Settings > General)
 - New menu added
 - Size handler added to top pane in small screen mode
-- Comprehensive documentation
 - Stations and Agents added
 - Search includes Stations and Agents
 - New Signatures and Connections UI
 - Add notes to connections
 - Set signature warped for despawn timers
 - Legend shows your map configuration
-- Setting ingame destinations will now set waypoints to wormholes and jumpbridges according to your route settings.
-- Emphasize Constellation Outlines  option
-- Diameter sublabel  option
-- Cost Indices Sectors  option
+- Setting ingame destinations will now set waypoints to wormholes and jumpbridges according to your route settings
+- Emphasize Constellation Outlines option
+- Diameter sublabel option
+- Cost Indices Sectors option
 - NPC faction node option
 - Constellations node option
 - Planets node and sublabel option
 - Name custom system marks + legend
 - Bookmark systems to appear in DST (former HUB) tab
-
-#### Release 3.00.0 Beta 2  
 - Beta connections and signatures sharing.
 - Beta sync data to different devices.
 - Reworked UI for connections and sigs in show info pane.
@@ -80,7 +78,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDI5MjI0MywtODAxMTUwNDgxLDIxMT
-gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
-fQ==
+eyJoaXN0b3J5IjpbLTE1MDEzNzMwMjEsLTgwMTE1MDQ4MSwyMT
+E4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0
+XX0=
 -->

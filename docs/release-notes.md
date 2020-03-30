@@ -23,6 +23,7 @@
 - Search includes Stations and Agents
 - New Signatures and Connections UI
 - Add notes to connections
+- Adding notes to sigs. Click sigs in info pane to edit.
 - Set signature warped for despawn timers
 - Legend shows your map configuration
 - Setting ingame destinations will now set waypoints to wormholes and jumpbridges according to your route settings
@@ -34,12 +35,8 @@
 - Planets node and sublabel option
 - Name custom system marks + legend
 - Bookmark systems to appear in DST (former HUB) tab
-- Beta connections and signatures sharing.
-- Beta sync data to different devices.
-- Reworked UI for connections and sigs in show info pane.
-- Adding notes to sigs. Click sigs in info pane to edit.
 - Signatures and K-K connections now display on region overview map.
-- Podding and clone jumps do not create a connection anymore.
+- Podding and clone jumps SHOULD not create a connection anymore (there are some ap).
 - F353 and F355 wormhole types were missing.
 
 #### Release 3.00.0 Beta 1
@@ -78,7 +75,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDEzNzMwMjEsLTgwMTE1MDQ4MSwyMT
-E4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0
-XX0=
+eyJoaXN0b3J5IjpbLTU1ODQ4OTA1NSwtODAxMTUwNDgxLDIxMT
+gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
+fQ==
 -->

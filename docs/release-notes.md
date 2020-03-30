@@ -36,7 +36,7 @@
 - Name custom system marks + legend
 - Bookmark systems to appear in DST (former HUB) tab
 - Signatures and K-K connections now display on region overview map.
-- Podding and clone jumps SHOULD not create a connection anymore (there are some ap).
+- Podding and clone jumps do not create a connection anymore.
 - F353 and F355 wormhole types were missing.
 
 #### Release 3.00.0 Beta 1
@@ -75,7 +75,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODQ4OTA1NSwtODAxMTUwNDgxLDIxMT
-gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
-fQ==
+eyJoaXN0b3J5IjpbLTE0MDM1NzA0ODksLTgwMTE1MDQ4MSwyMT
+E4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0
+XX0=
 -->

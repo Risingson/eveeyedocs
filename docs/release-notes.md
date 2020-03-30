@@ -38,12 +38,10 @@
 - Signatures and K-K connections now display on region overview map.
 - Podding and clone jumps do not create a connection anymore.
 - F353 and F355 wormhole types were missing.
-
-#### Release 3.00.0 Beta 1
-- Beta location sharing.
 - 24-hour activity stats.
 - NPC delta stats.
 - INT tab with 48h graph in solarsystem info.
+- W-Space Kills in 48h graph.
 - Better differentiation of connections between different constellations and regions.
 - Click wormhole connections in info pane to edit.
 - Faster loading at startup.
@@ -75,7 +73,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM1NzA0ODksLTgwMTE1MDQ4MSwyMT
-E4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0
-XX0=
+eyJoaXN0b3J5IjpbLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMT
+gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
+fQ==
 -->

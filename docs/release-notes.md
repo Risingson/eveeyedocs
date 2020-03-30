@@ -12,7 +12,6 @@
 
 
 ## All Apps
-
 #### Release 3.00.0
 - Comprehensive documentation
 - UI backend responsiveness improved
@@ -73,7 +72,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMT
-gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
-fQ==
+eyJoaXN0b3J5IjpbMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MD
+ExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwt
+MTk0ODIzNzE4NF19
 -->

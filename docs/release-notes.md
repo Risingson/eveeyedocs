@@ -2,24 +2,22 @@
 
 ## Browser Only
 #### Release 3.00.0
-- All features of "All Apps"
-- Release of a desktop app
-- Intel channel chat parsing (desktop app only)
+- Cache timers added to bottombar 
+
 
 ## Desktop Only
 #### Release 3.00.0
-- Intel channel chat parsing
-- Transparent always on top win
+- Transparent always on top window to overlay client
+- EVE-Client intel channel chat parsing
+
+
 ## All Apps
 
 #### Release 3.00.0
 - UI backend responsiveness improved
 - UI scaling (Settings > General)
 - New menu added
-- Cache timers added to bottombar 
 - Size handler added to top pane in small screen mode
-#### Release 3.00.0 Beta 3 
-
 - Comprehensive documentation
 - Stations and Agents added
 - Search includes Stations and Agents
@@ -82,7 +80,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjYwOTc5NCwtODAxMTUwNDgxLDIxMT
+eyJoaXN0b3J5IjpbMTIwNDI5MjI0MywtODAxMTUwNDgxLDIxMT
 gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
 fQ==
 -->

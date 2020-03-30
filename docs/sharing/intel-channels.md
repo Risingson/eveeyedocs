@@ -1,7 +1,7 @@
 # Intel Channels
 This feature allows the desktop app to read your client's chatlogs and display intel channel info on the maps. 
 
-To enable chat channel parsing you need to download and install the [desktop app](https://www.dropbox.com/s/feo1z1055a7jmpd/Eveeye_v001.exe?dl=0).
+To enable chat channel parsing you need to download and install the [desktop app](https://www.dropbox.com/s/x2dgjwiof2frek3/Eveeye_v002.exe?dl=0).
 
 To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > Sharing Icon and add intel channels. You can turn them on and off by clicking the added channels. Remove them by clicking the minus sign.
 
@@ -33,11 +33,11 @@ Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
 `character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjE4MjM1MiwxOTU4NTQ5NDEsLTE4OT
-IwOTg4NTEsLTE5MTczODE0NTQsLTkwNzc1NTUyNiwxMjkzMTYy
-NzIzLDEyOTMxNjI3MjMsMTk4NDIxOTAxLC0xMTI0MjE2MzU3LD
-Y5NDkyNTEwMSwxODkwNjAwOTE1LC0yNDk5NzI1NjMsLTEzMTgz
-NDg4NzAsMTA5NjExNzEzMywtMTUyMjY4MzY4MSwxODYyNjAzMD
-cwLC0yMDY1MTYzMDgsMTk5MDI2NzQzOSwtMTQwMzQ4OTEwMSwt
-MjE0MTg4NzgyOF19
+eyJoaXN0b3J5IjpbMTU4ODA4ODE1LC01NjIxODIzNTIsMTk1OD
+U0OTQxLC0xODkyMDk4ODUxLC0xOTE3MzgxNDU0LC05MDc3NTU1
+MjYsMTI5MzE2MjcyMywxMjkzMTYyNzIzLDE5ODQyMTkwMSwtMT
+EyNDIxNjM1Nyw2OTQ5MjUxMDEsMTg5MDYwMDkxNSwtMjQ5OTcy
+NTYzLC0xMzE4MzQ4ODcwLDEwOTYxMTcxMzMsLTE1MjI2ODM2OD
+EsMTg2MjYwMzA3MCwtMjA2NTE2MzA4LDE5OTAyNjc0MzksLTE0
+MDM0ODkxMDFdfQ==
 -->

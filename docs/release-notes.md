@@ -1,8 +1,15 @@
 # Release Notes
 
 ## Browser Only
-#### currently on par with mobile
+#### Release 3.00.0
+- All features of "All Apps"
+- Release of a desktop app
+- Intel channel chat parsing (desktop app only)
 
+## Desktop Only
+#### Release 3.00.0
+- Intel channel chat parsing
+- Transparent always on top win
 ## All Apps
 
 #### Release 3.00.0
@@ -11,8 +18,8 @@
 - New menu added
 - Cache timers added to bottombar 
 - Size handler added to top pane in small screen mode
-- Release of a desktop app
-- Intel channel chat parsing (desktop app only)
+#### Release 3.00.0 Beta 3 
+
 - Comprehensive documentation
 - Stations and Agents added
 - Search includes Stations and Agents
@@ -29,6 +36,8 @@
 - Planets node and sublabel option
 - Name custom system marks + legend
 - Bookmark systems to appear in DST (former HUB) tab
+
+#### Release 3.00.0 Beta 2  
 - Beta connections and signatures sharing.
 - Beta sync data to different devices.
 - Reworked UI for connections and sigs in show info pane.
@@ -73,7 +82,7 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNjM2MjI5NCwtODAxMTUwNDgxLDIxMT
+eyJoaXN0b3J5IjpbMTcxMjYwOTc5NCwtODAxMTUwNDgxLDIxMT
 gwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRd
 fQ==
 -->

@@ -15,9 +15,10 @@ In this new version the following features were introduced that need a server ba
 - Share system marks and their names
 - Pulling 24h and 48h activity stats from eveeye server
 
-Also 
-
 New users still see a nag-banner while those of you having purchased to remove nag-banners don't.
+
+There are some technical issues with all iOS apps created the way i do itthe which will
+
 
 I am very sorry for the inconvienance.
 If you got questions don't hesitate to contact support@eveeye.com
@@ -27,5 +28,5 @@ If you got questions don't hesitate to contact support@eveeye.com
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjIxMTM2NjJdfQ==
+eyJoaXN0b3J5IjpbODIyMjI5NzQ5LC0xMDYyMTEzNjYyXX0=
 -->

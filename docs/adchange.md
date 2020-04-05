@@ -10,8 +10,12 @@ In this new version the following features were introduced that need a server ba
 
 - Cloud storage to sync your data amongst your own devices
 - Share your location with a group of players
-- Sh
+- Share wormhole connections
+- Share signatures (parsing via browser version)
+- Pulling 24-h activity stats
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTAxMzU2OF19
+eyJoaXN0b3J5IjpbLTQ1MzEzNDY0NV19
 -->

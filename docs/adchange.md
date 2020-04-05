@@ -1,7 +1,7 @@
 # Mobile app monetarization addition
 Dear Pilot,
 
-in the last year i worked hard to implement the most sought for feature to share data amongst fellow pilots.
+in the last year i worked hard to implement the most asked for feature to share data amongst fellow pilots.
 
 Up until now the mobile app was running fully clientside. This meant it stored all data on your phone/tablet and did not need a server backend at all. 
 
@@ -29,8 +29,8 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTI2MTk4NywzNjUwMzA0MjcsNDI3Nz
-E4NTg4LDEyNDE4MjIxNDEsLTExNzQxODMyNzQsLTEyMzIzMDE4
-NjYsLTE1OTEzMTY2MiwxMTkxMDEzMDYwLC0xMDYyMTEzNjYyXX
-0=
+eyJoaXN0b3J5IjpbLTE1Mzk5NTI5MTMsMTA4MTI2MTk4NywzNj
+UwMzA0MjcsNDI3NzE4NTg4LDEyNDE4MjIxNDEsLTExNzQxODMy
+NzQsLTEyMzIzMDE4NjYsLTE1OTEzMTY2MiwxMTkxMDEzMDYwLC
+0xMDYyMTEzNjYyXX0=
 -->

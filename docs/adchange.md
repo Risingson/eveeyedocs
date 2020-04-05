@@ -19,7 +19,7 @@ New users still see a nag-banner while those of you having purchased to remove n
 I am very sorry for the inconvienance.
 If you got questions don't hesitate to contact support@eveeye.com
 
-Best regards
+Best Ragrds
 Risingson
 
 2020-04-04
@@ -29,6 +29,6 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDE2NzE3NDAsLTE1OTEzMTY2MiwxMT
-kxMDEzMDYwLC0xMDYyMTEzNjYyXX0=
+eyJoaXN0b3J5IjpbMTU1NDE5MjcwOSwtMTU5MTMxNjYyLDExOT
+EwMTMwNjAsLTEwNjIxMTM2NjJdfQ==
 -->

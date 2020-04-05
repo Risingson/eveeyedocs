@@ -5,9 +5,9 @@ in the last year i worked hard to implement the most sought for feature to share
 
 Up until now the mobile app was running fully clientside. This meant it stored all data on your phone/tablet and did not need a server backend at all. 
 
-In the new app version loads of new features and changes were introduced making the app better than ever. The following new features need a server backend maintained by eveeye:
+In this new version the following features were introduced that need a server backend maintained by eveeye:
 
-- Cloud storage to backup and sync your data amongst your devices/browsers
+- Cloud storage to sync your data amongst your devices/browsers
 - Share your location with a group of players
 - Share wormhole connections
 - Share signatures (parsing via browser version)
@@ -29,7 +29,7 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY3MTE2NjQsNDI3NzE4NTg4LDEyND
-E4MjIxNDEsLTExNzQxODMyNzQsLTEyMzIzMDE4NjYsLTE1OTEz
-MTY2MiwxMTkxMDEzMDYwLC0xMDYyMTEzNjYyXX0=
+eyJoaXN0b3J5IjpbMzY1MDMwNDI3LDQyNzcxODU4OCwxMjQxOD
+IyMTQxLC0xMTc0MTgzMjc0LC0xMjMyMzAxODY2LC0xNTkxMzE2
+NjIsMTE5MTAxMzA2MCwtMTA2MjExMzY2Ml19
 -->

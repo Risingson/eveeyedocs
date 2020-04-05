@@ -1,5 +1,4 @@
 # Mobile app monetarization change
-
 Dear Pilot,
 
 in the last year i worked hard to implement the most sought for feature to share data amnongst fellow pilots.
@@ -23,11 +22,13 @@ If you got questions don't hesitate to contact support@eveeye.com
 Best regards
 Risingson
 
+2020-04-04
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEzMTY2MiwxMTkxMDEzMDYwLC0xMD
-YyMTEzNjYyXX0=
+eyJoaXN0b3J5IjpbLTIwMDE2NzE3NDAsLTE1OTEzMTY2MiwxMT
+kxMDEzMDYwLC0xMDYyMTEzNjYyXX0=
 -->

@@ -1,4 +1,4 @@
-# Mobile app monetarization change
+# Mobile app monetarization addition
 Dear Pilot,
 
 in the last year i worked hard to implement the most sought for feature to share data amongst fellow pilots.
@@ -29,7 +29,8 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY1MDMwNDI3LDQyNzcxODU4OCwxMjQxOD
-IyMTQxLC0xMTc0MTgzMjc0LC0xMjMyMzAxODY2LC0xNTkxMzE2
-NjIsMTE5MTAxMzA2MCwtMTA2MjExMzY2Ml19
+eyJoaXN0b3J5IjpbLTE2NjcyMzg2NSwzNjUwMzA0MjcsNDI3Nz
+E4NTg4LDEyNDE4MjIxNDEsLTExNzQxODMyNzQsLTEyMzIzMDE4
+NjYsLTE1OTEzMTY2MiwxMTkxMDEzMDYwLC0xMDYyMTEzNjYyXX
+0=
 -->

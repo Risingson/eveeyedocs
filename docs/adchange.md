@@ -1,13 +1,13 @@
 # Mobile app monetarization change
 Dear Pilot,
 
-in the last year i worked hard to implement the most sought for feature to share data amnongst fellow pilots.
+in the last year i worked hard to implement the most sought for feature to share data amongst fellow pilots.
 
-Up until now the app was running fully clientside. This meant it stored all data on your phone/tablet and did not need a server backend at all.
+Up until now the mobile app was running fully clientside. This meant it stored all data on your phone/tablet and did not need a server backend at all. 
 
 In this new version the following features were introduced that need a server backend maintained by eveeye:
 
-- Cloud storage to sync your data amongst your devices/browsers
+- Cloud storage to backup and sync your data amongst your devices/browsers
 - Share your location with a group of players
 - Share wormhole connections
 - Share signatures (parsing via browser version)
@@ -29,7 +29,7 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MTgyMjE0MSwtMTE3NDE4MzI3NCwtMT
-IzMjMwMTg2NiwtMTU5MTMxNjYyLDExOTEwMTMwNjAsLTEwNjIx
-MTM2NjJdfQ==
+eyJoaXN0b3J5IjpbNDI3NzE4NTg4LDEyNDE4MjIxNDEsLTExNz
+QxODMyNzQsLTEyMzIzMDE4NjYsLTE1OTEzMTY2MiwxMTkxMDEz
+MDYwLC0xMDYyMTEzNjYyXX0=
 -->

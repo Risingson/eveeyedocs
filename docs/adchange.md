@@ -16,7 +16,7 @@ In this new version the following features were introduced that need a server ba
 
 New users still see a nag-banner while those of you having purchased to remove nag-banners don't.
 
-I am very sorry for the inconvienance.<br>
+I am very sorry i had to take this move to maintain a server backend system in the future.<br>
 If you got questions don't hesitate to contact support@eveeye.com<br>
 
 Best Regards<br>
@@ -29,6 +29,7 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzQxODMyNzQsLTEyMzIzMDE4NjYsLT
-E1OTEzMTY2MiwxMTkxMDEzMDYwLC0xMDYyMTEzNjYyXX0=
+eyJoaXN0b3J5IjpbMTI0MTgyMjE0MSwtMTE3NDE4MzI3NCwtMT
+IzMjMwMTg2NiwtMTU5MTMxNjYyLDExOTEwMTMwNjAsLTEwNjIx
+MTM2NjJdfQ==
 -->

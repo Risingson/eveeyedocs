@@ -12,10 +12,14 @@ In this new version the following features were introduced that need a server ba
 - Share your location with a group of players
 - Share wormhole connections
 - Share signatures (parsing via browser version)
-- Pulling 24-h activity stats
+- Pulling 24h and 48h activity stats from eveeye server
+
+New users still see a nag-banner while those of you having purchased to remove nag-banners don't.
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzEzNDY0NV19
+eyJoaXN0b3J5IjpbMTU3ODk2NDk4NV19
 -->

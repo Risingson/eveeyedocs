@@ -17,16 +17,15 @@ In this new version the following features were introduced that need a server ba
 
 New users still see a nag-banner while those of you having purchased to remove nag-banners don't.
 
-There are some technical issues with all iOS apps created the way i do itthe which will
-
-
 I am very sorry for the inconvienance.
 If you got questions don't hesitate to contact support@eveeye.com
-/Risingson
+
+Best regards
+Risingson
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyMjI5NzQ5LC0xMDYyMTEzNjYyXX0=
+eyJoaXN0b3J5IjpbMTE5MTAxMzA2MCwtMTA2MjExMzY2Ml19
 -->

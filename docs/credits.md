@@ -7,6 +7,7 @@ This app would not be possible without the following API data (in alphabetical o
 
 EVE Online by [CCP](https://ccpgames.com) <br>
 [Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa <br>
+Trade data by [EVE Marketdata](https://eve-marketdata.com/donate.php?from=eveeye)<br> 
 Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br> 
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)  
 
@@ -40,8 +41,9 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNDgyMDIzLDU2ODk4NTUxNiwtNjEyMz
-AyMjM2LC0xNTA1NDY1OTkwLC0xODk4MTM2Nzg0LC0xNzAzMzcz
-MTgzLC0xNTUxNzUzODQ5LC0xMTEyMzAwNDAyLDEwMDcyOTQ2OD
-UsLTg2MDA0MTkyNCw5MjEzMDMxOTIsNjY3NzI2OTQ0XX0=
+eyJoaXN0b3J5IjpbLTk2NTE2MzIzMSw1NzI0ODIwMjMsNTY4OT
+g1NTE2LC02MTIzMDIyMzYsLTE1MDU0NjU5OTAsLTE4OTgxMzY3
+ODQsLTE3MDMzNzMxODMsLTE1NTE3NTM4NDksLTExMTIzMDA0MD
+IsMTAwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMwMzE5Miw2Njc3
+MjY5NDRdfQ==
 -->

@@ -51,11 +51,14 @@ Copying<br>
 Time Efficiency research<br>
 Material Efficiency research**
 
-## Celestials
+## Celestial
+**Moons**<br>
+Displays moon count within that system.
+
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mj
-g0MjUwMywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5
-MzQ2LDE1OTczOTQyMzddfQ==
+eyJoaXN0b3J5IjpbNDc3NTM5OTksODA5MjI5OTg4LDE2NTUzOT
+YwNTMsMTc1Mjg0MjUwMywtMTA3MjkwNzM0NiwtMTYzMjIzNjMy
+NiwxNzcxOTQ5MzQ2LDE1OTczOTQyMzddfQ==
 -->

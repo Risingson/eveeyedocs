@@ -8,20 +8,20 @@
 - Solarsystem name in top row to center the map on it
 
 ## Menus
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > [Character Management](https://eveeye.readthedocs.io/en/latest/sync/character-management/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > [Client and Data Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > [Cloud and Data Sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > [Data Configuration](https://eveeye.readthedocs.io/en/latest/data/overview/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> [Map Selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> [Application Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/)<br><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> [Current Route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > [Client and data sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > [Cloud and data sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/)<br><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> [Solarsystem Info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> [Legend](https://eveeye.readthedocs.io/en/latest/ui/legend/)<br><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> Open Menu <br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> Open menu <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Close <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Toggle bottom pane<br>
@@ -54,7 +54,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMjQ4NTE2LDE1NzI4MjQ4MjcsLTEzMj
+eyJoaXN0b3J5IjpbMTAyMDc3MjIwLDE1NzI4MjQ4MjcsLTEzMj
 Q1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1
 NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMT
 UwNjg4NTU2LC0yMDY3MDI1MzM2XX0=

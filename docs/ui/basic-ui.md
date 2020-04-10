@@ -22,10 +22,11 @@
 <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> Open menu <br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Close <br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Open menu <br>
+ Close <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Toggle bottom pane<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
+
 
 ## Map menu icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
@@ -55,8 +56,8 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQyODk1MTcxLDE1NzI4MjQ4MjcsLTEzMj
-Q1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1
-NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMT
-UwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbLTExNjkxNTI0ODMsMTU3MjgyNDgyNywtMT
+MyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3Mjky
+MzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLD
+ExNTA2ODg1NTYsLTIwNjcwMjUzMzZdfQ==
 -->

@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> [Legend](https://eveeye.readthedocs.io/en/latest/ui/legend/)<br><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
-
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Open bottom pane<br><br>
 ## Map menu icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > Switches between radar map and normal map <br>
@@ -51,7 +51,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzg0NTAyNjIsLTEzMjQ1MDg1MDQsLT
+eyJoaXN0b3J5IjpbLTE3MzA2MzUxNTMsLTEzMjQ1MDg1MDQsLT
 EzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2
 NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC
 0yMDY3MDI1MzM2XX0=

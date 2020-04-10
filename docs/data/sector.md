@@ -2,6 +2,8 @@
 Colored background tiles of solarsystems.
 
 ## Activity
+**Hub Trade**<br>
+Colors sectors after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the npc-station within a solarsystem with highest value described.  On Region Map it shows the sum of all *hubs* of that region.
 
 **Recent/24h kills**<br>
 Colors sectors after ship + pod-kills within that solarsystem/region. 
@@ -38,7 +40,8 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNTgzNDA1NiwtODQ5MzYxMzI3LC0xMD
-k0MjI2NTI4LC0xMjk4NjY0MDU5LC01Njg1MzgxMjksNzE0MTU4
-NzQxLC02ODc5Mzc1MDIsMTMwNzE3MTUzNl19
+eyJoaXN0b3J5IjpbLTE4MDk3OTcyOTAsMTkyNTgzNDA1NiwtOD
+Q5MzYxMzI3LC0xMDk0MjI2NTI4LC0xMjk4NjY0MDU5LC01Njg1
+MzgxMjksNzE0MTU4NzQxLC02ODc5Mzc1MDIsMTMwNzE3MTUzNl
+19
 -->

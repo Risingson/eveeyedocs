@@ -16,7 +16,7 @@ Shows the custom node color you set via the [custom mark options](https://eveeye
 
 ## Activity
 **Hub Trade**<br>
-Colors and labels nodes after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the station within a solarsystem with highest value described.  On Region Map it shows the sum of all *hubs* of that region.<br>
+Colors and labels nodes after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the npc-station within a solarsystem with highest value described.  On Region Map it shows the sum of all *hubs* of that region.<br>
 M = Million isk<br>
 B = Billion isk<br>
 T = Tillion isk
@@ -55,7 +55,7 @@ Material Efficiency research**
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjQ1NDcxMiwxNjU1Mzk2MDUzLDE3NT
-I4NDI1MDMsLTEwNzI5MDczNDYsLTE2MzIyMzYzMjYsMTc3MTk0
-OTM0NiwxNTk3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mj
+g0MjUwMywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5
+MzQ2LDE1OTczOTQyMzddfQ==
 -->

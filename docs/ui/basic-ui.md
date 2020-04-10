@@ -8,14 +8,13 @@
 - Solarsystem name in top row to center the map on it
 
 ## Menu
-#### Main Menu
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > [Character Management](https://eveeye.readthedocs.io/en/latest/sync/character-management/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > [Client and Data Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > [Cloud and Data Sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > [Data Configuration](https://eveeye.readthedocs.io/en/latest/data/overview/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24" style="opacity:0.8;"> [Map Selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Application Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/)<br><br>
-#### 2nd Menu
+<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24" style="filter:invert();"> Triggers this Menu <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24" style="filter:invert();"> [Route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24" style="filter:invert();"> [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
@@ -51,7 +50,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzgwNDY2Nyw0MDcyOTIzNTQsMTYwMj
-EzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4ODU1
-NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbNzkzMDg5MTcyLDQwNzI5MjM1NCwxNjAyMT
+M2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2
+LC0yMDY3MDI1MzM2XX0=
 -->

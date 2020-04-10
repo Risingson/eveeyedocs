@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> Open Menu <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Close <br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Toggle pane opacity<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Toggle bottom pane<br>
 
 ## Map menu icons
@@ -54,8 +54,8 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDM5NzI0OCwxNTcyODI0ODI3LC0xMz
-I0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIz
-NTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMT
-E1MDY4ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbNDAyMjQ4NTE2LDE1NzI4MjQ4MjcsLTEzMj
+Q1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1
+NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMT
+UwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
 -->

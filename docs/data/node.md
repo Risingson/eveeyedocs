@@ -16,7 +16,10 @@ Shows the custom node color you set via the [custom mark options](https://eveeye
 
 ## Activity
 **Hub Trade**<br>
-Colors nodes after the sum of total isk of buy and sell orders of the hub of that system. The hub is the station with highest trade order isk value. M = Million isk
+Colors and labels nodes after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the station with highest trade order isk value. <br>
+M = Million isk<br>
+B = Billion isk<br>
+T = Tillion isk
 
 **Recent/24h kills**<br>
 Colors nodes after ship + pod-kills within that solarsystem/region and displays the number. 
@@ -52,7 +55,7 @@ Material Efficiency research**
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDQxMTk2MiwxNjU1Mzk2MDUzLDE3NT
+eyJoaXN0b3J5IjpbLTg3MjE3MjIyMiwxNjU1Mzk2MDUzLDE3NT
 I4NDI1MDMsLTEwNzI5MDczNDYsLTE2MzIyMzYzMjYsMTc3MTk0
 OTM0NiwxNTk3Mzk0MjM3XX0=
 -->

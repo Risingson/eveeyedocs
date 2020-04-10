@@ -10,7 +10,12 @@ In the same menu you can select to `Avoid System`. To manage your avoided system
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
 
 #### Route Manipulation (in development)
-When clicking the colored square or else in the route legend a menu with some options 
+Clicking the colored square or else in the route legend will trigger a menu with some options:
+
+ - List item
+ - ...
+ - ...
+
 
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
@@ -25,7 +30,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDEzNjg5NTIsMTAwMjM5NjY1NSwtOD
+eyJoaXN0b3J5IjpbLTEwMTMzNzYzOTYsMTAwMjM5NjY1NSwtOD
 kxNzIyNDQ5LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4
 NjQ1NV19
 -->

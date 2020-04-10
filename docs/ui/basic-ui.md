@@ -19,9 +19,9 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24" > Triggers this Menu <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24" > [Route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24" > [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > [Solarsystem Info](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24" style="opacity:0.8;"> [Map Selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Application Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/)<br><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24" > [Solarsystem Info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)<br>
+<!-- <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.8;"> [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks/)<br> -->
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Legend](https://eveeye.readthedocs.io/en/latest/ui/legend/)<br><br>
 ## Map menu icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > Zoom map in an out<br>
@@ -50,7 +50,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0Njg2NzAwOSw0MDcyOTIzNTQsMTYwMj
+eyJoaXN0b3J5IjpbLTY5MzA1Mzg2Myw0MDcyOTIzNTQsMTYwMj
 EzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4ODU1
 NiwtMjA2NzAyNTMzNl19
 -->

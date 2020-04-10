@@ -24,6 +24,7 @@
 
 ## Map menu icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > Switches between radar map and normal map <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > Zoom map in an out<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > Lock map regardless of your location<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" style="opacity:0.8;"> Toggle Fullscreen<br>
@@ -49,7 +50,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNz
-I5MjM1NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkx
-MywxMTUwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbODIyMjkwNjY4LC0xMzAwNzUwNjU5LDM4MD
+I5NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4
+MywzNTExMDA5MTMsMTE1MDY4ODU1NiwtMjA2NzAyNTMzNl19
 -->

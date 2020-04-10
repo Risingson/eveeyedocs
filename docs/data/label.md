@@ -12,7 +12,7 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 Name of the NPC faction owning the system/region.
 
 **Moons**<br>
-Displays moon count within that system 
+Displays moon count within that system plus a moon per planet statistic.
 
 **Planets**<br>
 Displays planet type count within that system.
@@ -48,7 +48,7 @@ Displays the IHUB owning alliance's coalition.
 !!! warning
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ2NDEwNDQsMTEyMzUwMjI3MywtMj
+eyJoaXN0b3J5IjpbLTE3MjgwMjEyMzcsMTEyMzUwMjI3MywtMj
 AyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyNDM2LDE4NjU4
 MTI0NywxNjU1NjM4NTk5XX0=
 -->

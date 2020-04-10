@@ -18,7 +18,8 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> [Legend](https://eveeye.readthedocs.io/en/latest/ui/legend/)<br><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> Legend<br>
+<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> Open menu <br>
@@ -54,7 +55,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDc3MjIwLDE1NzI4MjQ4MjcsLTEzMj
+eyJoaXN0b3J5IjpbNDQyODk1MTcxLDE1NzI4MjQ4MjcsLTEzMj
 Q1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1
 NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMT
 UwNjg4NTU2LC0yMDY3MDI1MzM2XX0=

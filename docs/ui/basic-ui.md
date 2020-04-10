@@ -29,10 +29,9 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" style="opacity:0.8;"> Toggle Fullscreen<br>
 
 ## Other Icons
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="15" height="15" > Open legend/current route<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="15" height="15" > Close legend/current route<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png" width="24" height="15" > Set Destination<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png" width="24" height="15" > Set Waypoint<br>
+<!-- <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="15" height="15" > Bookmark<br> -->
 
 ## Browser keyboard shortcuts
 
@@ -50,7 +49,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM5MDE1OTUsNDA3MjkyMzU0LDE2MD
-IxMzY2ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1
-NTYsLTIwNjcwMjUzMzZdfQ==
+eyJoaXN0b3J5IjpbMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMT
+M2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2
+LC0yMDY3MDI1MzM2XX0=
 -->

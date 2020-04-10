@@ -18,11 +18,12 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> [Route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> [Solarsystem Info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"> <span style="color:#ccc">*not implemented yet*</span><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> [Legend](https://eveeye.readthedocs.io/en/latest/ui/legend/)<br><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Open bottom pane<br><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Open bottom pane<br>
+
 ## Map menu icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > Switches between radar map and normal map <br>
@@ -33,7 +34,7 @@
 ## Other Icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png" width="24" height="15" > Set Destination<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png" width="24" height="15" > Set Waypoint<br>
- <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="15" height="15" style="opacity:0.2;"> <span style="color:#ccc">*not implemented yet*</span><br><br> 
+ <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="15" height="15" style="opacity:0.2;"><br>
 
 ## Browser keyboard shortcuts
 
@@ -51,7 +52,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzA2MzUxNTMsLTEzMjQ1MDg1MDQsLT
+eyJoaXN0b3J5IjpbLTIwNzc1MjMwODcsLTEzMjQ1MDg1MDQsLT
 EzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2
 NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC
 0yMDY3MDI1MzM2XX0=

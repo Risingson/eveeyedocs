@@ -4,7 +4,7 @@ With sync active you got the possibility to set destinations/waypoints from Evee
 
 ## Interaction
 To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination`.<br>
-In the same menu you can select `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
+In the same menu you can select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 !!! attention "Ingame vs Eveeye route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
@@ -22,6 +22,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this though since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTcyMjQ0OSwtNTI0NzEzODM4LC00ND
-E3MjI1MzYsLTE4MDU1ODY0NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3NzUyOTA0MDAsLTg5MTcyMjQ0OSwtNT
+I0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ==
 -->

@@ -14,7 +14,6 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/)<br><br>
-
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Toggle menu <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
@@ -24,7 +23,6 @@
 <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
-
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Toggle bottom pane<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
 
@@ -57,8 +55,8 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMz
-I0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIz
-NTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMT
-E1MDY4ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbLTE2NTcxMzA0ODUsLTc1ODM0Mzk2MSwxNT
+cyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5
+NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4My
+wzNTExMDA5MTMsMTE1MDY4ODU1NiwtMjA2NzAyNTMzNl19
 -->

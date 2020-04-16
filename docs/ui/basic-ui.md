@@ -41,18 +41,10 @@
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-## Map menu icons
-  <br>
- Switches between radar map and normal map <br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > Zoom map in an out<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > Lock map regardless of your location<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" style="opacity:0.8;"> Toggle Fullscreen<br>
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
 ## Other Icons
 see [Routing UI](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
@@ -73,9 +65,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzA1NzE4MSwtMzgzMzkwNTE1LDM3NT
-gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
-MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
-AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4
-NTU2LC0yMDY3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE0MDMxNjMxNDAsLTM4MzM5MDUxNSwzNz
+U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
+NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMT
+YwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4
+ODU1NiwtMjA2NzAyNTMzNl19
 -->

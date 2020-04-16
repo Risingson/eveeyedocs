@@ -19,7 +19,7 @@ In the same menu you can select to `Avoid System`. To manage your avoided system
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png) Destination<br> 
 
 
-#### Route Manipulation (in development)
+#### Route Manipulation
 Clicking the colored square or else in the route legend will trigger a menu with some options where applicable:
 
  
@@ -44,7 +44,8 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyODcwMjA4LDc1MjQyNzMxMCwtMTcyMT
-Q4Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5
-LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbLTMzOTc3NTg3OSw3NTI0MjczMTAsLTE3Mj
+E0ODI3NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MTcyMjQ0
+OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ
+==
 -->

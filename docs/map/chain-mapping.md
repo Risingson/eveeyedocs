@@ -4,13 +4,13 @@
 
  - While syncing your ingame location jumps via wormholes or jump
    bridges will get mapped automatically.
- - Wormhole connections get removed after 48h. You can always remove them manually by cliking the connection line and selecting "Remove Connection" from the solarsystem menu.
- - A connection will get created when jumnping a cyno. Stop sync before
+ - Wormhole connections get removed after 48h. You can always remove them manually by cliking the connection line and selecting `Remove Connection` from the solarsystem menu.
+ - A connection will get created when jumping a cyno. Stop sync before
    jumping or remove the connection created manually.
  - For wormhole systems there is no api data available for recent jumps
    or NPC kills.
  - Phenomenons are stated as an extra sub-label. To view its effects
-   click the wormhole and select "Show Info" from the menu.
+   click the wormhole and select `Show Info` from the menu.
 
 ## Display Styles
 Solarsystem oultines are solid or dashed. 
@@ -34,12 +34,12 @@ You can edit:<br>
  - K162 side<br>
  - Wormhole code<br>
 
-In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures onto wormhole connections to merge the signature code. This will stop that sig from being displayed under signatures. This is a browser only feature.
+In solarsystem info pane's `SIG` tab you can drag pasted wormhole signatures onto wormhole connections to merge the signature code. This will stop that sig from being displayed under signatures. This is a browser only feature.
 
 ## Name wormholes
-Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
+Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDIzNTM1MCwtNDU0MjQwMzY5LC0xOT
+eyJoaXN0b3J5IjpbLTE3MDIxMTkxOCwtNDU0MjQwMzY5LC0xOT
 QzOTU1OTc5LDE2MzcxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMx
 LC0zMzI0NDcyOTddfQ==
 -->

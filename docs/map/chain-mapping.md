@@ -29,16 +29,17 @@ Connection lines are colored and solid or dashed.
 ## Add data to connections
 To add data to connections you can click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
 You can edit:<br>
-**Signature codes on both sides**<br>
-**K162 side**<br>
-**Wormhole code**<br>
+
+ - Signature codes on both sides<br>
+ - K162 side<br>
+ - Wormhole code<br>
 
 In solarsystem info pane's "SIG" tab you can drag pasted wormhole signatures onto wormhole connections to merge the signature code. This will stop that sig from being displayed under signatures. This is a browser only feature.
 
 ## Name wormholes
 Clicking wormhole systems will show a "Set Wormhole Name" option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OSwxNj
-M3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3
-XX0=
+eyJoaXN0b3J5IjpbMTY2NDIzNTM1MCwtNDU0MjQwMzY5LC0xOT
+QzOTU1OTc5LDE2MzcxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMx
+LC0zMzI0NDcyOTddfQ==
 -->

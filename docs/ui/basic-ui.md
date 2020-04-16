@@ -37,6 +37,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
+
 ##### Map menu
 |  |  |
 |--|--|
@@ -65,9 +66,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDMxNjMxNDAsLTM4MzM5MDUxNSwzNz
-U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
-NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMT
-YwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4
-ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbLTQzNTQ5MzcxOCwtMzgzMzkwNTE1LDM3NT
+gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
+MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
+AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4
+NTU2LC0yMDY3MDI1MzM2XX0=
 -->

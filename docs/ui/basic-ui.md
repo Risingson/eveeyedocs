@@ -47,7 +47,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
-## Other Icons
+##### Other Icons
 see [Routing UI](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
 ## Browser keyboard shortcuts
@@ -66,9 +66,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4NzA0MDQ4LC0zODMzOTA1MTUsMzc1OD
-I0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUw
-NCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MD
-IxMzY2ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1
-NTYsLTIwNjcwMjUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTIwMDYxMzUzODksLTM4MzM5MDUxNSwzNz
+U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
+NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMT
+YwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4
+ODU1NiwtMjA2NzAyNTMzNl19
 -->

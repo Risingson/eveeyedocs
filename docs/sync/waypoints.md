@@ -8,9 +8,8 @@ In the same menu you can select to `Avoid System`. To manage your avoided system
 
 !!! attention "Ingame vs Eveeye route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
-
-#### Route Manipulation (in development)
-Clicking the colored square or else in the route legend will trigger a menu with some options:
+    
+#### Route Display
 |  |  |
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Current System|
@@ -20,6 +19,13 @@ Clicking the colored square or else in the route legend will trigger a menu with
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wh.png)|Jump a wormhole from this system|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)|Station|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination|
+
+
+#### Route Manipulation (in development)
+Clicking the colored square or else in the route legend will trigger a menu with some options where applicable:
+|  |  |
+|--|--|
+|  |  |
 
 
 
@@ -38,7 +44,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY1MjM1NDAsMTAwMjM5NjY1NSwtOD
-kxNzIyNDQ5LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4
-NjQ1NV19
+eyJoaXN0b3J5IjpbMTE2NzQwMzYxLDEwMDIzOTY2NTUsLTg5MT
+cyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0
+NTVdfQ==
 -->

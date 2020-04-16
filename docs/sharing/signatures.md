@@ -14,7 +14,7 @@ Pasting sigs will open the SIG info tab of solarsystem info pane. In that tab si
 
 Using the filter buttons you can toggle the display of those signatures or connections.
                
-A signature can be deleted by clicking the X top right of it and confirm.
+A signature can be deleted by clicking the `X` top right of it and confirm.
 
 Deleted sigs can be undeleted for up to 3 hours.
 You can show and hide anomalies, cosmics and deleted sigs by clicking the corresponding tab above the signatures displayed.                
@@ -29,6 +29,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNjczOTQyLC00ODI0NjA1NjYsLTQ1MD
-U1NjE0LDM4ODE4MTQ3MiwtMTQ1OTE0NDYyMF19
+eyJoaXN0b3J5IjpbNzgzMjUzNDQ2LDMzMTY3Mzk0MiwtNDgyND
+YwNTY2LC00NTA1NTYxNCwzODgxODE0NzIsLTE0NTkxNDQ2MjBd
+fQ==
 -->

@@ -8,8 +8,8 @@ While there is no api available to add jump bridges to the maps  (see e.g. [http
  - Paste it from directional or overview
 
 ## Routing
-please refer to 
+please refer to [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3NTA1MTI4LC0xNzUxNDYwMTMyXX0=
+eyJoaXN0b3J5IjpbLTkyNDQ0OTk2OCwtMTc1MTQ2MDEzMl19
 -->

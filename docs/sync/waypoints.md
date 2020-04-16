@@ -13,13 +13,13 @@ In the same menu you can select to `Avoid System`. To manage your avoided system
 Clicking the colored square or else in the route legend will trigger a menu with some options:
 |  |  |
 |--|--|
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) |  |
-|||
-|||
-|||
-|||
-|||
-|||
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Current System|
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru.png)||
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wp.png)||
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png)||
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wh.png)||
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)||
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination|
 
 
 
@@ -38,7 +38,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMDA2NjY1NCwxMDAyMzk2NjU1LC04OT
+eyJoaXN0b3J5IjpbMTM4NjQzMDI5NCwxMDAyMzk2NjU1LC04OT
 E3MjI0NDksLTUyNDcxMzgzOCwtNDQxNzIyNTM2LC0xODA1NTg2
 NDU1XX0=
 -->

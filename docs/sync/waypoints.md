@@ -10,7 +10,7 @@ In the same menu you can select to `Avoid System`. To manage your avoided system
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
     
 #### Route Display
-![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) Current System
+![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) Current system
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru.png) Fly thru system
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wp.png) Waypoints
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png) Jump a jumpbridge from this system
@@ -44,7 +44,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNDI3MzEwLC0xNzIxNDgyNzU4LDYzOD
-c5NjQ3NiwxMDAyMzk2NjU1LC04OTE3MjI0NDksLTUyNDcxMzgz
-OCwtNDQxNzIyNTM2LC0xODA1NTg2NDU1XX0=
+eyJoaXN0b3J5IjpbOTc1MTE0NTc0LDc1MjQyNzMxMCwtMTcyMT
+Q4Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5
+LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
 -->

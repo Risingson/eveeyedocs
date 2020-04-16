@@ -46,9 +46,7 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" style="opacity:0.8;"> Toggle Fullscreen<br>
 
 ## Other Icons
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png" width="24" height="15" > Set Destination<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png" width="24" height="15" > Set Waypoint<br>
- <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="15" height="15" style="opacity:0.2;"><br>
+[R](https://eveeye.readthedocs.io/en/latest/ui/bookmarks)
 
 ## Browser keyboard shortcuts
 
@@ -66,7 +64,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjIwODU4NSwtMzgzMzkwNTE1LDM3NT
+eyJoaXN0b3J5IjpbLTE1MzM5OTcxNiwtMzgzMzkwNTE1LDM3NT
 gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
 MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
 AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4

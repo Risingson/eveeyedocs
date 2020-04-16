@@ -23,13 +23,12 @@ In the same menu you can select to `Avoid System`. To manage your avoided system
 
 #### Route Manipulation (in development)
 Clicking the colored square or else in the route legend will trigger a menu with some options where applicable:
+
+ 
 |  |  |
 |--|--|
-|  |  |
-
-
-
-
+| Turn Waypoint | Will stop your ship in this system if autopiloting |
+| Remove Waypoint | Will make your ship not stopping in this system if autopiloting |
 
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes wormholes or jumpbridges waypoints will be set accordingly.
@@ -44,7 +43,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NzQwMzYxLDEwMDIzOTY2NTUsLTg5MT
-cyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0
-NTVdfQ==
+eyJoaXN0b3J5IjpbMTg1MDg2NDM5NywxMDAyMzk2NjU1LC04OT
+E3MjI0NDksLTUyNDcxMzgzOCwtNDQxNzIyNTM2LC0xODA1NTg2
+NDU1XX0=
 -->

@@ -13,6 +13,7 @@ nav:
     - Settings: ui/settings.md
     - Search Interface: ui/search.md
     - Solarsystem Info: ui/solarsystem-info.md
+    - Bookmarks: ui/bookmarks.md
 - Map:
     - Layout: map/layout.md
     - Shapes: map/shapes.md   
@@ -34,6 +35,7 @@ nav:
     - Cloud: sharing/cloud.md
     - Intel Channels: sharing/intel-channels.md
     - Signatures: sharing/signatures.md   
+    - Jump Bridges: sharing/jumpbridges.md
     - Custom Marks: sharing/custom-marks.md 
 - Miscellaneous:   
     - Desktop app: desktop-app.md

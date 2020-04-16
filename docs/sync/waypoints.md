@@ -42,11 +42,11 @@ The shortest route from `PR-8CA` to `Nasreri` via k-space is 32 jumps.<br> ![ent
 
 A 12-jump route using a detour via Thera was found:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_0.png)
 
-If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. The corresponding Signature Code is found in the solarsystem-tab SIG or on the line on the map. From Thera do the same for the exit -in this case- to `Vecamia`. After jumping back to k-space the client will show the last 4 jumps.<br>
+If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at `PUIG-F`. There you would have to find the entrance to Thera. The corresponding Signature Code is found in the solarsystem-tab `SIG` or on the line on the map. From Thera do the same for the exit -in this case- to `Vecamia`. After jumping back to k-space the client will show the last 4 jumps.<br>
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MT
-cyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTE3MjE0ODI3NTgsNjM4Nzk2NDc2LDEwMD
+IzOTY2NTUsLTg5MTcyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1
+MzYsLTE4MDU1ODY0NTVdfQ==
 -->

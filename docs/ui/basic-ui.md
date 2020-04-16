@@ -19,7 +19,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 
-##### Info Menu
+##### Info
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
@@ -47,8 +47,8 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
-##### Other Icons
-see [Routing UI](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
+##### Route
+see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
 ## Browser keyboard shortcuts
 
@@ -66,9 +66,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDY2MTU1ODUsLTM4MzM5MDUxNSwzNz
-U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
-NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMT
-YwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4
-ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NT
+gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
+MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
+AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4
+NTU2LC0yMDY3MDI1MzM2XX0=
 -->

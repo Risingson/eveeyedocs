@@ -23,23 +23,14 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"> |  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | Legend |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
+| | |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Feedback and bugreports |
 |  |  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 |  |  |
-|  |  |
-
-
-<br>
- <br>
-<br>
- <br>
- <br><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Toggle bottom pane<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
-<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> Close 
-
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 ## Map menu icons
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
@@ -69,7 +60,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzYyODUwNywtMzgzMzkwNTE1LDM3NT
+eyJoaXN0b3J5IjpbLTQwNTQ1ODM0MSwtMzgzMzkwNTE1LDM3NT
 gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
 MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
 AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4

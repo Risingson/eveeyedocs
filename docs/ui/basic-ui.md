@@ -37,16 +37,25 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
+##### Map menu
+|  |  |
+|--|--|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## Map menu icons
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size <br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > Switches between radar map and normal map <br>
+  <br>
+ Switches between radar map and normal map <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > Zoom map in an out<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > Lock map regardless of your location<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" style="opacity:0.8;"> Toggle Fullscreen<br>
 
 ## Other Icons
-[R](https://eveeye.readthedocs.io/en/latest/ui/bookmarks)
+see [Routing UI](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
 ## Browser keyboard shortcuts
 
@@ -64,7 +73,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5OTcxNiwtMzgzMzkwNTE1LDM3NT
+eyJoaXN0b3J5IjpbMTA4MzA1NzE4MSwtMzgzMzkwNTE1LDM3NT
 gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
 MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
 AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4

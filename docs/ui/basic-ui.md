@@ -8,8 +8,20 @@
 - Solarsystem name in top row to center the map on it
 
 ## Menus
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > [Client and data sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/)<br>
+|  |  |
+|--|--|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > | [Client and data sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
+ <br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > [Cloud and data sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/)<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/)<br>
@@ -57,9 +69,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1OD
-M0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUw
-NjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4MiwtMj
-EyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4ODU1NiwtMjA2NzAy
-NTMzNl19
+eyJoaXN0b3J5IjpbMjQwNTQ4NzA3LC0zODMzOTA1MTUsMzc1OD
+I0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUw
+NCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MD
+IxMzY2ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1
+NTYsLTIwNjcwMjUzMzZdfQ==
 -->

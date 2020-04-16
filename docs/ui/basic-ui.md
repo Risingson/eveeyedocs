@@ -18,29 +18,23 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 |  |  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"> |  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | Legend |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Feedback and bugreports |
 |  |  |
 |  |  |
 |  |  |
 
 
+<br>
+ <br>
+<br>
  <br>
  <br><br>
-  <br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24" style="opacity:0.2;"><br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> Legend<br>
-<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> Help<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> Feedback and bugreports<br><br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> Toggle bottom pane<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> Toggle pane opacity<br>
 <br>
@@ -75,9 +69,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTg1MTI5LC0zODMzOTA1MTUsMzc1OD
-I0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUw
-NCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MD
-IxMzY2ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1
-NTYsLTIwNjcwMjUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTMwMzYyODUwNywtMzgzMzkwNTE1LDM3NT
+gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
+MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
+AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4
+NTU2LC0yMDY3MDI1MzM2XX0=
 -->

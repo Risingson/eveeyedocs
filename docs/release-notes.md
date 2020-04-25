@@ -1,27 +1,26 @@
 # Release Notes
 
-
-
-
-## Browser Only
-#### Release 3.01.0 BETA
+## Beta (Browser only)
+#### Release 3.01.B 
 - New activity graph in solar-system info
 - Bookmark stations + new bookmarks menu
 - Route interaction functionalities added
 - Paste jumpbridges from ingame
 - Hub Trade node and sector data options added
 
+## Production
+### Browser Only
 #### Release 3.00.0
 - Cache timers added to bottombar 
 
 
-## Desktop Only
+### Desktop Only
 #### Release 3.00.0
 - Transparent always on top window to overlay client
 - EVE-Client intel channel chat parsing
 
 
-## All Apps
+### All Apps
 #### Release 3.00.0 - Mar 2020
 - Comprehensive documentation
 - UI backend responsiveness improved
@@ -85,8 +84,8 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMT
-U1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1
-NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOT
-E2NTEsLTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbLTE0ODgxMDg5NjcsMTE1NTEzMzk4NCwtMT
+ExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIw
+NTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mz
+k2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
 -->

@@ -61,7 +61,7 @@
 - Route plotting improved.
 - Fix: Trails and marks won't clear anymore after a reload.
 
-#### Release 1.10.0 
+#### Release 1.10.0
 - Legend added.
 - Faction sectors.
 - Set names for w-space systems by clicking the system and choose from menu.
@@ -75,7 +75,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTc5ODYzMyw5OTk1MTQzODMsMjAyOT
-MwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3
-LDYzOTY3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbMzE1NTk3NjYzLDk5OTUxNDM4MywyMDI5Mz
+AyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMTE4MDg4ODcs
+NjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
 -->

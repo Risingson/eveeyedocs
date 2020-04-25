@@ -72,10 +72,10 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 
-#### TInitial Release 1.00.0 - Nov 2016
+#### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc5OTA0NTgsOTk5NTE0MzgzLDIwMj
-kzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4
-Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbMTg3NTc5ODYzMyw5OTk1MTQzODMsMjAyOT
+MwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3
+LDYzOTY3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
 -->

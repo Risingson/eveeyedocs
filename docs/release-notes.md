@@ -1,6 +1,13 @@
 # Release Notes
 
+
+
+
 ## Browser Only
+#### Release 3.01.0 BETA
+- New activity graph in solar-system info
+- Bookmark stations + new bookmarks menu
+
 #### Release 3.00.0
 - Cache timers added to bottombar 
 
@@ -75,7 +82,8 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NTk3NjYzLDk5OTUxNDM4MywyMDI5Mz
-AyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMTE4MDg4ODcs
-NjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
+eyJoaXN0b3J5IjpbLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OT
+UxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4
+MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4Mj
+M3MTg0XX0=
 -->

@@ -22,10 +22,10 @@ For example `eveautheveeye://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 
 
 If a check on if eveeye is installed fails you could redirect to<br>
 iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
-Android: `https://market.android.com/details?id=com.eveeye`
+Android: `market://details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3Mzk3NDY2LC0xMzI0NjE2NDMsNjEwMj
-k4ODg2LDIwNTM1MjQ5MDAsNDMwNzQwNjcwLC0yNjExMTA3OTRd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNzAwNTA5MDAsMjc3Mzk3NDY2LC0xMz
+I0NjE2NDMsNjEwMjk4ODg2LDIwNTM1MjQ5MDAsNDMwNzQwNjcw
+LC0yNjExMTA3OTRdfQ==
 -->

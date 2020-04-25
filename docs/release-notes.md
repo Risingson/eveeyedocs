@@ -7,6 +7,9 @@
 #### Release 3.01.0 BETA
 - New activity graph in solar-system info
 - Bookmark stations + new bookmarks menu
+- Route interaction functionalities added
+- Paste jumpbridges from ingame
+- Hub Trade node and sector data options added
 
 #### Release 3.00.0
 - Cache timers added to bottombar 
@@ -82,8 +85,8 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OT
-UxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4
-MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4Mj
-M3MTg0XX0=
+eyJoaXN0b3J5IjpbMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMT
+U1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1
+NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOT
+E2NTEsLTE5NDgyMzcxODRdfQ==
 -->

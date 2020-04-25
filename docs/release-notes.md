@@ -1,7 +1,7 @@
 # Release Notes
 
 ## Beta (Browser only)
-#### Release 3.01.B 
+#### Release 3.01.BETA 
 - New activity graph in solar-system info
 - Bookmark stations + new bookmarks menu
 - Route interaction functionalities added
@@ -84,7 +84,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgxMDg5NjcsMTE1NTEzMzk4NCwtMT
+eyJoaXN0b3J5IjpbLTEwMTg1MTI4MzksMTE1NTEzMzk4NCwtMT
 ExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIw
 NTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mz
 k2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==

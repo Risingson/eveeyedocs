@@ -12,7 +12,7 @@
 
 
 ## All Apps
-#### Release 3.00.0
+#### Release 3.00.0 - Mar 2020
 - Comprehensive documentation
 - UI backend responsiveness improved
 - UI scaling (Settings > General)
@@ -48,7 +48,7 @@
 #### Release 2.00.2
 - Fixes to preset saving and user interface.
 
-#### Release 2.00.0
+#### Release 2.00.0 - Mar 2019
 - New Layout for Tablets and Browsers.
 - Save and Load Data Options + Presets.
 - All Sovereignty now relates to IHUB owner.
@@ -61,7 +61,7 @@
 - Route plotting improved.
 - Fix: Trails and marks won't clear anymore after a reload.
 
-#### Release 1.10.0 - Nov 2016
+#### Release 1.10.0 
 - Legend added.
 - Faction sectors.
 - Set names for w-space systems by clicking the system and choose from menu.
@@ -72,10 +72,10 @@
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
 
-#### 1.02.0 - Nov 2016
+#### TInitial Release 1.00.0 - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTM0MDExNiw5OTk1MTQzODMsMjAyOT
-MwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3
-LDYzOTY3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbLTE5Mzc5OTA0NTgsOTk5NTE0MzgzLDIwMj
+kzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4
+Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
 -->

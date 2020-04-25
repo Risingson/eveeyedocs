@@ -71,8 +71,10 @@
 - Merge signature and connection (browser only).
 - Fix: Adding a character won't reset options anymore.
 - Fix: Syncing ingame location will not fail as often anymore.
+-
+####
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3OD
-E1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3
-NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbLTExMTgxNzMwOTYsOTk5NTE0MzgzLDIwMj
+kzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4
+Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
 -->

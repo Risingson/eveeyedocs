@@ -22,10 +22,10 @@ For example `eveautheveeye://?m=Delve&s=G-TT5V` will load Delve map with G-TTV5 
 
 Eveeye Explorer mobile app-store links:<br>
 iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
-Android: `market://details?id=com.eveeye`
+Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwNjQ1NDksLTIwNzg3ODIxMjgsLT
-E1MTA3Nzc1MCwyNzczOTc0NjYsLTEzMjQ2MTY0Myw2MTAyOTg4
-ODYsMjA1MzUyNDkwMCw0MzA3NDA2NzAsLTI2MTExMDc5NF19
+eyJoaXN0b3J5IjpbNjc0OTY0MSwtMjA3ODc4MjEyOCwtMTUxMD
+c3NzUwLDI3NzM5NzQ2NiwtMTMyNDYxNjQzLDYxMDI5ODg4Niwy
+MDUzNTI0OTAwLDQzMDc0MDY3MCwtMjYxMTEwNzk0XX0=
 -->

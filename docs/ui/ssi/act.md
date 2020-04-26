@@ -8,13 +8,14 @@ This graph shows activity within the solarsystem of the recent 48 hours. Its lay
 The green NOW annotation shows the current hour of the day.
 Therefore the box to the left of the text NOW shows the most recent activity.
 
+
 ##### K-Space systems
 Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pulled from Eve API.
 
 ##### W-Space systems
 Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroyed stats pulled from zKillboard API.
 
-Depl
+Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDU5NjE2M119
+eyJoaXN0b3J5IjpbLTU4NjQ4NTAxOV19
 -->

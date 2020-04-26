@@ -3,13 +3,11 @@
 #### Explanations
 ##### General
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/ssi/act2.png">
-![In the example above it is currently between 8 and 9 o´clock EVE Time (UTC). The most recent jumps recorded in that solarsystem are 1.204 jumps which occurred between 7 and 8 o´clock](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/ssi/act2.png)
+![In the example above It currently is between 8 and 9 o´clock EVE Time (UTC). The most recent jumps recorded in that solarsystem are 1.204 jumps which occurred between 7 and 8 o´clock](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/ssi/act2.png)
 
 This graph shows activity within the solarsystem of the recent 48 hours. Its layout will show same hours of the day in the same column to easily check what activity may be expected the upcoming hours.
 The green NOW annotation shows the current hour of the day.
 Therefore the box to the left of the text NOW shows the most recent activity.
-In the example above it is currently between 8 and 9 o´clock EVE Time (UTC). The most recent jumps recorded in that solarsystem are 1.204 jumps which occurred between 7 and 8 o´clock:
-
 
 ##### K-Space systems
 Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pulled from Eve API.
@@ -19,5 +17,5 @@ Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroye
 
 Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzU1MTk5M119
+eyJoaXN0b3J5IjpbMTIyOTY5MTU1OV19
 -->

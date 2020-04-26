@@ -7,13 +7,13 @@
 | **STA**| **Stations:** All stations in system including station service info.|
 | **AGT**| **Agents** Shows available agents within stations including agent type and level. Enabling the agents tab will enable the stations tab automatically.|
 | **DST**| **Destinations** Will display route to bookmarked systems. Preset are major trade hubs. |
-| **ACT**| **[Activity Graph] (https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** For wormhole systems there is no api data available for recent jumps or NPC kills.<br>X-axis: "-13h" shows data from -14h to -13h|
+| **ACT**| **[Activity Graph](https://eveeye.readthedocs.io/en/latest/ui/ssi/act)** For wormhole systems there is no api data available for recent jumps or NPC kills.<br>X-axis: "-13h" shows data from -14h to -13h|
 | **SOV**| **Sovereignty** details |
 | **WH** | **Wormhole info** including phenomenon effects |
 | **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyMjMzNDg4LC00MzA0OTg3MDEsMTQxMz
-I1MjYwMSwtMTM5MTg0NDM5MiwtNzUyNzcwMDU4LC00OTcwODA5
-MTFdfQ==
+eyJoaXN0b3J5IjpbLTExMDMxMTUwMjYsLTQzMDQ5ODcwMSwxND
+EzMjUyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAwNTgsLTQ5NzA4
+MDkxMV19
 -->

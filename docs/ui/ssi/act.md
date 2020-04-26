@@ -1,7 +1,7 @@
 # Activity graph
-
-#### General
-This graph shows activity within the solarsystem of the recent 48 hours. Its layout will show same hours of the day in the same column to easily check what activity may be expected the upcoming hours.
+This graph shows activity within the solarsystem of the recent 48 hours. 
+#### Explanation
+Its layout will show same hours of the day in the same column to easily check what activity may be expected the upcoming hours.
 The green NOW annotation shows the current hour of the day.
 Therefore the box to the left of the text NOW shows the most recent activity.
 
@@ -26,5 +26,5 @@ Structure stats include dockable Structures, POS and deployable structures.
 Generally depends on the *min* and *max* of each series. The shading of POD and SHIP is in relation though since it is calculated from *min* and *max* of both series.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDM4MzYyOF19
+eyJoaXN0b3J5IjpbLTE5MzYxMDM3MjNdfQ==
 -->

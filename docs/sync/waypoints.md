@@ -8,7 +8,8 @@ To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoin
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png) | Set destination. This clears a current route. |
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png) | Add waypoint to the end of the current route.|
-In the same menu you can select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
+
+In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 !!! attention "Ingame vs Eveeye route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
@@ -50,8 +51,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzEwMjI0Miw3NTI0MjczMTAsLTE3Mj
-E0ODI3NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MTcyMjQ0
-OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ
-==
+eyJoaXN0b3J5IjpbOTM4Mjk2NzczLDc1MjQyNzMxMCwtMTcyMT
+Q4Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5
+LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
 -->

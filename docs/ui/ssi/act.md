@@ -13,6 +13,8 @@ Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pu
 
 ##### W-Space systems
 Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroyed stats pulled from zKillboard API.
+
+Depl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTM5MDQ5ODhdfQ==
+eyJoaXN0b3J5IjpbMjAzMDU5NjE2M119
 -->

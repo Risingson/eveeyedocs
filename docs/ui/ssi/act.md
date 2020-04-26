@@ -24,8 +24,8 @@ Stats pulled from [zKillboard](https://zKillboard.com/) API.
 Structure stats include dockable Structures, POS and deployable structures.
 
 ##### Color shading
-Generally depends on the *min* and *max* of each series. The shading of POD and SHIP is relative to each other since it is calculated from *min* and *max* of both series.
+Generally depends on the *min* and *max* of each series. The shading of POD and SHIP is in relation though since it is calculated from *min* and *max* of both series.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3NzM0OTY0XX0=
+eyJoaXN0b3J5IjpbLTU3MTM4MTU4Ml19
 -->

@@ -12,7 +12,7 @@ Therefore the box to the left of the text NOW shows the most recent activity.
 Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pulled from Eve API.
 
 ##### W-Space systems
-Will show deployable Structures destroyed (includes PODs killed ,Player-SHIPs destroyed stats pulled from zKillboard API.
+Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroyed stats pulled from zKillboard API.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3ODY0MzQyOF19
+eyJoaXN0b3J5IjpbLTE1NTM5MDQ5ODhdfQ==
 -->

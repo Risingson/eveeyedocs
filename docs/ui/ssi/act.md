@@ -6,10 +6,12 @@ This graph shows activity within the solarsystem of the recent 48 hours. Its lay
 The green NOW annotation shows the current hour of the day.
 Therefore the box to the left of the text NOW shows the most recent activity.
 
+The time is EVe
+
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/ssi/act2.png">
 
-In the example above it is currently between 8 and 9 o'clock Eve time (UTC). The most recent jumps recorded in that solarsystem are 1.204 jumps which occurred between 7 and 8 o'clock.
-The system screenshot was Niarja on a sunday. a high-sec ganking sys. The last 2 days most ships were destroyed between 14 and 22 o'clock Eve time.
+In the example above it is currently between 8 and 9 o'clock. The most recent jumps recorded in that solarsystem are 1.204 jumps which occurred between 7 and 8 o'clock.
+The system screenshot was Niarja - a high-sec ganking sys - on a sunday. The last 2 days most ships were destroyed during 14 to 16 o'clock on saturday and 17 to 22 o'clock on saturday.
 
 
 
@@ -22,5 +24,5 @@ Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroye
 
 Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MzYxNDcxXX0=
+eyJoaXN0b3J5IjpbLTExOTE3NjA2Nl19
 -->

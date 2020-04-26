@@ -17,9 +17,9 @@ The system screenshot on a sunday was `Niarja` - a high-sec ganking sys. The las
 Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pulled from Eve API.
 
 ##### W-Space systems
-Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroyed stats pulled from zKillboard API.
+Will show Structures destroyed, PODs killed and Player-SHIPs destroyed stats pulled from zKillboard API.
 
 Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3Njg2NTM3MV19
+eyJoaXN0b3J5IjpbLTI1MjA5OTI5NF19
 -->

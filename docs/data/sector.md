@@ -12,7 +12,7 @@ Colors sectors after ship + pod-kills within that solarsystem/region.
 Colors sectors after npc-kills within that solarsystem/region. 
 
 **Recent NPC kill Delta**<br>
-The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in that solarsystem.
+The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in that solarsystem. Not shown for high-sec systems.
 
 **Recent/24h jumps**<br>
 Colors sectors after jumps to that solarsystem/region. 
@@ -40,8 +40,8 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk3OTcyOTAsMTkyNTgzNDA1NiwtOD
-Q5MzYxMzI3LC0xMDk0MjI2NTI4LC0xMjk4NjY0MDU5LC01Njg1
-MzgxMjksNzE0MTU4NzQxLC02ODc5Mzc1MDIsMTMwNzE3MTUzNl
-19
+eyJoaXN0b3J5IjpbLTYzMTE4NDY2NywtMTgwOTc5NzI5MCwxOT
+I1ODM0MDU2LC04NDkzNjEzMjcsLTEwOTQyMjY1MjgsLTEyOTg2
+NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4NzkzNzUwMi
+wxMzA3MTcxNTM2XX0=
 -->

@@ -21,7 +21,7 @@ Stats pulled from Eve API.
 Will show STRuctures destroyed, PODs killed and Player-SHIPs destroyed. 
 Stats pulled from [zKillboard](https://zKillboard.com/) API.
 
-Structures include Citadels, POS and mobile structures.
+Structure stats include dockable Structures, POS and deployable structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzQ3NjI2MV19
+eyJoaXN0b3J5IjpbODExMTQ1Nzk0XX0=
 -->

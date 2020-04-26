@@ -52,10 +52,10 @@ Removing a character via Character Management will not delete its data from clou
 
 Synced amongst your devices would be map presets, signatures, connections, marks and names.
 
-Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
+Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjYwMTI1MDksLTEyNDQ3OTc2MzEsLT
-E0MzEyODA4NTEsNDE3NDkzNzk2LC0xNDAwNzI1ODg4LC0yMzUx
-Mzk2NTIsMTYwNDk1NTE3MSwtOTAzMTY5OTAxXX0=
+eyJoaXN0b3J5IjpbNDg0MzE0MTUwLC0xMjQ0Nzk3NjMxLC0xND
+MxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcyNTg4OCwtMjM1MTM5
+NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
 -->

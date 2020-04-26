@@ -1,14 +1,13 @@
 
 # Waypoints
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. 
-|  |  |
-|--|--|
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestinati.png) | Set destination. This clears a current route. |
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Add waypoint to the end of the current route.|
 
 ## Interaction
-To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination`.<br>
-
+To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination` or use the following icons:<br>
+|  |  |
+|--|--|
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png) | Set destination. This clears a current route. |
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png) | Add waypoint to the end of the current route.|
 In the same menu you can select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 !!! attention "Ingame vs Eveeye route"
@@ -51,7 +50,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzQ2NjE5MSw3NTI0MjczMTAsLTE3Mj
+eyJoaXN0b3J5IjpbMTkyMzEwMjI0Miw3NTI0MjczMTAsLTE3Mj
 E0ODI3NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MTcyMjQ0
 OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ
 ==

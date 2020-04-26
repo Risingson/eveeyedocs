@@ -11,9 +11,7 @@ Time measures are Eve time (UTC).
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/ssi/act2.png">
 
 In the example above it is currently between 8 and 9 o'clock. The most recent jumps recorded in that solarsystem are 1.204 jumps which occurred between 7 and 8 o'clock.
-The system screenshot was Niarja - a high-sec ganking sys - on a sunday. The last 2 days most ships were destroyed during 14 to 16 o'clock on saturday and 17 to 22 o'clock on saturday.
-
-
+The system screenshot on a sunday was `Niarja` - a high-sec ganking sys. The last 2 days most ships were destroyed during 14 to 16 o'clock on saturday and 17 to 22 o'clock on saturday.
 
 
 ##### K-Space systems
@@ -24,5 +22,5 @@ Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroye
 
 Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjg0MzUyXX0=
+eyJoaXN0b3J5IjpbMTIwODg2NTE4N119
 -->

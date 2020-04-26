@@ -6,7 +6,7 @@ This graph shows activity within the solarsystem of the recent 48 hours. Its lay
 The green NOW annotation shows the current hour of the day.
 Therefore the box to the left of the text NOW shows the most recent activity.
 
-The time is EVe
+Time measures are Eve time (UTC).
 
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/ssi/act2.png">
 
@@ -24,5 +24,5 @@ Will show deployable Structures destroyed, PODs killed and Player-SHIPs destroye
 
 Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE3NjA2Nl19
+eyJoaXN0b3J5IjpbMTc0Mjg0MzUyXX0=
 -->

@@ -14,12 +14,14 @@ In the example above it is currently between 8 and 9 o'clock. The most recent ju
 The system screenshot on a sunday was `Niarja` - a high-sec ganking sys. The last 2 days most ships were destroyed during 14 to 16 o'clock on saturday and 17 to 22 o'clock on saturday. 
 
 ##### K-Space systems
-Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pulled from Eve API.
+Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed. 
+Stats pulled from Eve API.
 
 ##### W-Space systems
-Will show Structures destroyed, PODs killed and Player-SHIPs destroyed stats pulled from zKillboard API.
+Will show STRuctures destroyed, PODs killed and Player-SHIPs destroyed. 
+Stats pulled from [zKillboard](https://zKillboard.com/) API.
 
 Deployable structures include Citadels, POS and mobile structures.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MjA5OTI5NF19
+eyJoaXN0b3J5IjpbNDc3MjA5MDg4XX0=
 -->

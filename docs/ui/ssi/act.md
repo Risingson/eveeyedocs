@@ -9,9 +9,10 @@ The green NOW annotation shows the current hour of the day.
 Therefore the box to the left of the text NOW shows the most recent activity.
 
 ##### K-Space systems
-Will show Jumps, Npcs destroyed, Pods killed and Player-ships destroyed stats pulled from the EVE Api.
+Will show JUMPs, NPCs destroyed, PODs killed and Player-SHIPs destroyed stats pulled from Eve API.
 
 ##### W-Space systems
+Will show deployable Structures destroyed (includes PODs killed ,Player-SHIPs destroyed stats pulled from zKillboard API.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDQ3ODYwOV19
+eyJoaXN0b3J5IjpbMTM3ODY0MzQyOF19
 -->

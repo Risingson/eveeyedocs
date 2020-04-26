@@ -23,7 +23,7 @@ Connection lines are colored and solid or dashed.
 | Red lines | End of life |
 | Solid lines | Stability not reduced |
 | Dashed line | Stability reduced|
-| Wide dashed line| Stability critical |
+| Large gap dashed line| Stability critical |
 | Dotted line| Frigate sized |
 
 ## Add data to connections
@@ -39,7 +39,7 @@ In solarsystem info pane's `SIG` tab you can drag pasted wormhole signatures ont
 ## Name wormholes
 Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5ND
-M5NTU5NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEs
-LTMzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbMTEzNzMyNTM3MSw2MjM5ODEwNTUsLTQ1ND
+I0MDM2OSwtMTk0Mzk1NTk3OSwxNjM3MTg0OTAsNjcwNzE5NTUx
+LC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX0=
 -->

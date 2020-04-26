@@ -9,7 +9,7 @@ Along a load of new features and improvements in this new version the following 
 
 - Cloud storage to sync your data amongst your devices/browsers
 - Share your location with a group of players
-- Share wormhole connections
+- Share wormhole connections and jump bridges
 - Share signatures (parsing via browser version)
 - Share system marks and their names
 - Pulling 24h and 48h activity stats from eveeye server
@@ -29,8 +29,8 @@ Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDk2NTU4MCwxMDgxMjYxOTg3LDM2NT
-AzMDQyNyw0Mjc3MTg1ODgsMTI0MTgyMjE0MSwtMTE3NDE4MzI3
-NCwtMTIzMjMwMTg2NiwtMTU5MTMxNjYyLDExOTEwMTMwNjAsLT
-EwNjIxMTM2NjJdfQ==
+eyJoaXN0b3J5IjpbMTEzNzAzMTI1OSwtMjgwOTY1NTgwLDEwOD
+EyNjE5ODcsMzY1MDMwNDI3LDQyNzcxODU4OCwxMjQxODIyMTQx
+LC0xMTc0MTgzMjc0LC0xMjMyMzAxODY2LC0xNTkxMzE2NjIsMT
+E5MTAxMzA2MCwtMTA2MjExMzY2Ml19
 -->

@@ -44,7 +44,7 @@ These are the toggles to use your own not shared custom marks or the ones shared
 ### Share and Show K-K Connections
 If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
 !!! warning "Limitation"
-    Only connections that got edited with a signature-code or wormhole-code will get shown. This is to avoid false connections that get created by cyno-jumping or using jump-bridges.
+    Only connections that got edited with a signature-code or wormhole-code will get shown. This is to avoid showing connections that get created by cyno-jumping or using jump-bridges.
 
 ## Remove character and data from cloud
 Disabling cloud will delete all data related to that character from cloud.
@@ -55,7 +55,7 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks and their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ3OTc2MzEsLTE0MzEyODA4NTEsND
-E3NDkzNzk2LC0xNDAwNzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1
-NTE3MSwtOTAzMTY5OTAxXX0=
+eyJoaXN0b3J5IjpbLTEzMjYwMTI1MDksLTEyNDQ3OTc2MzEsLT
+E0MzEyODA4NTEsNDE3NDkzNzk2LC0xNDAwNzI1ODg4LC0yMzUx
+Mzk2NTIsMTYwNDk1NTE3MSwtOTAzMTY5OTAxXX0=
 -->

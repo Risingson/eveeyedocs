@@ -22,6 +22,10 @@ Will show STRuctures destroyed, PODs killed and Player-SHIPs destroyed.
 Stats pulled from [zKillboard](https://zKillboard.com/) API.
 
 Structure stats include dockable Structures, POS and deployable structures.
+
+##### Color shading
+Generally depends on the min and max of each series. The shading of POD and SHIP is calculated from the 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDU3NTMwM119
+eyJoaXN0b3J5IjpbNjEwMjU0MjcwXX0=
 -->

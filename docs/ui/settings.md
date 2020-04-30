@@ -1,15 +1,20 @@
 # Settings
 
 ## General
+#### User Interface scale
+Use + and - to scale the entire UI.
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
-#### Black Background
-Will disable displaying background graphics.
+
+
+
+
+## Map
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
-
-## Sync
+#### Mono Background
+Will disable displaying background graphics and replace with a dark blue background.
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen.
 #### Show Current Constellation Outline
@@ -51,7 +56,8 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMj
-IyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1
-MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbLTYyMjQyNzIxMiwxMzM0Mzg3NTA2LC0xMz
+k3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3NTE5OSwxMzU5OTk5
+NjQ1LDE3OTkxODUxOTYsMTMxMTc0MjQ4NCwxODMyMTU2Mjg2XX
+0=
 -->

@@ -15,7 +15,7 @@ With this mode enabled clicking ot tapping a solarsystem will not show the menu.
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
 #### Mono Background
-Will disable displaying background graphics and replace with a dark blue background.
+Will disable displaying background graphics and replace with a near-black blue background.
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen.
 #### Show Current Constellation Outline
@@ -57,8 +57,8 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDE2MTgyOSwyODc5NDEyMzksMTMzND
-M4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4NzUx
-OTksMTM1OTk5OTY0NSwxNzk5MTg1MTk2LDEzMTE3NDI0ODQsMT
-gzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OT
+QxMjM5LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1
+NSwtMzMzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMz
+ExNzQyNDg0LDE4MzIxNTYyODZdfQ==
 -->

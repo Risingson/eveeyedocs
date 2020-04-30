@@ -8,7 +8,7 @@ This will load api data only if you are on wlan to save on data volume. This set
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
 #### Doubleclick/tap Mode
-With this mode enabled clicking ot tapping a solarsystem will not show the menu. To show the menu you would have to doubleclick/tap it.
+With this mode enabled clicking ot tapping a solarsystem will not show the menu. To show the menu you would have to doubleclick/tap it. On connection lines a single click/tap is sufficient to show its menu still.
 
 ## Map
 #### Extended Map Layout
@@ -57,8 +57,8 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOT
-c1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2
-NDUsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ
-==
+eyJoaXN0b3J5IjpbMTk5MDE2MTgyOSwyODc5NDEyMzksMTMzND
+M4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4NzUx
+OTksMTM1OTk5OTY0NSwxNzk5MTg1MTk2LDEzMTE3NDI0ODQsMT
+gzMjE1NjI4Nl19
 -->

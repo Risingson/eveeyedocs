@@ -39,11 +39,13 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 These are the toggles to use your own not shared custom marks or the ones shared with your sharing group.
 
 ### Manage Intel channels
+
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
     
 ### Share and Show K-K Connections
 If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
+
 !!! warning "Limitation"
     Only connections that got edited with a signature-code or wormhole-code will get shown. This is to avoid showing connections that get created by cyno-jumping or using jump-bridges.
 
@@ -56,7 +58,8 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNzY1NjM1LC0xMjQ0Nzk3NjMxLC0xND
-MxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcyNTg4OCwtMjM1MTM5
-NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
+eyJoaXN0b3J5IjpbLTE2MTY0Mzc4MjEsNTAxNzY1NjM1LC0xMj
+Q0Nzk3NjMxLC0xNDMxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcy
+NTg4OCwtMjM1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV
+19
 -->

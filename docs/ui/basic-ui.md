@@ -27,7 +27,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | Legend |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | [Legend](https://eveeye.readthedocs.io/en/latest/ui/legend) |
 
 ##### Other
 |  |  |
@@ -66,9 +66,9 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NT
-gyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1
-MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNj
-AyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4
-NTU2LC0yMDY3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbMjU4NjcxMDMsMTg4MTUwNTUyMSwtMzgzMz
+kwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4Mjcs
+LTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQwNz
+I5MjM1NCwxNjAyMTM2NjgyLC0yMTI0OTc1NDgzLDM1MTEwMDkx
+MywxMTUwNjg4NTU2LC0yMDY3MDI1MzM2XX0=
 -->

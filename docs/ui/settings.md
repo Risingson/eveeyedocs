@@ -3,8 +3,8 @@
 ## General
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
-#### Download Data over WiFi only (mobile app only)
-This will load api data only if you are on wlan to save on data volume.
+#### Download Data over WiFi only
+This will load api data only if you are on wlan to save on data volume. This setting is available within mobile apps only.
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
 #### Doubleclick/tap Mode
@@ -57,8 +57,8 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MjE4MTIyOSwxMzM0Mzg3NTA2LC0xMz
-k3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3NTE5OSwxMzU5OTk5
-NjQ1LDE3OTkxODUxOTYsMTMxMTc0MjQ4NCwxODMyMTU2Mjg2XX
-0=
+eyJoaXN0b3J5IjpbMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOT
+c1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2
+NDUsMTc5OTE4NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ
+==
 -->

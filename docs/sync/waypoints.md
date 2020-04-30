@@ -2,7 +2,7 @@
 With sync active you got the possibility to set destinations/waypoints from Eveeye to the EVE client. 
 
 ## Interaction
-To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination` or use the following icons:<br>
+To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoint` or `Set Destination` or use the following icons:
 
 |  |  |
 |--|--|
@@ -51,8 +51,8 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkyODMxLDY4Mjk4NDkyOSw3NTI0Mj
-czMTAsLTE3MjE0ODI3NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUs
-LTg5MTcyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MD
-U1ODY0NTVdfQ==
+eyJoaXN0b3J5IjpbLTE5MDc0MjMyNDksNjgyOTg0OTI5LDc1Mj
+QyNzMxMCwtMTcyMTQ4Mjc1OCw2Mzg3OTY0NzYsMTAwMjM5NjY1
+NSwtODkxNzIyNDQ5LC01MjQ3MTM4MzgsLTQ0MTcyMjUzNiwtMT
+gwNTU4NjQ1NV19
 -->

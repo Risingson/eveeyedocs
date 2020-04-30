@@ -14,9 +14,9 @@ nav:
     - Search Interface: ui/search.md
     - Solarsystem Info: ui/solarsystem-info.md
     - Bookmarks: ui/bookmarks.md
-    - Legend: ui/legend.md
 - Map:
     - Layout: map/layout.md
+    - Legend: map/legend.md
     - Shapes: map/shapes.md   
     - Chain Mapping: map/chain-mapping.md
 - Data Displays:   

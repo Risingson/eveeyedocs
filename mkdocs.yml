@@ -16,7 +16,6 @@ nav:
     - Bookmarks: ui/bookmarks.md
 - Map:
     - Layout: map/layout.md
-    - Legend: map/legend.md
     - Shapes: map/shapes.md   
     - Chain Mapping: map/chain-mapping.md
 - Data Displays:   

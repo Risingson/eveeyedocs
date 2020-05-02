@@ -10,7 +10,7 @@
  - For wormhole systems there is no api data available for recent jumps
    or NPC kills.
  - Phenomenons are stated as an extra sub-label. To view its effects
-   click the wormhole and select `Show Info` from the menu.
+   click the wormhole and select `Show Info` from the menu and switch to the `WH` tab.
 
 ## Display Styles
 Solarsystem oultines are solid or dashed. 
@@ -34,12 +34,12 @@ You can edit:<br>
  - K162 side<br>
  - Wormhole code<br>
 
-In solarsystem info pane's `SIG` tab you can drag pasted wormhole signatures onto wormhole connections to merge the signature code. This will stop that sig from being displayed under signatures. This is a browser only feature.
+In solarsystem info pane's `SIG` tab you can drag pasted wormhole signatures onto wormhole connections to merge the signature code. This will stop that sig from being displayed under signatures. 
 
 ## Name wormholes
 Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzMyNTM3MSw2MjM5ODEwNTUsLTQ1ND
-I0MDM2OSwtMTk0Mzk1NTk3OSwxNjM3MTg0OTAsNjcwNzE5NTUx
-LC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX0=
+eyJoaXN0b3J5IjpbLTg0MTY1Mzc5MywxMTM3MzI1MzcxLDYyMz
+k4MTA1NSwtNDU0MjQwMzY5LC0xOTQzOTU1OTc5LDE2MzcxODQ5
+MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTddfQ==
 -->

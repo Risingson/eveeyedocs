@@ -12,7 +12,7 @@ Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=ev
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)  
 
 ## Software Credits
-<a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://chartjs.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">chartjs</span></a><br>
+<a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://apexcharts.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">apexcharts</span></a><br>
 Icons by <a href="https://icons8.com/icons/" target="_blank" style="text-decoration: none;" class="help_links">icons8.com</span></a><br>
 Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style="text-decoration: none;">Donorbox</a><br>
 
@@ -41,9 +41,9 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NTE2MzIzMSw1NzI0ODIwMjMsNTY4OT
-g1NTE2LC02MTIzMDIyMzYsLTE1MDU0NjU5OTAsLTE4OTgxMzY3
-ODQsLTE3MDMzNzMxODMsLTE1NTE3NTM4NDksLTExMTIzMDA0MD
-IsMTAwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMwMzE5Miw2Njc3
-MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MTg2NTEwNCwtOTY1MTYzMjMxLDU3Mj
+Q4MjAyMyw1Njg5ODU1MTYsLTYxMjMwMjIzNiwtMTUwNTQ2NTk5
+MCwtMTg5ODEzNjc4NCwtMTcwMzM3MzE4MywtMTU1MTc1Mzg0OS
+wtMTExMjMwMDQwMiwxMDA3Mjk0Njg1LC04NjAwNDE5MjQsOTIx
+MzAzMTkyLDY2NzcyNjk0NF19
 -->

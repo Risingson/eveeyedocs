@@ -20,6 +20,8 @@ Wormholes...
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
 ## Eveeye
+[https://www.eveonline.com/article/the-second-coming-of-moondoggie](https://www.eveonline.com/article/the-second-coming-of-moondoggie)
+
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_01.jpg" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_02.png" width="640"/>
 
@@ -56,7 +58,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkyOTMxOTIsLTEwMTM2MTQxNzgsLT
-E3ODExNzY2NTEsLTI3Mzc3MTM2LC0yMDExODM5OTQ1LDEwNjA0
-MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2ODczXX0=
+eyJoaXN0b3J5IjpbMzYyMTk4NzQxLC0xNDE5MjkzMTkyLC0xMD
+EzNjE0MTc4LC0xNzgxMTc2NjUxLC0yNzM3NzEzNiwtMjAxMTgz
+OTk0NSwxMDYwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M1
+19
 -->

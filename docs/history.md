@@ -11,12 +11,11 @@
 The very first tool i made public was an invention calculator after the Revelations I expansion in 2006.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="480"/>
 
-I fell for exploration from day one of said expansion. So when starting to get around New Eden i wanted to know about the systems i was visiting and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a the Hitchhiker's Guide To The Galaxy of New Eden.
+I fell for exploration from day one of said expansion. So when starting to get around New Eden i wanted to know about the systems i was visiting and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a Hitchhiker's Guide To The Galaxy of New Eden.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="320"/>
-Which became **IPS** "Interplanetary Positioning System" later. `Add eve release info at that time`
-I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
+It became **IPS** "Interplanetary Positioning System" later. I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS_01.png" width="320"/>
-Wormholes (Apocrypha 2009)
+Extended the system with wormhole systems after Apocrypha 2009)
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
 ## Eveeye
@@ -58,8 +57,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTMzODg2OCwzNjIxOTg3NDEsLTE0MT
-kyOTMxOTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3
-MTM2LC0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwOD
-gsNzEwMTg2ODczXX0=
+eyJoaXN0b3J5IjpbODY4NTczMDEwLDM2MjE5ODc0MSwtMTQxOT
+I5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcx
+MzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OC
+w3MTAxODY4NzNdfQ==
 -->

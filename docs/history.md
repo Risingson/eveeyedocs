@@ -7,6 +7,8 @@
  - `add eve release info at that time`
  - `write stories`
 
+[https://en.wikipedia.org/wiki/Expansions_of_Eve_Online](https://en.wikipedia.org/wiki/Expansions_of_Eve_Online)
+
 ## Moondoggie tools
 
     describe what Moondoggie was
@@ -67,8 +69,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NjE3MTI0LDM2MjE5ODc0MSwtMTQxOT
-I5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcx
-MzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OC
-w3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbLTI3MDQ5MDM5MywzNjIxOTg3NDEsLTE0MT
+kyOTMxOTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3
+MTM2LC0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwOD
+gsNzEwMTg2ODczXX0=
 -->

@@ -4,7 +4,7 @@
   
   ##### Todo  
  - `do timeline`
- - `Add eve release info at that time`
+ - `add eve release info at that time`
  - `write stories`
 
 ### Moondoggie tools
@@ -40,7 +40,7 @@ Wormholes...
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_04.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_03.jpg" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_05.png" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_igb-relay.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_igb-relay.png" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_ingame-overlay.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_omniverse.png" width="640"/>
 
@@ -49,7 +49,7 @@ Wormholes...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODExNzY2NTEsLTI3Mzc3MTM2LC0yMD
-ExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2
-ODczXX0=
+eyJoaXN0b3J5IjpbLTQ5MTkwNzY2MCwtMTc4MTE3NjY1MSwtMj
+czNzcxMzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3
+NjA4OCw3MTAxODY4NzNdfQ==
 -->

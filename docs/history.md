@@ -8,13 +8,18 @@
  - `write stories`
 
 ## Moondoggie tools
+
+    describe what Moondoggie was
+
 The very first tool i made public was an invention calculator after the Revelations I expansion in 2006.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="440"/>
 
 I fell for exploration from day one of said expansion. So when starting to get around New Eden i wanted to know about the systems i was visiting and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a Hitchhiker's Guide To The Galaxy of New Eden.
 
+    describe that it could be updated with you current location
 
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="440"/>
+
 It became **IPS** "Interplanetary Positioning System" later. I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS_01.png" width="440"/>
 Extended IPS with wormhole systems after the Apocrypha release in 2009.
@@ -62,8 +67,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI3NzQwNjksMzYyMTk4NzQxLC0xND
-E5MjkzMTkyLC0xMDEzNjE0MTc4LC0xNzgxMTc2NjUxLC0yNzM3
-NzEzNiwtMjAxMTgzOTk0NSwxMDYwNDAzMzMwLC0yMDY2MDc2MD
-g4LDcxMDE4Njg3M119
+eyJoaXN0b3J5IjpbNjE5NjE3MTI0LDM2MjE5ODc0MSwtMTQxOT
+I5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcx
+MzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OC
+w3MTAxODY4NzNdfQ==
 -->

@@ -44,16 +44,17 @@ Wormholes...
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_ingame-overlay.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_omniverse.png" width="640"/>
 
-By the time my server was s
+By the time my server was slowly dying and Windows Server 2003 was deprecated. The only options were to shut down the active server pages or do a complete re-write...
 
 ## Eveeye Explorer (2016)
+I chose to re-write the software but with another concept
 
 ## In the press
 [https://crossingzebras.com/post-mortem-feature-eve-eye-maps/](https://crossingzebras.com/post-mortem-feature-eve-eye-maps/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTgxNjI2NywtMTc4MTE3NjY1MSwtMj
+eyJoaXN0b3J5IjpbMTU0OTQ3MTkzOCwtMTc4MTE3NjY1MSwtMj
 czNzcxMzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3
 NjA4OCw3MTAxODY4NzNdfQ==
 -->

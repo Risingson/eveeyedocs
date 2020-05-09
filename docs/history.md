@@ -44,17 +44,17 @@ Wormholes...
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_ingame-overlay.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_omniverse.png" width="640"/>
 
-By the time my server was slowly dying and Windows Server 2003 was deprecated. The only options were to shut down the active server pages or do a complete re-write...
+By the time my server was slowly dying on the Windows Server 2003 deprecation. The only option -apart from discontinuing- was to shut down the active server pages and do a complete re-write...
 
 ## Eveeye Explorer (2016)
-I chose to re-write the software but tried an different concept. Still sad that i had to offline Eveeye since the technology i used was deprecated i started to code a fully client-side mobile app. I wanted to try that for years after all.  ....
+Still sad that i had to offline Eveeye since the technology i used was deprecated i started to code a fully client-side mobile app to not be dependant on maintaining a server backend. Thisd reduced the costsI wanted to try that for years after all.  ....
 
 ## In the press
 [https://crossingzebras.com/post-mortem-feature-eve-eye-maps/](https://crossingzebras.com/post-mortem-feature-eve-eye-maps/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODQ3NTg5OCwtMTc4MTE3NjY1MSwtMj
+eyJoaXN0b3J5IjpbMTM0MDA3MzgwMSwtMTc4MTE3NjY1MSwtMj
 czNzcxMzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3
 NjA4OCw3MTAxODY4NzNdfQ==
 -->

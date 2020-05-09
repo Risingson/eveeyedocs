@@ -3,11 +3,11 @@
 !!! warning "Page not done yet"
     
 
- - do timeline
+ - `do timeline`
  - `Add eve release info at that time`
 
 ### Moondoggie tools
-After i started playing Eve and was trying to gather information and looking for tools i started to tailer tools for my self soon. The first one i made public was an invention calculator in [YEAR?].
+After i started playing Eve and was trying to gather information and looking for tools i started to tailer tools for my self soon. The first one i made public was an invention calculator in [YEAR?]. `Add eve release info at that time`
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="320"/>
 
 When starting to get around new eden i wanted to know where i am and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a "Hitchhiker's Guide To The Galaxy".
@@ -20,6 +20,6 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 
 ![enter image description here]([0_Mezz_InventionCalc.jpg](https://github.com/Risingson/eedocs/blob/master/docs/images/history/0_Mezz_InventionCalc.jpg"))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY2NTI1NDEsLTIwMTE4Mzk5NDUsMT
-A2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbMTM0OTA2Mzg1NiwtMjAxMTgzOTk0NSwxMD
+YwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
 -->

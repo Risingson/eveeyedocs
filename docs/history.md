@@ -18,7 +18,7 @@ It became **IPS** "Interplanetary Positioning System" later. I at that time trav
 Extended IPS with wormhole systems after the Apocrypha release in 2009.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
-? Profit 
+    Add ? Profit Calc story
 
 ## Eveeye
 [https://www.eveonline.com/article/the-second-coming-of-moondoggie](https://www.eveonline.com/article/the-second-coming-of-moondoggie)
@@ -59,8 +59,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NDg3NjA3LDM2MjE5ODc0MSwtMTQxOT
-I5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcx
-MzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OC
-w3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbLTc0MjI0MDc4OCwzNjIxOTg3NDEsLTE0MT
+kyOTMxOTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3
+MTM2LC0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwOD
+gsNzEwMTg2ODczXX0=
 -->

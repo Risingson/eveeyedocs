@@ -16,6 +16,7 @@ When starting to get around new eden i wanted to know where i am and started wha
 Which became **IPS** "Interplanetary Positioning System" later. `Add eve release info at that time`
 I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS_01.png" width="320"/>
+Wormholes...
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
 ### Eveeye
@@ -49,7 +50,7 @@ I at that time traveled each and every special site of New Eden and did screensh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTA0Mzk2MywtMjczNzcxMzYsLTIwMT
-E4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTkwNzE0NjEsLTI3Mzc3MTM2LC0yMD
+ExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2
+ODczXX0=
 -->

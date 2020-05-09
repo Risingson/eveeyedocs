@@ -14,14 +14,16 @@ After i started playing Eve and was trying to gather information and looking for
 When starting to get around new eden i wanted to know where i am and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a "Hitchhiker's Guide To The Galaxy".
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="320"/>
 Which became **IPS** "Interplanetary Positioning System" later. `Add eve release info at that time`
+I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS_01.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
 ### Eveeye
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_01.jpg" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_02.png" width="640"/>
 
-#### The true hitchhiker
-I at that time traveled each and every special site of New Eden and did screenshots to see within Eveeye... Maybe i should dig those out and readd to today's Eveeye Explorer.
+
+
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE-04.png" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_05.png" width="640"/>
 
@@ -47,6 +49,7 @@ I at that time traveled each and every special site of New Eden and did screensh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Mzc3MTM2LC0yMDExODM5OTQ1LDEwNj
-A0MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2ODczXX0=
+eyJoaXN0b3J5IjpbMTA0OTA0Mzk2MywtMjczNzcxMzYsLTIwMT
+E4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4
+NzNdfQ==
 -->

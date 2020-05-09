@@ -49,12 +49,14 @@ By the time my server was slowly dying on the Windows Server 2003 end of life. T
 ## Eveeye Explorer (2016)
 Still sad that i had to offline Eveeye due to the technology i used was deprecated i started to code a fully client-side mobile app to not be dependant on maintaining a server backend. This reduced the costs a lot and i wanted to try that for years anyway.  ....
 
+    add a bit of EEE dev steps
+
 ## In the press
 [https://crossingzebras.com/post-mortem-feature-eve-eye-maps/](https://crossingzebras.com/post-mortem-feature-eve-eye-maps/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NjM1MDU3LC0xNzgxMTc2NjUxLC0yNz
-M3NzEzNiwtMjAxMTgzOTk0NSwxMDYwNDAzMzMwLC0yMDY2MDc2
-MDg4LDcxMDE4Njg3M119
+eyJoaXN0b3J5IjpbLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLT
+I3Mzc3MTM2LC0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYw
+NzYwODgsNzEwMTg2ODczXX0=
 -->

@@ -47,14 +47,14 @@ Wormholes...
 By the time my server was slowly dying on the Windows Server 2003 deprecation. The only option -apart from discontinuing- was to shut down the active server pages and do a complete re-write...
 
 ## Eveeye Explorer (2016)
-Still sad that i had to offline Eveeye since the technology i used was deprecated i started to code a fully client-side mobile app to not be dependant on maintaining a server backend. Thisd reduced the costsI wanted to try that for years after all.  ....
+Still sad that i had to offline Eveeye since the technology i used was deprecated i started to code a fully client-side mobile app to not be dependant on maintaining a server backend. This reduced the costs a lot and i wanted to try that for years anyway.  ....
 
 ## In the press
 [https://crossingzebras.com/post-mortem-feature-eve-eye-maps/](https://crossingzebras.com/post-mortem-feature-eve-eye-maps/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDA3MzgwMSwtMTc4MTE3NjY1MSwtMj
+eyJoaXN0b3J5IjpbLTgwODg2NDk5NiwtMTc4MTE3NjY1MSwtMj
 czNzcxMzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3
 NjA4OCw3MTAxODY4NzNdfQ==
 -->

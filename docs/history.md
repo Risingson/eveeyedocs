@@ -33,12 +33,14 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_03.jpg" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_05.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_igb-relay.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_ingame-overlay.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_omniverse.png" width="640"/>
 
 ## In the press
 [https://crossingzebras.com/post-mortem-feature-eve-eye-maps/](https://crossingzebras.com/post-mortem-feature-eve-eye-maps/)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMxODA2NTYxLC0yMDExODM5OTQ1LDEwNj
-A0MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2ODczXX0=
+eyJoaXN0b3J5IjpbMTI5MjQ5NjcxNCwtMjAxMTgzOTk0NSwxMD
+YwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
 -->

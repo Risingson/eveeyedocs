@@ -8,10 +8,10 @@
  - `write stories`
 
 ## Moondoggie tools
-After i started playing Eve in early 2006 and was looking for tools i started to tailor some for myself soon. The first one i made public was an invention calculator after the  (### Revelations I in 202009)
+The first tool i made public was an invention calculator after the  Revelations I expansion in 2006.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="320"/>
 
-When starting to get around new eden i wanted to know where i am and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a "Hitchhiker's Guide To The Galaxy".
+After exploration was added When starting to get around new eden i wanted to know where i am and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a "Hitchhiker's Guide To The Galaxy".
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="320"/>
 Which became **IPS** "Interplanetary Positioning System" later. `Add eve release info at that time`
 I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
@@ -58,8 +58,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzcyNzMyMCwzNjIxOTg3NDEsLTE0MT
-kyOTMxOTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3
-MTM2LC0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwOD
-gsNzEwMTg2ODczXX0=
+eyJoaXN0b3J5IjpbLTE4MDM1MDMwMjUsMzYyMTk4NzQxLC0xND
+E5MjkzMTkyLC0xMDEzNjE0MTc4LC0xNzgxMTc2NjUxLC0yNzM3
+NzEzNiwtMjAxMTgzOTk0NSwxMDYwNDAzMzMwLC0yMDY2MDc2MD
+g4LDcxMDE4Njg3M119
 -->

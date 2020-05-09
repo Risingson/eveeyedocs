@@ -19,6 +19,8 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 ### Eveeye
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_01.jpg" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_02.png" width="640"/>
+#### The true hitchhiker
+I at that time traveled each and every special site of New Eden and did screenshots to see within Eveeye.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE-04.png" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_05.png" width="640"/>
 
@@ -44,6 +46,6 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTM2MjY2OTgsLTIwMTE4Mzk5NDUsMT
-A2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbMTY4MjQ3MTE2NiwtMjAxMTgzOTk0NSwxMD
+YwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
 -->

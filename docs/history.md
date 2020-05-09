@@ -15,8 +15,10 @@ I fell for exploration from day one of said expansion. So when starting to get a
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="320"/>
 It became **IPS** "Interplanetary Positioning System" later. I at that time traveled each and every special site of New Eden and did screenshots to see within IPS and later Eveeye.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS_01.png" width="320"/>
-Extended the system with wormhole systems after Apocrypha 2009)
+Extended IPS with wormhole systems after the Apocrypha release in 2009.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
+
+? Profit 
 
 ## Eveeye
 [https://www.eveonline.com/article/the-second-coming-of-moondoggie](https://www.eveonline.com/article/the-second-coming-of-moondoggie)
@@ -57,7 +59,7 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4NTczMDEwLDM2MjE5ODc0MSwtMTQxOT
+eyJoaXN0b3J5IjpbNTU4NDg3NjA3LDM2MjE5ODc0MSwtMTQxOT
 I5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcx
 MzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OC
 w3MTAxODY4NzNdfQ==

@@ -21,7 +21,7 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE-04.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_05.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EElogbook.png" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EEmoonmemo.jpg" width="320"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EEmoonmemo.jpg" width="160"/>
 
 ### Dust inspiration
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_dust-inspiration.jpg" width="320"/>
@@ -41,6 +41,6 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjQ5NjcxNCwtMjAxMTgzOTk0NSwxMD
+eyJoaXN0b3J5IjpbMTcwMDUwMDExMiwtMjAxMTgzOTk0NSwxMD
 YwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
 -->

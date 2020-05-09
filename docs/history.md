@@ -3,7 +3,9 @@
 !!! warning "Page not done yet"
 
 ### First tools
-After i started playing Eve and was trying to gather information and looking for tools i soon 
+After i started playing Eve and was trying to gather information and looking for tools i started to tailer tools for my self soon. The first one i made public was an invention calculator in [YEAR?].
+<img src="[https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg)" width="240"/>
+
 
 
 ## In the press
@@ -11,6 +13,6 @@ After i started playing Eve and was trying to gather information and looking for
 
 ![enter image description here]([0_Mezz_InventionCalc.jpg](https://github.com/Risingson/eedocs/blob/master/docs/images/history/0_Mezz_InventionCalc.jpg"))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjIzOTI4MiwtMjAxMTgzOTk0NSwxMD
-YwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
+eyJoaXN0b3J5IjpbLTE5NTUxNzU4MDksLTIwMTE4Mzk5NDUsMT
+A2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
 -->

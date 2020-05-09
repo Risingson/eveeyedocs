@@ -17,14 +17,16 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
 ### Eveeye
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_01.jpg" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_02.png" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE-04.png" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_05.png" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EElogbook.png" width="320"/>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EEmoonmemo.jpg" width="160"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_01.jpg" width="640"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_02.png" width="640"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE-04.png" width="640"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_05.png" width="640"/>
 
-### Dust inspiration
+#### Concept of Memos
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EElogbook.png" width="640"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EEmoonmemo.jpg" width="240"/>
+
+#### Dust inspiration
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_dust-inspiration.jpg" width="320"/>
 
 ### Eveeye Maps
@@ -42,6 +44,6 @@ Which became **IPS** "Interplanetary Positioning System" later. `Add eve release
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTAzOTcxNSwtMjAxMTgzOTk0NSwxMD
-YwNDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
+eyJoaXN0b3J5IjpbLTE0NTM2MjY2OTgsLTIwMTE4Mzk5NDUsMT
+A2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
 -->

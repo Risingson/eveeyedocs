@@ -46,8 +46,9 @@ Extended IPS with wormhole systems after the Apocrypha release in 2009.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EEmoonmemo.jpg" width="240"/>
 
 #### Dust inspiration
+Radar map style of Eveeye
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_radar-map_2014-11-10.png" width="320"/>
-
+Dust ingame map 
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_dust-inspiration.jpg" width="320"/>
 
 ## Eveeye Maps
@@ -71,8 +72,8 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNTgzNTczLDM2MjE5ODc0MSwtMTQxOT
-I5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcx
-MzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OC
-w3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNzgwNDg1NzEsMzYyMTk4NzQxLC0xND
+E5MjkzMTkyLC0xMDEzNjE0MTc4LC0xNzgxMTc2NjUxLC0yNzM3
+NzEzNiwtMjAxMTgzOTk0NSwxMDYwNDAzMzMwLC0yMDY2MDc2MD
+g4LDcxMDE4Njg3M119
 -->

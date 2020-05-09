@@ -8,7 +8,7 @@
  - `write stories`
 
 ### Moondoggie tools
-After i started playing Eve in 2006 and waslooking for tools i started to tailer tools for my self soon. The first one i made public was an invention calculator in...
+After i started playing Eve in 2006 and was looking for tools i started to tailor tools for myself soon. The first one i made public was an invention calculator in 200?
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="320"/>
 
 When starting to get around new eden i wanted to know where i am and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a "Hitchhiker's Guide To The Galaxy".
@@ -49,7 +49,7 @@ Wormholes...
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTE3NTA0ODgsLTI3Mzc3MTM2LC0yMD
+eyJoaXN0b3J5IjpbLTE3ODExNzY2NTEsLTI3Mzc3MTM2LC0yMD
 ExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2
 ODczXX0=
 -->

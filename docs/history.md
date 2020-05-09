@@ -7,13 +7,13 @@ After i started playing Eve and was trying to gather information and looking for
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="240"/>
 
 When starting to get around new eden i wanted to know where i am and started what was the very first attempt of what eveeye became later. It was called HHGTTG and i wanted it to become nothing less than a Hitchhiker's Guide To The Galaxy.
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="480"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_HHGTTG.jpg" width="320"/><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/1_IPS.png" width="320"/>
 
 ## In the press
 [https://crossingzebras.com/post-mortem-feature-eve-eye-maps/](https://crossingzebras.com/post-mortem-feature-eve-eye-maps/)
 
 ![enter image description here]([0_Mezz_InventionCalc.jpg](https://github.com/Risingson/eedocs/blob/master/docs/images/history/0_Mezz_InventionCalc.jpg"))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ1NzAxNzcsLTIwMTE4Mzk5NDUsMT
-A2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbNjIyMjgzNTMwLC0yMDExODM5OTQ1LDEwNj
+A0MDMzMzAsLTIwNjYwNzYwODgsNzEwMTg2ODczXX0=
 -->

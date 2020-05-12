@@ -6,7 +6,7 @@ Eveeye uses  [Matomo](https://matomo.org/)  (own-webspace-hosted) to analyze app
 The website complies with Do Not Track.  
 The documentation on readthedocs uses Google Analytics.
 
-Eveeye does not store any personal information except email-addresses of donators to manage advertisement removal. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
+Eveeye does not store any personal information except email-addresses of website donators to manage advertisement removal. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
 You are free to refuse to store your email-address or request for your personal information stored.
 
@@ -63,6 +63,7 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 _The privacy policy and the terms of service are effective as of 12 May 2020._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NDM5ODI4NiwxMDI3NjM4NTI4LC01NT
-A4MDUyMjksLTE3NjE4MDczNDMsNTYzNDAxMzMwXX0=
+eyJoaXN0b3J5IjpbMTQ1ODYzNDkwMywtNDg0Mzk4Mjg2LDEwMj
+c2Mzg1MjgsLTU1MDgwNTIyOSwtMTc2MTgwNzM0Myw1NjM0MDEz
+MzBdfQ==
 -->

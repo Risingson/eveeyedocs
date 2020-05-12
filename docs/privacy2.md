@@ -18,7 +18,7 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 ### 1. Terms
 
-By accessing the website at  [http://eveeye.com/](http://eveeye.com/), you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+By accessing the website at  [http://eveeye.com/](http://eveeye.com/) or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
 ### 2. Use License
 
@@ -56,8 +56,11 @@ eveeye.com may revise these terms of service for its website at any time without
 These terms and conditions are governed by and construed in accordance with the laws of Vienna, Austria and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
 
+## CCP Disclaimer
+
+EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf. CCP hf. has granted permission to eveeye.com to use EVE Online and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not in any way affiliated with, eveeye.com. CCP is in no way responsible for the content on or functioning of this website, nor can it be liable for any damage arising from the use of this website.
+
 *The privacy policy and the terms of service are effective as of 12 May 2020.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDMwNjg5MjYsLTE3OTc5ODgzMzNdfQ
-==
+eyJoaXN0b3J5IjpbMjE3NzExNzg0LC0xNzk3OTg4MzMzXX0=
 -->

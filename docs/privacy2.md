@@ -3,7 +3,7 @@
 
 Your privacy is important to us. It is my policy to respect your privacy regarding any information we may collect from you across our website,  [http://eveeye.com/](http://eveeye.com/).
 
-We only ask for personal information when we truly need it to provide a service to you. We collect it by fair and lawful means, with your knowledge and consent. 
+personal information is only collected by operators of payment services not eveeye.com itself. We do only store email-addresses of donators to identify t
 
 We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
@@ -17,5 +17,5 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 This policy is effective as of 12 May 2020.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTI2ODY0XX0=
+eyJoaXN0b3J5IjpbMTQ1MDQzMjI1Nl19
 -->

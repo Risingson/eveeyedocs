@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website,  [http://eveeye.com/](http://eveeye.com/).
+Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website,  [https://eveeye.com/](https://eveeye.com/).
 
 Eveeye uses  [Matomo](https://matomo.org/)  (own-webspace-hosted) to analyze webiste and app use anonymized.  
 The website complies with Do Not Track.  
@@ -20,7 +20,7 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 ### 1. Terms
 
-By accessing the website at  [http://eveeye.com/](http://eveeye.com/)  or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site or app. The materials contained in this website or apps are protected by applicable copyright and trademark law.
+By accessing the website at  [https://eveeye.com/](https://eveeye.com/)  or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site or app. The materials contained in this website or apps are protected by applicable copyright and trademark law.
 
 ### 2. Use License
 
@@ -51,7 +51,7 @@ eveeye.com has not reviewed all of the sites linked to its website and is not re
 
 ### 7. Modifications
 
-eveeye.com may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
+Eveeye.com may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
 
 ### 8. Governing Law
 
@@ -63,7 +63,7 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 _The privacy policy and the terms of service are effective as of 12 May 2020._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTk3MzcxMywxNDU4NjM0OTAzLC00OD
-QzOTgyODYsMTAyNzYzODUyOCwtNTUwODA1MjI5LC0xNzYxODA3
-MzQzLDU2MzQwMTMzMF19
+eyJoaXN0b3J5IjpbLTEwOTI5Mjc1MzUsMTQ1ODYzNDkwMywtND
+g0Mzk4Mjg2LDEwMjc2Mzg1MjgsLTU1MDgwNTIyOSwtMTc2MTgw
+NzM0Myw1NjM0MDEzMzBdfQ==
 -->

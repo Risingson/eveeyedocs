@@ -5,7 +5,7 @@ Your privacy is important to us. It is our policy to respect your privacy regard
 
 Eveeye dose not store any personal information except email-addresses of donators to manage advertisement removal. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification. 
 
-Eveeye does not share any information with anyone id.
+Eveeye does not share any information with anyone.  if you do not choose to do so.
 
 Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
@@ -15,5 +15,5 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 This policy is effective as of 12 May 2020.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE3NTgyOTU5XX0=
+eyJoaXN0b3J5IjpbMTc1NzkyNjEyM119
 -->

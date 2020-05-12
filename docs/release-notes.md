@@ -1,6 +1,6 @@
 # Release Notes
 
-## Beta (Browser only)
+## Beta (Browser oOnly)
 #### Release 3.01.B1 
 - New activity graph in solar-system info
 - Bookmark stations + new bookmarks menu
@@ -9,7 +9,7 @@
 - Hub Trade node and sector data options added
 
 ## Production
-### Browser Only
+### Browser nly
 #### Release 3.00.0
 - Cache timers added to bottombar 
 
@@ -44,6 +44,7 @@
 - Planets node and sublabel option
 - Name custom system marks + legend
 - Bookmark systems to appear in DST (former HUB) tab
+- Booar sytes to apa in  foe  t
 - Signatures and K-K connections now display on region overview map.
 - Podding and clone jumps do not create a connection anymore.
 - F353 and F355 wormhole types were missing.
@@ -84,8 +85,9 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMT
-ExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMjAyOTMwMjA1
-MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3LDYzOT
-Y3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNT
+UxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4
+MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMT
+E4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0
+XX0=
 -->

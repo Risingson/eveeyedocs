@@ -9,11 +9,11 @@ The documentation on readthedocs uses Google Analytics.
 
 Eveeye dose not store any personal information except email-addresses of donators to manage advertisement removal. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification. 
 
-Eveeye does not share any information with anyone apart from ingame info you choose to share via Eveeye yourself.
+Eveeye does not share any information with anyone apart from ingame info you choose to share via Eveeye yourself (opt-in).
 
 Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and practices of these sites, and cannot accept responsibility or liability for their respective privacy policies.
 
-You are free to refuse our request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
+You are free to refuse to store your email-addressour request for your personal information, with the understanding that we may be unable to provide you with some of your desired services.
 
 Your continued use of our website will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us at support@eveeye.com.
 
@@ -66,6 +66,6 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 *The privacy policy and the terms of service are effective as of 12 May 2020.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODgzMTc1OCwtNTk4MjE4Mjg2LDE0NT
+eyJoaXN0b3J5IjpbLTU1NTgzMzQxNiwtNTk4MjE4Mjg2LDE0NT
 czNzEyMzksLTE3OTc5ODgzMzNdfQ==
 -->

@@ -9,7 +9,7 @@ The documentation on readthedocs uses Google Analytics.
 
 Eveeye dose not store any personal information except email-addresses of donators to manage advertisement removal. We will protect that data within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification. 
 
-You are free to refuse to store your email-address in case of advertisement removal donations or request for your personal information stored.
+You are free to refuse to store your email-address or request for your personal information stored.
 
 Eveeye does not share any information with anyone apart from ingame info you choose to share via Eveeye yourself (opt-in).
 
@@ -66,6 +66,6 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 *The privacy policy and the terms of service are effective as of 12 May 2020.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI3NjU0ODgsLTU5ODIxODI4NiwxND
+eyJoaXN0b3J5IjpbLTEzMzM2NDI0NjIsLTU5ODIxODI4NiwxND
 U3MzcxMjM5LC0xNzk3OTg4MzMzXX0=
 -->

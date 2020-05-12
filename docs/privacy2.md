@@ -1,9 +1,9 @@
 
 ## Privacy Policy
 
-Your privacy is important to us. It is my policy to respect your privacy regarding any information we may collect from you across our website,  [http://eveeye.com/](http://eveeye.com/).
+Your privacy is important to us. It is our policy to respect your privacy regarding any information we may collect from you across our website,  [http://eveeye.com/](http://eveeye.com/).
 
-personal information is only collected by operators of payment services not eveeye.com itself. We do only store email-addresses of donators to manage subscriptions. Other than the case described no personal information is stored whatsoever. If a subscription ended and you want your email-address removed 
+Personal information is only collected by operators of payment services not eveeye.com itself. Eveeye itself does only store email-addresses of donators to manage advertisement removal. Other than that no personal information is stored whatsoever. If a subscription ended and you want your email-address removed instantly please contact eveeye support.
 
 We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we’ll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
@@ -17,5 +17,5 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 This policy is effective as of 12 May 2020.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzM1MjQ3N119
+eyJoaXN0b3J5IjpbLTE5NTcyMzAwODVdfQ==
 -->

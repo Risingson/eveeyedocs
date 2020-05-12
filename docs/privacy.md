@@ -59,10 +59,10 @@ These terms and conditions are governed by and construed in accordance with the 
 
 ## CCP Disclaimer
 
-EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf. CCP hf. has granted permission to eveeye.com to use EVE Online and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not in any way affiliated with, eveeye.com. CCP is in no way responsible for the content on or functioning of this website, nor can it be liable for any damage arising from the use of this website.
+EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights are reserved worldwide. All other trademarks are the property of their respective owners. EVE Online, the EVE logo, EVE and all associated logos and designs are the intellectual property of CCP hf. All artwork, screenshots, characters, vehicles, storylines, world facts or other recognizable features of the intellectual property relating to these trademarks are likewise the intellectual property of CCP hf. CCP hf. has granted permission to eveeye.com to use EVE Online and all associated logos and designs for promotional and information purposes on its website but does not endorse, and is not in any way affiliated with, eveeye.com. CCP is in no way responsible for the content on or functioning of this website or mobile apps, nor can it be liable for any damage arising from the use of this website or mobile apps.
 
 _The privacy policy and the terms of service are effective as of 12 May 2020._
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzYzODUyOCwtNTUwODA1MjI5LC0xNz
-YxODA3MzQzLDU2MzQwMTMzMF19
+eyJoaXN0b3J5IjpbLTQ0ODk1MzM4NiwxMDI3NjM4NTI4LC01NT
+A4MDUyMjksLTE3NjE4MDczNDMsNTYzNDAxMzMwXX0=
 -->

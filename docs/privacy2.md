@@ -18,7 +18,7 @@ Your continued use of our website will be regarded as acceptance of our practice
 
 ### 1. Terms
 
-By accessing the website at  [http://eveeye.com/](http://eveeye.com/) or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+By accessing the website at  [http://eveeye.com/](http://eveeye.com/) or using Eveeye mobile apps, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site or app. The materials contained in this website or apps are protected by applicable copyright and trademark law.
 
 ### 2. Use License
 
@@ -62,5 +62,5 @@ EVE Online and the EVE logo are the registered trademarks of CCP hf. All rights 
 
 *The privacy policy and the terms of service are effective as of 12 May 2020.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3NzExNzg0LC0xNzk3OTg4MzMzXX0=
+eyJoaXN0b3J5IjpbMTQ1NzM3MTIzOSwtMTc5Nzk4ODMzM119
 -->

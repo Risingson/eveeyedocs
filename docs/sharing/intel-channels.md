@@ -31,13 +31,14 @@ All of the above need to be separated by 2 spaces.<br>Their order does not matte
 
 Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
-`character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
+`character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.!!! warning "Feature in development"
+    This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODA4ODE1LC01NjIxODIzNTIsMTk1OD
-U0OTQxLC0xODkyMDk4ODUxLC0xOTE3MzgxNDU0LC05MDc3NTU1
-MjYsMTI5MzE2MjcyMywxMjkzMTYyNzIzLDE5ODQyMTkwMSwtMT
-EyNDIxNjM1Nyw2OTQ5MjUxMDEsMTg5MDYwMDkxNSwtMjQ5OTcy
-NTYzLC0xMzE4MzQ4ODcwLDEwOTYxMTcxMzMsLTE1MjI2ODM2OD
-EsMTg2MjYwMzA3MCwtMjA2NTE2MzA4LDE5OTAyNjc0MzksLTE0
-MDM0ODkxMDFdfQ==
+eyJoaXN0b3J5IjpbLTExMjk0MTc2NjIsMTU4ODA4ODE1LC01Nj
+IxODIzNTIsMTk1ODU0OTQxLC0xODkyMDk4ODUxLC0xOTE3Mzgx
+NDU0LC05MDc3NTU1MjYsMTI5MzE2MjcyMywxMjkzMTYyNzIzLD
+E5ODQyMTkwMSwtMTEyNDIxNjM1Nyw2OTQ5MjUxMDEsMTg5MDYw
+MDkxNSwtMjQ5OTcyNTYzLC0xMzE4MzQ4ODcwLDEwOTYxMTcxMz
+MsLTE1MjI2ODM2ODEsMTg2MjYwMzA3MCwtMjA2NTE2MzA4LDE5
+OTAyNjc0MzldfQ==
 -->

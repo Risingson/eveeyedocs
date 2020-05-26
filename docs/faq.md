@@ -1,5 +1,9 @@
 
 # FAQ
+#### Why can't i use more than 50 jumpbridges/wormhole connections for routes?
+The endpoint used to calculate the routes allows only 50 connections unfortunately. I requested to up that limit here: [https://github.com/esi/esi-issues/issues/1205](https://github.com/esi/esi-issues/issues/1205)
+
+
 #### On Android the app does not pass loading screen or crashes sometimes ?
 Please keep your system webview updated: [https://play.google.com/store/apps/details?id=com.google.android.webview](https://play.google.com/store/apps/details?id=com.google.android.webview).
 
@@ -8,5 +12,6 @@ If you got both browsers set to 100% zoom it is most likely this: [https://www.h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODk0NjEwNywtMTQxNjg3Nzk4M119
+eyJoaXN0b3J5IjpbLTE2MTcwMDAzNSwxMzk4OTQ2MTA3LC0xND
+E2ODc3OTgzXX0=
 -->

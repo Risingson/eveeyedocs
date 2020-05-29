@@ -9,15 +9,17 @@ While there is no api available to add jump bridges to the maps  (see e.g. [http
 
 ## Routing
 Since there is a limit of 50 connections on the routing endpoint of EVE you can set which jumpbridges you want to use for routing. When clicking a jumpbridge connection you got three options to choose from:
+
 |  |  |
 |--|--|
 | Red JB | Will show red on the map. Not used for routing. |
 | Use for Routing | Will show green on the map. Used for routing. |
 | Blue JB | Will show blue on the map. Not used for routing. |
+
 When adding new jumpbridges they get added green by default.
 For further explanations on routing please refer to [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjQ2MDQ2MSwyMDExNDQzNTExLC0xNz
-UxNDYwMTMyXX0=
+eyJoaXN0b3J5IjpbMzI3NTQ3OTIzLC02MzY0NjA0NjEsMjAxMT
+Q0MzUxMSwtMTc1MTQ2MDEzMl19
 -->

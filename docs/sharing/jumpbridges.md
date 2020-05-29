@@ -17,9 +17,9 @@ Since there is a limit of 50 connections on the routing endpoint of EVE you can 
 | Blue JB | Will show blue on the map. Not used for routing. |
 
 When adding new jumpbridges they get added green by default.
-For further explanations on routing please refer to [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
+For further explanations on routing please refer to [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NTQ3OTIzLC02MzY0NjA0NjEsMjAxMT
-Q0MzUxMSwtMTc1MTQ2MDEzMl19
+eyJoaXN0b3J5IjpbLTE1NjIwNjAyNTksMzI3NTQ3OTIzLC02Mz
+Y0NjA0NjEsMjAxMTQ0MzUxMSwtMTc1MTQ2MDEzMl19
 -->

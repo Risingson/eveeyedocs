@@ -38,8 +38,12 @@ In solarsystem info pane's `SIG` tab you can drag pasted wormhole signatures ont
 
 ## Name wormholes
 Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
+
+## Routing
+Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTY1Mzc5MywxMTM3MzI1MzcxLDYyMz
-k4MTA1NSwtNDU0MjQwMzY5LC0xOTQzOTU1OTc5LDE2MzcxODQ5
-MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTddfQ==
+eyJoaXN0b3J5IjpbLTk3NDg3NTY0NiwtODQxNjUzNzkzLDExMz
+czMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5NTU5
+NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMj
+Q0NzI5N119
 -->

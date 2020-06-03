@@ -10,11 +10,11 @@ Please keep your system webview updated: [https://play.google.com/store/apps/det
 #### Why is Chrome scaling the UI differently than Firefox ?
 If you got both browsers set to 100% zoom it is most likely this: [https://www.howtogeek.com/278699/how-do-you-adjust-google-chromes-ui-scaling/](https://www.howtogeek.com/278699/how-do-you-adjust-google-chromes-ui-scaling/)
 
-#### Why does a wh connection created after being podded ?
+#### Why does a wh connection get created after being podded ?
 Eveeye would detect podding if there wasn't a bug with eve api location endpoint: [https://github.com/esi/esi-issues/issues/828](https://github.com/esi/esi-issues/issues/828).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4MDcwMTUsLTE2MTcwMDAzNSwxMz
-k4OTQ2MTA3LC0xNDE2ODc3OTgzXX0=
+eyJoaXN0b3J5IjpbMTM2MDAyODc3MSwtMTYxNzAwMDM1LDEzOT
+g5NDYxMDcsLTE0MTY4Nzc5ODNdfQ==
 -->

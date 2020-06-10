@@ -26,13 +26,13 @@ When using the cloud storage feature your user including the token stored to ide
 If you updated your character image you can update it by just authorizing the char again. Also if a new version of Eveeye was installed sometimes it would need you to authorize your characters again to use new features.
 
 ## Revoking access
-To remove SSO access for a character permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
+To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NDI3NTAxLC0xNTE0Mjg0MjgsNzUwNj
-U1MTc4LC04Mzg3Njc5MTgsMTQ3NzMxODQ3NCwtMzQ2MjY2MjA3
-LC0xNTMxMTU2NDkwLC01NTc1MDM1MzEsLTg3NDc1OTM5OSwtMT
-UyMzE4MjI3NiwxMDYzNjUxMDExLC0xMzkxMDIxNDE3LDE4MzU2
-MzQ1NjEsLTM4MDQ5ODAyMCwxMjg2OTE5Nzg3LDEyMjY5OTc3Mj
-gsMTY3OTY2ODA5M119
+eyJoaXN0b3J5IjpbMjEzNjYyMDQ4OSwtMTUxNDI4NDI4LDc1MD
+Y1NTE3OCwtODM4NzY3OTE4LDE0NzczMTg0NzQsLTM0NjI2NjIw
+NywtMTUzMTE1NjQ5MCwtNTU3NTAzNTMxLC04NzQ3NTkzOTksLT
+E1MjMxODIyNzYsMTA2MzY1MTAxMSwtMTM5MTAyMTQxNywxODM1
+NjM0NTYxLC0zODA0OTgwMjAsMTI4NjkxOTc4NywxMjI2OTk3Nz
+I4LDE2Nzk2NjgwOTNdfQ==
 -->

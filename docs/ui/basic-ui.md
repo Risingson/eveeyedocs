@@ -62,7 +62,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-1.png" width="24" height="24"> | First Liminality|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-2.png" width="24" height="24"> | Second Liminality|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-3.png" width="24" height="24"> | Final Liminality|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-2.png" width="24" height="24"> | First and Second Liminality security status |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-2.png" width="24" height="24"> | Liminality security status |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-3.png" width="24" height="24"> | Final Liminality security status |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Triglavian Minor Victory |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
@@ -84,7 +84,7 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwNDkyODE4LC02OTQxMjcxMjAsMjU4Nj
+eyJoaXN0b3J5IjpbNTg0MDY5NDkxLC02OTQxMjcxMjAsMjU4Nj
 cxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5Nywt
 NzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMD
 A3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2Njgy

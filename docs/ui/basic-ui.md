@@ -60,13 +60,13 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_2.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_1.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_0.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-1.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-2.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-3.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-1.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-3.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-1.png" width="24" height="24"> | First Liminality|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-2.png" width="24" height="24"> | Second Liminality|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-3.png" width="24" height="24"> | Final Liminality|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-2.png" width="24" height="24"> | First and Second Liminality security status |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-3.png" width="24" height="24"> | Final Liminality security status |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Triglavian Minor Victory |
 
 ## Browser keyboard shortcuts
 
@@ -84,10 +84,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NzA3OTI2LC02OTQxMjcxMjAsMjU4Nj
-cxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5Nywt
-NzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMD
-A3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2Njgy
-LC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC0yMD
-Y3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbLTE3NTA3NTk0ODgsLTY5NDEyNzEyMCwyNT
+g2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3
+LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMT
+MwMDc1MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIxMzY2
+ODIsLTIxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1NTYsLT
+IwNjcwMjUzMzZdfQ==
 -->

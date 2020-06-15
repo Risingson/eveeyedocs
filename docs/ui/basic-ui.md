@@ -50,7 +50,7 @@
 ##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
-### Other Icons
+## Other Icons
 
 ##### Incursions and Invasions
 |  |  |
@@ -84,10 +84,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0MDY5NDkxLC02OTQxMjcxMjAsMjU4Nj
-cxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5Nywt
-NzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMD
-A3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2Njgy
-LC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC0yMD
-Y3MDI1MzM2XX0=
+eyJoaXN0b3J5IjpbMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1OD
+Y3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcs
+LTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC0xMz
+AwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4
+MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4ODU1NiwtMj
+A2NzAyNTMzNl19
 -->

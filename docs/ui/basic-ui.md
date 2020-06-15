@@ -50,6 +50,17 @@
 ##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
+### Other Icons
+
+##### Incursions and Invasions
+|  |  |
+|--|--|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incurs.png" width="24" height="24"> | Feedback and bugreports |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
+
 ## Browser keyboard shortcuts
 
 !!! error "Mobile"
@@ -66,10 +77,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNT
-A1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEs
-MTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzOD
-AyOTU2MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0
-ODMsMzUxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcwMjUzMzZdfQ
-==
+eyJoaXN0b3J5IjpbNjk2NjAzMTc1LC02OTQxMjcxMjAsMjU4Nj
+cxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5Nywt
+NzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMD
+A3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2Njgy
+LC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC0yMD
+Y3MDI1MzM2XX0=
 -->

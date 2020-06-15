@@ -57,14 +57,16 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_3.png" width="24" height="24"> | Feedback and bugreports |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_2.png" width="24" height="24"> | Toggle bottom pane |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_1.png" width="24" height="24"> |  Toggle pane opacity |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_0.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_-1.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_-2.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_-3.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_4.png" width="24" height="24"> | Close  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstat_-4.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_2.png" width="24" height="24"> | Toggle bottom pane |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_1.png" width="24" height="24"> |  Toggle pane opacity |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_0.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-1.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-2.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-3.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-1.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-3.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | Close  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Close  |
 
 ## Browser keyboard shortcuts
 
@@ -82,10 +84,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTkxMzkwNiwtNjk0MTI3MTIwLDI1OD
-Y3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcs
-LTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC0xMz
-AwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMTYwMjEzNjY4
-MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4ODU1NiwtMj
-A2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbMzI3NzA3OTI2LC02OTQxMjcxMjAsMjU4Nj
+cxMDMsMTg4MTUwNTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5Nywt
+NzU4MzQzOTYxLDE1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMD
+A3NTA2NTksMzgwMjk1NjMxLDQwNzI5MjM1NCwxNjAyMTM2Njgy
+LC0yMTI0OTc1NDgzLDM1MTEwMDkxMywxMTUwNjg4NTU2LC0yMD
+Y3MDI1MzM2XX0=
 -->

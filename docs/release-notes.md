@@ -9,7 +9,10 @@
 - Hub Trade node and sector data options added
 
 ## Production
-### Browser nly
+
+
+
+### Browser Only
 #### Release 3.00.0
 - Cache timers added to bottombar 
 
@@ -21,6 +24,23 @@
 
 
 ### All Apps
+#### Release 3.03.0 - Jun 2020
+Triglavian Invasions added 
+Incursion and invasion pane added 
+Suns added to node and label 
+Security-class added to node 
+Fullscreen ads show less often 
+Fix to old connection cleaning 
+Fix to jumpbridge states 
+Fix to changing route options changing route accordingly
+
+#### Release 3.01.0 - Apr 2020
+- New activity graph in solar-system info
+- Bookmark stations + new bookmarks menu
+- Route interaction functionalities added
+- Paste jumpbridges from ingame
+- Hub Trade node and sector data options added
+- 
 #### Release 3.00.0 - Mar 2020
 - Comprehensive documentation
 - UI backend responsiveness improved
@@ -85,9 +105,9 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNT
-UxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4
-MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMT
-E4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0
-XX0=
+eyJoaXN0b3J5IjpbMTk0NDg1MjM3LC01OTk2OTk5NjQsMTY5MT
+EyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2
+Myw5OTk1MTQzODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MD
+ExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwt
+MTk0ODIzNzE4NF19
 -->

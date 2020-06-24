@@ -1,17 +1,5 @@
 # Release Notes
 
-## Beta (Browser Only)
-#### Release 3.01.B1 
-
-
-## Production
-
-### Browser Only
-#### Release 3.00.0
-- Cache timers added to bottombar 
-
-
-### All Apps
 #### Release 3.03.0 - Jun 2020
 Triglavian Invasions added 
 Incursion and invasion pane added 
@@ -62,8 +50,9 @@ Fix to changing route options changing route accordingly
 - W-Space Kills in 48h graph.
 - Better differentiation of connections between different constellations and regions.
 - Faster loading at startup.
-- Transparent always on top window to overlay client (desktop only)
-- EVE-Client intel channel chat parsing (desktop only)
+- Transparent always on top window to overlay client (desktop-app only)
+- EVE-Client intel channel chat parsing (desktop-app only)
+- Cache timers added to bottombar (browser only)
 
 #### Release 2.00.2
 - Fixes to preset saving and user interface.
@@ -95,9 +84,9 @@ Fix to changing route options changing route accordingly
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTE5MTYyNiwtNTk5Njk5OTY0LDE2OT
-ExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2
-NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtOD
-AxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEs
-LTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjkyNzYyMjQsLTU5OTY5OTk2NCwxNj
+kxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3
+NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLT
+gwMTE1MDQ4MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUx
+LC0xOTQ4MjM3MTg0XX0=
 -->

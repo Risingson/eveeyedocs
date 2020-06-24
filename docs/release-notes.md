@@ -1,26 +1,14 @@
 # Release Notes
 
-## Beta (Browser oOnly)
+## Beta (Browser Only)
 #### Release 3.01.B1 
-- New activity graph in solar-system info
-- Bookmark stations + new bookmarks menu
-- Route interaction functionalities added
-- Paste jumpbridges from ingame
-- Hub Trade node and sector data options added
+
 
 ## Production
-
-
 
 ### Browser Only
 #### Release 3.00.0
 - Cache timers added to bottombar 
-
-
-### Desktop Only
-#### Release 3.00.0
-- Transparent always on top window to overlay client
-- EVE-Client intel channel chat parsing
 
 
 ### All Apps
@@ -29,7 +17,7 @@ Triglavian Invasions added
 Incursion and invasion pane added 
 Suns added to node and label 
 Security-class added to node 
-Fullscreen ads show less often 
+Fullscreen ads show less often (mobile only)
 Fix to old connection cleaning 
 Fix to jumpbridge states 
 Fix to changing route options changing route accordingly
@@ -74,6 +62,8 @@ Fix to changing route options changing route accordingly
 - W-Space Kills in 48h graph.
 - Better differentiation of connections between different constellations and regions.
 - Faster loading at startup.
+- Transparent always on top window to overlay client (desktop only)
+- EVE-Client intel channel chat parsing (desktop only)
 
 #### Release 2.00.2
 - Fixes to preset saving and user interface.
@@ -105,9 +95,9 @@ Fix to changing route options changing route accordingly
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDg1MjM3LC01OTk2OTk5NjQsMTY5MT
-EyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2
-Myw5OTk1MTQzODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MD
-ExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwt
-MTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbMTk5NTE5MTYyNiwtNTk5Njk5OTY0LDE2OT
+ExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2
+NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtOD
+AxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEs
+LTE5NDgyMzcxODRdfQ==
 -->

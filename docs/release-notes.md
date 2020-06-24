@@ -7,8 +7,8 @@
  - Security-class added to node  
  - Fullscreen ads show less often (mobile only) 
  - Fix to old connection cleaning  
- - Fix to jumpbridge states  
-   Fix to changing route options changing route accordingly
+ - Fix to jumpbridge states
+ - Fix to changing route options changing route accordingly
 
 #### Release 3.02.0 - May 2020
  - Set jumpbridges red/blue or green to use them for routing
@@ -87,9 +87,9 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzgzNDM3MDksLTU5OTY5OTk2NCwxNj
-kxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3
-NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLT
-gwMTE1MDQ4MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUx
-LC0xOTQ4MjM3MTg0XX0=
+eyJoaXN0b3J5IjpbMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OT
+ExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2
+NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtOD
+AxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEs
+LTE5NDgyMzcxODRdfQ==
 -->

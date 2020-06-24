@@ -9,7 +9,7 @@ Fullscreen ads show less often (mobile only)
 Fix to old connection cleaning 
 Fix to jumpbridge states 
 Fix to changing route options changing route accordingly
-
+#### Release 3.02.0
 #### Release 3.01.0 - Apr 2020
 - New activity graph in solar-system info
 - Bookmark stations + new bookmarks menu
@@ -84,9 +84,9 @@ Fix to changing route options changing route accordingly
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyNzYyMjQsLTU5OTY5OTk2NCwxNj
-kxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3
-NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLT
-gwMTE1MDQ4MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUx
-LC0xOTQ4MjM3MTg0XX0=
+eyJoaXN0b3J5IjpbMTU5Mjc3ODc2NCwtNTk5Njk5OTY0LDE2OT
+ExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2
+NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtOD
+AxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEs
+LTE5NDgyMzcxODRdfQ==
 -->

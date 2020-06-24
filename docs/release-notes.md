@@ -43,7 +43,6 @@
 - Planets node and sublabel option
 - Name custom system marks + legend
 - Bookmark systems to appear in DST (former HUB) tab
-- Booar sytes to apa in  foe  t
 - Signatures and K-K connections now display on region overview map.
 - Podding and clone jumps do not create a connection anymore.
 - F353 and F355 wormhole types were missing.
@@ -87,9 +86,9 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OT
-ExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2
-NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtOD
-AxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEyMyw3NzgyOTE2NTEs
-LTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OT
+k2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYw
+OTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMjAyOTMwMjA1MywtMz
+c4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIz
+LDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
 -->

@@ -12,7 +12,7 @@ Colors sectors after ship + pod-kills within that solarsystem/region.
 Colors sectors after npc-kills within that solarsystem/region. 
 
 **Recent NPC kill Delta**<br>
-The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in that solarsystem. Check the legend for a color explanation. So white color means ratting just started, green means recently started, blue ongoing, red stopped and black means no activity.
+The NPC Delta sector color gets brighter at higher numbers of NPCs destroyed in that solarsystem. Check the legend for a color explanation. So white color means ratting just started, green means recently started, blue ongoing and red means ratting is stopping.
 Not shown in high-sec systems.
 
 **Recent/24h jumps**<br>
@@ -41,8 +41,8 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTY2Nzg0MCwtNjMxMTg0NjY3LC0xOD
-A5Nzk3MjkwLDE5MjU4MzQwNTYsLTg0OTM2MTMyNywtMTA5NDIy
-NjUyOCwtMTI5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1ODc0MS
-wtNjg3OTM3NTAyLDEzMDcxNzE1MzZdfQ==
+eyJoaXN0b3J5IjpbLTgwNjA5NDcwOSwxODY1NjY3ODQwLC02Mz
+ExODQ2NjcsLTE4MDk3OTcyOTAsMTkyNTgzNDA1NiwtODQ5MzYx
+MzI3LC0xMDk0MjI2NTI4LC0xMjk4NjY0MDU5LC01Njg1MzgxMj
+ksNzE0MTU4NzQxLC02ODc5Mzc1MDIsMTMwNzE3MTUzNl19
 -->

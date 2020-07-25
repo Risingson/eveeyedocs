@@ -2,7 +2,9 @@
 Since there is no eve-api for signatures they can only be pasted to browser versions of eveeye. On mobile apps however you can see signatures shared by pilots within your group.
 
 ## Pasting
-You can copy and paste signatures from the EVE client using Ctrl+C an paste them on the active browser window of Eveeye using Ctrl+V.
+You can copy and paste signatures from the EVE client using Ctrl+C an paste them on the active browser window of Eveeye.
+Using Ctrl+V will ADD signatures to the system.
+Using Shift+Ctrl+V will OVERWRITE all sigs with the pasted ones.
 
 Always paste all sigs from ingame since sigs in eveeye that are not in the pasted data will get deleted.
 
@@ -29,7 +31,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzMjUzNDQ2LDMzMTY3Mzk0MiwtNDgyND
-YwNTY2LC00NTA1NTYxNCwzODgxODE0NzIsLTE0NTkxNDQ2MjBd
-fQ==
+eyJoaXN0b3J5IjpbLTEzMTQ0NzEyMjUsNzgzMjUzNDQ2LDMzMT
+Y3Mzk0MiwtNDgyNDYwNTY2LC00NTA1NTYxNCwzODgxODE0NzIs
+LTE0NTkxNDQ2MjBdfQ==
 -->

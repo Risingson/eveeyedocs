@@ -6,9 +6,7 @@ You can copy and paste signatures from the EVE client using Ctrl+C an paste them
 Using Ctrl+V will ADD signatures to the system.
 Using Shift+Ctrl+V will OVERWRITE all sigs with the pasted ones.
 
-Always paste all sigs from ingame since sigs in eveeye that are not in the pasted data will get deleted.
-
-Signatures get added to your current ingame location.
+Signatures get pasted to your current ingame location.
 If you are not syncing your location sigs get added to the system you are showing info on. 
 
 ## SIG tab
@@ -31,7 +29,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTQ0NzEyMjUsNzgzMjUzNDQ2LDMzMT
-Y3Mzk0MiwtNDgyNDYwNTY2LC00NTA1NTYxNCwzODgxODE0NzIs
-LTE0NTkxNDQ2MjBdfQ==
+eyJoaXN0b3J5IjpbMjAxNTM5OTIyNiw3ODMyNTM0NDYsMzMxNj
+czOTQyLC00ODI0NjA1NjYsLTQ1MDU1NjE0LDM4ODE4MTQ3Miwt
+MTQ1OTE0NDYyMF19
 -->

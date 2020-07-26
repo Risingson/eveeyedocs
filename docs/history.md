@@ -48,10 +48,10 @@ Extended IPS with wormhole systems after the Apocrypha release in 2009.
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EEmoonmemo.jpg" width="240"/>
 
 #### Dust inspiration
-Radar map style of Eveeye
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_radar-map_2014-11-10.png" width="320"/>
-Dust ingame map 
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_dust-inspiration.jpg" width="320"/>
+Radar map style of Eveeye<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_radar-map_2014-11-10.png" width="320"/><br>
+Dust ingame map<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_dust-inspiration.jpg" width="320"/><br>
 
 ## Eveeye Maps
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_02.png" width="320"/>
@@ -75,9 +75,9 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIzMzkyMTI2LDE0NzAxMDAyNzQsMTk0OT
-YyNTMzNSwtMTA3ODA0ODU3MSwzNjIxOTg3NDEsLTE0MTkyOTMx
-OTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3MTM2LC
-0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwODgsNzEw
-MTg2ODczXX0=
+eyJoaXN0b3J5IjpbLTk5MzQxMTk2OCw3MjMzOTIxMjYsMTQ3MD
+EwMDI3NCwxOTQ5NjI1MzM1LC0xMDc4MDQ4NTcxLDM2MjE5ODc0
+MSwtMTQxOTI5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MS
+wtMjczNzcxMzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2
+NjA3NjA4OCw3MTAxODY4NzNdfQ==
 -->

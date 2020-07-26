@@ -13,7 +13,7 @@
 
     describe what Moondoggie was
 
-The very first tool i made public was an invention calculator after the Revelations I expansion in 2006.<br>
+The very first tool made public was an invention calculator after the Revelations I expansion in 2006.<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/0_Mezz_InventionCalc.jpg" width="440"/>
 
 I fell for exploration from day one of said expansion. So when starting to get around New Eden i wanted to know about the systems i was visiting and started what was the very first attempt of what eveeye became later. It was called **HHGTTG** and i wanted it to become nothing less than a Hitchhiker's Guide To The Galaxy of New Eden.
@@ -75,9 +75,9 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQxMTk2OCw3MjMzOTIxMjYsMTQ3MD
-EwMDI3NCwxOTQ5NjI1MzM1LC0xMDc4MDQ4NTcxLDM2MjE5ODc0
-MSwtMTQxOTI5MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MS
-wtMjczNzcxMzYsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2
-NjA3NjA4OCw3MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbMTU4ODk5MzY0MSwtOTkzNDExOTY4LDcyMz
+M5MjEyNiwxNDcwMTAwMjc0LDE5NDk2MjUzMzUsLTEwNzgwNDg1
+NzEsMzYyMTk4NzQxLC0xNDE5MjkzMTkyLC0xMDEzNjE0MTc4LC
+0xNzgxMTc2NjUxLC0yNzM3NzEzNiwtMjAxMTgzOTk0NSwxMDYw
+NDAzMzMwLC0yMDY2MDc2MDg4LDcxMDE4Njg3M119
 -->

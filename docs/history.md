@@ -32,7 +32,7 @@ Extended IPS with wormhole systems after the Apocrypha release in 2009.
 ## Eveeye
 [https://www.eveonline.com/article/the-second-coming-of-moondoggie](https://www.eveonline.com/article/the-second-coming-of-moondoggie)
 
-    ... 
+    ... choose less pics + descriptions
 
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_01.jpg" width="440"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/2_EE_02.png" width="440"/>
@@ -75,9 +75,9 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg2MTM5NjUsMTQ3MDEwMDI3NCwxOT
-Q5NjI1MzM1LC0xMDc4MDQ4NTcxLDM2MjE5ODc0MSwtMTQxOTI5
-MzE5MiwtMTAxMzYxNDE3OCwtMTc4MTE3NjY1MSwtMjczNzcxMz
-YsLTIwMTE4Mzk5NDUsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OCw3
-MTAxODY4NzNdfQ==
+eyJoaXN0b3J5IjpbNzIzMzkyMTI2LDE0NzAxMDAyNzQsMTk0OT
+YyNTMzNSwtMTA3ODA0ODU3MSwzNjIxOTg3NDEsLTE0MTkyOTMx
+OTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3MTM2LC
+0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwODgsNzEw
+MTg2ODczXX0=
 -->

@@ -58,6 +58,7 @@ Dust ingame map
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_05.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_igb-relay.png" width="640"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_ingame-overlay.png" width="320"/>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/eem-chain.png" width="320"/>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/history/3_EEM_omniverse.png" width="640"/>
 
 By the time my own server was slowly dying on the Windows Server 2003 end of life. The only option -apart from discontinuing- was to shut down the active server pages and do a complete re-write.
@@ -72,8 +73,9 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTYyNTMzNSwtMTA3ODA0ODU3MSwzNj
-IxOTg3NDEsLTE0MTkyOTMxOTIsLTEwMTM2MTQxNzgsLTE3ODEx
-NzY2NTEsLTI3Mzc3MTM2LC0yMDExODM5OTQ1LDEwNjA0MDMzMz
-AsLTIwNjYwNzYwODgsNzEwMTg2ODczXX0=
+eyJoaXN0b3J5IjpbMTQ3MDEwMDI3NCwxOTQ5NjI1MzM1LC0xMD
+c4MDQ4NTcxLDM2MjE5ODc0MSwtMTQxOTI5MzE5MiwtMTAxMzYx
+NDE3OCwtMTc4MTE3NjY1MSwtMjczNzcxMzYsLTIwMTE4Mzk5ND
+UsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
+
 -->

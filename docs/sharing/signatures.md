@@ -7,7 +7,7 @@ Using `Ctrl+V` will `ADD` signatures to the system.
 Using `Shift+Ctrl+V` will `OVERWRITE` all sigs within that system with the pasted ones.
 
 !!! error "Firefox"
-    Shift+Ctrl+V does not work 
+    Shift+Ctrl+V does not work in Firefox browser.
     
 Signatures get pasted to your current ingame location.
 If you are not syncing your location sigs get added to the system you are showing info on. 
@@ -32,7 +32,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzQyNzE1LC0xMzE3MTUyNjY1LDc4Mz
-I1MzQ0NiwzMzE2NzM5NDIsLTQ4MjQ2MDU2NiwtNDUwNTU2MTQs
-Mzg4MTgxNDcyLC0xNDU5MTQ0NjIwXX0=
+eyJoaXN0b3J5IjpbMjAxODAxNTY3OSwtMTMxNzE1MjY2NSw3OD
+MyNTM0NDYsMzMxNjczOTQyLC00ODI0NjA1NjYsLTQ1MDU1NjE0
+LDM4ODE4MTQ3MiwtMTQ1OTE0NDYyMF19
 -->

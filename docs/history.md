@@ -4,7 +4,7 @@
   
   ##### Todo  
  - `do timeline`
- - `add eve release info at that time`
+ - `add eve release info at that time + dev blogs etc.` 
  - `write stories`
 
 [https://en.wikipedia.org/wiki/Expansions_of_Eve_Online](https://en.wikipedia.org/wiki/Expansions_of_Eve_Online)
@@ -73,9 +73,9 @@ Still sad that i had to offline Eveeye due to the technology i used was deprecat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDEwMDI3NCwxOTQ5NjI1MzM1LC0xMD
-c4MDQ4NTcxLDM2MjE5ODc0MSwtMTQxOTI5MzE5MiwtMTAxMzYx
-NDE3OCwtMTc4MTE3NjY1MSwtMjczNzcxMzYsLTIwMTE4Mzk5ND
-UsMTA2MDQwMzMzMCwtMjA2NjA3NjA4OCw3MTAxODY4NzNdfQ==
-
+eyJoaXN0b3J5IjpbMjc5MDU0NjAxLDE0NzAxMDAyNzQsMTk0OT
+YyNTMzNSwtMTA3ODA0ODU3MSwzNjIxOTg3NDEsLTE0MTkyOTMx
+OTIsLTEwMTM2MTQxNzgsLTE3ODExNzY2NTEsLTI3Mzc3MTM2LC
+0yMDExODM5OTQ1LDEwNjA0MDMzMzAsLTIwNjYwNzYwODgsNzEw
+MTg2ODczXX0=
 -->

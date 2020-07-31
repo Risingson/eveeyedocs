@@ -6,7 +6,7 @@ This documentation powered and built by [Read the Docs](https://readthedocs.org/
 This app would not be possible without the following API data (in alphabetical order).<br>
 
 EVE Online by [CCP](https://ccpgames.com) <br>
-[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa<br>
+Coalitions by [coalitionsin.space](http://coalitionsin.space/)<br>
 Trade data by [EVE Marketdata](https://eve-marketdata.com/donate.php?from=eveeye)<br>
 Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br>
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)<br>
@@ -42,9 +42,10 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NDE2NjY3MiwxNzkzNzM4ODIsLTk2NT
-E2MzIzMSw1NzI0ODIwMjMsNTY4OTg1NTE2LC02MTIzMDIyMzYs
-LTE1MDU0NjU5OTAsLTE4OTgxMzY3ODQsLTE3MDMzNzMxODMsLT
-E1NTE3NTM4NDksLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYw
-MDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTUwMDgzMjQxMSwxMjU0MTY2NjcyLDE3OT
+M3Mzg4MiwtOTY1MTYzMjMxLDU3MjQ4MjAyMyw1Njg5ODU1MTYs
+LTYxMjMwMjIzNiwtMTUwNTQ2NTk5MCwtMTg5ODEzNjc4NCwtMT
+cwMzM3MzE4MywtMTU1MTc1Mzg0OSwtMTExMjMwMDQwMiwxMDA3
+Mjk0Njg1LC04NjAwNDE5MjQsOTIxMzAzMTkyLDY2NzcyNjk0NF
+19
 -->

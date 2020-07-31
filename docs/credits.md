@@ -6,10 +6,11 @@ This documentation powered and built by [Read the Docs](https://readthedocs.org/
 This app would not be possible without the following API data (in alphabetical order).<br>
 
 EVE Online by [CCP](https://ccpgames.com) <br>
-[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa <br>
-Trade data by [EVE Marketdata](https://eve-marketdata.com/donate.php?from=eveeye)<br> 
-Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br> 
-Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)  
+[Coalitions](http://coalitionsin.space/) by Chuggi and Rischwa<br>
+Trade data by [EVE Marketdata](https://eve-marketdata.com/donate.php?from=eveeye)<br>
+Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br>
+Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)<br>
+Triglavian Invasions by [Kybernauts](https://kybernaut.space/invasions/?from=eveeye)  
 
 ## Software Credits
 <a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://apexcharts.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">apexcharts</span></a><br>
@@ -41,9 +42,9 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzczODgyLC05NjUxNjMyMzEsNTcyND
-gyMDIzLDU2ODk4NTUxNiwtNjEyMzAyMjM2LC0xNTA1NDY1OTkw
-LC0xODk4MTM2Nzg0LC0xNzAzMzczMTgzLC0xNTUxNzUzODQ5LC
-0xMTEyMzAwNDAyLDEwMDcyOTQ2ODUsLTg2MDA0MTkyNCw5MjEz
-MDMxOTIsNjY3NzI2OTQ0XX0=
+eyJoaXN0b3J5IjpbMTI1NDE2NjY3MiwxNzkzNzM4ODIsLTk2NT
+E2MzIzMSw1NzI0ODIwMjMsNTY4OTg1NTE2LC02MTIzMDIyMzYs
+LTE1MDU0NjU5OTAsLTE4OTgxMzY3ODQsLTE3MDMzNzMxODMsLT
+E1NTE3NTM4NDksLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYw
+MDQxOTI0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
 -->

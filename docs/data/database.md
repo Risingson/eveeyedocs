@@ -30,12 +30,12 @@ Only numeric values can be colored using these modes. The lowest and highest val
 To add data you need to load a map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. You can right-click a system, to bring it to top and put the cursor in the value's input field to edit right away.
 
 ## Data Display
-When opening a set's details the display options Node and Label will get activated automatically. You can also display your data via Sectors or 
+When opening a set's details the display options `Node` and `Label` will get activated automatically. You can also display your data via `Sectors` or `Tags`. Please select them via the data displays menu.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjU0MTY2LDczMDcyOTUyMiw0MDk3NT
+eyJoaXN0b3J5IjpbNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NT
 AwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1NF19
 -->

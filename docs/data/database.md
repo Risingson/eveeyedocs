@@ -14,6 +14,7 @@ Your set and a tab for it were created and you are ready to edit its details:
 | Color Mode | The name of the set is also displayed in the tabs |
 | Color Low | This color is used for the lowest value of the set |
 | Color High | This color is used for the highest value of the set |
+| ... | ... under development |
 
 !!! Information "Low and high values"
     Those values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only please let me know (use the feedback forum please). 
@@ -23,14 +24,14 @@ Your set and a tab for it were created and you are ready to edit its details:
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
 
 ### Linear
-Only numeric values can be colored using this mode. The lowest and highest value's colors can be set via the set
+Only numeric values can be colored using this mode. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated.
 
 ### Logarithmic
-Only numeric values can be colored using this mode.
+Only numeric values can be colored using this mode. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDk2MTE3MCw0MDk3NTAwLC0yMjUyMD
-UxNTEsMjAyNDQ5MTU1NF19
+eyJoaXN0b3J5IjpbNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNT
+E1MSwyMDI0NDkxNTU0XX0=
 -->

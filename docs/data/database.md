@@ -7,6 +7,7 @@ Create your own data sets to display on maps.
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
 Your set and a tab for it were created and you are ready to edit its details:
+
 |  |  |
 |--|--|
 | Name | The name of the set is also displayed in the tabs |
@@ -17,7 +18,7 @@ Your set and a tab for it were created and you are ready to edit its details:
 | ... | ... under development |
 
 !!! Information "Low and high values"
-    Those values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only please let me know (use the feedback forum please). 
+    Those values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only please let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
 
 ### Individual color mode
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
@@ -34,7 +35,7 @@ When opening a set's details the display options `Node` and `Label` will get act
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzk3MjA0Nyw1MDIzNTU2NjAsNzMwNz
-I5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNTU0XX0=
+eyJoaXN0b3J5IjpbLTEwNzIyNzQ0NDUsNTAyMzU1NjYwLDczMD
+cyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1NF19
 
 -->

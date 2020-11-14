@@ -12,7 +12,7 @@ Your set and a tab for it were created and you are ready to edit its details:
 |--|--|
 | Name | The name of the set is also displayed in the tabs |
 | Description | Describe the data the set will hold |
-| Color Mode | The name of the set is also displayed in the tabs |
+| Color Mode | Choose on how the data will get colored |
 | Color Low | This color is used for the lowest value of the set |
 | Color High | This color is used for the highest value of the set |
 | ... | ... under development |
@@ -37,7 +37,7 @@ When opening a set's details the display options `Node` and `Label` will get act
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3OTExNzg1LDUwMjM1NTY2MCw3MzA3Mj
-k1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
-
+eyJoaXN0b3J5IjpbNjI4OTk3NDA0LDI5NzkxMTc4NSw1MDIzNT
+U2NjAsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0
+NDkxNTU0XX0=
 -->

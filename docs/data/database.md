@@ -27,12 +27,12 @@ Will color each distinct value or label with an own color. If a label and a valu
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated.
 
 ## Adding Data
-To add data you need to load a map. Openin
+To add data you need to load a map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. You can right-click a system, to bring it to top and fo
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM1MDE4OTksNzMwNzI5NTIyLDQwOT
-c1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNTU0XX0=
+eyJoaXN0b3J5IjpbMTcyNzUyMzEyOSw3MzA3Mjk1MjIsNDA5Nz
+UwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

@@ -23,15 +23,16 @@ Your set and a tab for it were created and you are ready to edit its details:
 ### Individual
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
 
-### Linear
-Only numeric values can be colored using this mode. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated.
+### Linear and Logarithmic
+Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated.
 
-### Logarithmic
-Only numeric values can be colored using this mode. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated.
+## Adding Data
+To add data you need to load a map. Openin
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNT
-E1MSwyMDI0NDkxNTU0XX0=
+eyJoaXN0b3J5IjpbLTE5NDM1MDE4OTksNzMwNzI5NTIyLDQwOT
+c1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNTU0XX0=
 -->

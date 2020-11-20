@@ -4,7 +4,7 @@
 Interactive intel map system and chain mapping for [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
 
 !!! Information "Eveeye Echoes"
-    This documentation may not apply to the Eve Echoes version in every aspect just yet.
+    This documentation may not apply to the Eve Echoes version in every aspect just yet. Dedicated docs for Eveeye Echoes are in the works.
 
 ## Features
 
@@ -50,8 +50,8 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xOD
-IzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0
-ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLT
-E0MjMyMjA5LC0xNDQzODc3MjI2XX0=
+eyJoaXN0b3J5IjpbMTU4ODc3OTY3MCwtNDQwMTg1MDczLC05ND
+UxOTM5ODUsLTE4MjM0MTMyNzYsLTg2MDA0MjczNiw5MTg1MTM3
+NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAsMT
+A2NjE1NTEyMiwtMTQyMzIyMDksLTE0NDM4NzcyMjZdfQ==
 -->

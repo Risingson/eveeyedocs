@@ -3,6 +3,9 @@
 
 Interactive intel map system and chain mapping for [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
 
+!!! Information "Eveeye Echoes"
+    This documentation may not apply to the Eve Echoes version in every aspect just yet.
+
 ## Features
 
  - Travel and tactical companion of New Eden
@@ -47,8 +50,8 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtOD
-YwMDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2NDgxLDE0NjM4NzM5
-NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOSwtMT
-Q0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xOD
+IzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0
+ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLT
+E0MjMyMjA5LC0xNDQzODc3MjI2XX0=
 -->

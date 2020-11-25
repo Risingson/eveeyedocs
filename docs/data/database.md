@@ -27,7 +27,7 @@ Will color each distinct value or label with an own color. If a label and a valu
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated. To understand how those modes' results look like it is best to enter some values and switch the modes. Use like 1, 2 ,3 ,4 ,5 ,10 ,20 ,50 ,1000, 5000 for seeing the difference easily.
 
 ## Adding Data
-To add data you need to load a map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. You can right-click a system, to bring it to top and put the cursor in the value's input field to edit right away.
+To add data you need to load a map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. Clicking a system with the dataset details open it to bring it to top and put the cursor in the value's input field to edit right away. To bring up the menu you can double-click.
 
 ## Data Display
 When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
@@ -37,7 +37,7 @@ When opening a set's details the display options `Node` and `Label` will get act
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMz
-U1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAy
-NDQ5MTU1NF19
+eyJoaXN0b3J5IjpbNDEwMjkzNzIyLC0zNjg4OTExODMsMjk3OT
+ExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1
+MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

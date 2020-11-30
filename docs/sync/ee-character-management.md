@@ -13,9 +13,9 @@ This app uses the [Discord oauth login](https://support.eveonline.com/hc/en-us/a
 To revoke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 ## Login process
-To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into EVE Online and then back to Eveeye with the character added. 
+To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into Discord and then back to Eveeye with the character added. 
 
-To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install the app or clear browser cache.
+To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un- and re-install the app or clear browser cache.
 
 When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal.
 
@@ -26,5 +26,5 @@ If you updated your character image you can update it by just authorizing the ch
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjk4NjkwNzEsMTIxNDkzMzY5N119
+eyJoaXN0b3J5IjpbNDQ0NDcwMzcsMTIxNDkzMzY5N119
 -->

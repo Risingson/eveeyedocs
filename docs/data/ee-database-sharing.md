@@ -1,4 +1,4 @@
-## Custom Map sharing
+# Custom Map sharing
 When logged in database sets will get stored remotely and would synchronize to any device you use eveeye from.
 
 ## Share a map on discord
@@ -16,5 +16,5 @@ Currently a map is owned by the user that created it originally. Also only that 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTA2MzgxNl19
+eyJoaXN0b3J5IjpbLTE0MzYwMjk0MjUsMTY2NTA2MzgxNl19
 -->

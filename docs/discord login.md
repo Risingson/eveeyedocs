@@ -16,10 +16,11 @@ Anyone else that is authenticated on Eveeye with a user on that same discord ser
 #### Remove a map from sharing
 To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details.
 #### Map ownership
-Currently a map is owned by the 
+Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzg0NDQ3MiwxOTY0NDYxNzE4LC0xMT
+eyJoaXN0b3J5IjpbMTI1MjYyMjI5NywxOTY0NDYxNzE4LC0xMT
 g4NjQzMTMzLC0xMzY2NDk1MzAyXX0=
 -->

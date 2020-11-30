@@ -3,6 +3,8 @@ Create your own data sets to display on maps.
 
 !!! Warning "Alpha Version"
     Feature still under development.
+
+For Eveeye Echoes map sharing [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
     
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
@@ -40,7 +42,7 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTkwNzkyNiwyMTI1NjcyNTMyLC0zNj
+eyJoaXN0b3J5IjpbLTM2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNj
 g4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIs
 NDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

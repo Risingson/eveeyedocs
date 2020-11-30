@@ -1,7 +1,7 @@
-# Custom Map sharing
+# Custom data sharing
 When logged in database sets will get stored remotely and would synchronize to any device you use eveeye from.
 
-## Share a map on discord
+## Share a dataset on discord
 #### Add a map
 To share a map on discord you need to fill the `Sharing` info. Enter a discord server name there and hit enter. If you are a part of that server it will get linked to it.
 Anyone else that is authenticated on Eveeye with a user on that same discord server will now be able to see that map within his set list and may add that map to display.
@@ -16,5 +16,5 @@ Currently a map is owned by the user that created it originally. Also only that 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzYwMjk0MjUsMTY2NTA2MzgxNl19
+eyJoaXN0b3J5IjpbLTIxODA4Njc1LDE2NjUwNjM4MTZdfQ==
 -->

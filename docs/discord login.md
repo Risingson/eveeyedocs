@@ -18,9 +18,12 @@ To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set'
 #### Map ownership
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 
+!!! help
+    Please provide feedback and bugreport since the features are quite new. Als
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjYyMjI5NywxOTY0NDYxNzE4LC0xMT
-g4NjQzMTMzLC0xMzY2NDk1MzAyXX0=
+eyJoaXN0b3J5IjpbOTM0MTk0NzcwLDE5NjQ0NjE3MTgsLTExOD
+g2NDMxMzMsLTEzNjY0OTUzMDJdfQ==
 -->

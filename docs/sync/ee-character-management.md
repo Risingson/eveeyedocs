@@ -4,24 +4,27 @@ Logging in characters via Discord is not necessary to use this app but unlocks t
  - Synchronize your Database Sets across devices
  - Share Database sets with people on a Discord Server
 
+## Discord Login 
+This app uses the [Discord oauth login](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. 
 
-## Custom Maps (database sets)
-When logged in database sets will get stored remotely and would synchronize to any device you use eveeye from.
+!!! success "Security"
+    Unless you enable the [Cloud](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) services no data gets stored on Eveeye server. If cloud sync is enabled only a complementary key is stored on the server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
 
-## Share a map on discord
-#### Add a map
-To share a map on discord you need to fill the `Sharing` info. Enter a discord server name there and hit enter. If you are a part of that server it will get linked to it.
-Anyone else that is authenticated on Eveeye with a user on that same discord server will be able to add the map to his sets.
-#### Remove a map from sharing
-To not share a map anymore hit `UNLINK` within the `Sharing` info line of a set's details.
-#### Map ownership
-Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
+To revoke access for Eveeye goto [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)
 
-!!! help
-    Please provide feedback and bugreport since the features are quite new. Also there is an Eveeye discord at [discord.gg/bg4mSJ3rSu](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/bg4mSJ3rSu")
+## Login process
+To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into EVE Online and then back to Eveeye with the character added. 
 
+To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install the app or clear browser cache.
 
+When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal.
+
+## Re-authing
+If you updated your character image you can update it by just authorizing the char again. Also if a new version of Eveeye was installed sometimes it would need you to authorize your characters again to use new features.
+
+## Revoking access
+To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTAxOTg0OF19
+eyJoaXN0b3J5IjpbMTQ5OTMxMzIxMl19
 -->

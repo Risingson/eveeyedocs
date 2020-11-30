@@ -2,7 +2,7 @@
 Logging in characters via Discord is not necessary to use this app but unlocks the following features:
 
  - Synchronize your Database Sets across devices
- - Share Database sets with people on a Discord Server
+ - [Share Database sets with people on a Discord Server](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
 
 ## Discord Login 
 This app uses the [Discord oauth login](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. 
@@ -26,5 +26,6 @@ If you updated your user image you can update it by just authorizing the user ag
 To revoke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxNjk1NjIsMTIxNDkzMzY5N119
+eyJoaXN0b3J5IjpbLTEzMTg4MzM2MDEsMjkxNjk1NjIsMTIxND
+kzMzY5N119
 -->

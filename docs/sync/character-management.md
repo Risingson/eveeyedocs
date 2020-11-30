@@ -18,7 +18,7 @@ To revoke access for Eveeye goto [https://community.eveonline.com/support/third-
 ## Login process
 To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into EVE Online and then back to Eveeye with the character added. 
 
-To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install the app or clear browser cache.
+To remove a character tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Minus-100_b.png" width="24" height="24" > in the menu. This will remove any tokens available to login the character but will keep other data like for example custom names stored to not loose that data by accident. To fully remove custom data un-install and re-install the app or clear browser cache.
 
 When using the cloud storage feature your user including the token stored to identify your char gets removed from cloud immediately. Your custom data will get deleted from cloud 30 days after char removal.
 
@@ -29,10 +29,10 @@ If you updated your character image you can update it by just authorizing the ch
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNjYyMDQ4OSwtMTUxNDI4NDI4LDc1MD
-Y1NTE3OCwtODM4NzY3OTE4LDE0NzczMTg0NzQsLTM0NjI2NjIw
-NywtMTUzMTE1NjQ5MCwtNTU3NTAzNTMxLC04NzQ3NTkzOTksLT
-E1MjMxODIyNzYsMTA2MzY1MTAxMSwtMTM5MTAyMTQxNywxODM1
-NjM0NTYxLC0zODA0OTgwMjAsMTI4NjkxOTc4NywxMjI2OTk3Nz
-I4LDE2Nzk2NjgwOTNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODQyODIzODMsMjEzNjYyMDQ4OSwtMT
+UxNDI4NDI4LDc1MDY1NTE3OCwtODM4NzY3OTE4LDE0NzczMTg0
+NzQsLTM0NjI2NjIwNywtMTUzMTE1NjQ5MCwtNTU3NTAzNTMxLC
+04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2MzY1MTAxMSwtMTM5
+MTAyMTQxNywxODM1NjM0NTYxLC0zODA0OTgwMjAsMTI4NjkxOT
+c4NywxMjI2OTk3NzI4LDE2Nzk2NjgwOTNdfQ==
 -->

@@ -8,7 +8,7 @@ Logging in characters via Discord is not necessary to use this app but unlocks t
 This app uses the [Discord oauth login](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. 
 
 !!! success "Security"
-    A complementary key is stored on eveeye server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in your Discord account settings under `My Account`.
+    A complementary key is stored on eveeye server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs but is needed to identify your user when interacting from different devices.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in your Discord account settings under `My Account`.
 
 To revoke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
@@ -26,5 +26,5 @@ If you updated your character image you can update it by just authorizing the ch
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NjM3MDMzLDEyMTQ5MzM2OTddfQ==
+eyJoaXN0b3J5IjpbLTg5MTU2MDcxMCwxMjE0OTMzNjk3XX0=
 -->

@@ -10,7 +10,7 @@ This app uses the [Discord oauth login](https://support.eveonline.com/hc/en-us/a
 !!! success "Security"
     A complementary key is stored on eveeye server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in your Discord account settings under `My Account`.
 
-To revoke access for Eveeye goto the Authorized Apps within Discord settings and hit [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/)
+To revoke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 ## Login process
 To add characters tap <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > or your character's portrait in the menu. After selecting to add a character you will get redirected to a new native browser window to log into EVE Online and then back to Eveeye with the character added. 
@@ -26,5 +26,5 @@ If you updated your character image you can update it by just authorizing the ch
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzUzNjU0NiwxMjE0OTMzNjk3XX0=
+eyJoaXN0b3J5IjpbNTc4NjM3MDMzLDEyMTQ5MzM2OTddfQ==
 -->

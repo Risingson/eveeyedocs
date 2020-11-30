@@ -33,14 +33,14 @@ To add data you need to load a regional map. Opening a database set's details wi
 When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
 
 ## Sharing maps
-
+For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
 
 !!! Information "Feedback"
     Feedback very welcome ! Please use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzQzODc5MywyMTI1NjcyNTMyLC0zNj
+eyJoaXN0b3J5IjpbLTE4MTkwNzkyNiwyMTI1NjcyNTMyLC0zNj
 g4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIs
 NDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

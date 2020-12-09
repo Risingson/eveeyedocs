@@ -7,6 +7,7 @@
  - Wormhole connections get removed after 48h. You can always remove them manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
  - A connection will get created when jumping a cyno. Stop sync before
    jumping or remove the connection created manually.
+ - When pasting wormhole signatures connections to "Unknown Systems " will
  - For wormhole systems there is no api data available for recent jumps
    or NPC kills.
  - Phenomenons are stated as an extra sub-label. To view its effects
@@ -42,8 +43,8 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDg3NTY0NiwtODQxNjUzNzkzLDExMz
-czMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5NTU5
-NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMj
-Q0NzI5N119
+eyJoaXN0b3J5IjpbNzQ5OTcxMTEzLC05NzQ4NzU2NDYsLTg0MT
+Y1Mzc5MywxMTM3MzI1MzcxLDYyMzk4MTA1NSwtNDU0MjQwMzY5
+LC0xOTQzOTU1OTc5LDE2MzcxODQ5MCw2NzA3MTk1NTEsLTQ1Nz
+c4MTMxLC0zMzI0NDcyOTddfQ==
 -->

@@ -13,7 +13,7 @@ Signatures get pasted to your current ingame location.
 If you are not syncing your location sigs get added to the system you are showing info on. 
 
 ## SIG tab
-Pasting sigs will open the `SIG` info tab of solarsystem info pane. In that tab signatures and wormhole connection data get shown. In browser version you can drag wormhole signatures onto wormhole connections to merge the signature ID.
+Pasting sigs will open the `SIG` info tab of solarsystem info pane. In that tab signatures and wormhole connection data get shown. 
 
 Using the filter buttons you can toggle the display of those signatures or connections.
                
@@ -32,7 +32,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI2NDU1NzEsMjAxODAxNTY3OSwtMT
+eyJoaXN0b3J5IjpbLTEyMjE2MTMwMDIsMjAxODAxNTY3OSwtMT
 MxNzE1MjY2NSw3ODMyNTM0NDYsMzMxNjczOTQyLC00ODI0NjA1
 NjYsLTQ1MDU1NjE0LDM4ODE4MTQ3MiwtMTQ1OTE0NDYyMF19
 -->

@@ -12,6 +12,8 @@ Using `Shift+Ctrl+V` will `OVERWRITE` all sigs within that system with the paste
 Signatures get pasted to your current ingame location.
 If you are not syncing your location sigs get added to the system you are showing info on. 
 
+Pasing wormhole signatures will create connections to "Unknown Systems".
+
 ## SIG tab
 Pasting sigs will open the `SIG` info tab of solarsystem info pane. In that tab signatures and wormhole connection data get shown. 
 
@@ -34,7 +36,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTIyNzM2NCwyMDE4MDE1Njc5LC0xMz
-E3MTUyNjY1LDc4MzI1MzQ0NiwzMzE2NzM5NDIsLTQ4MjQ2MDU2
-NiwtNDUwNTU2MTQsMzg4MTgxNDcyLC0xNDU5MTQ0NjIwXX0=
+eyJoaXN0b3J5IjpbMjc1MDA2MzE2LDIwMTgwMTU2NzksLTEzMT
+cxNTI2NjUsNzgzMjUzNDQ2LDMzMTY3Mzk0MiwtNDgyNDYwNTY2
+LC00NTA1NTYxNCwzODgxODE0NzIsLTE0NTkxNDQ2MjBdfQ==
 -->

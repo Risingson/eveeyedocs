@@ -39,7 +39,7 @@ You can edit:<br>
  - K162 side<br>
  - Wormhole code<br>
 
-In solarsystem info pane's `SIG` tab you can merge "Unknown System" connections with wormhole connections created by jumping themto merge the signature code. This will stop that sig from being displayed under signatures. 
+In solarsystem info pane's `SIG` tab you can merge "Unknown System" connections via dragging and dropping onto wormhole connections created by jumping them.
 
 ## Name wormholes
 Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
@@ -47,8 +47,8 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjMzOTk3MSwtOTc0ODc1NjQ2LC04ND
-E2NTM3OTMsMTEzNzMyNTM3MSw2MjM5ODEwNTUsLTQ1NDI0MDM2
-OSwtMTk0Mzk1NTk3OSwxNjM3MTg0OTAsNjcwNzE5NTUxLC00NT
-c3ODEzMSwtMzMyNDQ3Mjk3XX0=
+eyJoaXN0b3J5IjpbLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtOD
+QxNjUzNzkzLDExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAz
+NjksLTE5NDM5NTU5NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtND
+U3NzgxMzEsLTMzMjQ0NzI5N119
 -->

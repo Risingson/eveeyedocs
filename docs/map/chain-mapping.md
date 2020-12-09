@@ -9,11 +9,13 @@
    jumping or remove the connection created manually.
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
 
+<!--
 #### Viewable Information 
  - For wormhole systems there is no api data available for recent jumps
    or NPC kills.
  - Phenomenons are stated as an extra sub-label. To view its effects
    click the wormhole and select `Show Info` from the menu and switch to the `WH` tab.
+   -->
 
 ## Display Styles
 Solarsystem oultines are solid or dashed. 
@@ -37,7 +39,7 @@ You can edit:<br>
  - K162 side<br>
  - Wormhole code<br>
 
-In solarsystem info pane's `SIG` tab you can drag pasted wormhole signatures onto wormhole connections to merge the signature code. This will stop that sig from being displayed under signatures. 
+In solarsystem info pane's `SIG` tab you can merge "Unknown System" connections with wormhole connections created by jumping themto merge the signature code. This will stop that sig from being displayed under signatures. 
 
 ## Name wormholes
 Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
@@ -45,7 +47,7 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTE1Mzg5NiwtOTc0ODc1NjQ2LC04ND
+eyJoaXN0b3J5IjpbMTIyMjMzOTk3MSwtOTc0ODc1NjQ2LC04ND
 E2NTM3OTMsMTEzNzMyNTM3MSw2MjM5ODEwNTUsLTQ1NDI0MDM2
 OSwtMTk0Mzk1NTk3OSwxNjM3MTg0OTAsNjcwNzE5NTUxLC00NT
 c3ODEzMSwtMzMyNDQ3Mjk3XX0=

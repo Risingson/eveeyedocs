@@ -1,4 +1,4 @@
-# Character Management
+# Character Management (Echoes)
 Logging in characters via Discord is not necessary to use this app but unlocks the following features:
 
  - Synchronize your Database Sets across devices
@@ -26,6 +26,7 @@ If you updated your user image you can update it by just authorizing the user ag
 To revoke access for Eveeye goto the `Authorized Apps` within Discord settings and hit `Deauthorize`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEwOTg2NSwtOTA3MjE0MDcyLC0xMz
-E4ODMzNjAxLDI5MTY5NTYyLDEyMTQ5MzM2OTddfQ==
+eyJoaXN0b3J5IjpbMTAxNzQ0MDk4NywtMTQwMTA5ODY1LC05MD
+cyMTQwNzIsLTEzMTg4MzM2MDEsMjkxNjk1NjIsMTIxNDkzMzY5
+N119
 -->

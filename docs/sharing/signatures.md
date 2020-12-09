@@ -21,7 +21,7 @@ Using the filter buttons you can toggle the which types of sigs and connections 
                
 A signature can be deleted by clicking the `X` top right of it and confirm.
 
-You can clean a system from signatures and connections as a whole by doubleclicking the little trash bin to the right within in the SIGNATURES headline.
+You can clean a system from signatures and connections as a whole by doubleclicking the `little trash bin` to the right within in the "SIGNATURES" headline.
 
 Deleted sigs can be undeleted for up to 3 hours.
 You can show and hide anomalies, cosmics and deleted sigs by clicking the corresponding tab above the signatures displayed.                
@@ -36,7 +36,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc1MDA2MzE2LDIwMTgwMTU2NzksLTEzMT
-cxNTI2NjUsNzgzMjUzNDQ2LDMzMTY3Mzk0MiwtNDgyNDYwNTY2
-LC00NTA1NTYxNCwzODgxODE0NzIsLTE0NTkxNDQ2MjBdfQ==
+eyJoaXN0b3J5IjpbMTEyMjA1OTk1MCwyMDE4MDE1Njc5LC0xMz
+E3MTUyNjY1LDc4MzI1MzQ0NiwzMzE2NzM5NDIsLTQ4MjQ2MDU2
+NiwtNDUwNTU2MTQsMzg4MTgxNDcyLC0xNDU5MTQ0NjIwXX0=
 -->

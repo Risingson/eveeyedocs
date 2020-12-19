@@ -54,15 +54,15 @@ Either a label or value must be present sor a solarsystem to get parsed
 
     [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
 
-#### CSV Format
+#### CSV Format 
 
     30004738,,1
     30003600,Hello
-    30003600,3,Wolrd
+    30003600,World,3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3Njk5NDEzLC0zNjg1NjIxNDUsMjEyNT
+eyJoaXN0b3J5IjpbLTYyMDc4ODc1LC0zNjg1NjIxNDUsMjEyNT
 Y3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAs
 NzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNT
 U0XX0=

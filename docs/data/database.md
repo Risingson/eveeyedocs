@@ -48,6 +48,9 @@ You can feed external data to eveeye by pasting an url to a JSON array or CSV fi
 | lbl| label | string or numeric | 30 chars |
 | val| value | string or numeric | 6 chars |
 Either a label or value has to be present with a solarsystem.
+If you got no idea what a solarsystem id is please refer to https://carbonalabel.github.io/esi-docs/docs/sde_introduction.html for good start.
+
+
 
 
 #### JSON Example
@@ -62,8 +65,8 @@ Either a label or value has to be present with a solarsystem.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwMTU3OTQsLTM2ODU2MjE0NSwyMT
-I1NjcyNTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2
-MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OT
-E1NTRdfQ==
+eyJoaXN0b3J5IjpbLTEyOTc3MTQwNiwtMTA3NjAxNTc5NCwtMz
+Y4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3
+ODUsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMD
+UxNTEsMjAyNDQ5MTU1NF19
 -->

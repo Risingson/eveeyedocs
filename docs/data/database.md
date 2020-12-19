@@ -41,23 +41,29 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
     Feedback very welcome ! Please use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)  
 
 ## External Data
-You can feed external data to eveeye by pasting an url to a json array or csv file containing the following.
+You can feed external data to eveeye by pasting an url to a json array or csv file containing the following:
 | key | decription | type | max |
 |--|--|--|--|
 | sid | solarsystem id | numeric | - |
 | lbl| label | string or numeric | 6 chars |
 | val| value | string or numeric | 30 chars |
+Either a label or value must be present sor a solarsystem to get parsed
 
 
 #### JSON Array Format
-[{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
+
+    [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
+
 #### CSV Format
-sid,lbl,val
+
+    30004738,,1
+    30003600,Hello
+    30003600,3,Wolrd
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjU5NzIwNywtMzY4NTYyMTQ1LDIxMj
-U2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYw
-LDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MT
-U1NF19
+eyJoaXN0b3J5IjpbNjg3Njk5NDEzLC0zNjg1NjIxNDUsMjEyNT
+Y3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAs
+NzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNT
+U0XX0=
 -->

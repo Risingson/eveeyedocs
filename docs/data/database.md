@@ -40,9 +40,17 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 !!! Information "Feedback"
     Feedback very welcome ! Please use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)  
 
+## External Data
+You can feed external data to eveeye by pasting an url to a json array or csv file.
+#### JSON Array Format
+[{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
+#### CSV Format
+sid,
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNj
-g4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIs
-NDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
+eyJoaXN0b3J5IjpbNzE2NTYwMDM4LC0zNjg1NjIxNDUsMjEyNT
+Y3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAs
+NzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNT
+U0XX0=
 -->

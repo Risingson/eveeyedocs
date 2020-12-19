@@ -41,12 +41,12 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
     Feedback very welcome ! Please use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)  
 
 ## External Data
-You can feed external data to eveeye by pasting an url to a json array or csv file.
-|  |  |  |
-|--|--|--|
-| sid | solarsystem id |  |
-| lbl| label | string or numeric |
-| val| value | string or numeric |
+You can feed external data to eveeye by pasting an url to a json array or csv file containing the following.
+| key | decription | type | max |
+|--|--|--|--|
+| sid | solarsystem id | numeric | - |
+| lbl| label | string or numeric | 6 chars |
+| val| value | string or numeric | 30 chars |
 
 
 #### JSON Array Format
@@ -56,7 +56,7 @@ sid,lbl,val
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjU4NDkyNCwtMzY4NTYyMTQ1LDIxMj
+eyJoaXN0b3J5IjpbMTIxNjU5NzIwNywtMzY4NTYyMTQ1LDIxMj
 U2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYw
 LDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MT
 U1NF19

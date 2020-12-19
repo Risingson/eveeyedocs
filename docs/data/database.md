@@ -41,7 +41,9 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
     Feedback very welcome ! Please use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)  
 
 ## External Data
-You can feed external data to eveeye by pasting an url to a JSON array or CSV file containing the following:
+You can feed external data to eveeye by pasting an url to a JSON array or CSV file.
+If you are using this feature you won't be able to edit data within eveeye.
+The
 
 | key | description | type | max |
 |--|--|--|--|
@@ -64,8 +66,8 @@ If you got no idea what a `solarSystemID` is please refer to https://carbonalabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYxMzAyMDksLTEwNzYwMTU3OTQsLT
-M2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3OTEx
-Nzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1Mj
-A1MTUxLDIwMjQ0OTE1NTRdfQ==
+eyJoaXN0b3J5IjpbLTI2MDU1Njg3NCwtMTA3NjAxNTc5NCwtMz
+Y4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3
+ODUsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMD
+UxNTEsMjAyNDQ5MTU1NF19
 -->

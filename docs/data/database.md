@@ -56,7 +56,7 @@ If you got no idea what a `solarSystemID` is please refer to https://carbonalabe
 
 #### JSON Example
 
-    [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
+    [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"lbl":"World","val":3}]
 
 #### CSV Example
 
@@ -66,8 +66,8 @@ If you got no idea what a `solarSystemID` is please refer to https://carbonalabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzYzODA2MCwtMTA3NjAxNTc5NCwtMz
-Y4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3
-ODUsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMD
-UxNTEsMjAyNDQ5MTU1NF19
+eyJoaXN0b3J5IjpbLTExNjUyMjM1OTYsLTEwNzYwMTU3OTQsLT
+M2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3OTEx
+Nzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1Mj
+A1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

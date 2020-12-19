@@ -43,7 +43,7 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array or CSV file.
 If you are using this feature you won't be able to edit data within eveeye.
-The
+The data file has to provide the `Last-Modified` header and has to contain the following keys:
 
 | key | description | type | max |
 |--|--|--|--|
@@ -66,7 +66,7 @@ If you got no idea what a `solarSystemID` is please refer to https://carbonalabe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDU1Njg3NCwtMTA3NjAxNTc5NCwtMz
+eyJoaXN0b3J5IjpbLTUzMzYzODA2MCwtMTA3NjAxNTc5NCwtMz
 Y4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3
 ODUsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMD
 UxNTEsMjAyNDQ5MTU1NF19

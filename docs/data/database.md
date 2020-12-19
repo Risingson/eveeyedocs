@@ -50,20 +50,20 @@ You can feed external data to eveeye by pasting an url to a json array or csv fi
 Either a label or value must be present sor a solarsystem to get parsed
 
 
-#### JSON Array Format
+#### JSON Example
 
     [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
 
-#### CSV Format 
+#### CSV Example
 
     30004738,,1
     30003600,Hello
-    30003600,World,3
+    30004271,World,3
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMDc4ODc1LC0zNjg1NjIxNDUsMjEyNT
-Y3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAs
-NzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNT
-U0XX0=
+eyJoaXN0b3J5IjpbODkwNzk5NzksLTM2ODU2MjE0NSwyMTI1Nj
+cyNTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3
+MzA3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NT
+RdfQ==
 -->

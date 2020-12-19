@@ -42,15 +42,22 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 
 ## External Data
 You can feed external data to eveeye by pasting an url to a json array or csv file.
+|  |  |  |
+|--|--|--|
+| sid | solarsystem id |  |
+| lbl| label | string or numeric |
+| val| value | string or numeric |
+
+
 #### JSON Array Format
 [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"val":3,"lbl":"World"}]
 #### CSV Format
-sid,
+sid,lbl,val
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2NTYwMDM4LC0zNjg1NjIxNDUsMjEyNT
-Y3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAs
-NzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNT
-U0XX0=
+eyJoaXN0b3J5IjpbMTEzMjU4NDkyNCwtMzY4NTYyMTQ1LDIxMj
+U2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYw
+LDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MT
+U1NF19
 -->

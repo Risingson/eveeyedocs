@@ -41,13 +41,13 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
     Feedback very welcome ! Please use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular)  
 
 ## External Data
-You can feed external data to eveeye by pasting an url to a json array or csv file containing the following:
-| key | decription | type | max |
+You can feed external data to eveeye by pasting an url to a JSON array or CSV file containing the following:
+| key | description | type | max |
 |--|--|--|--|
 | sid | solarsystem id | numeric | - |
-| lbl| label | string or numeric | 6 chars |
-| val| value | string or numeric | 30 chars |
-Either a label or value must be present sor a solarsystem to get parsed
+| lbl| label | string or numeric | 30 chars |
+| val| value | string or numeric | 6 chars |
+Either a label or value has to be present with a solarsystem.
 
 
 #### JSON Example
@@ -62,8 +62,8 @@ Either a label or value must be present sor a solarsystem to get parsed
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNzk5NzksLTM2ODU2MjE0NSwyMTI1Nj
-cyNTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3
-MzA3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NT
-RdfQ==
+eyJoaXN0b3J5IjpbLTEwNzYwMTU3OTQsLTM2ODU2MjE0NSwyMT
+I1NjcyNTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2
+MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OT
+E1NTRdfQ==
 -->

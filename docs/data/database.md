@@ -55,7 +55,7 @@ Either a label or value has to be present with a solarsystem.
 
 #### JSON Example
 
-    [{"ss":30004738,"val":1},{"ss":30003600,"lbl":"Hello"},{"ss":30004271,"lbl":"3","val":"World"}]
+    [{"ss":30004738,"val":1},{"ss":"Shenda","lbl":"Hello"},{"ss":30004271,"lbl":"3","val":"World"}]
 
 #### CSV Example
 
@@ -65,9 +65,9 @@ Either a label or value has to be present with a solarsystem.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMD
-E5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0zNjg1
-NjIxNDUsMjEyNTY3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NS
-w1MDIzNTU2NjAsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1
-MSwyMDI0NDkxNTU0XX0=
+eyJoaXN0b3J5IjpbMTIyNzg0Nzc4OCwxNDYwMTE1ODQ1LC0xMD
+Y0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYw
+MTU3OTQsLTM2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExOD
+MsMjk3OTExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUw
+MCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

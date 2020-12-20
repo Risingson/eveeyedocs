@@ -47,7 +47,7 @@ The data file has to provide the `Last-Modified` header and has to contain the f
 
 | key | description | type | max |
 |--|--|--|--|
-| sid | solarsystem id | numeric | - |
+| ss| solarsystem id | numeric | - |
 | lbl| label | string or numeric | 30 chars |
 | val| value | string or numeric | 6 chars |
 
@@ -65,9 +65,9 @@ Either a label or value has to be present with a solarsystem.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMT
-U2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2
-NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLD
-czMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1
-NF19
+eyJoaXN0b3J5IjpbLTEzOTA1Mjk5NTEsLTEwNjQ0MTA1NzcsMj
+AxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4
+NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3OD
+UsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUx
+NTEsMjAyNDQ5MTU1NF19
 -->

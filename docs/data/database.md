@@ -47,12 +47,11 @@ The data file has to provide the `Last-Modified` header and has to contain the f
 
 | key | description | type | max |
 |--|--|--|--|
-| ss | solarsystem id or solarsystem name | numeric or string | - |
+| sid | solarsystem id | numeric | - |
 | lbl| label | string or numeric | 30 chars |
 | val| value | string or numeric | 6 chars |
 
 Either a label or value has to be present with a solarsystem.
-Instead of a `solarSystemID` you can use the exact name of the solarsystem aswell.
 
 #### JSON Example
 
@@ -66,9 +65,9 @@ Instead of a `solarSystemID` you can use the exact name of the solarsystem aswel
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2MTE0ODkxLDIwMTk3NTE4NDAsLTE1Nj
-k2MjYwMjgsLTEwNzYwMTU3OTQsLTM2ODU2MjE0NSwyMTI1Njcy
-NTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3Mz
-A3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRd
-fQ==
+eyJoaXN0b3J5IjpbLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMT
+U2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2
+NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLD
+czMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1
+NF19
 -->

@@ -47,12 +47,12 @@ The data file has to provide the `Last-Modified` header and has to contain the f
 
 | key | description | type | max |
 |--|--|--|--|
-| sid | solarsystem id | numeric | - |
+| ss | solarsystem id or solarsystem name | numeric or string | - |
 | lbl| label | string or numeric | 30 chars |
 | val| value | string or numeric | 6 chars |
 
 Either a label or value has to be present with a solarsystem.
-If you got no idea what a `solarSystemID` is please refer to [https://carbonalabel.github.io/esi-docs/docs/sde_introduction.html](https://carbonalabel.github.io/esi-docs/docs/sde_introduction.html) for a good start.
+Instead of a `solarSystemID` you can use the exact name of the solarsystem aswell.
 
 #### JSON Example
 
@@ -66,8 +66,9 @@ If you got no idea what a `solarSystemID` is please refer to [https://carbonalab
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMT
-A3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5
-MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLDczMDcyOTUyMiw0MD
-k3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1NF19
+eyJoaXN0b3J5IjpbMzU2MTE0ODkxLDIwMTk3NTE4NDAsLTE1Nj
+k2MjYwMjgsLTEwNzYwMTU3OTQsLTM2ODU2MjE0NSwyMTI1Njcy
+NTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1NTY2MCw3Mz
+A3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMjQ0OTE1NTRd
+fQ==
 -->

@@ -51,7 +51,7 @@ The data file has to provide the `Last-Modified` header and has to contain the f
 | lbl | label | string or numeric | 30 chars |
 | val | value | string or numeric | 6 chars |
 
-Either a label or value has to be present with a solarsystem.
+Either a label or value should be present with a solarsystem.
 
 #### JSON Example
 
@@ -67,7 +67,7 @@ Either a label or value has to be present with a solarsystem.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTk2ODc1MywtMjY1MTQ5ODY3LDE0Nj
+eyJoaXN0b3J5IjpbLTc1ODcxODY1NywtMjY1MTQ5ODY3LDE0Nj
 AxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2OTYy
 NjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2NzI1Mz
 IsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLDczMDcy

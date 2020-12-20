@@ -58,16 +58,13 @@ Either a label or value should be present with a solarsystem.
     [{"ss":30004738,"val":1},{"ss":"Shenda","lbl":"Hello"},{"ss":30004271,"lbl":"3","val":"World"}]
 
 #### CSV Example
-
-    30004738,,1
-    
-    Shenda,Hello
-    
-    30004271,3,World
+30004738,,1
+Shenda,Hello
+30004271,3,World
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODcxODY1NywtMjY1MTQ5ODY3LDE0Nj
+eyJoaXN0b3J5IjpbMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0Nj
 AxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2OTYy
 NjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2NzI1Mz
 IsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLDczMDcy

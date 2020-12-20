@@ -47,15 +47,15 @@ The data file has to provide the `Last-Modified` header and has to contain the f
 
 | key | description | type | max |
 |--|--|--|--|
-| ss| solarsystem id | numeric | - |
-| lbl| label | string or numeric | 30 chars |
-| val| value | string or numeric | 6 chars |
+| ss | solarsystem id or name | numeric or string | - |
+| lbl | label | string or numeric | 30 chars |
+| val | value | string or numeric | 6 chars |
 
 Either a label or value has to be present with a solarsystem.
 
 #### JSON Example
 
-    [{"sid":30004738,"val":1},{"sid":30003600,"lbl":"Hello"},{"sid":30004271,"lbl":"3","val":"World"}]
+    [{"ss":30004738,"val":1},{"ss":30003600,"lbl":"Hello"},{"ss":30004271,"lbl":"3","val":"World"}]
 
 #### CSV Example
 
@@ -65,9 +65,9 @@ Either a label or value has to be present with a solarsystem.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTA1Mjk5NTEsLTEwNjQ0MTA1NzcsMj
-AxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4
-NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3OD
-UsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUx
-NTEsMjAyNDQ5MTU1NF19
+eyJoaXN0b3J5IjpbMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMD
+E5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0zNjg1
+NjIxNDUsMjEyNTY3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NS
+w1MDIzNTU2NjAsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1
+MSwyMDI0NDkxNTU0XX0=
 -->

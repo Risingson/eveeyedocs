@@ -60,12 +60,12 @@ Either a label or value has to be present with a solarsystem.
 #### CSV Example
 
     30004738,,1
-    30003600,Hello
+    Shenda,Hello
     30004271,3,World
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNzg0Nzc4OCwxNDYwMTE1ODQ1LC0xMD
+eyJoaXN0b3J5IjpbLTk0NDU3Mzc3NSwxNDYwMTE1ODQ1LC0xMD
 Y0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYw
 MTU3OTQsLTM2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExOD
 MsMjk3OTExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUw

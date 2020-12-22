@@ -45,6 +45,9 @@ You can feed external data to eveeye by pasting an url to a JSON array or CSV fi
 If you are using this feature you won't be able to edit data within eveeye.
 The data file ~~has to provide the `Last-Modified` header~~ and has to contain the following keys:
 
+!!! Warning "In Development"
+    This feature is under development. Things are likely to change.
+
 | key | description | type | max |
 |--|--|--|--|
 | ss | solarsystem name or id | string or numeric | - |
@@ -65,10 +68,10 @@ Shenda,Hello<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNDMyMDksMjk5MDA1MjI1LDEwMTA4MD
-M3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3
-LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYwMTU3OTQsLT
-M2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3OTEx
-Nzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1Mj
-A1MTUxLDIwMjQ0OTE1NTRdfQ==
+eyJoaXN0b3J5IjpbNjQ0MjQ0MzY5LDI5OTAwNTIyNSwxMDEwOD
+AzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3
+NywyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC
+0zNjg1NjIxNDUsMjEyNTY3MjUzMiwtMzY4ODkxMTgzLDI5Nzkx
+MTc4NSw1MDIzNTU2NjAsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNT
+IwNTE1MSwyMDI0NDkxNTU0XX0=
 -->

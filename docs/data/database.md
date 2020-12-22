@@ -43,7 +43,7 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array or CSV file.
 If you are using this feature you won't be able to edit data within eveeye.
-The data file has to provide the `Last-Modified` header and has to contain the following keys:
+The data file ~~has to provide the `Last-Modified` header~~ and has to contain the following keys:
 
 | key | description | type | max |
 |--|--|--|--|
@@ -65,10 +65,10 @@ Shenda,Hello<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NT
-E0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3NTE4
-NDAsLTE1Njk2MjYwMjgsLTEwNzYwMTU3OTQsLTM2ODU2MjE0NS
-wyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3OTExNzg1LDUwMjM1
-NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUxLDIwMj
-Q0OTE1NTRdfQ==
+eyJoaXN0b3J5IjpbMzcxNDMyMDksMjk5MDA1MjI1LDEwMTA4MD
+M3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3
+LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYwMTU3OTQsLT
+M2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3OTEx
+Nzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1Mj
+A1MTUxLDIwMjQ0OTE1NTRdfQ==
 -->

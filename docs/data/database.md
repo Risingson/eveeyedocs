@@ -35,8 +35,10 @@ To add data you need to load a regional map. Opening a database set's details wi
 When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
 
 ## Sharing maps
+
 !!! Information 
     For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
+    
 Choose to share your map-data with your share-group or publically.
 
 ## External Data
@@ -75,11 +77,11 @@ Shenda,"Hello, "<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjc0MDczMiwyMzk0MDg0MywtMTg3NT
-MxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAzNzI5
-LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMD
-E5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0zNjg1
-NjIxNDUsMjEyNTY3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NS
-w1MDIzNTU2NjAsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1
-MV19
+eyJoaXN0b3J5IjpbLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4Nz
+UzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcy
+OSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMj
+AxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4
+NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3OD
+UsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUx
+NTFdfQ==
 -->

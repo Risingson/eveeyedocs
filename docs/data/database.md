@@ -58,20 +58,20 @@ Either a label or value should be present with a solarsystem.
 
 #### JSON Example
 
-    [{"ss":30004738,"val":1},{"ss":"Shenda","lbl":"Hello"},{"ss":30004271,"lbl":"3","val":"World"}]
+    [{"ss":30004738,"val":1},{"ss":"Shenda","lbl":"Hello, "},{"ss":30004271,"lbl":"3","val":"World"}]
 
 #### CSV Example
 30004738,,1<br>
-Shenda,Hello<br>
+Shenda,"Hello, "<br>
 30004271,3,World<br>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjAyMjU5ODQsMjk5MDA1MjI1LDEwMT
-A4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEw
-NTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYwMTU3OT
-QsLTM2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3
-OTExNzg1LDUwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMj
-I1MjA1MTUxLDIwMjQ0OTE1NTRdfQ==
+eyJoaXN0b3J5IjpbNjU4MzgwMjg4LC0xMzYwMjI1OTg0LDI5OT
+AwNTIyNSwxMDEwODAzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0
+NSwtMTA2NDQxMDU3NywyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC
+0xMDc2MDE1Nzk0LC0zNjg1NjIxNDUsMjEyNTY3MjUzMiwtMzY4
+ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAsNzMwNzI5NTIyLD
+QwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNTU0XX0=
 -->

@@ -44,7 +44,7 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
 
-!!! Warning
+!!! Warning  In Development
     This feature is under development. Things are likely to change.
     
 ### Header
@@ -76,11 +76,11 @@ Shenda,"Hello, "<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjE3NzIzNywtMTg3NTMxNDU3LC0xMz
-YwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAzNzI5LC0yNjUxNDk4
-NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMDE5NzUxODQwLC
-0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0zNjg1NjIxNDUsMjEy
-NTY3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2Nj
-AsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkx
-NTU0XX0=
+eyJoaXN0b3J5IjpbMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MD
+IyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3
+LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMT
+U2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2
+NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLD
+czMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1
+NF19
 -->

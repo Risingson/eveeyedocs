@@ -60,7 +60,7 @@ Either a label or value should be present with a solarsystem.
 
     [{"ss":30004738,"val":1},{"ss":"Shenda","lbl":"Hello, "},{"ss":30004271,"lbl":"3","val":"World"}]
 
-#### CSV Example
+#### CSV / TXT Example
 30004738,,1<br>
 Shenda,"Hello, "<br>
 30004271,3,World<br>
@@ -68,10 +68,10 @@ Shenda,"Hello, "<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MzgwMjg4LC0xMzYwMjI1OTg0LDI5OT
-AwNTIyNSwxMDEwODAzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0
-NSwtMTA2NDQxMDU3NywyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC
-0xMDc2MDE1Nzk0LC0zNjg1NjIxNDUsMjEyNTY3MjUzMiwtMzY4
-ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2NjAsNzMwNzI5NTIyLD
-QwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkxNTU0XX0=
+eyJoaXN0b3J5IjpbLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOT
+kwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAxMTU4
+NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2OTYyNjAyOC
+wtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2
+ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLDczMDcyOTUyMi
+w0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1NF19
 -->

@@ -49,7 +49,9 @@ If you are using this feature you won't be able to edit data within eveeye.
     
 ### Header
 The data file should provide the `Last-Modified` header.
-THIS IS NOT SETTLED but if there is no header there will be no automatic updating (which is not implemented yet) if that set is shared.
+
+!!! Help In Development
+    THIS IS NOT SETTLED but if there is no header there will be no automatic updating (which is not implemented yet) if that set is shared. Maybe there will be a possibility to add a date to the file itseld but i am undecided on that.
 
 ### Data
 The data file has to contain the following keys:
@@ -74,11 +76,11 @@ Shenda,"Hello, "<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzkzNDcyMzEsLTE4NzUzMTQ1NywtMT
-M2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5
-ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MC
-wtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIx
-MjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1Nj
-YwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5
-MTU1NF19
+eyJoaXN0b3J5IjpbLTU4MjE3NzIzNywtMTg3NTMxNDU3LC0xMz
+YwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAzNzI5LC0yNjUxNDk4
+NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMDE5NzUxODQwLC
+0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0zNjg1NjIxNDUsMjEy
+NTY3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NSw1MDIzNTU2Nj
+AsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1MSwyMDI0NDkx
+NTU0XX0=
 -->

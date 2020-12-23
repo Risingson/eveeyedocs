@@ -20,7 +20,7 @@ Your set and a tab for it were created and you are ready to edit its details:
 | ... | ... under development |
 
 !!! Information "Low and high values"
-    Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only please let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
+    Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
 
 ### Individual color mode
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
@@ -76,11 +76,11 @@ Shenda,"Hello, "<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcwNDgyMjgsMjM5NDA4NDMsLTE4Nz
-UzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcy
-OSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMj
-AxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4
-NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3OD
-UsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUx
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTUyMDI4ODc0OCwyMzk0MDg0MywtMTg3NT
+MxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAzNzI5
+LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMD
+E5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0zNjg1
+NjIxNDUsMjEyNTY3MjUzMiwtMzY4ODkxMTgzLDI5NzkxMTc4NS
+w1MDIzNTU2NjAsNzMwNzI5NTIyLDQwOTc1MDAsLTIyNTIwNTE1
+MV19
 -->

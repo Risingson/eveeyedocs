@@ -44,13 +44,13 @@ For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/late
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
 
-!!! Warning  In Development
+!!! Warning "In Development"
     This feature is under development. Things are likely to change.
     
 ### Header
 The data file should provide the `Last-Modified` header.
 
-!!! Help In Development
+!!! Help "In Development"
     THIS IS NOT SETTLED but if there is no header there will be no automatic updating (which is not implemented yet) if that set is shared. Maybe there will be a possibility to add a date to the file itseld but i am undecided on that.
 
 ### Data
@@ -76,11 +76,11 @@ Shenda,"Hello, "<br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MD
-IyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3
-LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMT
-U2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2
-NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAyMzU1NjYwLD
-czMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUxNTEsMjAyNDQ5MTU1
-NF19
+eyJoaXN0b3J5IjpbNTU4NzA5MTU3LDIzOTQwODQzLC0xODc1Mz
+E0NTcsLTEzNjAyMjU5ODQsMjk5MDA1MjI1LDEwMTA4MDM3Mjks
+LTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMT
+k3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYwMTU3OTQsLTM2ODU2
+MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3OTExNzg1LD
+UwMjM1NTY2MCw3MzA3Mjk1MjIsNDA5NzUwMCwtMjI1MjA1MTUx
+XX0=
 -->

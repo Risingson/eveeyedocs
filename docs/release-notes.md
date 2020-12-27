@@ -1,6 +1,11 @@
 # Release Notes
 
-#### Release 3.04.0 - Jun 2020
+#### Release 4.00.0 - Dez 2020
+ - Light Theme
+ - Metaliminal Storms plus effects
+ - 
+
+#### Release 3.04.0 - Sept 2020
  - Added Node Outline options 
  - "Append Waypoint" will add to already set route within client just like "Add Waypoint" did before 
  - Fix to bookmark syncing 
@@ -95,7 +100,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTQyNzcyNCwxMTQ2MTE1OTkyLDEzOT
+eyJoaXN0b3J5IjpbMTU4OTMxODYwNSwxMTQ2MTE1OTkyLDEzOT
 cxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5
 ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMD
 I5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMTE4MDg4

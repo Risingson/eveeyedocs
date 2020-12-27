@@ -1,17 +1,16 @@
 # Release Notes
 
 #### Release 3.04.0 - Jun 2020
- - Triglavian Invasions added  
- - Incursion and invasion pane added  
- - Suns added to node and label  
- - Security-class added to node  
- - Fullscreen ads show less often (mobile only) 
- - Fix to old connection cleaning  
- - Fix to jumpbridge states
- - Fix to changing route options changing route accordingly
- -
+ - Added Node Outline options 
+ - "Append Waypoint" will add to already set route within client just like "Add Waypoint" did before 
+ - Fix to bookmark syncing 
+ - Fix to routing using wormholes and jbs 
+ - DST tab now shows invaded systems Clear system signatures button (doubleclick)
+ - Click sharing pilots in list to for options Navigation options added
+ - to solarsystem menu Autostart location tracking option Ads should be muted now
+
 #### Release 3.03.0 - Jun 2020
- - Triglavian Invasions added  
+  - Triglavian Invasions added  
  - Incursion and invasion pane added  
  - Suns added to node and label  
  - Security-class added to node  
@@ -96,7 +95,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mzg1MzI3NywxMTQ2MTE1OTkyLDEzOT
+eyJoaXN0b3J5IjpbMTc5MTQyNzcyNCwxMTQ2MTE1OTkyLDEzOT
 cxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5
 ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMD
 I5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMTE4MDg4

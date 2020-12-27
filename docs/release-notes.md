@@ -8,7 +8,7 @@
  - Add Connections manually
 
 Manually add connections
-#### Release 3.04.0 - Sept 2020
+#### Release 3.04.0 - Sep 2020
  - Added Node Outline options 
  - Fix to bookmark syncing 
  - Fix to routing using wormholes and jbs 
@@ -105,7 +105,7 @@ Manually add connections
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzNTUwODQxLDE4ODM0ODU2OCw2MzY5OD
+eyJoaXN0b3J5IjpbNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5OD
 IyNDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQs
 MTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNT
 U5NzY2Myw5OTk1MTQzODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3

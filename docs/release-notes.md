@@ -5,6 +5,9 @@
  - Light Theme
  - Metaliminal Storms
  - Add Connections manually
+ - Navigation options added when tapping a solarsystem in route
+ - Click sharing pilots in list to get options on their location
+ - Clear sigs and connection from system button (doubleclick)
  - 
 
 #### Release 3.04.0 - Sept 2020
@@ -102,9 +105,9 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE0MzU0MTEsMTE0NjExNTk5MiwxMz
-k3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMz
-OTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMj
-AyOTMwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4
-ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5Nz
+E0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4
+NCwtMTExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMj
+kzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4
+Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
 -->

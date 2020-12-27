@@ -7,7 +7,6 @@
  - Metaliminal Storms
  - Add Connections manually
 
-Manually add connections
 #### Release 3.04.0 - Sep 2020
  - Added Node Outline options 
  - Fix to bookmark syncing 
@@ -105,10 +104,10 @@ Manually add connections
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5OD
-IyNDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQs
-MTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNT
-U5NzY2Myw5OTk1MTQzODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3
-LC04MDExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MT
-Y1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbNTU1NDQ3MTU2LDc2MjE0Mzg5NywxODgzND
+g1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1Miwt
+NTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMTExMT
+c2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMs
+LTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2Nz
+EyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
 -->

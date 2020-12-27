@@ -3,7 +3,8 @@
 #### Release 4.00.0 - Dez 2020
  - Universe Map
  - Light Theme
- - Metaliminal Storms plus effects
+ - Metaliminal Storms
+ - Add Connections manually
  - 
 
 #### Release 3.04.0 - Sept 2020
@@ -101,7 +102,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTUzMzUyODUsMTE0NjExNTk5MiwxMz
+eyJoaXN0b3J5IjpbLTEwMzE0MzU0MTEsMTE0NjExNTk5MiwxMz
 k3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMz
 OTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMj
 AyOTMwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4

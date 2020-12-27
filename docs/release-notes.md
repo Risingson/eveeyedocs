@@ -5,19 +5,19 @@
  - Light Theme
  - Metaliminal Storms
  - Add Connections manually
- - Navigation options added when tapping a solarsystem in route
- - Click sharing pilots in list to get options on their location
- - Clear sigs and connection from system button (doubleclick)
+
  - 
 
 #### Release 3.04.0 - Sept 2020
  - Added Node Outline options 
- - "Append Waypoint" will add to already set route within client just like "Add Waypoint" did before 
  - Fix to bookmark syncing 
  - Fix to routing using wormholes and jbs 
- - DST tab now shows invaded systems Clear system signatures button (doubleclick)
- - Click sharing pilots in list to for options Navigation options added
- - to solarsystem menu Autostart location tracking option Ads should be muted now
+ - DST tab now shows invaded systems 
+ - Clear sigs and connection from system button (doubleclick)
+ - Click sharing pilots in list to get options on their location
+ - Navigation options added - to solarsystem menu Autostart location tracking option 
+ - Ads should be muted now 
+ - "Append Waypoint" will add to already set route within client just like "Add Waypoint" did before 
 
 #### Release 3.03.0 - Jun 2020
   - Triglavian Invasions added  
@@ -105,9 +105,10 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5Nz
-E0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4
-NCwtMTExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMj
-kzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4
-Nyw2Mzk2NzEyMyw3NzgyOTE2NTEsLTE5NDgyMzcxODRdfQ==
+eyJoaXN0b3J5IjpbMTgwMTA3OTgyOSw2MzY5ODIyNDgsMTE0Nj
+ExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcw
+NCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2Myw5OT
+k1MTQzODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0
+ODEsMjExODA4ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwtMTk0OD
+IzNzE4NF19
 -->

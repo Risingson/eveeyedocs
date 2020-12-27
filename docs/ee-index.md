@@ -1,8 +1,6 @@
 # Eveeye Echoes Docs
-
-!!! Warning Under Development
-    The docs are Eve Online docs. Eveeye Echoes docs will get 
-Interactive intel map system and chain mapping for [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
+   
+Interactive intel map system for [Eve Echoes](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
 
 !!! Information "Eveeye Echoes"
     This documentation does apply to the Eve Echoes version in some functionalities only. Dedicated docs for Eveeye Echoes are in the works.
@@ -52,5 +50,5 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxODExMDM2XX0=
+eyJoaXN0b3J5IjpbMTE1NzcyMTc4N119
 -->

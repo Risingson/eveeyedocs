@@ -19,7 +19,7 @@
  - "Append Waypoint" will add to already set route within client just like "Add Waypoint" did before 
 
 #### Release 3.03.0 - Jun 2020
-  - Triglavian Invasions added  
+ - Triglavian Invasions added  
  - Incursion and invasion pane added  
  - Suns added to node and label  
  - Security-class added to node  
@@ -104,10 +104,10 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTU0NzYwNSw3NjIxNDM4OTcsMTg4Mz
-Q4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIs
-LTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTExMT
-E3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUz
-LC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMTE4MDg4ODcsNjM5Nj
-cxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
+eyJoaXN0b3J5IjpbLTE1ODMwODIzNDMsNzYyMTQzODk3LDE4OD
+M0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUy
+LC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMT
+ExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMjAyOTMwMjA1
+MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3LDYzOT
+Y3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
 -->

@@ -1,5 +1,15 @@
 # Release Notes
 
+#### Release 3.04.0 - Jun 2020
+ - Triglavian Invasions added  
+ - Incursion and invasion pane added  
+ - Suns added to node and label  
+ - Security-class added to node  
+ - Fullscreen ads show less often (mobile only) 
+ - Fix to old connection cleaning  
+ - Fix to jumpbridge states
+ - Fix to changing route options changing route accordingly
+ -
 #### Release 3.03.0 - Jun 2020
  - Triglavian Invasions added  
  - Incursion and invasion pane added  
@@ -86,9 +96,9 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OT
-k2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYw
-OTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMjAyOTMwMjA1MywtMz
-c4MTUwOTU3LC04MDExNTA0ODEsMjExODA4ODg3LDYzOTY3MTIz
-LDc3ODI5MTY1MSwtMTk0ODIzNzE4NF19
+eyJoaXN0b3J5IjpbMTQ3Mzg1MzI3NywxMTQ2MTE1OTkyLDEzOT
+cxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5
+ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMD
+I5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1MDQ4MSwyMTE4MDg4
+ODcsNjM5NjcxMjMsNzc4MjkxNjUxLC0xOTQ4MjM3MTg0XX0=
 -->

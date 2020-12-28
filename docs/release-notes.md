@@ -17,7 +17,7 @@
  - `Append Waypoint` will add to already set route within client just like `Add Waypoint` did before 
  - Fix to bookmark syncing 
  - Fix to routing using wormholes and jbs 
- - Ads should be muted now (mobile only)
+ - Ads should be muted now (mobile app only)
 
 #### Release 3.03.0 - Jun 2020
  - Triglavian Invasions added  
@@ -105,11 +105,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNz
-YyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5
-MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMT
-U1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQz
-ODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMj
-ExODA4ODg3LDYzOTY3MTIzLDc3ODI5MTY1MSwtMTk0ODIzNzE4
-NF19
+eyJoaXN0b3J5IjpbMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMT
+U4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0
+OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNj
+kxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3
+NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLT
+gwMTE1MDQ4MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUx
+XX0=
 -->

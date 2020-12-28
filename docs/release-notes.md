@@ -5,7 +5,7 @@
  - Light Theme
  - Pochven map updates
  - Metaliminal Storms
- - Jumprange functionalities enhanced
+ - Jumpdrive navigation 
  - Add Connections manually
 
 #### Release 3.04.0 - Sep 2020
@@ -106,7 +106,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTk0ODkyNCwxMzIyMzc3Mjg5LC0xNz
+eyJoaXN0b3J5IjpbMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNz
 EzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1
 NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1MiwtNT
 k5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2

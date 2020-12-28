@@ -7,19 +7,19 @@
  - Metaliminal Storms
  - Add Connections manually
 
-#### Release 3.04.0 - Sep 2020 (browser only)
+#### Release 3.04.0 - Sep 2020
  - Added Node Outline options 
- - Fix to bookmark syncing 
- - Fix to routing using wormholes and jbs 
  - DST tab now shows invaded systems 
  - Clear sigs and connection from system button (doubleclick)
  - Click sharing pilots in list to get options on their location
  - Navigation options added to solarsystem menu 
  - Autostart location tracking option 
- - Ads should be muted now (mobile only)
  - `Append Waypoint` will add to already set route within client just like `Add Waypoint` did before 
+ - Fix to bookmark syncing 
+ - Fix to routing using wormholes and jbs 
+ - Ads should be muted now (mobile only)
 
-#### Release 3.03.0 - Jun 2020 (browser only)
+#### Release 3.03.0 - Jun 2020
  - Triglavian Invasions added  
  - Incursion and invasion pane added  
  - Suns added to node and label  
@@ -105,7 +105,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3OTQ4ODAsLTE1ODMwODIzNDMsNz
+eyJoaXN0b3J5IjpbLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNz
 YyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5
 MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMT
 U1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQz

@@ -5,6 +5,7 @@
  - Light Theme
  - Pochven map updates
  - Metaliminal Storms
+ - Jumprange functionalities enhanced
  - Add Connections manually
 
 #### Release 3.04.0 - Sep 2020
@@ -105,11 +106,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMT
-U4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0
-OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNj
-kxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3
-NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLT
-gwMTE1MDQ4MSwyMTE4MDg4ODcsNjM5NjcxMjMsNzc4MjkxNjUx
-XX0=
+eyJoaXN0b3J5IjpbMTcxOTk0ODkyNCwxMzIyMzc3Mjg5LC0xNz
+EzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1
+NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1MiwtNT
+k5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2
+MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLT
+M3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEy
+M119
 -->

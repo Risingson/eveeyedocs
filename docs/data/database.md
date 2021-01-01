@@ -48,7 +48,7 @@ If you are using this feature you won't be able to edit data within eveeye.
 !!! Warning "In Development"
     This feature is under development. Things are likely to change.
     
-### Header
+### Header 
 The data file should provide the `Last-Modified` header.
 
 !!! Information "In Development"
@@ -75,13 +75,14 @@ Shenda,"Hello, "<br>
 30004271,3,World<br>
 
 
-
+## Google Sheets
+You for example could use Google Sheets to maintain the data.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4Nz
-UzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcy
-OSwtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMj
-AxOTc1MTg0MCwtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4
-NTYyMTQ1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3OD
-UsNTAyMzU1NjYwLDczMDcyOTUyMiw0MDk3NTAwLC0yMjUyMDUx
-NTFdfQ==
+eyJoaXN0b3J5IjpbMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMz
+k0MDg0MywtMTg3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIy
+NSwxMDEwODAzNzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMT
+A2NDQxMDU3NywyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2
+MDE1Nzk0LC0zNjg1NjIxNDUsMjEyNTY3MjUzMiwtMzY4ODkxMT
+gzLDI5NzkxMTc4NSw1MDIzNTU2NjAsNzMwNzI5NTIyLDQwOTc1
+MDBdfQ==
 -->

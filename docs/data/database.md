@@ -77,11 +77,11 @@ Shenda,"Hello, "<br>
 
 ## Google Sheets
 You for example could use Google Sheets to maintain the data.
-Using `File > Publish to web` you can get teh url to use in Eveeye:
+Using `File > Publish to the web` you can get the url to use in Eveeye:
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDc0ODc1NCwxNDM5MDYwNTcxLC0xMD
+eyJoaXN0b3J5IjpbMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMD
 M5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5
 ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxND
 YwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2

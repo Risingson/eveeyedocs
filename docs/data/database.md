@@ -77,15 +77,15 @@ Shenda,"Hello, "<br>
 
 ### Google Sheets
 You for example could use Google Sheets to maintain the data.
-Using `File > Publish to the web` you can get the url to use in Eveeye:
+Using `File > Publish to the web` you can get the url to paste into the `External data` field of the data set you created for it:
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0Mz
-kwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1
-NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMj
-Y1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1
-MTg0MCwtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMT
-Q1LDIxMjU2NzI1MzIsLTM2ODg5MTE4MywyOTc5MTE3ODUsNTAy
-MzU1NjYwXX0=
+eyJoaXN0b3J5IjpbNDkyMDI4NjczLDE0NjI0Mzk2ODIsMTA1OD
+M0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLDIzOTQwODQz
+LC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1MjI1LDEwMT
+A4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0NDEw
+NTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEwNzYwMTU3OT
+QsLTM2ODU2MjE0NSwyMTI1NjcyNTMyLC0zNjg4OTExODMsMjk3
+OTExNzg1XX0=
 -->

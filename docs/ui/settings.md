@@ -37,9 +37,9 @@ Use your jumpbridges to calculate a route.
 #### Shortest/Secure/Insecure Route
 Set your preferred travel security. This should match your ingame setting.
 #### Avoid Edencom/Triglavian Systems
-Set this to try to avoid routing via Edencom and/or Triglavian solarsystems. This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.
+Set this to <!--try to--> avoid routing via Edencom and/or Triglavian solarsystems. <!--This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.-->
 #### Avoid Systems
-Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa. Systems in your avoidance list get avoided strictly.
+Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa. 
 #### Avoidance List
 Systems you set avoided are listed here. Clicking the system will let you remove it from the list.
 
@@ -59,9 +59,9 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MD
-E4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5
-LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMz
-MzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQy
-NDg0LDE4MzIxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtOD
+Q2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4
+MjksMjg3OTQxMjM5LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMT
+IyMjg3NjI1NSwtMzMzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4
+NTE5NiwxMzExNzQyNDg0LDE4MzIxNTYyODZdfQ==
 -->

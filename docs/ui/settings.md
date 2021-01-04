@@ -39,7 +39,7 @@ Set your preferred travel security. This should match your ingame setting.
 #### Avoid Edencom / Triglavian Systems
 Set this to try to avoid routing via Edencom and/or Triglavian solarsystems. This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.
 #### Avoid Systems
-Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa.
+Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa. Systems in your avoidance list will never be part of your route.
 #### Avoidance List
 Systems you set avoided are listed here. Clicking the system will let you remove it from the list.
 
@@ -59,8 +59,9 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MD
-E2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMz
-NCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNz
-k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbLTg0MjQ0ODAwOSwtNjAxODc0OTU2LDgwMD
+Q0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIzOSwxMzM0Mzg3NTA2
+LC0xMzk3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3NTE5OSwxMz
+U5OTk5NjQ1LDE3OTkxODUxOTYsMTMxMTc0MjQ4NCwxODMyMTU2
+Mjg2XX0=
 -->

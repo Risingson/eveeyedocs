@@ -37,7 +37,7 @@ Use your jumpbridges to calculate a route.
 #### Shortest/Secure/Insecure Route
 Set your preferred travel security. This should match your ingame setting.
 #### Avoid Edencom / Triglavian Systems
-Set this to try to avoid routing via Triglavian or Edencom solarsystems. This works differently than ingame. The EVE client will not find a route if you cannot get somewherew without crossing Triglavian or Edencom systems. Eveeye will try to find a route where you cross them least.
+Set this to try to avoid routing via Edencom and/or Triglavian solarsystems. This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.
 #### Avoid Systems
 Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa.
 #### Avoidance List
@@ -59,7 +59,7 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDk0NjQyOCw4MDA0NDY3ODUsMTk5MD
+eyJoaXN0b3J5IjpbLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MD
 E2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMz
 NCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNz
 k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19

@@ -3,9 +3,7 @@ Create your own data sets to display on maps.
 
 !!! Warning "Alpha Version"
     Feature still under development.
-
-For Eveeye Echoes map sharing [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
-    
+   
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
 Your set and a tab for it were created and you are ready to edit its details:
@@ -81,12 +79,14 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_publishCSV.png)
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/GS_exampleSet.png)
+
+Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2Mj
-QzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAy
-MTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOT
-kwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LDE0NjAxMTU4
-NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2OTYyNjAyOC
-wtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIxMjU2NzI1MzIsLTM2
-ODg5MTE4M119
+eyJoaXN0b3J5IjpbLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC04ND
+Y0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1
+NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMT
+M2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5
+ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MC
+wtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIx
+MjU2NzI1MzJdfQ==
 -->

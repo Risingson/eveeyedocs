@@ -5,11 +5,12 @@ Regions of New Eden and their connections.
 Map of New Eden.
 
 ### Regional Map
-Map of a single region adjacting systems of other regions.
+Map of a single region and adjacting systems of other regions.
 
 ### Chain Map
 Map of your wormhole chain.
- adar ap
+
+### Radar Map
 This map-type displays all systems up to 5 jumps away from the system set as center of the map regardless of the region they belong to. It suits especially fine when using [Intel Channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/).
 To set the system range displayed use the following icons in bottom left:<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" ><br>
@@ -26,8 +27,8 @@ e systems on one map.
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDU3MDcxMCwtNDUzMzE1NTk5LC0yMD
-c5OTg5Mzk1LC0xMzYwMzkyNTYxLC04OTEyNzAzNjMsMTUxMTE4
-MjIyNSwtNDUwMjM2MjgyLDkxODUzNDQ3NCwxNDU5NDgxMzI2LC
-0xMjU0ODIxNzI3XX0=
+eyJoaXN0b3J5IjpbOTUzNDY2NTg3LC00NTMzMTU1OTksLTIwNz
+k5ODkzOTUsLTEzNjAzOTI1NjEsLTg5MTI3MDM2MywxNTExMTgy
+MjI1LC00NTAyMzYyODIsOTE4NTM0NDc0LDE0NTk0ODEzMjYsLT
+EyNTQ4MjE3MjddfQ==
 -->

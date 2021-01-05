@@ -1,6 +1,9 @@
 # Layout Overview Map
 Regions of New Eden and their connections.
 
+### Universal Map
+Map of New Eden.
+
 ### Regional Map
 Map of a single region adjacting systems of other regions.
 
@@ -23,8 +26,8 @@ e systems on one map.
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzMxNTU5OSwtMjA3OTk4OTM5NSwtMT
-M2MDM5MjU2MSwtODkxMjcwMzYzLDE1MTExODIyMjUsLTQ1MDIz
-NjI4Miw5MTg1MzQ0NzQsMTQ1OTQ4MTMyNiwtMTI1NDgyMTcyN1
-19
+eyJoaXN0b3J5IjpbMTkzMDU3MDcxMCwtNDUzMzE1NTk5LC0yMD
+c5OTg5Mzk1LC0xMzYwMzkyNTYxLC04OTEyNzAzNjMsMTUxMTE4
+MjIyNSwtNDUwMjM2MjgyLDkxODUzNDQ3NCwxNDU5NDgxMzI2LC
+0xMjU0ODIxNzI3XX0=
 -->

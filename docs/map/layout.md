@@ -20,6 +20,9 @@ To set the system range displayed use the following icons in bottom left:<br>
     
 ## Special Maps
 
+### Region Overview
+A map of all regions of New Eden to navigate on a per region level.
+
 ### Faction Warfare Maps
 These maps feature all [Minmatar/Amarr](https://eveeye.com/?m=Minmatar%20vs%20Amarr%20Faction%20Warfare&o=etag_sig,thera,tag_svc,node_kil,sector_fac,sub_sov,zkblive) or [Caldari/Gallente](https://eveeye.com/?m=Caldari%20vs%20Gallente%20 Faction%20 Warfare&o=etag_sig,thera,tag_svc,node_kil,sector_fac,sub_sov,zkblive) FW systems on one map. Click the links for recommended map settings. A Faction Warfare preset is stored in your map setting presets by default.
 
@@ -27,8 +30,8 @@ These maps feature all [Minmatar/Amarr](https://eveeye.com/?m=Minmatar%20vs%20Am
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTk3MTY5NywtNDUzMzE1NTk5LC0yMD
-c5OTg5Mzk1LC0xMzYwMzkyNTYxLC04OTEyNzAzNjMsMTUxMTE4
-MjIyNSwtNDUwMjM2MjgyLDkxODUzNDQ3NCwxNDU5NDgxMzI2LC
-0xMjU0ODIxNzI3XX0=
+eyJoaXN0b3J5IjpbMzM4MDI1NzE3LC00NTMzMTU1OTksLTIwNz
+k5ODkzOTUsLTEzNjAzOTI1NjEsLTg5MTI3MDM2MywxNTExMTgy
+MjI1LC00NTAyMzYyODIsOTE4NTM0NDc0LDE0NTk0ODEzMjYsLT
+EyNTQ4MjE3MjddfQ==
 -->

@@ -43,12 +43,12 @@ I have been developing Eveeye in my spare time [since 2006](https://eveeye.readt
 Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
-**Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
+**Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye-echoes)<br>
 **Bitcoin:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
 **Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MTY4Njg3LDExNTc3MjE3ODddfQ==
+eyJoaXN0b3J5IjpbMTkzNTA3NDk4NSwxMTU3NzIxNzg3XX0=
 -->

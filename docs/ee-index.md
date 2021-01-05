@@ -1,9 +1,6 @@
 # Eveeye Echoes Docs
    
-Interactive intel map system for [Eve Echoes](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
-
-
-https://www.eveechoes.com/
+Interactive intel map system for [Eve Echoes](https://www.eveechoes.com/). A game in the world of [Eve Online](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
 
 !!! Information "Eveeye Echoes"
     This documentation does apply to the Eve Echoes version in some functionalities only. Dedicated docs for Eveeye Echoes are in the works.
@@ -11,8 +8,8 @@ https://www.eveechoes.com/
 ## Features
 
  - Travel and tactical companion of New Eden
- - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places, stations or agents
- - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
+ - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places
+ - Get [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
  - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/layout/) to display live data
  - Find [Routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) 
  - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) with your fellow pilots
@@ -46,6 +43,6 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjY4MzIxMjYsMTkzNTA3NDk4NSwxMT
-U3NzIxNzg3XX0=
+eyJoaXN0b3J5IjpbMTM3OTg5NDc3MCwxOTM1MDc0OTg1LDExNT
+c3MjE3ODddfQ==
 -->

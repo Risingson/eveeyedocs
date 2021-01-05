@@ -10,12 +10,8 @@ Interactive intel map system for [Eve Echoes](https://www.eveonline.com/signup?i
  - Travel and tactical companion of New Eden
  - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places, stations or agents
  - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
- - [Chain-mapping](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) including connected k-space
- - Track [Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)
  - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/layout/) to display live data
- - [Track](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) your ingame location
- - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) to the eve client
- - Find [Routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) using your chain, jumpbridges and Thera
+ - Find [Routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) 
  - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) with your fellow pilots
  - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
  - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/ui/settings/#Jump)
@@ -50,5 +46,6 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTA3NDk4NSwxMTU3NzIxNzg3XX0=
+eyJoaXN0b3J5IjpbNDA2NDcyOTg3LDE5MzUwNzQ5ODUsMTE1Nz
+cyMTc4N119
 -->

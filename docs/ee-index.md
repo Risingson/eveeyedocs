@@ -26,7 +26,7 @@ Interactive intel map system for [Eve Echoes](https://www.eveonline.com/signup?i
 
 ## Support & Social
 
-Join Eveeye <a href="discord.gg/bg4mSJ3rSu">Discord</a><br>
+Join Eveeye <a href="https://discord.gg/S3yAUJMZQx">Discord</a><br>
 Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
 <!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
@@ -50,5 +50,5 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzcyMTc4N119
+eyJoaXN0b3J5IjpbMzM3MTY4Njg3LDExNTc3MjE3ODddfQ==
 -->

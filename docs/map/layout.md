@@ -1,6 +1,5 @@
-# Maps
+# Map Types
 
-## Map Types
 ### Universal 
 Map of New Eden.
 
@@ -30,7 +29,7 @@ These maps feature all [Minmatar/Amarr](https://eveeye.com/?m=Minmatar%20vs%20Am
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjk2OTEwNSw0MzUwNjc4ODEsLTQ1Mz
+eyJoaXN0b3J5IjpbLTY5NzIzMTYwMCw0MzUwNjc4ODEsLTQ1Mz
 MxNTU5OSwtMjA3OTk4OTM5NSwtMTM2MDM5MjU2MSwtODkxMjcw
 MzYzLDE1MTExODIyMjUsLTQ1MDIzNjI4Miw5MTg1MzQ0NzQsMT
 Q1OTQ4MTMyNiwtMTI1NDgyMTcyN119

@@ -2,6 +2,9 @@
    
 Interactive intel map system for [Eve Echoes](https://www.eveonline.com/signup?invc=fcca28f2-af9d-4435-90e7-b7209bc66497).
 
+
+https://www.eveechoes.com/
+
 !!! Information "Eveeye Echoes"
     This documentation does apply to the Eve Echoes version in some functionalities only. Dedicated docs for Eveeye Echoes are in the works.
 
@@ -13,13 +16,10 @@ Interactive intel map system for [Eve Echoes](https://www.eveonline.com/signup?i
  - [Configure your maps](https://eveeye.readthedocs.io/en/latest/map/layout/) to display live data
  - Find [Routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) 
  - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) with your fellow pilots
- - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
- - Plot your [Jump-range](https://eveeye.readthedocs.io/en/latest/ui/settings/#Jump)
 
 ## Platforms
 
-[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
-
+[Browser](https://echoes.eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) 
 ## Support & Social
 
 Join Eveeye <a href="https://discord.gg/S3yAUJMZQx">Discord</a><br>
@@ -46,6 +46,6 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA2NDcyOTg3LDE5MzUwNzQ5ODUsMTE1Nz
-cyMTc4N119
+eyJoaXN0b3J5IjpbLTE0MjY4MzIxMjYsMTkzNTA3NDk4NSwxMT
+U3NzIxNzg3XX0=
 -->

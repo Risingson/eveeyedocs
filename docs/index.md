@@ -23,7 +23,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Platforms
 
-[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye&hl=en) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
+[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
 
 ## Support & Social
 
@@ -46,14 +46,14 @@ o7 Risingson
 
 **Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
 **Bitcoin:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
-**Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
+<!-- **Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br> -->
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTM4MzE2NywxNDQ1MzY3OTQ3LC0xNj
-E1NjkwMDM5LC00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQx
-MzI3NiwtODYwMDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2NDgxLD
-E0NjM4NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIz
-MjIwOSwtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbLTM1OTIxNTY3MiwyMDQ5MzgzMTY3LDE0ND
+UzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkz
+OTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLD
+E0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYx
+NTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2XX0=
 -->

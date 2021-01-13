@@ -1,6 +1,6 @@
 # Solarsystem Info
 
-Drag & drop tabs to reorder.
+Drag & drop tabs at the top to reorder.
 
 | Tab | Content |
 |--|--|
@@ -15,7 +15,7 @@ Drag & drop tabs to reorder.
 | **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDkxMTAzMCwtNDMwNDk4NzAxLDE0MT
-MyNTI2MDEsLTEzOTE4NDQzOTIsLTc1Mjc3MDA1OCwtNDk3MDgw
-OTExXX0=
+eyJoaXN0b3J5IjpbNTgyNjQ5NjksLTQzMDQ5ODcwMSwxNDEzMj
+UyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAwNTgsLTQ5NzA4MDkx
+MV19
 -->

@@ -4,7 +4,7 @@ Drag & drop tabs to reorder.
 
 | Tab | Content |
 |--|--|
-| **ENV**| **Environmental Effects,  and Wormhole info** including phenomena |
+| **ENV**| **Environmental Effects, NPC and Wormhole info** including phenomena |
 | **CEL**| **Celestials:** Includes info about count of planets, moons, belts etc.|
 | **PI** | **Planetary interaction:** Displays possible product chains and planet type count. |
 | **STA**| **Stations:** All stations in system including station service info.|
@@ -15,7 +15,7 @@ Drag & drop tabs to reorder.
 | **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMDMwODExLC00MzA0OTg3MDEsMTQxMz
-I1MjYwMSwtMTM5MTg0NDM5MiwtNzUyNzcwMDU4LC00OTcwODA5
-MTFdfQ==
+eyJoaXN0b3J5IjpbMTEzNDkxMTAzMCwtNDMwNDk4NzAxLDE0MT
+MyNTI2MDEsLTEzOTE4NDQzOTIsLTc1Mjc3MDA1OCwtNDk3MDgw
+OTExXX0=
 -->

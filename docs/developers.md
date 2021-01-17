@@ -10,7 +10,7 @@ Extra files: [package.json](https://www.dropbox.com/s/0knpy9bi84dp7ay/package.js
     If you can do a working package for one of those platforms i would be happy if you could provide it via github and let me know.
     
 ## Eveeye custom-url-scheme
-You can call Eveeye on iOS or Android from app version 3.00.0 via the custom-url-scheme `eveautheveeye` with parameters <br>
+You can call Eveeye on iOS or Android via the custom-url-scheme `eveautheveeye` with parameters <br>
 `m` for mapname<br>
 `s` for solarsystemname<br>
 `t` for info tab opened <br>
@@ -25,7 +25,8 @@ iOS: `itms-apps://itunes.apple.com/us/app/eveeye/id1163904317`<br>
 Android: `https://market.android.com/details?id=com.eveeye`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0OTY0MSwtMjA3ODc4MjEyOCwtMTUxMD
-c3NzUwLDI3NzM5NzQ2NiwtMTMyNDYxNjQzLDYxMDI5ODg4Niwy
-MDUzNTI0OTAwLDQzMDc0MDY3MCwtMjYxMTEwNzk0XX0=
+eyJoaXN0b3J5IjpbMjA2MTQxMTk1MSw2NzQ5NjQxLC0yMDc4Nz
+gyMTI4LC0xNTEwNzc3NTAsMjc3Mzk3NDY2LC0xMzI0NjE2NDMs
+NjEwMjk4ODg2LDIwNTM1MjQ5MDAsNDMwNzQwNjcwLC0yNjExMT
+A3OTRdfQ==
 -->

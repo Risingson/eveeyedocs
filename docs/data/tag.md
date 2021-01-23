@@ -21,7 +21,7 @@ Enables the TCU and IHUB / Faction Warfare contested state mode. See the [Shapes
 Shows the custom tag color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
 
 ## Own Data
-If you create [custom data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
+If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 ## Extra Tags
 **Signatures**<br>
@@ -32,7 +32,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDM5MjYyLC02MzU4NDA2MzUsMTE3MD
+eyJoaXN0b3J5IjpbNzI5NDc3NDYxLC02MzU4NDA2MzUsMTE3MD
 g5Njg0MSwxMzA1OTQ0Mjc2LDU4MTMwMTM0OCw1MTUwMDk4N119
 
 -->

@@ -27,7 +27,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Support & Social
 
-Join Eveeye <a href="https://discord.gg/S3yAUJMZQx">Discord</a><br>
+Join Eveeye <a href="https://discord.gg/m3Bm2Rjuk7">Discord</a><br>
 Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
 <!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
 You can <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a> too
@@ -51,9 +51,10 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTIxNTY3MiwyMDQ5MzgzMTY3LDE0ND
-UzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkz
-OTg1LC0xODIzNDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLD
-E0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYx
-NTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3MjI2XX0=
+eyJoaXN0b3J5IjpbLTIxMjQ2Njc4NDEsLTM1OTIxNTY3MiwyMD
+Q5MzgzMTY3LDE0NDUzNjc5NDcsLTE2MTU2OTAwMzksLTQ0MDE4
+NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEzMjc2LC04NjAwNDI3Mz
+YsOTE4NTEzNzUyLDE0OTAyODY0ODEsMTQ2Mzg3Mzk2NCwxNjcw
+MjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMjA5LC0xNDQzODc3Mj
+I2XX0=
 -->

@@ -2,6 +2,13 @@
 Center color, text or logo of solarsystem shape.
 
 ## Node outlines
+**Black or white**<br>
+Basic outline colors. This would switch.
+
+**Security**<br>
+Choose the graphical outline of solarsystems.
+
+**Incursiona and Invasions**<br>
 Choose the graphical outline of solarsystems.
 
 ## Basic node fills
@@ -77,8 +84,8 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjA0MjUwNCwtMjEyMzQzNjY1MCwtMj
-E0MzY1NjU5NCw0Nzc1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1
-MywxNzUyODQyNTAzLC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LD
-E3NzE5NDkzNDYsMTU5NzM5NDIzN119
+eyJoaXN0b3J5IjpbMTI0MDQ3MzcwMSwxMzE2MDQyNTA0LC0yMT
+IzNDM2NjUwLC0yMTQzNjU2NTk0LDQ3NzUzOTk5LDgwOTIyOTk4
+OCwxNjU1Mzk2MDUzLDE3NTI4NDI1MDMsLTEwNzI5MDczNDYsLT
+E2MzIyMzYzMjYsMTc3MTk0OTM0NiwxNTk3Mzk0MjM3XX0=
 -->

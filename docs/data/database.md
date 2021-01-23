@@ -39,6 +39,9 @@ When opening a set's details the display options `Node` and `Label` will get act
     
 Choose to share your map-data with your share-group or publically.
 
+## Map ownership
+Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
+
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
@@ -82,11 +85,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC04ND
-Y0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1
-NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMT
-M2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5
-ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MC
-wtMTU2OTYyNjAyOCwtMTA3NjAxNTc5NCwtMzY4NTYyMTQ1LDIx
-MjU2NzI1MzJdfQ==
+eyJoaXN0b3J5IjpbMTM2NTExMDE2OCwtMTM5NjQ5Njk1Miw1NT
+MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
+NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
+g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz
+NzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3Ny
+wyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0z
+Njg1NjIxNDVdfQ==
 -->

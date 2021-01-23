@@ -8,7 +8,7 @@ This toggles notifications appearing on the bottom of the app when new data was 
 #### Doubleclick/tap Mode
 With this mode enabled clicking ot tapping a solarsystem will not show the menu. To show the menu you would have to doubleclick/tap it. On connection lines a single click/tap is sufficient to show its menu still.
 #### Autostart Location Tracking
-If you got a character logged in this will instantly display your location on the map at app start.
+If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 
 ## User Interface
 #### User Interface scale
@@ -34,6 +34,8 @@ They do not get drawn on wormhole connections, wormhole systems or on chain maps
 Trails will fade over time and be hardly visible after 20h. 
 #### Clear Trail
 Using this you can clear your current trail.
+#### Clear all Jumpbridges
+Sometimes you would want to clear.
 
 ## Route
 #### Display Route
@@ -67,10 +69,10 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MDM2MjQzLDY0NDQzNDUwMyw0Njg3OD
-Y5NzMsLTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYy
-LC02MDE4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OT
-QxMjM5LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1
-NSwtMzMzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMz
-ExNzQyNDg0LDE4MzIxNTYyODZdfQ==
+eyJoaXN0b3J5IjpbLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nz
+g2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2
+MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nz
+k0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYy
+NTUsLTMzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OTkxODUxOTYsMT
+MxMTc0MjQ4NCwxODMyMTU2Mjg2XX0=
 -->

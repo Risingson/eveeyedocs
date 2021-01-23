@@ -12,8 +12,11 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 Name of the NPC faction owning the system/region.
 
 **Metaliminal Storms**<br>
-Name of the NPC faction owning the system/region.
+Shows storms colored after their type and strength within that system.
 
+!!! warning
+    This data is manually maintained so might not be accurate all of the time.
+    
 ## Own Data
 **Custom map data**<br>
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
@@ -57,7 +60,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzIyNjUxNzgsLTM4NDgzMjU1OSwxMT
-IzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0
-NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbLTExNjU5NzMxOTcsLTE5MzIyNjUxNzgsLT
+M4NDgzMjU1OSwxMTIzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5
+MzU0NjcsLTExODQ0NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OT
+ldfQ==
 -->

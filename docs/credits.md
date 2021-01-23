@@ -7,11 +7,11 @@ This app would not be possible without the following API data (in alphabetical o
 
 EVE Online by [CCP](https://ccpgames.com) <br>
 Coalitions by [coalitionsin.space](http://coalitionsin.space/)<br>
-Trade data by [EVE Marketdata](https://eve-marketdata.com/donate.php?from=eveeye)<br>
+<!-- Trade data by [EVE Marketdata](https://eve-marketdata.com/donate.php?from=eveeye)<br> -->
 Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br>
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)<br>
 Triglavian Invasions by [Kybernauts](https://kybernaut.space/invasions/?from=eveeye) <br>
-Metaliminal Storms by Rhane
+Metaliminal Storm tracking by [Rhane](https://twitter.com/chocolaterahne)
 
 ## Software Credits
 <a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://apexcharts.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">apexcharts</span></a><br>
@@ -43,7 +43,7 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjkwODQyNywtNTAwODMyNDExLDEyNT
+eyJoaXN0b3J5IjpbMTMyMTc3OTMwMSwtNTAwODMyNDExLDEyNT
 QxNjY2NzIsMTc5MzczODgyLC05NjUxNjMyMzEsNTcyNDgyMDIz
 LDU2ODk4NTUxNiwtNjEyMzAyMjM2LC0xNTA1NDY1OTkwLC0xOD
 k4MTM2Nzg0LC0xNzAzMzczMTgzLC0xNTUxNzUzODQ5LC0xMTEy

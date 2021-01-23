@@ -13,9 +13,10 @@ Drag & drop tabs at the top to reorder.
 | **ACT**| **[Activity Graph](https://eveeye.readthedocs.io/en/latest/ui/ssi/act)** For wormhole systems there is no api data available for recent jumps or NPC kills.|
 | **SOV**| **Sovereignty** details |
 | **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
+| **DAT**| **[Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/)** of the solarsystem. Can be edited there. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyNjQ5NjksLTQzMDQ5ODcwMSwxNDEzMj
-UyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAwNTgsLTQ5NzA4MDkx
-MV19
+eyJoaXN0b3J5IjpbLTE3NzQwNjcxMjgsNTgyNjQ5NjksLTQzMD
+Q5ODcwMSwxNDEzMjUyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAw
+NTgsLTQ5NzA4MDkxMV19
 -->

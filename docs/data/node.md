@@ -1,7 +1,10 @@
 # Nodes
 Center color, text or logo of solarsystem shape.
 
-## Basic
+## Node outlines
+Choose the graphical outline of solarsystems.
+
+## Basic node fills
 **Security**<br>
 Will display the solarsystem's security or average regional security on [Region Overview](https://eveeye.readthedocs.io/en/latest/map/layout/) map.
 
@@ -74,8 +77,8 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0MzY2NTAsLTIxNDM2NTY1OTQsND
-c3NTM5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUw
-MywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LD
-E1OTczOTQyMzddfQ==
+eyJoaXN0b3J5IjpbMTMxNjA0MjUwNCwtMjEyMzQzNjY1MCwtMj
+E0MzY1NjU5NCw0Nzc1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1
+MywxNzUyODQyNTAzLC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LD
+E3NzE5NDkzNDYsMTU5NzM5NDIzN119
 -->

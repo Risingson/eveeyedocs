@@ -15,7 +15,7 @@ Your set and a tab for it were created and you are ready to edit its details:
 | Color Mode | Choose on how the data gets colored |
 | Color Low | This color is used for the lowest value of the set |
 | Color High | This color is used for the highest value of the set |
-| ... | ... under development |
+
 
 !!! Information "Low and high values"
     Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
@@ -25,6 +25,13 @@ Will color each distinct value or label with an own color. If a label and a valu
 
 ### Linear and Logarithmic color modes
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated. To understand how those modes' results look like it is best to enter some values and switch the modes. Use like 1, 2 ,3 ,4 ,5 ,10 ,20 ,50 ,1000, 5000 for seeing the difference easily.
+
+### Color Settings
+The three sliders will set Hue, Saturation and Lightness of the color used for:
+|  |  |
+|--|--|
+| Color Low | This color is used for the lowest value of the set |
+| Color High | This color is used for the highest value of the set |
 
 ## Map ownership
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
@@ -81,11 +88,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzM4MzM1NiwtMTM5NjQ5Njk1Miw1NT
-MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
-NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
-g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz
-NzI5LC0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3Ny
-wyMDE5NzUxODQwLC0xNTY5NjI2MDI4LC0xMDc2MDE1Nzk0LC0z
-Njg1NjIxNDVdfQ==
+eyJoaXN0b3J5IjpbLTQzMjgyMDY3OCwxOTQzMzgzMzU2LC0xMz
+k2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
+ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
+IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1
+MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC
+0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1Njk2MjYwMjgsLTEw
+NzYwMTU3OTRdfQ==
 -->

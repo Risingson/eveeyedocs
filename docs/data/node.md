@@ -15,7 +15,7 @@ Colors nodes after their NPC faction and shows the NPC faction logo.
 Shows the custom node color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
 
 ## Own Data
-If you create [custom data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
+If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 ## Activity
 **Hub Trade**<br>
@@ -61,8 +61,8 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM2NTY1OTQsNDc3NTM5OTksODA5Mj
-I5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywtMTA3MjkwNzM0
-NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTczOTQyMzddfQ
-==
+eyJoaXN0b3J5IjpbNDAwNzM3NDM1LC0yMTQzNjU2NTk0LDQ3Nz
+UzOTk5LDgwOTIyOTk4OCwxNjU1Mzk2MDUzLDE3NTI4NDI1MDMs
+LTEwNzI5MDczNDYsLTE2MzIyMzYzMjYsMTc3MTk0OTM0NiwxNT
+k3Mzk0MjM3XX0=
 -->

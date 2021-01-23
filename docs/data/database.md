@@ -28,17 +28,14 @@ Only numeric values can be colored using these modes. The lowest and highest val
 
 ## Map ownership
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
+
 ## Adding Data
 To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. With the details open clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. To bring up the normal solarsystem menu you can double-click it.
 
 ## Data Display
 When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
 
-## Sharing maps
-
-!!! Information 
-    For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
-    
+## Sharing maps   
 Choose to share your map-data with your share-group or publically.
 
 ## External Data
@@ -84,7 +81,7 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Njc3NDM0NiwtMTM5NjQ5Njk1Miw1NT
+eyJoaXN0b3J5IjpbMTk0MzM4MzM1NiwtMTM5NjQ5Njk1Miw1NT
 MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
 NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
 g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz

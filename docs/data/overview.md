@@ -13,13 +13,13 @@ Configure the map representation with various options.
 | <img src="https://eveeye.com/img/docs/shape_node.png" width="90" height="107" border="0" style="">| [NODE](https://eveeyeechoes.readthedocs.io/en/latest/data/node/) | Center of solarsystem symbols |
 | <img src="https://eveeye.com/img/docs/shape_label.png" width="90" height="107" border="0" style="">| [LABEL](https://eveeyeechoes.readthedocs.io/en/latest/data/label/) | Text below system name|
 |<img src="https://eveeye.com/img/docs/shape_sector.png" width="90" height="107" border="0" style="">|  [SECTOR](https://eveeyeechoes.readthedocs.io/en/latest/data/sector/) | Background tiles |
-| <img src="https://eveeye.com/img/docs/shape_tag.png" width="90" height="107" border="0" style="">| [TAG](https://eveeyeechoes.readthedocs.io/en/latest/data/tag/) | Outline of solarsystem symbol |
+| <img src="https://eveeye.com/img/docs/shape_tag.png" width="90" height="107" border="0" style="">| [TAG](https://eveeyeechoes.readthedocs.io/en/latest/data/tag/) | Wide outline of solarsystem symbol |
 ||  [EXTRA TAG](https://eveeye.readthedocs.io/en/latest/data/tag/) | Symbols to the left and right of solarsystem |
 ||  [CON](https://eveeye.readthedocs.io/en/latest/data/constellation/) | Constellation outlines |
 | | [MISC](https://eveeye.readthedocs.io/en/latest/data/misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDA5NTAwMCw0MjcxODQ0MDMsMTg1ND
+eyJoaXN0b3J5IjpbMTQ1Nzk2MDUxNyw0MjcxODQ0MDMsMTg1ND
 U4MzM4MSwxMzQwNDAxOTAxLDE4Nzc2MjA2MTksMzQ4OTExMjI2
 XX0=
 -->

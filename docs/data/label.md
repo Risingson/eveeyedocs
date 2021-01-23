@@ -37,6 +37,9 @@ Displays the IHUB owning alliance's coalition.
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
 
 ## Celestial
+**Sun**<br>
+Displays sun type.
+
 **Moons**<br>
 Displays moon count within that system plus a moon per planet statistic.
 
@@ -60,8 +63,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyNDYzMTE3LC0xOTMyMjY1MTc4LC0zOD
-Q4MzI1NTksMTEyMzUwMjI3MywtMjAyODkxNTAwMiwxOTE1OTM1
-NDY3LC0xMTg0NDYyNDM2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX
-0=
+eyJoaXN0b3J5IjpbLTE3ODUwNTY0NzIsLTE5MzIyNjUxNzgsLT
+M4NDgzMjU1OSwxMTIzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5
+MzU0NjcsLTExODQ0NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OT
+ldfQ==
 -->

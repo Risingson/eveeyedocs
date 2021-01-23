@@ -8,7 +8,10 @@ Will display the solarsystem's security or average regional security on [Region 
 **Constellations**<br>
 Displays the name of the constellation that solarsystem is in. On Region Ovierview map.
 
-**NPC Faction**<br>
+**NPC Pirates**<br>
+Name of the NPC faction owning the system/region.
+
+**Metaliminal Storms**<br>
 Name of the NPC faction owning the system/region.
 
 ## Own Data
@@ -54,7 +57,7 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTM0NzIsLTM4NDgzMjU1OSwxMTIzNT
-AyMjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0
-MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbLTE5MzIyNjUxNzgsLTM4NDgzMjU1OSwxMT
+IzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0
+NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
 -->

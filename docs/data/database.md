@@ -3,7 +3,7 @@ Create your own data sets to display on maps.
    
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
-Your set and a tab for it will get created and you willready to edit its details:
+Your set and a tab for it will get created and you will be ready to edit its details:
 
 |  |  |
 |--|--|
@@ -84,11 +84,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM2NDI3NjksMTY3ODM0Nzg4OCwxOT
-QzMzgzMzU2LC0xMzk2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2
-NDI2LDE0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC
-0xMDM5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAy
-MjU5ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2Ny
-wxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1
-Njk2MjYwMjhdfQ==
+eyJoaXN0b3J5IjpbMTAwNDQ1OTA1OCwxNjc4MzQ3ODg4LDE5ND
+MzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC04NDY0OTY0
+MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLT
+EwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIy
+NTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LD
+E0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2
+OTYyNjAyOF19
 -->

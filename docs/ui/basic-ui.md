@@ -72,12 +72,9 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
 ## Browser keyboard shortcuts
 
-!!! error "Mobile"
-    Keyboard shortcuts do not apply to mobile apps.
-
-Hold SHIFT while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
-Hold CTRL while clicking a non-regional system to go to its map.<br>Hold CTRL while clicking a regional system to center the map on it.<br>
-Hold CTRL-SHIFT while clicking a system to set it radar map center.<br>
+Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
+Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
+Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
 
 Just start typing to search for a place.
 
@@ -86,11 +83,11 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMz
-A1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEw
-MywxODgxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NT
-gzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1
-MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLT
-IxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcw
-MjUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTkzNDYzMTg1MSwtMTAwNTg1MTUyOSw1Mj
+AyOTk0NjUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3
+MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNz
+U4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4
+NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMT
+YwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMTE1MDY4
+ODU1Nl19
 -->

@@ -40,11 +40,11 @@ These are the toggles to use your own not shared custom marks or the ones shared
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
     
-### Share and Show K-K Connections
+<!-- ### Share and Show K-K Connections
 If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
 
 !!! warning "Limitation"
-    Only connections that got edited with a signature-code or wormhole-code will get shown. This is to avoid showing connections that get created by cyno-jumping or using jump-bridges.
+    Only connections that got edited with a signature-code or wormhole-code will get shown. This is to avoid showing connections that get created by cyno-jumping or using jump-bridges. -->
 
 ## Remove character and data from cloud
 Disabling cloud will delete all data related to that character from cloud.
@@ -55,8 +55,8 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTI3Njg5NywtMTYxNjQzNzgyMSw1MD
-E3NjU2MzUsLTEyNDQ3OTc2MzEsLTE0MzEyODA4NTEsNDE3NDkz
-Nzk2LC0xNDAwNzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1NTE3MS
-wtOTAzMTY5OTAxXX0=
+eyJoaXN0b3J5IjpbLTM0NTQxMTk0NCwtNDA1Mjc2ODk3LC0xNj
+E2NDM3ODIxLDUwMTc2NTYzNSwtMTI0NDc5NzYzMSwtMTQzMTI4
+MDg1MSw0MTc0OTM3OTYsLTE0MDA3MjU4ODgsLTIzNTEzOTY1Mi
+wxNjA0OTU1MTcxLC05MDMxNjk5MDFdfQ==
 -->

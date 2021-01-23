@@ -1,7 +1,7 @@
 # Search Interface
 Start typing to search for various categories.
 ## Search filters
-### General
+### Systems
 | Button | Filter |
 |--|--|
 | HIGH | Shows high-sec systems only. |
@@ -35,6 +35,6 @@ Start typing to search for various categories.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5NDI0OTUsODg4NTcyNDksLTg3MjA1MD
-I4XX0=
+eyJoaXN0b3J5IjpbLTE2MDYyNTA0MDUsNDI5NDI0OTUsODg4NT
+cyNDksLTg3MjA1MDI4XX0=
 -->

@@ -51,7 +51,7 @@
 ##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 
-## Other Icons
+<!--## Other Icons
 
 ##### Incursions and Invasions
 |  |  |
@@ -67,7 +67,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/sync/waypoints)
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lim-3.png" width="24" height="24"> | Final Liminality security status |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_-4.png" width="24" height="24"> | Triglavian Minor Victory |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 
 ## Browser keyboard shortcuts
 
@@ -85,10 +85,10 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNj
-k0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUx
-NSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMz
-I0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIz
-NTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTExMDA5MTMsMT
-E1MDY4ODU1NiwtMjA2NzAyNTMzNl19
+eyJoaXN0b3J5IjpbNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2Mj
+E5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIx
+LC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3Mj
+gyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2
+MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMz
+UxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcwMjUzMzZdfQ==
 -->

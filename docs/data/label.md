@@ -15,7 +15,7 @@ Name of the NPC faction owning the system/region.
 Shows storms colored after their type and strength within that system.
 
 !!! warning
-    This data is manually maintained so might not be accurate all of the time.
+    Storm data is maintained manually so it might not be accurate all of the time.
     
 ## Own Data
 **Custom map data**<br>
@@ -60,8 +60,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU5NzMxOTcsLTE5MzIyNjUxNzgsLT
-M4NDgzMjU1OSwxMTIzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5
-MzU0NjcsLTExODQ0NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OT
-ldfQ==
+eyJoaXN0b3J5IjpbNzEyNDYzMTE3LC0xOTMyMjY1MTc4LC0zOD
+Q4MzI1NTksMTEyMzUwMjI3MywtMjAyODkxNTAwMiwxOTE1OTM1
+NDY3LC0xMTg0NDYyNDM2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX
+0=
 -->

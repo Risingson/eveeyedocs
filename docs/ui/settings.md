@@ -18,6 +18,8 @@ Use + and - to set UI colors.
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
+#### Light Map Theme
+Toggle dark/light theme.
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue background.
 #### Center on Current System
@@ -63,7 +65,7 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU5MDA3MjY2LDQ2ODc4Njk3MywtMjA1MD
+eyJoaXN0b3J5IjpbNjQ0NDM0NTAzLDQ2ODc4Njk3MywtMjA1MD
 MyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1
 Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMTMzND
 M4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4NzUx

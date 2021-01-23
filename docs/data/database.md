@@ -63,7 +63,6 @@ Either a label or value should be present with a solarsystem.
 Shenda,"Hello, "<br>
 30004271,3,World<br>
 
-
 ### Google Sheets
 You for example could use Google Sheets to maintain the data.
 Using `File > Publish to the web` you can get the url to paste into the `External data` field:
@@ -73,11 +72,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTg5NDg5OSwxNTMxMzA3NDkyLDE1ND
-AyNTUzMjcsMTY3ODM0Nzg4OCwxOTQzMzgzMzU2LC0xMzk2NDk2
-OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2ODIsMT
-A1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLDIzOTQw
-ODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1MjI1LD
-EwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0
-NDEwNTc3XX0=
+eyJoaXN0b3J5IjpbLTIxNDM5MzUwMzUsMTI4NTg5NDg5OSwxNT
+MxMzA3NDkyLDE1NDAyNTUzMjcsMTY3ODM0Nzg4OCwxOTQzMzgz
+MzU2LC0xMzk2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LD
+E0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5
+OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5OD
+QsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYw
+MTE1ODQ1XX0=
 -->

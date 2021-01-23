@@ -26,6 +26,8 @@ Will color each distinct value or label with an own color. If a label and a valu
 ### Linear and Logarithmic color modes
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated. To understand how those modes' results look like it is best to enter some values and switch the modes. Use like 1, 2 ,3 ,4 ,5 ,10 ,20 ,50 ,1000, 5000 for seeing the difference easily.
 
+## Map ownership
+Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 ## Adding Data
 To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. With the details open clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. To bring up the normal solarsystem menu you can double-click it.
 
@@ -38,9 +40,6 @@ When opening a set's details the display options `Node` and `Label` will get act
     For Eveeye Echoes [check this page please](https://eveeye.readthedocs.io/en/latest/data/ee-database-sharing/)
     
 Choose to share your map-data with your share-group or publically.
-
-## Map ownership
-Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
@@ -85,7 +84,7 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTExMDE2OCwtMTM5NjQ5Njk1Miw1NT
+eyJoaXN0b3J5IjpbMTk4Njc3NDM0NiwtMTM5NjQ5Njk1Miw1NT
 MwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2
 NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMT
 g3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAz

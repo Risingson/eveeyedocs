@@ -1,6 +1,9 @@
 # Sectors
 Colored background tiles of solarsystems.
 
+## Own Data
+If you create custom data sets they will get shown here as an option to choose.
+
 ## Activity
 **Hub Trade**<br>
 Colors sectors after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the npc-station within a solarsystem with highest value described.  On Region Map it shows the sum of all *hubs* of that region.
@@ -41,8 +44,9 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NjAzNzY3LDE4NjU2Njc4NDAsLTYzMT
-E4NDY2NywtMTgwOTc5NzI5MCwxOTI1ODM0MDU2LC04NDkzNjEz
-MjcsLTEwOTQyMjY1MjgsLTEyOTg2NjQwNTksLTU2ODUzODEyOS
-w3MTQxNTg3NDEsLTY4NzkzNzUwMiwxMzA3MTcxNTM2XX0=
+eyJoaXN0b3J5IjpbMTIwNDE4MDI5OCwzMTg2MDM3NjcsMTg2NT
+Y2Nzg0MCwtNjMxMTg0NjY3LC0xODA5Nzk3MjkwLDE5MjU4MzQw
+NTYsLTg0OTM2MTMyNywtMTA5NDIyNjUyOCwtMTI5ODY2NDA1OS
+wtNTY4NTM4MTI5LDcxNDE1ODc0MSwtNjg3OTM3NTAyLDEzMDcx
+NzE1MzZdfQ==
 -->

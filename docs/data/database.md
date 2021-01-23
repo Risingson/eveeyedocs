@@ -1,12 +1,9 @@
 # Database Sets
 Create your own data sets to display on maps.
-
-!!! Warning "Alpha Version"
-    Feature still under development.
    
 ## Creating a set
 Enter a name for the set in the input field and hit enter. 
-Your set and a tab for it were created and you are ready to edit its details:
+Your set and a tab for it will get created and you willready to edit its details:
 
 |  |  |
 |--|--|
@@ -29,7 +26,7 @@ Only numeric values can be colored using these modes. The lowest and highest val
 ### Color Settings
 The three sliders will set Hue, Saturation and Lightness of the color used.
 
-!!! Information "Color Low and high values"
+!!! Information "Low and high values"
     Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
     
 ## Map ownership
@@ -87,11 +84,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODI4ODA0NSwxNjc4MzQ3ODg4LDE5ND
-MzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC04NDY0OTY0
-MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLT
-EwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIy
-NTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LD
-E0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2
-OTYyNjAyOF19
+eyJoaXN0b3J5IjpbLTIxMDM2NDI3NjksMTY3ODM0Nzg4OCwxOT
+QzMzgzMzU2LC0xMzk2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2
+NDI2LDE0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC
+0xMDM5OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAy
+MjU5ODQsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2Ny
+wxNDYwMTE1ODQ1LC0xMDY0NDEwNTc3LDIwMTk3NTE4NDAsLTE1
+Njk2MjYwMjhdfQ==
 -->

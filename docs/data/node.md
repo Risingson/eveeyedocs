@@ -8,8 +8,11 @@ Will display the solarsystem's security or average regional security on [Region 
 **Constellation**<br>
 Colors nodes after their constellation.
 
-**NPC faction**<br>
+**Faction**<br>
 Colors nodes after their NPC faction and shows the NPC faction logo.
+
+**NPC Pirates**<br>
+Colors nodes after their NPC pirates and shows the NPC piratelogo.
 
 **Custom marks**<br>
 Shows the custom node color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
@@ -61,8 +64,8 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwNzM3NDM1LC0yMTQzNjU2NTk0LDQ3Nz
-UzOTk5LDgwOTIyOTk4OCwxNjU1Mzk2MDUzLDE3NTI4NDI1MDMs
-LTEwNzI5MDczNDYsLTE2MzIyMzYzMjYsMTc3MTk0OTM0NiwxNT
-k3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbLTEzMjk5NTgxNjQsLTIxNDM2NTY1OTQsND
+c3NTM5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUw
+MywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LD
+E1OTczOTQyMzddfQ==
 -->

@@ -9,6 +9,7 @@ Configure the map representation with various options.
 | Representation| Name | Description |
 |--|--|--|
 | | [PRESETS](https://eveeye.readthedocs.io/en/latest/data/presets/) | Saved map configurations |
+| [pic]| [NODE OUTLINE](https://eveeye.readthedocs.io/en/latest/data/node/) | Outline of solarsystem symbols |
 | [pic]| [NODE](https://eveeye.readthedocs.io/en/latest/data/node/) | Center of solarsystem symbols |
 | [pic]| [LABEL](https://eveeye.readthedocs.io/en/latest/data/label/) | Text below system name|
 |[pic]|  [SECTOR](https://eveeye.readthedocs.io/en/latest/data/sector/) | Background tiles |
@@ -18,6 +19,6 @@ Configure the map representation with various options.
 | | [MISC](https://eveeye.readthedocs.io/en/latest/data/misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDU4MzM4MSwxMzQwNDAxOTAxLDE4Nz
-c2MjA2MTksMzQ4OTExMjI2XX0=
+eyJoaXN0b3J5IjpbNDI3MTg0NDAzLDE4NTQ1ODMzODEsMTM0MD
+QwMTkwMSwxODc3NjIwNjE5LDM0ODkxMTIyNl19
 -->

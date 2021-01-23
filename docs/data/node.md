@@ -65,14 +65,17 @@ Time Efficiency research<br>
 Material Efficiency research**
 
 ## Celestial
+**Sun**<br>
+Displays sun type within that system.
+
 **Moons**<br>
 Displays moon count within that system.
 
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjkwNzYxNCwtMjE0MzY1NjU5NCw0Nz
-c1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1MywxNzUyODQyNTAz
-LC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3NzE5NDkzNDYsMT
-U5NzM5NDIzN119
+eyJoaXN0b3J5IjpbLTIxMjM0MzY2NTAsLTIxNDM2NTY1OTQsND
+c3NTM5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUw
+MywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LD
+E1OTczOTQyMzddfQ==
 -->

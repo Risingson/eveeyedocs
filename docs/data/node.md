@@ -12,7 +12,7 @@ Colors nodes after their constellation.
 Colors nodes after their NPC faction and shows the NPC faction logo.
 
 **NPC Pirates**<br>
-Colors nodes after their NPC pirates and shows the NPC piratelogo.
+Colors nodes after NPC pirates and shows the NPC pirate logo.
 
 **Custom marks**<br>
 Shows the custom node color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
@@ -64,7 +64,7 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5NTgxNjQsLTIxNDM2NTY1OTQsND
+eyJoaXN0b3J5IjpbLTExMDA0NDY3ODAsLTIxNDM2NTY1OTQsND
 c3NTM5OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUw
 MywtMTA3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LD
 E1OTczOTQyMzddfQ==

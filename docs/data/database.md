@@ -13,10 +13,6 @@ Your set and a tab for it will get created and you will be ready to edit its det
 | Color Low | This color is used for the lowest value of the set |
 | Color High | This color is used for the highest value of the set |
 
-
-!!! Information "Low and high values"
-    Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
-
 ### Individual color mode
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
 
@@ -84,7 +80,7 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNDQ1OTA1OCwxNjc4MzQ3ODg4LDE5ND
+eyJoaXN0b3J5IjpbMTU0MDI1NTMyNywxNjc4MzQ3ODg4LDE5ND
 MzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC04NDY0OTY0
 MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLT
 EwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIy

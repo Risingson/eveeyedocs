@@ -17,6 +17,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > | [Cloud and data sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
+| <img src="https://eveeye.com/img/icon/db.png" style="filter:invert(1)" width="24" height="24"> | [Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 
 ##### Info
@@ -85,10 +86,11 @@ Plus/minus keys do zoom and arrow keys do pan.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2Mj
-E5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIx
-LC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3Mj
-gyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2
-MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5NzU0ODMsMz
-UxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcwMjUzMzZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMz
+A1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEw
+MywxODgxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NT
+gzNDM5NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1
+MDY1OSwzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLT
+IxMjQ5NzU0ODMsMzUxMTAwOTEzLDExNTA2ODg1NTYsLTIwNjcw
+MjUzMzZdfQ==
 -->

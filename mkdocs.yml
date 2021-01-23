@@ -1,4 +1,4 @@
-site_name: Eveeye Documentation
+site_name: Eveeye Explorer Documentation
 repo_url: https://github.com/Risingson/eedocs/
 theme:
   name: rtd-dropdown

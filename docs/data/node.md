@@ -21,9 +21,6 @@ Colors nodes after their security class. In earlier days this was relevant to th
 **Constellation**<br>
 Colors nodes after their constellation.
 
-**Faction**<br>
-Colors nodes after their NPC faction and shows the NPC faction logo.
-
 **NPC Pirates**<br>
 Colors nodes after NPC pirates and shows the NPC pirate logo.
 
@@ -84,8 +81,9 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDU2NzQ3MCwxMzE2MDQyNTA0LC0yMT
-IzNDM2NjUwLC0yMTQzNjU2NTk0LDQ3NzUzOTk5LDgwOTIyOTk4
-OCwxNjU1Mzk2MDUzLDE3NTI4NDI1MDMsLTEwNzI5MDczNDYsLT
-E2MzIyMzYzMjYsMTc3MTk0OTM0NiwxNTk3Mzk0MjM3XX0=
+eyJoaXN0b3J5IjpbMTM0OTg0MjM0MCwyMTAwNTY3NDcwLDEzMT
+YwNDI1MDQsLTIxMjM0MzY2NTAsLTIxNDM2NTY1OTQsNDc3NTM5
+OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywtMT
+A3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTcz
+OTQyMzddfQ==
 -->

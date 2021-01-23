@@ -27,11 +27,7 @@ Will color each distinct value or label with an own color. If a label and a valu
 Only numeric values can be colored using these modes. The lowest and highest value's colors can be set via the set's details. Other value's colors get interpolated. To understand how those modes' results look like it is best to enter some values and switch the modes. Use like 1, 2 ,3 ,4 ,5 ,10 ,20 ,50 ,1000, 5000 for seeing the difference easily.
 
 ### Color Settings
-The three sliders will set Hue, Saturation and Lightness of the color used for:
-|  |  |
-|--|--|
-| Color Low | This color is used for the lowest value of the set |
-| Color High | This color is used for the highest value of the set |
+The three sliders will set Hue, Saturation and Lightness of the color used.
 
 ## Map ownership
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
@@ -88,7 +84,7 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjgyMDY3OCwxOTQzMzgzMzU2LC0xMz
+eyJoaXN0b3J5IjpbLTgwODQyODE3NywxOTQzMzgzMzU2LC0xMz
 k2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
 ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
 IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1

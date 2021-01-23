@@ -8,6 +8,7 @@
  - A connection will get created when jumping a cyno. Stop sync before
    jumping or remove the connection created manually.
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
+ - You can add
 
 <!--
 #### Viewable Information 
@@ -47,8 +48,8 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtOD
-QxNjUzNzkzLDExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAz
-NjksLTE5NDM5NTU5NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtND
-U3NzgxMzEsLTMzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbLTE3ODM4MzUzNzMsLTE3MDIyMzY0NDYsLT
+k3NDg3NTY0NiwtODQxNjUzNzkzLDExMzczMjUzNzEsNjIzOTgx
+MDU1LC00NTQyNDAzNjksLTE5NDM5NTU5NzksMTYzNzE4NDkwLD
+Y3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5N119
 -->

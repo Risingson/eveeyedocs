@@ -43,15 +43,6 @@ Choose to share your map-data with your share-group or publically.
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
 If you are using this feature you won't be able to edit data within eveeye.
 
-!!! Warning "In Development"
-    This feature is under development. Things are likely to change.
-    
-### Header 
-The data file should provide the `Last-Modified` header.
-
-!!! Information "In Development"
-    THIS IS NOT SETTLED but if there is no header there will be no automatic updating (which is not implemented yet) if that set is shared. Maybe there will be a possibility to add a date to the file itself but i am undecided on that.
-
 ### Data
 The data file has to contain the following keys:
 
@@ -82,11 +73,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTMwNzQ5MiwxNTQwMjU1MzI3LDE2Nz
-gzNDc4ODgsMTk0MzM4MzM1NiwtMTM5NjQ5Njk1Miw1NTMwNjA1
-MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgzNDI2NjUsMT
-QzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0MywtMTg3NTMx
-NDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEwODAzNzI5LC
-0yNjUxNDk4NjcsMTQ2MDExNTg0NSwtMTA2NDQxMDU3NywyMDE5
-NzUxODQwXX0=
+eyJoaXN0b3J5IjpbMTI4NTg5NDg5OSwxNTMxMzA3NDkyLDE1ND
+AyNTUzMjcsMTY3ODM0Nzg4OCwxOTQzMzgzMzU2LC0xMzk2NDk2
+OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2ODIsMT
+A1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLDIzOTQw
+ODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1MjI1LD
+EwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYwMTE1ODQ1LC0xMDY0
+NDEwNTc3XX0=
 -->

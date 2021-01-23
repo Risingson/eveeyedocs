@@ -11,6 +11,9 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 **NPC Faction**<br>
 Name of the NPC faction owning the system/region.
 
+## Own Data
+If you create [custom data](https://eveeyeechoes.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
+
 ## Activity
 **Recent/24h Activity**<br>
 Activity Intel sublabel abbreviations:<br><span style="color:#437c97">K = Player ships destroyed</span>&nbsp;&nbsp;<span style="color:#ac2d2d">P = Podkills</span><br><span style="color:#888888">N = Npcs destroyed</span>&nbsp;&nbsp;<span style="color:#e6cf18">J = Jumps</span><br>
@@ -50,7 +53,7 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQwNzM5NSwxMTIzNTAyMjczLC0yMD
-I4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0MzYsMTg2NTgx
-MjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbLTEwMzk5NjE4OTAsMTEyMzUwMjI3MywtMj
+AyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyNDM2LDE4NjU4
+MTI0NywxNjU1NjM4NTk5XX0=
 -->

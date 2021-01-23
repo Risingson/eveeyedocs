@@ -12,6 +12,7 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 Name of the NPC faction owning the system/region.
 
 ## Own Data
+**Custom map data**<br>
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 ## Activity
@@ -53,7 +54,7 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDgzMjU1OSwxMTIzNTAyMjczLC0yMD
-I4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0MzYsMTg2NTgx
-MjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbMTUxMTM0NzIsLTM4NDgzMjU1OSwxMTIzNT
+AyMjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0
+MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
 -->

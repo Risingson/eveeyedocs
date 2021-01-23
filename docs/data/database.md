@@ -29,6 +29,9 @@ Only numeric values can be colored using these modes. The lowest and highest val
 ### Color Settings
 The three sliders will set Hue, Saturation and Lightness of the color used.
 
+!!! Information "Low and high values"
+    Lowest and highest values are chosen globally at the moment = If the highest or lowest values for that set are on another map those values will still be used for coloring. If you would like a mode where low and high are calculated from the displayed systems only let me know (use the [feedback forum](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#ideas/popular) please). 
+    
 ## Map ownership
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 
@@ -84,7 +87,7 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODQyODE3NywxOTQzMzgzMzU2LC0xMz
+eyJoaXN0b3J5IjpbMTY3ODM0Nzg4OCwxOTQzMzgzMzU2LC0xMz
 k2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LDE0NjI0Mzk2
 ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5OTkwMjEyLD
 IzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5ODQsMjk5MDA1

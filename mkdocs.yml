@@ -15,7 +15,7 @@ nav:
     - Solarsystem Info: ui/solarsystem-info.md
     - Bookmarks: ui/bookmarks.md
 - Map:
-    - Map Types: map/layout.md
+    - Layout: map/Layout.md
     - Shapes: map/shapes.md   
     - Chain Mapping: map/chain-mapping.md
 - Data Displays:   

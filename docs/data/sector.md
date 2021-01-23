@@ -1,7 +1,15 @@
 # Sectors
 Colored background tiles of solarsystems.
 
+## Basic
+**Metaliminal Storms**<br>
+Shows storms colored after their type and strength within that system.
+
+!!! warning
+    Storm data is maintained manually so it might not be accurate all of the time.
+    
 ## Own Data
+**Custom data sets**<br>
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 ## Activity
@@ -44,9 +52,9 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDY0NzgzOTQsMzE4NjAzNzY3LDE4Nj
-U2Njc4NDAsLTYzMTE4NDY2NywtMTgwOTc5NzI5MCwxOTI1ODM0
-MDU2LC04NDkzNjEzMjcsLTEwOTQyMjY1MjgsLTEyOTg2NjQwNT
-ksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4NzkzNzUwMiwxMzA3
-MTcxNTM2XX0=
+eyJoaXN0b3J5IjpbMjQxNzQ4MzA3LDMxODYwMzc2NywxODY1Nj
+Y3ODQwLC02MzExODQ2NjcsLTE4MDk3OTcyOTAsMTkyNTgzNDA1
+NiwtODQ5MzYxMzI3LC0xMDk0MjI2NTI4LC0xMjk4NjY0MDU5LC
+01Njg1MzgxMjksNzE0MTU4NzQxLC02ODc5Mzc1MDIsMTMwNzE3
+MTUzNl19
 -->

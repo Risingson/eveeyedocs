@@ -12,6 +12,8 @@ Your set and a tab for it will get created and you will be ready to edit its det
 | Color Mode | Choose on how the data gets colored |
 | Color Low | This color is used for the lowest value of the set |
 | Color High | This color is used for the highest value of the set |
+| Sharing | Set who can see your data. This is set to nobody by default) |
+| External Data | An optional url to e.g. a google sheet |
 
 ### Individual color mode
 Will color each distinct value or label with an own color. If a label and a value were entered the vlaue will be used for selecting a color automatically.
@@ -80,11 +82,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MDI1NTMyNywxNjc4MzQ3ODg4LDE5ND
-MzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC04NDY0OTY0
-MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLT
-EwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIy
-NTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1MTQ5ODY3LD
-E0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAxOTc1MTg0MCwtMTU2
-OTYyNjAyOF19
+eyJoaXN0b3J5IjpbLTExMjU2NzczMzMsMTU0MDI1NTMyNywxNj
+c4MzQ3ODg4LDE5NDMzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYw
+NTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LD
+E0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUz
+MTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOS
+wtMjY1MTQ5ODY3LDE0NjAxMTU4NDUsLTEwNjQ0MTA1NzcsMjAx
+OTc1MTg0MF19
 -->

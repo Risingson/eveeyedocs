@@ -5,8 +5,8 @@ Colored background tiles of solarsystems.
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 ## Activity
-**Hub Trade**<br>
-Colors sectors after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the npc-station within a solarsystem with highest value described.  On Region Map it shows the sum of all *hubs* of that region.
+<!--**Hub Trade**<br>
+Colors sectors after the sum of total isk of buy and sell orders of the *hub* of that system. The *hub* is the npc-station within a solarsystem with highest value described.  On Region Map it shows the sum of all *hubs* of that region. -->
 
 **Recent/24h kills**<br>
 Colors sectors after ship + pod-kills within that solarsystem/region. 
@@ -44,7 +44,7 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDczNDMyOTMsMzE4NjAzNzY3LDE4Nj
+eyJoaXN0b3J5IjpbLTE0NDY0NzgzOTQsMzE4NjAzNzY3LDE4Nj
 U2Njc4NDAsLTYzMTE4NDY2NywtMTgwOTc5NzI5MCwxOTI1ODM0
 MDU2LC04NDkzNjEzMjcsLTEwOTQyMjY1MjgsLTEyOTg2NjQwNT
 ksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4NzkzNzUwMiwxMzA3

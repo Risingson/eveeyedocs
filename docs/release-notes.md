@@ -3,6 +3,10 @@
 #### Release 4.02.0 - Jan 2021
  - Exact ingame map added
  - Station system TAG option
+ - Presets now save custom data options
+ - Fixed external data reload
+ - Fixed reordering infopanes (tablet)
+ - Fixed NPC Pirate display on region overview map
  
 #### Release 4.01.0 - Jan 2021
  - Shareable custom data
@@ -119,7 +123,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNDY1MDgwOCwxMzczMTk5NDkwLDEzMj
+eyJoaXN0b3J5IjpbMTU3NTY5OTU5MSwxMzczMTk5NDkwLDEzMj
 IzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYyMTQz
 ODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMz
 k3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMz

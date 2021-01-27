@@ -1,7 +1,10 @@
 # Release Notes
 
+#### Release 4.02.0 - Jan 2021
+ - Shareable custom data
+ - Added DATA tab to edit all custom data within a system
+ - 
 #### Release 4.01.0 - Jan 2021
-
  - Shareable custom data
  - Added DATA tab to edit all custom data within a system
  - Faction Warfare contested percentage node option
@@ -9,7 +12,7 @@
  - Enable adjacent systems in universe map settings
  - Search separated from map selection (phone)
  - Reorder infopane tabs (tablet only)
-
+ 
 #### Release 4.00.0 - Dec 2020
  - Universe Map
  - Light Theme
@@ -116,7 +119,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDc1MzUwMiwxMzczMTk5NDkwLDEzMj
+eyJoaXN0b3J5IjpbLTE5Nzc0NDQ1MiwxMzczMTk5NDkwLDEzMj
 IzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYyMTQz
 ODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMz
 k3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMz

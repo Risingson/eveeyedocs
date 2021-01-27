@@ -1,5 +1,15 @@
 # Release Notes
 
+#### Release 4.01.0 - Jan 2021
+
+ - Shareable custom data
+ - Added DATA tab to edit all custom data within a system
+ - Faction Warfare contested percentage node option
+ - NPC Pirate, Security Class and Region options on universe map
+ - Enable adjacent systems in universe map settings
+ - Search separated from map selection (phone)
+ - Reorder infopane tabs (tablet only)
+
 #### Release 4.00.0 - Dec 2020
  - Universe Map
  - Light Theme
@@ -106,11 +116,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNz
-EzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1
-NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1MiwtNT
-k5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMTExMTc2
-MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIwNTMsLT
-M3ODE1MDk1NywtODAxMTUwNDgxLDIxMTgwODg4Nyw2Mzk2NzEy
-M119
+eyJoaXN0b3J5IjpbMTM0MDc1MzUwMiwxMzczMTk5NDkwLDEzMj
+IzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYyMTQz
+ODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMz
+k3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMz
+OTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2Myw5OTk1MTQzODMsMj
+AyOTMwMjA1MywtMzc4MTUwOTU3LC04MDExNTA0ODEsMjExODA4
+ODg3XX0=
 -->

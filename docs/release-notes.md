@@ -1,9 +1,9 @@
 # Release Notes
 
 #### Release 4.02.0 - Jan 2021
- - Shareable custom data
- - Added DATA tab to edit all custom data within a system
- - 
+ - Exact ingame map added
+ - Station system TAG option
+ 
 #### Release 4.01.0 - Jan 2021
  - Shareable custom data
  - Added DATA tab to edit all custom data within a system
@@ -119,7 +119,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc0NDQ1MiwxMzczMTk5NDkwLDEzMj
+eyJoaXN0b3J5IjpbLTUzNDY1MDgwOCwxMzczMTk5NDkwLDEzMj
 IzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYyMTQz
 ODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMz
 k3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1MTMz

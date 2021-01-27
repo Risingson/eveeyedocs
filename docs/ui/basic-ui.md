@@ -80,16 +80,18 @@ Just start typing to search for a place.
 
 Plus/minus keys do zoom and arrow keys do pan.
 
+### Browser tiny qol features
+
 Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM3NzE2MzEsLTkzNDYzMTg1MSwtMT
-AwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYyMTk5
-ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLT
-M4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0
-ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMS
-w0MDcyOTIzNTQsMTYwMjEzNjY4MiwtMjEyNDk3NTQ4MywzNTEx
-MDA5MTNdfQ==
+eyJoaXN0b3J5IjpbMzQ2OTI5Njg5LC0xMjMzNzcxNjMxLC05Mz
+Q2MzE4NTEsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0
+MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxOD
+gxNTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5
+NjEsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OS
+wzODAyOTU2MzEsNDA3MjkyMzU0LDE2MDIxMzY2ODIsLTIxMjQ5
+NzU0ODNdfQ==
 -->

@@ -38,6 +38,7 @@ When opening a set's details the display options `Node` and `Label` will get act
 
 ## Sharing maps   
 Choose to share your map-data with your share-group or publically.
+Be aware that anybody will be able to view this dataset if you choose to make it public. Unticking the box will stop the data from updating the set for other people but will NOT delete it from other people's sets.
 
 ## External Data
 You can feed external data to eveeye by pasting an url to a JSON array, CSV or plain text file.
@@ -72,11 +73,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDM5MzUwMzUsMTI4NTg5NDg5OSwxNT
-MxMzA3NDkyLDE1NDAyNTUzMjcsMTY3ODM0Nzg4OCwxOTQzMzgz
-MzU2LC0xMzk2NDk2OTUyLDU1MzA2MDUwNSwtODQ2NDk2NDI2LD
-E0NjI0Mzk2ODIsMTA1ODM0MjY2NSwxNDM5MDYwNTcxLC0xMDM5
-OTkwMjEyLDIzOTQwODQzLC0xODc1MzE0NTcsLTEzNjAyMjU5OD
-QsMjk5MDA1MjI1LDEwMTA4MDM3MjksLTI2NTE0OTg2NywxNDYw
-MTE1ODQ1XX0=
+eyJoaXN0b3J5IjpbLTY3NzY3OTc2OCwtMjE0MzkzNTAzNSwxMj
+g1ODk0ODk5LDE1MzEzMDc0OTIsMTU0MDI1NTMyNywxNjc4MzQ3
+ODg4LDE5NDMzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC
+04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0Mzkw
+NjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1Ny
+wtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1
+MTQ5ODY3XX0=
 -->

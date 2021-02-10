@@ -8,7 +8,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
 !!! warning "Feature in development"
     ## Development, current issues
     This is an alpha test. This means means the feature is still in development and has issues.<br>Known issues are as follows:<br><br>
-    - The map may l.<br>
+    - The map may lag sometimes. This is most likely because your chatlog directory holds hundreds of files. You can fix this by moving files out of there.<br>
     - The display of the intel list is getting a rework.<br>
     - Multiple channel intel line display needs changes.<br>
     - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.<br>
@@ -32,10 +32,12 @@ All of the above need to be separated by 2 spaces.<br>Their order does not matte
 
 Additionally you can use the following at the end of an intel line:<br>
 `solarsystem` &#9251; &#9251; `clr` or `clear`: Sets a system empty<br>
-`character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.!!! warning "Feature in development"
+`character` &#9251; &#9251; `solarsystem` &#9251; &#9251; `+5`: Will add +5 or any other number behind the plus.
+
+!!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODAyMTkzOSwtMTEyOTQxNzY2MiwxNT
+eyJoaXN0b3J5IjpbMjA5NzMyOTI0MiwtMTEyOTQxNzY2MiwxNT
 g4MDg4MTUsLTU2MjE4MjM1MiwxOTU4NTQ5NDEsLTE4OTIwOTg4
 NTEsLTE5MTczODE0NTQsLTkwNzc1NTUyNiwxMjkzMTYyNzIzLD
 EyOTMxNjI3MjMsMTk4NDIxOTAxLC0xMTI0MjE2MzU3LDY5NDky

@@ -80,7 +80,7 @@ Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
 
 Just start typing to search for a place.
 
-Plus/minus keys do zoom and arrow keys do pan.
+`+` and `-` keys do zoom and arrow keys do pan.
 
 Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 
@@ -91,11 +91,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0MjM2MDksLTE4ODgxNzY4MDYsLT
-EyMzM3NzE2MzEsLTkzNDYzMTg1MSwtMTAwNTg1MTUyOSw1MjAy
-OTk0NjUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MT
-IwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4
-MjQ1OTcsLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NT
-A0LC0xMzAwNzUwNjU5LDM4MDI5NTYzMSw0MDcyOTIzNTQsMTYw
-MjEzNjY4Ml19
+eyJoaXN0b3J5IjpbLTYwMDk4NTExNywtMTI2MDQyMzYwOSwtMT
+g4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1
+ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIxOTk4Mz
+A0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMzgz
+MzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4Mj
+csLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQw
+NzI5MjM1NF19
 -->

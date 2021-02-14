@@ -78,11 +78,12 @@ Hold `SHIFT` while clicking a system to show info on it or close the info pane a
 Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
 Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
 
-Just start typing to search for a place.
-
 `+` and `-` keys do zoom and arrow keys do pan.
 
 Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
+
+Just start typing to search for a place.
+
 
 ### Other
 
@@ -91,11 +92,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDk4NTExNywtMTI2MDQyMzYwOSwtMT
-g4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1
-ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIxOTk4Mz
-A0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMSwtMzgz
-MzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4MjQ4Mj
-csLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgwMjk1NjMxLDQw
-NzI5MjM1NF19
+eyJoaXN0b3J5IjpbNjc1MDYzNDc3LC0xMjYwNDIzNjA5LC0xOD
+g4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4
+NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMD
+QsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMz
+OTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNy
+wtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3
+MjkyMzU0XX0=
 -->

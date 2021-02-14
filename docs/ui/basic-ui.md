@@ -82,17 +82,15 @@ Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
 
 Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 
-Just start typing to search for a place.
-
 
 ### Other
 
 Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
 
-
+Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1MDYzNDc3LC0xMjYwNDIzNjA5LC0xOD
+eyJoaXN0b3J5IjpbMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xOD
 g4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4
 NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMD
 QsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMz

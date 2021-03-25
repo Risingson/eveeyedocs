@@ -24,6 +24,7 @@ In the menu you can also select to `Avoid System`. To manage your avoided system
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)|Waypoint station|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png)|Waypoint jumpbridge|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wh.png)|Waypoint wormhole|
+|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png)|Midpoint|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end_sta.png)|Destination station|
 
@@ -53,8 +54,8 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTYxMzk0OCwtMTg4MDg2NDk2NywtMT
-AzMzA1ODcwOSw2ODI5ODQ5MjksNzUyNDI3MzEwLC0xNzIxNDgy
-NzU4LDYzODc5NjQ3NiwxMDAyMzk2NjU1LC04OTE3MjI0NDksLT
-UyNDcxMzgzOCwtNDQxNzIyNTM2LC0xODA1NTg2NDU1XX0=
+eyJoaXN0b3J5IjpbMjczOTU3MzI4LC0xODgwODY0OTY3LC0xMD
+MzMDU4NzA5LDY4Mjk4NDkyOSw3NTI0MjczMTAsLTE3MjE0ODI3
+NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MTcyMjQ0OSwtNT
+I0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ==
 -->

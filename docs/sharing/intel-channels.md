@@ -11,7 +11,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
     - The map may lag sometimes. This is most likely because your chatlog directory holds hundreds of files. You can fix this by moving files out of there.<br>
     - The display of the intel list is getting a rework.<br>
     - Multiple channel intel line display needs changes.<br>
-    - If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.<br>
+    - ~~If a system was cleared via `clr` or `clear` subsequent intel in that system does not draw the red marker.~~ should be resolved<br>
     - `+[Number]` only works with one space before it at the moment.<br>
     - Some users report that the app does stop to update if not the active window or minimized. I cannot reproduce this and need more info on it.<br>
     <br> 
@@ -37,11 +37,11 @@ Additionally you can use the following at the end of an intel line:<br>
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzMyOTI0MiwtMTEyOTQxNzY2MiwxNT
-g4MDg4MTUsLTU2MjE4MjM1MiwxOTU4NTQ5NDEsLTE4OTIwOTg4
-NTEsLTE5MTczODE0NTQsLTkwNzc1NTUyNiwxMjkzMTYyNzIzLD
-EyOTMxNjI3MjMsMTk4NDIxOTAxLC0xMTI0MjE2MzU3LDY5NDky
-NTEwMSwxODkwNjAwOTE1LC0yNDk5NzI1NjMsLTEzMTgzNDg4Nz
-AsMTA5NjExNzEzMywtMTUyMjY4MzY4MSwxODYyNjAzMDcwLC0y
-MDY1MTYzMDhdfQ==
+eyJoaXN0b3J5IjpbLTMwMzg3NjgyNCwyMDk3MzI5MjQyLC0xMT
+I5NDE3NjYyLDE1ODgwODgxNSwtNTYyMTgyMzUyLDE5NTg1NDk0
+MSwtMTg5MjA5ODg1MSwtMTkxNzM4MTQ1NCwtOTA3NzU1NTI2LD
+EyOTMxNjI3MjMsMTI5MzE2MjcyMywxOTg0MjE5MDEsLTExMjQy
+MTYzNTcsNjk0OTI1MTAxLDE4OTA2MDA5MTUsLTI0OTk3MjU2My
+wtMTMxODM0ODg3MCwxMDk2MTE3MTMzLC0xNTIyNjgzNjgxLDE4
+NjI2MDMwNzBdfQ==
 -->

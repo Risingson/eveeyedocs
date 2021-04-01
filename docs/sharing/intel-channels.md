@@ -7,7 +7,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
 
 !!! warning "Feature in development"
     ## Development, current issues
-    This is an alpha test. This means means the feature is still in development and has issues.<br>Known issues are as follows:<br><br>
+    This is an alpha test. This means the feature is still in development and has issues.<br>Known issues are as follows:<br><br>
     - The map may lag sometimes. This is most likely because your chatlog directory holds hundreds of files. You can fix this by moving files out of there.<br>
     - The display of the intel list is getting a rework.<br>
     - Multiple channel intel line display needs changes.<br>
@@ -37,11 +37,11 @@ Additionally you can use the following at the end of an intel line:<br>
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMDM3NzY2MCwyMDk3MzI5MjQyLC0xMT
-I5NDE3NjYyLDE1ODgwODgxNSwtNTYyMTgyMzUyLDE5NTg1NDk0
-MSwtMTg5MjA5ODg1MSwtMTkxNzM4MTQ1NCwtOTA3NzU1NTI2LD
-EyOTMxNjI3MjMsMTI5MzE2MjcyMywxOTg0MjE5MDEsLTExMjQy
-MTYzNTcsNjk0OTI1MTAxLDE4OTA2MDA5MTUsLTI0OTk3MjU2My
-wtMTMxODM0ODg3MCwxMDk2MTE3MTMzLC0xNTIyNjgzNjgxLDE4
-NjI2MDMwNzBdfQ==
+eyJoaXN0b3J5IjpbMTg5MTIzODIzMCwtNjMwMzc3NjYwLDIwOT
+czMjkyNDIsLTExMjk0MTc2NjIsMTU4ODA4ODE1LC01NjIxODIz
+NTIsMTk1ODU0OTQxLC0xODkyMDk4ODUxLC0xOTE3MzgxNDU0LC
+05MDc3NTU1MjYsMTI5MzE2MjcyMywxMjkzMTYyNzIzLDE5ODQy
+MTkwMSwtMTEyNDIxNjM1Nyw2OTQ5MjUxMDEsMTg5MDYwMDkxNS
+wtMjQ5OTcyNTYzLC0xMzE4MzQ4ODcwLDEwOTYxMTcxMzMsLTE1
+MjI2ODM2ODFdfQ==
 -->

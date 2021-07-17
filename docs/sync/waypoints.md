@@ -9,7 +9,7 @@ To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoin
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setDestination.png) | Set destination. This clears a current route. |
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/setWaypoint.png) | Add waypoint to the end of the current route.|
 
-In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
+In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="20" height="20" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 !!! attention "Ingame vs Eveeye route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. Eveeye will detect and re-calc the route displayed in eveeye if you took a different path though.
@@ -54,9 +54,9 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTk5NTQxNiwtOTE4MzcyNDgzLC0xOD
-gwODY0OTY3LC0xMDMzMDU4NzA5LDY4Mjk4NDkyOSw3NTI0Mjcz
-MTAsLTE3MjE0ODI3NTgsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLT
-g5MTcyMjQ0OSwtNTI0NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1
-ODY0NTVdfQ==
+eyJoaXN0b3J5IjpbOTgzMTUzMjk2LDEyNjk5OTU0MTYsLTkxOD
+M3MjQ4MywtMTg4MDg2NDk2NywtMTAzMzA1ODcwOSw2ODI5ODQ5
+MjksNzUyNDI3MzEwLC0xNzIxNDgyNzU4LDYzODc5NjQ3NiwxMD
+AyMzk2NjU1LC04OTE3MjI0NDksLTUyNDcxMzgzOCwtNDQxNzIy
+NTM2LC0xODA1NTg2NDU1XX0=
 -->

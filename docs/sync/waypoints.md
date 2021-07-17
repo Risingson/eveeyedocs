@@ -14,8 +14,8 @@ In the menu you can also select to `Avoid System`. To manage your avoided system
 On top of a route the following icons will be displayed:
 |  |  |
 |--|--|
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) | Copy a waypoint list to the clipboard. This can be sha |
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/save.png) | Add waypoint to the end of the current route.|
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) | Copy a waypoint list to the clipboard. This can be shared and pasted to eveeye. |
+| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/save.png) | Click to name and store this route. |
 
 !!! attention "Ingame vs Eveeye route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. Eveeye will detect and re-calc the route displayed in eveeye if you took a different path though.
@@ -60,9 +60,9 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTk2NzY4OCwxMjY5OTk1NDE2LC05MT
-gzNzI0ODMsLTE4ODA4NjQ5NjcsLTEwMzMwNTg3MDksNjgyOTg0
-OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OCw2Mzg3OTY0NzYsMT
-AwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3MTM4MzgsLTQ0MTcy
-MjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbLTE0NDA1NzE1MTMsMTI2OTk5NTQxNiwtOT
+E4MzcyNDgzLC0xODgwODY0OTY3LC0xMDMzMDU4NzA5LDY4Mjk4
+NDkyOSw3NTI0MjczMTAsLTE3MjE0ODI3NTgsNjM4Nzk2NDc2LD
+EwMDIzOTY2NTUsLTg5MTcyMjQ0OSwtNTI0NzEzODM4LC00NDE3
+MjI1MzYsLTE4MDU1ODY0NTVdfQ==
 -->

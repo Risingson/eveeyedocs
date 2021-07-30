@@ -4,8 +4,8 @@ The desktop app uses [nw.js](https://nwjs.io/) and points that installable brows
 ## Installation
 ### Windows
 
-The installation software used is [Inno Setup](https://www.jrsoftware.org/isinfo.php)
 [Windows installer download](https://www.dropbox.com/s/002r29fwgwcxjr2/Eveeye_v003.exe?dl=0)
+The installation software used is [Inno Setup](https://www.jrsoftware.org/isinfo.php)
 
 If you do not trust the installer you can build on your own as described for Mac and Linux below.
 
@@ -27,9 +27,10 @@ If you are capable of stuff like this see the [developer page](https://eveeye.re
 ## Intel Channels
 The desktop app is capable of reading the chatlogs written by your EVE client. See [this](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) for further explanations.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4ODkzMjUsLTE5NDA0NTgzMDcsLTE1OD
-I1MDQwMjYsLTEzNzYwNDY3ODIsMTQ3NzU0MzQ5LC0xNDAzNjAw
-MTAyLDYwMTk4NTM1NywtODA3MzUxMTc1LC04MDczNTExNzUsLT
-EzOTU4ODM4NjIsNTg4OTQ3NDQzLC01OTQ4NjAzNzUsLTQwNjIz
-MjMwNCwtMTAxMjM1Njg4MSwtNDc5MTU5MDg4XX0=
+eyJoaXN0b3J5IjpbLTIwMjY5NjMzNzMsNDU4ODkzMjUsLTE5ND
+A0NTgzMDcsLTE1ODI1MDQwMjYsLTEzNzYwNDY3ODIsMTQ3NzU0
+MzQ5LC0xNDAzNjAwMTAyLDYwMTk4NTM1NywtODA3MzUxMTc1LC
+04MDczNTExNzUsLTEzOTU4ODM4NjIsNTg4OTQ3NDQzLC01OTQ4
+NjAzNzUsLTQwNjIzMjMwNCwtMTAxMjM1Njg4MSwtNDc5MTU5MD
+g4XX0=
 -->

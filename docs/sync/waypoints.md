@@ -17,6 +17,9 @@ On top of a route the following icons will be displayed:
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) | Copy a waypoint list to the clipboard. This can be shared and pasted to eveeye. |
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/save.png) | Click to name and store this route. |
 
+Loading a route would set it from your current location.
+Anyone pasting a shared route would set that route from his current location.
+
 !!! attention "Ingame vs Eveeye route"
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. Eveeye will detect and re-calc the route displayed in eveeye if you took a different path though.
     
@@ -47,11 +50,6 @@ Clicking the colored square or else in the route legend will trigger a menu with
 | Add again at end of route | Will add that system as a waypoint to the end of your route |
 | Set sole destination | Will clear current route and set that system as destination |
 
-#### Saving Routes
-Click  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/save.png)  to save the current route. Loading a route would set it from your current location.
-
-#### Sharing Routes
-Click  ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png)  to copy the current route. Anyone pasting this would set the same route but from his current location.
 
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes [wormhole](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) or [jumpbridge](https://eveeye.readthedocs.io/en/latest/sharing/jumpbridges/) waypoints will be set accordingly.
@@ -66,7 +64,7 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjkyNjUxOCwtMTQ0MDU3MTUxMywxMj
+eyJoaXN0b3J5IjpbMTYxNjAxNDcyOCwtMTQ0MDU3MTUxMywxMj
 Y5OTk1NDE2LC05MTgzNzI0ODMsLTE4ODA4NjQ5NjcsLTEwMzMw
 NTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OC
 w2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3

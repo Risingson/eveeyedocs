@@ -17,7 +17,7 @@ To add channels hit the <img src="https://raw.githubusercontent.com/Risingson/ee
     [Please help with feedback, report problems or bugs or anything making the feature better](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug)<br><br> 
    
 
-<sub><i> Fixed:<br> - Some users report that the app does stop to update if not the active window or minimized. <br> - If a system was cleared via `clr` or `clear` subsequent intel in that system did not draw the red marker.<br> - Systems behind jump bridges report 6+ jumps now.<br> - Parsing should not stop anymore after a lot of lines have been processed.<br> - System does now detect if new chat file was created (client restart).<br> </i></sub>
+    <sub><i> Fixed:<br> - Some users report that the app does stop to update if not the active window or minimized. <br> - If a system was cleared via `clr` or `clear` subsequent intel in that system did not draw the red marker.<br> - Systems behind jump bridges report 6+ jumps now.<br> - Parsing should not stop anymore after a lot of lines have been processed.<br> - System does now detect if new chat file was created (client restart).<br> </i></sub>
 
     
 ## Syntax
@@ -36,11 +36,11 @@ Additionally you can use the following at the end of an intel line:<br>
 !!! warning "Feature in development"
     This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MTAzMTM0LDE4OTEyMzgyMzAsLTYzMD
-M3NzY2MCwyMDk3MzI5MjQyLC0xMTI5NDE3NjYyLDE1ODgwODgx
-NSwtNTYyMTgyMzUyLDE5NTg1NDk0MSwtMTg5MjA5ODg1MSwtMT
-kxNzM4MTQ1NCwtOTA3NzU1NTI2LDEyOTMxNjI3MjMsMTI5MzE2
-MjcyMywxOTg0MjE5MDEsLTExMjQyMTYzNTcsNjk0OTI1MTAxLD
-E4OTA2MDA5MTUsLTI0OTk3MjU2MywtMTMxODM0ODg3MCwxMDk2
-MTE3MTMzXX0=
+eyJoaXN0b3J5IjpbLTE4Njk1ODg2NDIsMTg5MTIzODIzMCwtNj
+MwMzc3NjYwLDIwOTczMjkyNDIsLTExMjk0MTc2NjIsMTU4ODA4
+ODE1LC01NjIxODIzNTIsMTk1ODU0OTQxLC0xODkyMDk4ODUxLC
+0xOTE3MzgxNDU0LC05MDc3NTU1MjYsMTI5MzE2MjcyMywxMjkz
+MTYyNzIzLDE5ODQyMTkwMSwtMTEyNDIxNjM1Nyw2OTQ5MjUxMD
+EsMTg5MDYwMDkxNSwtMjQ5OTcyNTYzLC0xMzE4MzQ4ODcwLDEw
+OTYxMTcxMzNdfQ==
 -->

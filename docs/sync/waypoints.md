@@ -51,7 +51,7 @@ Clicking the colored square or else in the route legend will trigger a menu with
 You can save load and share routes.
 
 #### Sharing Routes
-![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) Click 
+Click ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) to copy the current route. Anyone pasting this would set the same route but from his current location.
 
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes [wormhole](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) or [jumpbridge](https://eveeye.readthedocs.io/en/latest/sharing/jumpbridges/) waypoints will be set accordingly.
@@ -66,9 +66,9 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNjAyMDY1MywtMTQ0MDU3MTUxMywxMj
-Y5OTk1NDE2LC05MTgzNzI0ODMsLTE4ODA4NjQ5NjcsLTEwMzMw
-NTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OC
-w2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3
-MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbLTIxMjk4NzA0NzgsLTE0NDA1NzE1MTMsMT
+I2OTk5NTQxNiwtOTE4MzcyNDgzLC0xODgwODY0OTY3LC0xMDMz
+MDU4NzA5LDY4Mjk4NDkyOSw3NTI0MjczMTAsLTE3MjE0ODI3NT
+gsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MTcyMjQ0OSwtNTI0
+NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ==
 -->

@@ -48,7 +48,7 @@ Clicking the colored square or else in the route legend will trigger a menu with
 | Set sole destination | Will clear current route and set that system as destination |
 
 #### Saving Routes
-You can save load and share routes.
+Click ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/save.png) to save the current route. Loading a route would set it from your current location.
 
 #### Sharing Routes
 Click ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) to copy the current route. Anyone pasting this would set the same route but from his current location.
@@ -66,9 +66,9 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk4NzA0NzgsLTE0NDA1NzE1MTMsMT
-I2OTk5NTQxNiwtOTE4MzcyNDgzLC0xODgwODY0OTY3LC0xMDMz
-MDU4NzA5LDY4Mjk4NDkyOSw3NTI0MjczMTAsLTE3MjE0ODI3NT
-gsNjM4Nzk2NDc2LDEwMDIzOTY2NTUsLTg5MTcyMjQ0OSwtNTI0
-NzEzODM4LC00NDE3MjI1MzYsLTE4MDU1ODY0NTVdfQ==
+eyJoaXN0b3J5IjpbMTI2NzUyMDYwNiwtMTQ0MDU3MTUxMywxMj
+Y5OTk1NDE2LC05MTgzNzI0ODMsLTE4ODA4NjQ5NjcsLTEwMzMw
+NTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OC
+w2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3
+MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
 -->

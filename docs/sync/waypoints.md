@@ -47,6 +47,9 @@ Clicking the colored square or else in the route legend will trigger a menu with
 | Add again at end of route | Will add that system as a waypoint to the end of your route |
 | Set sole destination | Will clear current route and set that system as destination |
 
+#### Saving Routes
+You can save load and shar
+
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes [wormhole](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) or [jumpbridge](https://eveeye.readthedocs.io/en/latest/sharing/jumpbridges/) waypoints will be set accordingly.
 
@@ -60,9 +63,9 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA1NzE1MTMsMTI2OTk5NTQxNiwtOT
-E4MzcyNDgzLC0xODgwODY0OTY3LC0xMDMzMDU4NzA5LDY4Mjk4
-NDkyOSw3NTI0MjczMTAsLTE3MjE0ODI3NTgsNjM4Nzk2NDc2LD
-EwMDIzOTY2NTUsLTg5MTcyMjQ0OSwtNTI0NzEzODM4LC00NDE3
-MjI1MzYsLTE4MDU1ODY0NTVdfQ==
+eyJoaXN0b3J5IjpbODA3MzAwMjk4LC0xNDQwNTcxNTEzLDEyNj
+k5OTU0MTYsLTkxODM3MjQ4MywtMTg4MDg2NDk2NywtMTAzMzA1
+ODcwOSw2ODI5ODQ5MjksNzUyNDI3MzEwLC0xNzIxNDgyNzU4LD
+YzODc5NjQ3NiwxMDAyMzk2NjU1LC04OTE3MjI0NDksLTUyNDcx
+MzgzOCwtNDQxNzIyNTM2LC0xODA1NTg2NDU1XX0=
 -->

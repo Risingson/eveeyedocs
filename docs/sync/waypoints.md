@@ -12,6 +12,7 @@ To set waypoints tap/click a solarsystem. In the appearing menu hit `Set Waypoin
 In the menu you can also select to `Avoid System`. To manage your avoided systems goto the `ROUTE` tab in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24" > [Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route).
 
 On top of a route the following icons will be displayed:
+
 |  |  |
 |--|--|
 | ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png) | Copy a waypoint list to the clipboard. This can be shared and pasted to eveeye. |
@@ -64,9 +65,10 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNjAxNDcyOCwtMTQ0MDU3MTUxMywxMj
-Y5OTk1NDE2LC05MTgzNzI0ODMsLTE4ODA4NjQ5NjcsLTEwMzMw
-NTg3MDksNjgyOTg0OTI5LDc1MjQyNzMxMCwtMTcyMTQ4Mjc1OC
-w2Mzg3OTY0NzYsMTAwMjM5NjY1NSwtODkxNzIyNDQ5LC01MjQ3
-MTM4MzgsLTQ0MTcyMjUzNiwtMTgwNTU4NjQ1NV19
+eyJoaXN0b3J5IjpbLTI4ODc1NDE4NiwxNjE2MDE0NzI4LC0xND
+QwNTcxNTEzLDEyNjk5OTU0MTYsLTkxODM3MjQ4MywtMTg4MDg2
+NDk2NywtMTAzMzA1ODcwOSw2ODI5ODQ5MjksNzUyNDI3MzEwLC
+0xNzIxNDgyNzU4LDYzODc5NjQ3NiwxMDAyMzk2NjU1LC04OTE3
+MjI0NDksLTUyNDcxMzgzOCwtNDQxNzIyNTM2LC0xODA1NTg2ND
+U1XX0=
 -->

@@ -28,7 +28,6 @@
 | alliance/faction name | IHUB sovereignty or faction of the system |
 
 ### Gatekills
-Kills are fetched from zKill every 5 minutes
 
 |  |  |
 |--|--|
@@ -40,5 +39,5 @@ Kills are fetched from zKill every 5 minutes
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDc0OTgwOF19
+eyJoaXN0b3J5IjpbMTUxMDE5MTEyMV19
 -->

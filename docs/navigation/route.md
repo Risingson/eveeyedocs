@@ -18,12 +18,12 @@ Kills are fetched from zKill every 5 minutes
 |  |  |
 |--|--|
 | Red Background  | Kills on gates on route within 60 min |
-| Blue background  | Kills in system within 60 min |
+| Blue background  | Kills in system or gate not on within 60 min |
 | Blinking background  | Kills within 20 min |
 
 ### Example
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjM2NjE4MzFdfQ==
+eyJoaXN0b3J5IjpbMTAyNjc4ODIwMV19
 -->

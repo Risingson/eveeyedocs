@@ -14,6 +14,7 @@
 
 ### Gatekills
 Kills are fetched from zKill every 5 minutes
+
 |  |  |
 |--|--|
 | Red Background  | Kills on gates on route within 60 min |
@@ -24,5 +25,5 @@ Kills are fetched from zKill every 5 minutes
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzIyODEwM119
+eyJoaXN0b3J5IjpbLTExOTgwNDg0ODddfQ==
 -->

@@ -11,6 +11,7 @@ Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 
 |  |  |
 |--|--|
+| symbols | [Reference](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display) |
 | N | NPC Kills within 1 hour (CCP API) |
 | J | Jumps within 1 hour (CCP API) |
 | K | Kills within 1 hour (CCP API) |
@@ -20,6 +21,6 @@ Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 | alliance/faction name | IHUB sovereignty or faction of the system |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDMxMTU1LC0xODI0NDQxMTg0LC0xMD
+eyJoaXN0b3J5IjpbNTI2ODg5OTk5LC0xODI0NDQxMTg0LC0xMD
 U4MjA1MzI1XX0=
 -->

@@ -62,17 +62,14 @@ Enables/Disables displaying jumpranges on the map.
 #### Skill and Fitting Settings
 Match your skills and fit for the app to calc your range and isotopes correctly.
 
-!!! info
-    While you are in <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="18" height="18"> Client Sync the app will choose your current ship. If you like to choose another ship to check its range you would have to temporarily disable <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="18" height="18"> Client Sync.
-
 ## Names
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nz
-g2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2
-MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nz
-k0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYy
-NTUsLTMzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OTkxODUxOTYsMT
-MxMTc0MjQ4NCwxODMyMTU2Mjg2XX0=
+eyJoaXN0b3J5IjpbLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0ND
+M0NTAzLDQ2ODc4Njk3MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2
+LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MD
+E2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMz
+NCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNz
+k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
 -->

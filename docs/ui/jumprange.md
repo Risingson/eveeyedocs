@@ -2,7 +2,7 @@
 
 
 
-### Bookmarking
+### Jumprange display
 Click the  `small star-icons` to bookmark/remove bookmarks.
 Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 
@@ -16,19 +16,21 @@ Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 | N | NPC Kills within 1 hour (CCP API) |
 | J | Jumps within 1 hour (CCP API) |
 | K | Kills within 1 hour (CCP API) |
-| Gatekills | Kills within 1 hour (zKill max 10 min behind) |
+| Gatekills | Kills within 1 hour (zKill max ~5 min behind) |
 | red number at jumpdrive jumps | Cooldown after jump in minutes |
 | cyan number at jumpdrive jumps | Fatigue after jump in minutes |
 | alliance/faction name | IHUB sovereignty or faction of the system |
 
 ### Gatekills
 Kills are fetched from zKill every 5 minutes
+|  |  |
+|--|--|
+| Red Background  | Kills on gates on route within 60 min |
+| Blue background  | Kills in system within 60 min |
+| Blinking background  | Kills within 20 min |
 
-Red Background = Kills on gates on route within 60 min
-Blue background = Kills in system within 60 min
-Blinking background = Kills within 20 min
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MTM0NzI1LC0xODI0NDQxMTg0LC0xMD
-U4MjA1MzI1XX0=
+eyJoaXN0b3J5IjpbLTE4ODQwNzIzMzMsLTE4MjQ0NDExODQsLT
+EwNTgyMDUzMjVdfQ==
 -->

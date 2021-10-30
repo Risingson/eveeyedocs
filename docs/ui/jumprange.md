@@ -3,8 +3,7 @@
 
 
 ### Jumprange display
-Click the  `small star-icons` to bookmark/remove bookmarks.
-Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> will show all systems in range according to your [jumprange settings](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display).
 
 ### Route/Jumprange Pane Display
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
@@ -31,6 +30,6 @@ Kills are fetched from zKill every 5 minutes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODQwNzIzMzMsLTE4MjQ0NDExODQsLT
-EwNTgyMDUzMjVdfQ==
+eyJoaXN0b3J5IjpbMTIxMzA4ODExMiwtMTg4NDA3MjMzMywtMT
+gyNDQ0MTE4NCwtMTA1ODIwNTMyNV19
 -->

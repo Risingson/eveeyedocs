@@ -2,7 +2,7 @@
 
 |  |  |
 |--|--|
-| symbols | [Reference](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display) |
+| Symbols | [Reference](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display) |
 | # | Number of system in route |
 | N | NPC Kills within 1 hour (CCP API) |
 | J | Jumps within 1 hour (CCP API) |
@@ -25,5 +25,5 @@ Kills are fetched from zKill every 5 minutes
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTgwNDg0ODddfQ==
+eyJoaXN0b3J5IjpbLTE0NjM2NjE4MzFdfQ==
 -->

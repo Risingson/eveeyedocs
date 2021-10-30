@@ -6,7 +6,7 @@ Center color, text or logo of solarsystem shape.
 Basic outline colors. This would invert if changing dark/light theme.
 
 **Security**<br>
-Colors the ouline after system security.
+Colors the outline after system security.
 
 **Incursions and Invasions**<br>
 Will color the outline if there is an ongoing incursion or the system is a Triglavian or Edencom system.
@@ -81,7 +81,7 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTg0MjM0MCwyMTAwNTY3NDcwLDEzMT
+eyJoaXN0b3J5IjpbMTAzMjc1NDM3NCwyMTAwNTY3NDcwLDEzMT
 YwNDI1MDQsLTIxMjM0MzY2NTAsLTIxNDM2NTY1OTQsNDc3NTM5
 OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywtMT
 A3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTcz

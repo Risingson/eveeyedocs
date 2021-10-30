@@ -31,7 +31,10 @@ nav:
 - Client Sync:
     - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation.md 
-    - Waypoints: sync/waypoints.md 
+- Navigation:
+    - Waypoints: navigation/waypoints.md 
+    - Route: navigation/route.md 
+    - Jumprange: navigation/jumprange.md 
 - Data Sharing:    
     - Cloud: sharing/cloud.md
     - Intel Channels: sharing/intel-channels.md

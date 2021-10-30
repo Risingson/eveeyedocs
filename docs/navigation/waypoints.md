@@ -38,6 +38,9 @@ Clicking the colored square or else in the route legend will trigger a menu with
 | Add again at end of route | Will add that system as a waypoint to the end of your route |
 | Set sole destination | Will clear current route and set that system as destination |
 
+## Gatekills
+Kills are fetched from zKill every 5 minutes.
+To learn about the color displays please refer to [this](https://eveeye.readthedocs.io/en/latest/navigation/route/).
 
 ## Wormholes/Jumpbridges
 When you got one or both of the options `Use Wormholes` or `Use Jumpbridges` enabled in [Routing Settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#Route) calculating the route will consider those connections. If a route is found that includes [wormhole](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) or [jumpbridge](https://eveeye.readthedocs.io/en/latest/sharing/jumpbridges/) waypoints will be set accordingly.
@@ -52,5 +55,5 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTU3NDA5MF19
+eyJoaXN0b3J5IjpbLTgyOTU3NDYwNl19
 -->

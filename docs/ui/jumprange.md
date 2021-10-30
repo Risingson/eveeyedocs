@@ -12,6 +12,7 @@ Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 |  |  |
 |--|--|
 | symbols | [Reference](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display) |
+| # | Number of system in route |
 | N | NPC Kills within 1 hour (CCP API) |
 | J | Jumps within 1 hour (CCP API) |
 | K | Kills within 1 hour (CCP API) |
@@ -20,7 +21,13 @@ Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 | cyan number at jumpdrive jumps | Fatigue after jump in minutes |
 | alliance/faction name | IHUB sovereignty or faction of the system |
 
+### Gatekills
+Red Background = Kills on gates on route within 60 min<br>
+                                Blue background = Kills in system within 60 min<br>
+                                Blinking background = Kills within 20 min
+                            </td>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2ODg5OTk5LC0xODI0NDQxMTg0LC0xMD
-U4MjA1MzI1XX0=
+eyJoaXN0b3J5IjpbLTExODE1Njg0NzYsLTE4MjQ0NDExODQsLT
+EwNTgyMDUzMjVdfQ==
 -->

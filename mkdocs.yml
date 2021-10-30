@@ -33,8 +33,8 @@ nav:
     - Client Sync: sync/client-synchronisation.md 
 - Navigation:
     - Waypoints: navigation/waypoints.md 
-    - Route: navigation/route.md 
-    - Jumprange: navigation/jumprange.md 
+    - Route display: navigation/route.md 
+    - Jumprange display: navigation/jumprange.md 
 - Data Sharing:    
     - Cloud: sharing/cloud.md
     - Intel Channels: sharing/intel-channels.md

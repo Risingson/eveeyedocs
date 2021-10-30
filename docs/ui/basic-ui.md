@@ -25,7 +25,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> | [Jumprange](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> | [Jumprange](https://eveeye.readthedocs.io/en/latest/ui/jumprange/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) (portrait mode)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
@@ -91,7 +91,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTkzNDQ1MywzODEwMzAxMTUsLTEyNj
+eyJoaXN0b3J5IjpbLTYxNTg0NjI3MywzODEwMzAxMTUsLTEyNj
 A0MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYz
 MTg1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMD
 gsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1

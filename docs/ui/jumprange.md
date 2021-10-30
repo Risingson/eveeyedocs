@@ -1,21 +1,16 @@
 # Route and Jumprange 
 
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou.png" width="303" height="69">
+
 
 ### Bookmarking
 Click the  `small star-icons` to bookmark/remove bookmarks.
 Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 
-### Bookmark pane
-Click `star-icon` in menu to open bookmarks.
-Click the bookmark to open the solarsystem-menu on that system.
-Click `J-icon` to enable/disable that system in `DST` tab of solarsystem info.
+### Route/Jumprange Pane Display
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
-You can drag&drop bookmarks to change their order (browser only).
-
-If [cloud](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) is enabled bookmarks get backed up and synced to other devices. They do not get shared.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ0NDExODQsLTEwNTgyMDUzMjVdfQ
-==
+eyJoaXN0b3J5IjpbMTk0NTQ1NTA1LC0xODI0NDQxMTg0LC0xMD
+U4MjA1MzI1XX0=
 -->

@@ -22,7 +22,7 @@
 | N | NPC Kills within 1 hour (CCP API) |
 | J | Jumps within 1 hour (CCP API) |
 | K | Kills within 1 hour (CCP API) |
-| Gatekills | Kills within 1 hour (zKill max ~5 min behind) |
+| Gatekills | Kills within 1 hour (zKill fetched every 5 min) |
 | red number at jumpdrive jumps | Cooldown after jump in minutes |
 | cyan number at jumpdrive jumps | Fatigue after jump in minutes |
 | alliance/faction name | IHUB sovereignty or faction of the system |
@@ -39,5 +39,5 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMDE5MTEyMV19
+eyJoaXN0b3J5IjpbLTg3MzQzODY5N119
 -->

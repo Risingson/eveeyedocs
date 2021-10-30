@@ -24,7 +24,7 @@
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeye.readthedocs.io/en/latest/navi/waypoints/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> | [Jumprange](https://eveeye.readthedocs.io/en/latest/ui/jumprange/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) (portrait mode)|
@@ -91,11 +91,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTg0NjI3MywzODEwMzAxMTUsLTEyNj
-A0MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYz
-MTg1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMD
-gsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1
-MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MS
-wxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4
-MDI5NTYzMV19
+eyJoaXN0b3J5IjpbLTE0MTg4MDEwNzgsMzgxMDMwMTE1LC0xMj
+YwNDIzNjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2
+MzE4NTEsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0Mj
+A4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgx
+NTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5Nj
+EsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwz
+ODAyOTU2MzFdfQ==
 -->

@@ -14,7 +14,7 @@
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end_sta.png)|Destination station|
 
-### Symbols
+### Other
 
 |  |  |
 |--|--|
@@ -40,5 +40,5 @@ Kills are fetched from zKill every 5 minutes
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5MDI5NjMxXX0=
+eyJoaXN0b3J5IjpbMTE1ODY3ODMyNF19
 -->

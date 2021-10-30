@@ -3,7 +3,7 @@ Center color, text or logo of solarsystem shape.
 
 ## Node outlines
 **Black or white**<br>
-Basic outline colors. This would invert if changing dark/light theme.
+Basic outline colors. 
 
 **Security**<br>
 Colors the outline after system security.
@@ -81,7 +81,7 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjc1NDM3NCwyMTAwNTY3NDcwLDEzMT
+eyJoaXN0b3J5IjpbLTM5NzM2MjIxNSwyMTAwNTY3NDcwLDEzMT
 YwNDI1MDQsLTIxMjM0MzY2NTAsLTIxNDM2NTY1OTQsNDc3NTM5
 OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywtMT
 A3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTcz

@@ -13,8 +13,11 @@ Click `Add/Remove Boookmark` in solarsystem-menu to do the same.
 |--|--|
 | N | NPC Kills within 1 hour (CCP API) |
 | J | Jumps within 1 hour (CCP API) |
-| K | NPC Kills within 1 hour (CCP API) |
+| K | Kills within 1 hour (CCP API) |
+| red number at jumpdrive jumps | Cooldown after jump |
+| cyan number at jumps | Cooldown after jump |
+| Gatekills | Kills within 1 hour (live zKill) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDk2MjQ1OCwtMTgyNDQ0MTE4NCwtMT
-A1ODIwNTMyNV19
+eyJoaXN0b3J5IjpbMzgwMjU3MTg1LC0xODI0NDQxMTg0LC0xMD
+U4MjA1MzI1XX0=
 -->

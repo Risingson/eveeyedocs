@@ -17,7 +17,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > | [Cloud and data sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
-| <img src="https://eveeye.com/img/icon/db.png" style="filter:invert(1)" width="24" height="24"> | [Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/) |
+| <img src="raw.githubusercontent.com/Risingson/eedocs/master/docs/images/db.png"  width="24" height="24"> | [Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 
 ##### Info
@@ -90,11 +90,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xOD
-g4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4
-NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMD
-QsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMz
-OTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNy
-wtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwzODAyOTU2MzEsNDA3
-MjkyMzU0XX0=
+eyJoaXN0b3J5IjpbMTU0NTY1Nzk5LDM4MTAzMDExNSwtMTI2MD
+QyMzYwOSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMx
+ODUxLC0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOC
+wxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUw
+NTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLD
+E1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgw
+Mjk1NjMxXX0=
 -->

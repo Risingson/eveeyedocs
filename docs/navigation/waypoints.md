@@ -25,20 +25,7 @@ Anyone pasting a shared route would set that route from his current location.
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time. Eveeye will detect and re-calc the route displayed in eveeye if you took a different path though.
     
 #### Route Display
-To learn about how routes are displayed in 
-|  |  |
-|--|--|
-| ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_start.png) | Current system|
-|![disc](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_dot.png)|Fly thru system without npc station|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_thru.png)|Fly thru system with npc station|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wp.png)|Waypoint solarsystem|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)|Waypoint station|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png)|Waypoint jumpbridge|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wh.png)|Waypoint wormhole|
-|![line](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jmp.png)|Midpoint (jumpdrive)|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
-|![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end_sta.png)|Destination station|
-
+To learn about how a route list is displayed please [Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/route/)
 
 #### Route Manipulation
 Clicking the colored square or else in the route legend will trigger a menu with some options where applicable:
@@ -65,5 +52,5 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcyMjY2MzBdfQ==
+eyJoaXN0b3J5IjpbLTc2NTY5MDY4M119
 -->

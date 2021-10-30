@@ -27,7 +27,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> | [Current route](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> | [Jumprange](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) (on mobile apps)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/inv.png" width="24" height="24"> | Incursions and Invasions|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
@@ -91,11 +91,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3OTM1NDAyLDM4MTAzMDExNSwtMTI2MD
-QyMzYwOSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMx
-ODUxLC0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOC
-wxNjIxOTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUw
-NTUyMSwtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLD
-E1NzI4MjQ4MjcsLTEzMjQ1MDg1MDQsLTEzMDA3NTA2NTksMzgw
-Mjk1NjMxXX0=
+eyJoaXN0b3J5IjpbMTE5MDYzODU4NCwzODEwMzAxMTUsLTEyNj
+A0MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYz
+MTg1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMD
+gsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1
+MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MS
+wxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC0xMzAwNzUwNjU5LDM4
+MDI5NTYzMV19
 -->

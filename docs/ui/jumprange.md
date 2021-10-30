@@ -2,8 +2,8 @@
 
 
 
-### Jumprange display
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> will show all systems in range according to your [jumprange settings](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display).
+### Jumprange displaypane
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> &nbsp;will show all systems in range according to your [jumprange settings](https://eveeye.readthedocs.io/en/latest/sync/waypoints/#route-display).
 
 ### Route/Jumprange Pane Display
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
@@ -30,6 +30,6 @@ Kills are fetched from zKill every 5 minutes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzA4ODExMiwtMTg4NDA3MjMzMywtMT
-gyNDQ0MTE4NCwtMTA1ODIwNTMyNV19
+eyJoaXN0b3J5IjpbLTE4NzI4NzYxNzIsMTIxMzA4ODExMiwtMT
+g4NDA3MjMzMywtMTgyNDQ0MTE4NCwtMTA1ODIwNTMyNV19
 -->

@@ -11,7 +11,7 @@ Coalitions by [coalitionsin.space](http://coalitionsin.space/)<br>
 Thera connections by [EVE Scout](https://eve-scout.com/thera/contribute/?from=eveeye)<br>
 Killstream by [zKillboard](https://zkillboard.com/information/payments/?from=eveeye)<br>
 Triglavian Invasions by [Kybernauts](https://kybernaut.space/invasions/?from=eveeye) <br>
-Metaliminal Storm tracking by [Rhane](https://twitter.com/chocolaterahne)
+Metaliminal Storm tracking by [Eve-Scout Rescue](https://evescoutrescue.com/)
 
 ## Software Credits
 <a href="https://cordova.apache.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">cordova</span></a>, <a href="https://d3js.org/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">d3</span></a>, <a href="https://jquery.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">jquery</span></a>, <a href="https://pouchdb.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">pouchdb</span></a>, <a href="https://apexcharts.com/" target="_blank" style="text-decoration: none;" class="help_links"><span class="help_links">apexcharts</span></a><br>
@@ -39,10 +39,10 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjczMzg5NSwtNTAwODMyNDExLDEyNT
-QxNjY2NzIsMTc5MzczODgyLC05NjUxNjMyMzEsNTcyNDgyMDIz
-LDU2ODk4NTUxNiwtNjEyMzAyMjM2LC0xNTA1NDY1OTkwLC0xOD
-k4MTM2Nzg0LC0xNzAzMzczMTgzLC0xNTUxNzUzODQ5LC0xMTEy
-MzAwNDAyLDEwMDcyOTQ2ODUsLTg2MDA0MTkyNCw5MjEzMDMxOT
-IsNjY3NzI2OTQ0XX0=
+eyJoaXN0b3J5IjpbMTM2OTIzMTExMywxMzUyNzMzODk1LC01MD
+A4MzI0MTEsMTI1NDE2NjY3MiwxNzkzNzM4ODIsLTk2NTE2MzIz
+MSw1NzI0ODIwMjMsNTY4OTg1NTE2LC02MTIzMDIyMzYsLTE1MD
+U0NjU5OTAsLTE4OTgxMzY3ODQsLTE3MDMzNzMxODMsLTE1NTE3
+NTM4NDksLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYwMDQxOT
+I0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
 -->

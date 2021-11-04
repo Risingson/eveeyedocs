@@ -3,7 +3,9 @@
 <!--
 #### Release 4.03.0 - Dec 2021
  - Structure mapper added (browser)
- - All googel prod
+ - Share system names
+ - Gatecamp checks on your route
+ - Third party advertising removed (no more google ads on mobile)
 -->
 
 #### Release 4.02.0 - Jan 2021
@@ -129,7 +131,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI1NzA1MTAsMTU3NTY5OTU5MSwxMz
+eyJoaXN0b3J5IjpbLTE5NDkzNzc3MjEsMTU3NTY5OTU5MSwxMz
 czMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMw
 ODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMT
 E0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEy

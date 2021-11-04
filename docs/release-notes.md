@@ -2,9 +2,11 @@
 
 <!--
 #### Release 4.03.0 - Dec 2021
- - Structure mapper added (browser)
+ - Structure mapping (browser)
  - Share system names
  - 
+ - Control line thickness
+ - Export displayed maps to clipboard or images (browser)
  - Live gatecamp checks on your route
  - Store and share routes
  - Third party advertising removed (no more google ads on mobile)
@@ -133,11 +135,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzA2OTUxNiwxNTc1Njk5NTkxLDEzNz
-MxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4
-MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMT
-Q2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIz
-NzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLD
-k5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1
-MDQ4MV19
+eyJoaXN0b3J5IjpbODQyNjI1NzMzLDE1NzU2OTk1OTEsMTM3Mz
+E5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgy
+MzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExND
+YxMTU5OTIsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3
+MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2NjMsOT
+k5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUw
+NDgxXX0=
 -->

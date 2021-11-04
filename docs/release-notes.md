@@ -2,9 +2,11 @@
 
 <!--
 #### Release 4.03.0 - Dec 2021
+- TODO !?!?
  - Structure mapping (browser)
  - Share system names
  - Lists added to quickly scroll through all of your data
+ - ? Shared data edit log 
  - 
  - Jumprange pane for systems in range ( <<< add to lists ??? )
  - Live gatecamp checks on your route
@@ -137,11 +139,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Nj
-k5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4
-MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNj
-k4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2
-NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMz
-E1NTk3NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5
-NTddfQ==
+eyJoaXN0b3J5IjpbLTQ3NTI0MjQ5NiwzMjMxMTQwMDYsMTkyOT
+c3MjYwLDE1NzU2OTk1OTEsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5
+LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxOD
+gzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1
+MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMT
+ExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIw
+NTNdfQ==
 -->

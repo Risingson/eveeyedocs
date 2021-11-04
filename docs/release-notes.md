@@ -4,7 +4,9 @@
 #### Release 4.03.0 - Dec 2021
  - Structure mapper added (browser)
  - Share system names
- - Gatecamp checks on your route
+ - 
+ - Live gatecamp checks on your route
+ - Store and share routes
  - Third party advertising removed (no more google ads on mobile)
 -->
 
@@ -131,11 +133,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDkzNzc3MjEsMTU3NTY5OTU5MSwxMz
-czMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMw
-ODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMT
-E0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEy
-MzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5NzY2My
-w5OTk1MTQzODMsMjAyOTMwMjA1MywtMzc4MTUwOTU3LC04MDEx
-NTA0ODFdfQ==
+eyJoaXN0b3J5IjpbLTI5MzA2OTUxNiwxNTc1Njk5NTkxLDEzNz
+MxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4
+MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMT
+Q2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIz
+NzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLD
+k5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5NTcsLTgwMTE1
+MDQ4MV19
 -->

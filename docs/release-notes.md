@@ -6,6 +6,7 @@
  - Share system names
  - Lists added to quickly scroll through all of your data
  - 
+ - Jumprange pane for systems in range ( <<< add to lists ??? )
  - Live gatecamp checks on your route
  - Store and share routes
  - Control line thickness
@@ -136,11 +137,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTc3MjYwLDE1NzU2OTk1OTEsMTM3Mz
-E5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgy
-MzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExND
-YxMTU5OTIsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3
-MDQsMTE1NTEzMzk4NCwtMTExMTc2MDk2MSwzMTU1OTc2NjMsOT
-k5NTE0MzgzLDIwMjkzMDIwNTMsLTM3ODE1MDk1NywtODAxMTUw
-NDgxXX0=
+eyJoaXN0b3J5IjpbMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Nj
+k5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4
+MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNj
+k4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2
+NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMz
+E1NTk3NjYzLDk5OTUxNDM4MywyMDI5MzAyMDUzLC0zNzgxNTA5
+NTddfQ==
 -->

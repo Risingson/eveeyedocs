@@ -5,7 +5,7 @@
 - TODO !?!?
  - Structure mapping (browser)
  - Share system names
- - Lists added to quickly scroll through all of your data
+ - ? Lists added to quickly scroll through all of your data
  - ? Shared data edit log 
  - 
  - Jumprange pane for systems in range ( <<< add to lists ??? )
@@ -139,11 +139,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTI0MjQ5NiwzMjMxMTQwMDYsMTkyOT
-c3MjYwLDE1NzU2OTk1OTEsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5
-LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxOD
-gzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1
-MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMT
-ExMTc2MDk2MSwzMTU1OTc2NjMsOTk5NTE0MzgzLDIwMjkzMDIw
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0MzE3ODg5MjcsMzIzMTE0MDA2LDE5Mj
+k3NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4
+OSwtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMT
+g4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1
+NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLT
+ExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMDI5MzAy
+MDUzXX0=
 -->

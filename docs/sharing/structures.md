@@ -4,7 +4,6 @@ Citadels and POS can be pasted to browser versions of eveeye. On mobile apps how
 ## Pasting
 You can copy and paste structures from the EVE client using `Ctrl+C` an paste them on the active browser window of Eveeye.
 Using `Ctrl+V` will `ADD` structures to the system.
-Using `Shift+Ctrl+V` will `OVERWRITE` all sigs within that system with the pasted ones.
 
 !!! error "Firefox"
     Shift+Ctrl+V does not work in Firefox browser.
@@ -36,5 +35,5 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDA5Njk5M119
+eyJoaXN0b3J5IjpbLTEzMjgwOTEzMjRdfQ==
 -->

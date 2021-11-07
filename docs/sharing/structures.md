@@ -8,13 +8,10 @@ Using `Ctrl+V` will `ADD` structures to the system.
 !!! error "Firefox"
     Shift+Ctrl+V does not work in Firefox browser.
     
-Citadels get pasted to the system they are in (since the system's name is contained in the data from directional. Control Towers get pasted to your current location.
-If you are not syncing your location those get added to the system you are showing info on. 
+Citadels get pasted to the system they are in (since the system's name is contained in the data from directional. Control Towers get pasted to your current location. 
 
-Pasing wormhole signatures will create connections to [Unknown Systems](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/).
-
-## SIG tab
-Pasting sigs will open the `SIG` info tab of solarsystem info pane. In that tab signatures and wormhole connection data get shown. 
+## STA tab
+Pasting structures will open the `STA` info tab of solarsystem info pane. In that tab npc-stations and player owned structures get shown. 
 
 Using the filter buttons you can toggle the which types of sigs and connections get displayed.
                
@@ -35,5 +32,5 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwODIzMjQ5XX0=
+eyJoaXN0b3J5IjpbLTE2OTIyNjAzNTNdfQ==
 -->

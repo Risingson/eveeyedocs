@@ -43,21 +43,21 @@ o7 Risingson
 
 **Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
 **Bitcoin:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
-<!-- **Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br> -->
+**Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
 
 ## Credits
-Check out wh[Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) 
+[Check out what data and libraries Eveeye is using ](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) 
 
 ## Privacy & Terms
-[Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/privacy/) 
+[Visit our strict Privacy Policy and Terms of Service](https://eedocs.readthedocs.io/en/latest/sharing/privacy/) 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4OTc2OTU4LC0yMTI0NjY3ODQxLC0zNT
-kyMTU2NzIsMjA0OTM4MzE2NywxNDQ1MzY3OTQ3LC0xNjE1Njkw
-MDM5LC00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3Ni
-wtODYwMDQyNzM2LDkxODUxMzc1MiwxNDkwMjg2NDgxLDE0NjM4
-NzM5NjQsMTY3MDI1NTUzMCwxMDY2MTU1MTIyLC0xNDIzMjIwOS
-wtMTQ0Mzg3NzIyNl19
+eyJoaXN0b3J5IjpbLTI5NjQwODI2MSwtMjEyNDY2Nzg0MSwtMz
+U5MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5
+MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNz
+YsLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MDI4NjQ4MSwxNDYz
+ODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMD
+ksLTE0NDM4NzcyMjZdfQ==
 -->

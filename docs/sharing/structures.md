@@ -4,10 +4,7 @@ Citadels and POS can be pasted to browser versions of eveeye. On mobile apps how
 ## Pasting
 You can copy and paste structures from the EVE's directional scanner using `Ctrl+C` an paste them on the active browser window of Eveeye.
 Using `Ctrl+V` will `ADD` structures to the system.
-
-!!! error "Firefox"
-    Shift+Ctrl+V does not work in Firefox browser.
-    
+   
 Citadels get pasted to the system they are in (since the system's name is contained in the data from directional. Control Towers get pasted to your current location. 
 
 ## STA tab
@@ -24,5 +21,5 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE4NzM5ODc5XX0=
+eyJoaXN0b3J5IjpbLTU1MjU3MjI0OV19
 -->

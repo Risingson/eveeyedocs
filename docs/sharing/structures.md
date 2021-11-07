@@ -1,9 +1,9 @@
-# S
-Since there is no eve-api for signatures they can only be pasted to browser versions of eveeye. On mobile apps however you can see signatures shared by pilots within your group.
+# Structures
+Citadels and POS can be pasted to browser versions of eveeye. On mobile apps however you can add them manually aswell. Structures are shared by pilots within your group.
 
 ## Pasting
-You can copy and paste signatures from the EVE client using `Ctrl+C` an paste them on the active browser window of Eveeye.
-Using `Ctrl+V` will `ADD` signatures to the system.
+You can copy and paste structures from the EVE client using `Ctrl+C` an paste them on the active browser window of Eveeye.
+Using `Ctrl+V` will `ADD` structures to the system.
 Using `Shift+Ctrl+V` will `OVERWRITE` all sigs within that system with the pasted ones.
 
 !!! error "Firefox"
@@ -36,5 +36,5 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NTA1MzU3Ml19
+eyJoaXN0b3J5IjpbLTczMDA5Njk5M119
 -->

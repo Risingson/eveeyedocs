@@ -23,12 +23,13 @@ Eveeye Apps use <a href="https://matomo.org/privacy/" target="_blank" style="tex
 <!-- This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>. -->
 
 **Eveeye does not share any data with anyone.** 
-<!-- However Eveeye serves ads to generate revenue for costs due to running the apps:
+However Eveeye serves ads to generate revenue for costs due to running the apps:
+
 
 ## Google Ads
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to eveeye.com or other websites.
 Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to eveeye.com and/or other sites on the Internet.
-Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>. -->
+Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>. 
 
 ## CCP Disclaimer and License
 #### Disclaimer
@@ -40,11 +41,11 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDI3Mzg3LC04NzQ5MTE5NzUsMTE3Mj
-k4OTk0OCwxMzUyNzMzODk1LC01MDA4MzI0MTEsMTI1NDE2NjY3
-MiwxNzkzNzM4ODIsLTk2NTE2MzIzMSw1NzI0ODIwMjMsNTY4OT
-g1NTE2LC02MTIzMDIyMzYsLTE1MDU0NjU5OTAsLTE4OTgxMzY3
-ODQsLTE3MDMzNzMxODMsLTE1NTE3NTM4NDksLTExMTIzMDA0MD
-IsMTAwNzI5NDY4NSwtODYwMDQxOTI0LDkyMTMwMzE5Miw2Njc3
-MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTYyODE0MzcxNiwtODc0OTExOTc1LDExNz
+I5ODk5NDgsMTM1MjczMzg5NSwtNTAwODMyNDExLDEyNTQxNjY2
+NzIsMTc5MzczODgyLC05NjUxNjMyMzEsNTcyNDgyMDIzLDU2OD
+k4NTUxNiwtNjEyMzAyMjM2LC0xNTA1NDY1OTkwLC0xODk4MTM2
+Nzg0LC0xNzAzMzczMTgzLC0xNTUxNzUzODQ5LC0xMTEyMzAwND
+AyLDEwMDcyOTQ2ODUsLTg2MDA0MTkyNCw5MjEzMDMxOTIsNjY3
+NzI2OTQ0XX0=
 -->

@@ -18,8 +18,6 @@ You can clean a system from structures as a whole by doubleclicking the `little 
 
 ## Sharing
 If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) structures will get displayed to all other pilots in your sharing group.
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjU3MjI0OV19
+eyJoaXN0b3J5IjpbLTk5MzY3MzM5NywtNTUyNTcyMjQ5XX0=
 -->

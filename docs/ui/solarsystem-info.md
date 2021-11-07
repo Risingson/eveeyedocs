@@ -1,6 +1,6 @@
 # Solarsystem Info
 
-Drag & drop tabs at the top to reorder.
+Drag & drop tabs at the top to re-order (browser).
 
 | Tab | Content |
 |--|--|
@@ -16,7 +16,7 @@ Drag & drop tabs at the top to reorder.
 | **DAT**| **[Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/)** of the solarsystem. Can be edited there. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQwNjcxMjgsNTgyNjQ5NjksLTQzMD
-Q5ODcwMSwxNDEzMjUyNjAxLC0xMzkxODQ0MzkyLC03NTI3NzAw
-NTgsLTQ5NzA4MDkxMV19
+eyJoaXN0b3J5IjpbLTE1MjkwNzQ5MjIsLTE3NzQwNjcxMjgsNT
+gyNjQ5NjksLTQzMDQ5ODcwMSwxNDEzMjUyNjAxLC0xMzkxODQ0
+MzkyLC03NTI3NzAwNTgsLTQ5NzA4MDkxMV19
 -->

@@ -20,14 +20,14 @@ Donation system by <a href="https://donorbox.org/?ref=ee" target="_blank" style=
 
 ## Analytics and Privacy    
 Eveeye Apps use <a href="https://matomo.org/privacy/" target="_blank" style="text-decoration: none;" class="help_links">Matomo</a>  (own-webspace-hosted) to analyze app use anonymized.<span class="only_browser"><br>The apps comply with Do Not Track.</span><br>
-This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>.
+<!-- This documentation uses <a href="https://www.termsfeed.com/blog/privacy-policy-google-analytics/" target="_blank" style="text-decoration: none;" class="help_links">Google Analytics</a>. -->
 
-Eveeye does not share any data with anyone. However Eveeye serves ads to generate revenue for costs due to running the apps:
+Eveeye does not share any data with anyone. <!-- However Eveeye serves ads to generate revenue for costs due to running the apps:
 
 ## Google Ads
 Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to eveeye.com or other websites.
 Google's use of advertising cookies enables it and its partners to serve ads to users based on their visit to eveeye.com and/or other sites on the Internet.
-Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>.
+Users may opt out of personalized advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" style="text-decoration: none;" class="help_links">Ads Settings</a>. -->
 
 ## CCP Disclaimer and License
 #### Disclaimer
@@ -39,10 +39,10 @@ https://developers.eveonline.com/resource/license-agreement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Mjk4OTk0OCwxMzUyNzMzODk1LC01MD
-A4MzI0MTEsMTI1NDE2NjY3MiwxNzkzNzM4ODIsLTk2NTE2MzIz
-MSw1NzI0ODIwMjMsNTY4OTg1NTE2LC02MTIzMDIyMzYsLTE1MD
-U0NjU5OTAsLTE4OTgxMzY3ODQsLTE3MDMzNzMxODMsLTE1NTE3
-NTM4NDksLTExMTIzMDA0MDIsMTAwNzI5NDY4NSwtODYwMDQxOT
-I0LDkyMTMwMzE5Miw2Njc3MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTMyOTQ4Mzc2MCwxMTcyOTg5OTQ4LDEzNT
+I3MzM4OTUsLTUwMDgzMjQxMSwxMjU0MTY2NjcyLDE3OTM3Mzg4
+MiwtOTY1MTYzMjMxLDU3MjQ4MjAyMyw1Njg5ODU1MTYsLTYxMj
+MwMjIzNiwtMTUwNTQ2NTk5MCwtMTg5ODEzNjc4NCwtMTcwMzM3
+MzE4MywtMTU1MTc1Mzg0OSwtMTExMjMwMDQwMiwxMDA3Mjk0Nj
+g1LC04NjAwNDE5MjQsOTIxMzAzMTkyLDY2NzcyNjk0NF19
 -->

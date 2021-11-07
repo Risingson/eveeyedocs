@@ -13,24 +13,16 @@ Citadels get pasted to the system they are in (since the system's name is contai
 ## STA tab
 Pasting structures will open the `STA` info tab of solarsystem info pane. In that tab npc-stations and player owned structures get shown. 
 
-Using the filter buttons you can toggle the which types of sigs and connections get displayed.
+You can edit info on structures by right-clicking them or tapping them on mobile.
                
-A signature can be deleted by clicking the `X` top right of it and confirm.
+A structure can be deleted by clicking the `X` top right of it and confirm.
 
-You can clean a system from signatures and connections as a whole by doubleclicking the `little trash bin` to the right within in the "SIGNATURES" headline.
-
-Deleted sigs can be undeleted for up to 3 hours.
-You can show and hide anomalies, cosmics and deleted sigs by clicking the corresponding tab above the signatures displayed.                
-
-## Map display
-![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png)               
-               
-The length of the bars to the left and right of the system node reflect the sig count of the corresponding type.
+You can clean a system from structures as a whole by doubleclicking the `little trash bin` to the right within in the "CITADELS" headline.
 
 ## Sharing
-If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) your signatures will get displayed to all other pilots in your sharing group.
+If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) structres will get displayed to all other pilots in your sharing group.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTIyNjAzNTNdfQ==
+eyJoaXN0b3J5IjpbLTk5Nzc3MDQ2NF19
 -->

@@ -42,8 +42,8 @@ Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
 **Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
-**Bitcoin:**  14WGqti9cD1i415iU5n7fG7UHrcqDbKEuF<br>
-**Ether:**  0x3fa03031E0E1D7DA220C46C5cE74D86A5B761AbA<br>
+**Bitcoin:**  bc1qnqfvtm5mn66l4umqeq4v2hllm0sgrjjl535wgq<br>
+**Ethereum (any ERC-20 token):**  0x496dB71927c29e0C9f0bfE25a5213f2fAF071dC4<br>
 
 ## Credits
 [Check out what data and libraries Eveeye is using ](https://eedocs.readthedocs.io/en/latest/sharing/cloud/) 
@@ -54,10 +54,10 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjQwODI2MSwtMjEyNDY2Nzg0MSwtMz
-U5MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5
-MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNz
-YsLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MDI4NjQ4MSwxNDYz
-ODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEyMiwtMTQyMzIyMD
-ksLTE0NDM4NzcyMjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTU0Njg3OTUsLTIxMjQ2Njc4NDEsLT
+M1OTIxNTY3MiwyMDQ5MzgzMTY3LDE0NDUzNjc5NDcsLTE2MTU2
+OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEzMj
+c2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0ODEsMTQ2
+Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0MjMyMj
+A5LC0xNDQzODc3MjI2XX0=
 -->

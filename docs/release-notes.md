@@ -2,15 +2,14 @@
 
 <!--
 #### Release 4.03.0 - Dec 2021
- - ? Structure mapping (browser)
- - ? Share system names
- - 
- - ? Lists added to quickly scroll through all of your data
+  - ? Lists added to quickly scroll through all of your data
  - ? Shared data edit log 
  - 
  - *------ already done:*
+ - Structure mapping
  - Jumprange pane for systems in range ( <<< add to lists ??? )
  - Live gatecamp checks on your route
+ - Share system names
  - Store and share routes
  - Control line thickness
  - Export displayed maps to clipboard or images (browser)
@@ -140,11 +139,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mj
-k3NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4
-OSwtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMT
-g4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1
-NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLT
-ExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUxNDM4MywyMDI5MzAy
-MDUzXX0=
+eyJoaXN0b3J5IjpbLTIwMjE4ODcyMDYsLTE5NTE4MzI3NzYsMz
+IzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0
+OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4MjM0My
+w3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1
+OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LD
+ExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUx
+NDM4M119
 -->

@@ -34,8 +34,8 @@ They do not get drawn on wormhole connections, wormhole systems or on chain maps
 Trails will fade over time and be hardly visible after 20h. 
 #### Clear Trail
 Using this you can clear your current trail.
-#### Clear all Jumpbridges
-Sometimes you would want to clear.
+#### Clear all Jumpbridges or Wormhole Connections
+Sometimes you would want to clear them all at once.
 
 ## Route
 #### Display Route
@@ -66,10 +66,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0ND
-M0NTAzLDQ2ODc4Njk3MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2
-LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MD
-E2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMz
-NCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNz
-k5MTg1MTk2LDEzMTE3NDI0ODQsMTgzMjE1NjI4Nl19
+eyJoaXN0b3J5IjpbMjA4MzA1MTA4NiwtMjczNjk2NjAsLTM3ND
+AxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2
+LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0OTU2LDgwMD
+Q0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIzOSwxMzM0Mzg3NTA2
+LC0xMzk3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3NTE5OSwxMz
+U5OTk5NjQ1LDE3OTkxODUxOTYsMTMxMTc0MjQ4NCwxODMyMTU2
+Mjg2XX0=
 -->

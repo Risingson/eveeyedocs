@@ -41,7 +41,7 @@ I have been developing Eveeye in my spare time [since 2006](https://eveeye.readt
 Donations for the work done and time spent are more than welcome.
 o7 Risingson
 
-**Paypal and Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
+**Stripe:**  [Donorbox](https://donorbox.org/eveeye)<br>
 **Bitcoin:**  `bc1qnqfvtm5mn66l4umqeq4v2hllm0sgrjjl535wgq`<br>
 **Ethereum (any ERC-20 token):**  `0x496dB71927c29e0C9f0bfE25a5213f2fAF071dC4`<br>
 
@@ -54,11 +54,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjA5NjM0NiwtODcyNjIxMzgyLC0xMj
-E5NjE2MDA2LDMyNjAxOTY3OSwtMTMxNTQ2ODc5NSwtMjEyNDY2
-Nzg0MSwtMzU5MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0Ny
-wtMTYxNTY5MDAzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4
-MjM0MTMyNzYsLTg2MDA0MjczNiw5MTg1MTM3NTIsMTQ5MDI4Nj
-Q4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAsMTA2NjE1NTEyMiwt
-MTQyMzIyMDldfQ==
+eyJoaXN0b3J5IjpbLTE4NTMzNzIsLTg3MjYyMTM4MiwtMTIxOT
+YxNjAwNiwzMjYwMTk2NzksLTEzMTU0Njg3OTUsLTIxMjQ2Njc4
+NDEsLTM1OTIxNTY3MiwyMDQ5MzgzMTY3LDE0NDUzNjc5NDcsLT
+E2MTU2OTAwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIz
+NDEzMjc2LC04NjAwNDI3MzYsOTE4NTEzNzUyLDE0OTAyODY0OD
+EsMTQ2Mzg3Mzk2NCwxNjcwMjU1NTMwLDEwNjYxNTUxMjIsLTE0
+MjMyMjA5XX0=
 -->

@@ -28,6 +28,7 @@ nav:
     - Tags: data/tag.md
     - Miscellaneous: data/misc.md
     - Database Sets: data/database.md
+    - Lists: data/lists.md
 - Client Sync:
     - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation.md 

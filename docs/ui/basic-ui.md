@@ -29,7 +29,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) (portrait mode)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/list.png" width="24" height="24"> | Lists|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lst.png" width="24" height="24"> | Lists|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
 
 ##### Other
@@ -91,11 +91,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI3NDc5NjksMzgxMDMwMTE1LC0xMj
-YwNDIzNjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2
-MzE4NTEsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0Mj
-A4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgx
-NTA1NTIxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5Nj
-EsMTU3MjgyNDgyNywtMTMyNDUwODUwNCwtMTMwMDc1MDY1OSwz
-ODAyOTU2MzFdfQ==
+eyJoaXN0b3J5IjpbMTAwMTM0NDczNCwtMTI0Mjc0Nzk2OSwzOD
+EwMzAxMTUsLTEyNjA0MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3
+NzE2MzEsLTkzNDYzMTg1MSwtMTAwNTg1MTUyOSw1MjAyOTk0Nj
+UsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1
+ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OT
+csLTc1ODM0Mzk2MSwxNTcyODI0ODI3LC0xMzI0NTA4NTA0LC0x
+MzAwNzUwNjU5XX0=
 -->

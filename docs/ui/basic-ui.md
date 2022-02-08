@@ -29,7 +29,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/grp.png" width="24" height="24"> | [Online pilots in sharing group](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) (portrait mode)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lst.png" width="24" height="24"> | [Lists](https://eveeye.readthedocs.io/en/latest/ui/lists)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lst.png" width="24" height="24"> | [Lists](https://eveeye.readthedocs.io/en/latest/data/lists)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
 
 ##### Other
@@ -91,7 +91,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMzM4MDQyLDEwMDEzNDQ3MzQsLTEyND
+eyJoaXN0b3J5IjpbOTE1MDk2MjA4LDEwMDEzNDQ3MzQsLTEyND
 I3NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xODg4MTc2
 ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4NTE1Mj
 ksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5

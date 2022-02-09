@@ -13,6 +13,8 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 - Wormhole Connections
 - Signatures
 - Shared Custom Marks
+- Shared Solarsystem Names
+- Shared Structures
 <!-- - Intel data via [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/) -->
 
 
@@ -20,6 +22,8 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
  - Map Presets
  - Bookmarks
  - Own Custom Marks
+ - Own Solarsystem Names
+ - Own Structures
 
 ## Share groups
 Enabling Cloud will not share data with anyone unless you choose to do so
@@ -55,8 +59,8 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTQxMTk0NCwtNDA1Mjc2ODk3LC0xNj
-E2NDM3ODIxLDUwMTc2NTYzNSwtMTI0NDc5NzYzMSwtMTQzMTI4
-MDg1MSw0MTc0OTM3OTYsLTE0MDA3MjU4ODgsLTIzNTEzOTY1Mi
-wxNjA0OTU1MTcxLC05MDMxNjk5MDFdfQ==
+eyJoaXN0b3J5IjpbMTgwMTE3MDUzNiwtMzQ1NDExOTQ0LC00MD
+UyNzY4OTcsLTE2MTY0Mzc4MjEsNTAxNzY1NjM1LC0xMjQ0Nzk3
+NjMxLC0xNDMxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcyNTg4OC
+wtMjM1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
 -->

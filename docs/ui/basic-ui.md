@@ -53,11 +53,12 @@
 ##### Left Map Menu (browser and tablet only)
 |  |  |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" > | Transparency toggle | 
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" >K | Switches between radar map and normal map |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" >J | Zoom map in an out |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | Lock map regardless of your location |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
+
 <!--##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
@@ -99,11 +100,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2NzYyOTQ3LDkxNTA5NjIwOCwxMDAxMz
-Q0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYw
-OSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC
-0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIx
-OTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMS
-wtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4
-MjQ4MjddfQ==
+eyJoaXN0b3J5IjpbLTE4NzcwOTI0NjMsOTE1MDk2MjA4LDEwMD
+EzNDQ3MzQsLTEyNDI3NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIz
+NjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NT
+EsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2
+MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NT
+IxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3
+MjgyNDgyN119
 -->

@@ -58,7 +58,7 @@
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route) display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail) display |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >? | Unknown connections display |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Center map on current location |
 
 <!--##### Route
@@ -102,11 +102,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjE1MDE4NSw5MTUwOTYyMDgsMTAwMT
-M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
-MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
-wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy
-MTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1Mj
-EsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcy
-ODI0ODI3XX0=
+eyJoaXN0b3J5IjpbNjM0MjA4MDgzLDkxNTA5NjIwOCwxMDAxMz
+Q0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYw
+OSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC
+0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIx
+OTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMS
+wtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4
+MjQ4MjddfQ==
 -->

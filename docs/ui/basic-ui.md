@@ -59,7 +59,7 @@
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route) display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail) display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) display |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Center map on current location |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
 <!--##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
@@ -102,11 +102,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM0MjA4MDgzLDkxNTA5NjIwOCwxMDAxMz
-Q0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYw
-OSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC
-0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIx
-OTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMS
-wtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4
-MjQ4MjddfQ==
+eyJoaXN0b3J5IjpbLTE1NTE1NTI2NDgsOTE1MDk2MjA4LDEwMD
+EzNDQ3MzQsLTEyNDI3NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIz
+NjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NT
+EsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2
+MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NT
+IxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3
+MjgyNDgyN119
 -->

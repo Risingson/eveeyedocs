@@ -9,7 +9,7 @@
 
 ## Menus
 
-##### Main
+##### Main Menu
 |  | |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
@@ -20,7 +20,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/db.png"  width="24" height="24"> | [Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Settings-100_off.png" width="24" height="24"> | [Application settings](https://eveeye.readthedocs.io/en/latest/ui/settings/) |
 
-##### Info
+##### Secondary Menu
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Menu-100.png" width="24" height="24"> |  Toggle menu|
@@ -30,7 +30,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sol.png" width="24" height="24"> | [Solarsystem info](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/) (portrait mode)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bmk.png" width="24" height="24"> | [Bookmarks](https://eveeye.readthedocs.io/en/latest/ui/bookmarks) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lst.png" width="24" height="24"> | [Lists](https://eveeye.readthedocs.io/en/latest/data/lists)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | The legend reflects your current map display options |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | Legend reflects your current map display options |
 
 ##### Other
 |  |  |
@@ -50,10 +50,10 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
-##### Route
+<!--##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
-<!--## Other Icons
+## Other Icons
 
 ##### Incursions and Invasions
 |  |  |
@@ -91,11 +91,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search for a place.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1MDk2MjA4LDEwMDEzNDQ3MzQsLTEyND
-I3NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xODg4MTc2
-ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4NTE1Mj
-ksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5
-NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NTIxLC0zODMzOTA1MT
-UsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3MjgyNDgyNywtMTMy
-NDUwODUwNF19
+eyJoaXN0b3J5IjpbMTMyNjU5MDM5Nyw5MTUwOTYyMDgsMTAwMT
+M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
+MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
+wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy
+MTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1Mj
+EsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcy
+ODI0ODI3XX0=
 -->

@@ -53,11 +53,12 @@
 ##### Left Map Menu toggles (browser and tablet only)
 |  |  |
 |--|--|
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" > | Menu bar Transparency | 
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" >K | Killstream |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" >J |Jumprange |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | Lock map regardless of your location |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >T | Toggle Fullscreen |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | Route display |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >T | Trail display |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >? | Unknown connections display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Center map on current location |
 
 <!--##### Route
@@ -101,7 +102,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5ODY2MDQyMCw5MTUwOTYyMDgsMTAwMT
+eyJoaXN0b3J5IjpbMTc4MjgzNTI1Niw5MTUwOTYyMDgsMTAwMT
 M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
 MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
 wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy

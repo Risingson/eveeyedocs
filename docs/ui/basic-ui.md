@@ -36,7 +36,7 @@
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Feedback and bugreports |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord channel |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
@@ -103,11 +103,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM1MDEwMzQsOTE1MDk2MjA4LDEwMD
-EzNDQ3MzQsLTEyNDI3NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIz
-NjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NT
-EsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2
-MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NT
-IxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3
-MjgyNDgyN119
+eyJoaXN0b3J5IjpbMjMwMjI1NTI2LDkxNTA5NjIwOCwxMDAxMz
+Q0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYw
+OSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC
+0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIx
+OTk4MzA0LC02OTQxMjcxMjAsMjU4NjcxMDMsMTg4MTUwNTUyMS
+wtMzgzMzkwNTE1LDM3NTgyNDU5NywtNzU4MzQzOTYxLDE1NzI4
+MjQ4MjddfQ==
 -->

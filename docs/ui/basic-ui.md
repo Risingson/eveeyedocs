@@ -61,6 +61,7 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-x50.png" width="24" height="24"> | Bugreports |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> | Export current map display|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 <!--##### Route
@@ -104,11 +105,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MT
-UwOTYyMDgsMTAwMTM0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAx
-MTUsLTEyNjA0MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2Mz
-EsLTkzNDYzMTg1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEz
-MDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MT
-AzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1
-ODM0Mzk2MV19
+eyJoaXN0b3J5IjpbLTE3ODMxOTEwMDMsLTE2NjU0OTM2OTQsLT
+Q5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMTM0NDczNCwtMTI0Mjc0
+Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2MDksLTE4ODgxNzY4MD
+YsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MSwtMTAwNTg1MTUyOSw1
+MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MT
+I3MTIwLDI1ODY3MTAzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwz
+NzU4MjQ1OTddfQ==
 -->

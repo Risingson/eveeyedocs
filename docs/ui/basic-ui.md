@@ -47,7 +47,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x0.png" width="24" height="24" >K | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xCollapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/set_jumprange_on.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xLock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
@@ -104,11 +104,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMT
-M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
-MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
-wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy
-MTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1Mj
-EsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcy
-ODI0ODI3XX0=
+eyJoaXN0b3J5IjpbLTE2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MT
+UwOTYyMDgsMTAwMTM0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAx
+MTUsLTEyNjA0MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2Mz
+EsLTkzNDYzMTg1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEz
+MDU3ODQyMDgsMTYyMTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MT
+AzLDE4ODE1MDU1MjEsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1
+ODM0Mzk2MV19
 -->

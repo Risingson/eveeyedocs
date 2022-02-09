@@ -12,9 +12,9 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
  - Map Presets
  - Bookmarks
  - Saved Routes
- - Own Custom Marks
- - Own Solarsystem Names
- - Own Structures
+ - Personal Custom Marks
+ - Personal Solarsystem Names
+ - Personal Structures
 
 ### Shared with pilots in your sharing group
 - Your pilot's location and ship
@@ -59,8 +59,9 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDEwMDg2NywtMzQ1NDExOTQ0LC00MD
-UyNzY4OTcsLTE2MTY0Mzc4MjEsNTAxNzY1NjM1LC0xMjQ0Nzk3
-NjMxLC0xNDMxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcyNTg4OC
-wtMjM1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
+eyJoaXN0b3J5IjpbLTE0NzA0MDMwOTEsLTM0NTQxMTk0NCwtND
+A1Mjc2ODk3LC0xNjE2NDM3ODIxLDUwMTc2NTYzNSwtMTI0NDc5
+NzYzMSwtMTQzMTI4MDg1MSw0MTc0OTM3OTYsLTE0MDA3MjU4OD
+gsLTIzNTEzOTY1MiwxNjA0OTU1MTcxLC05MDMxNjk5MDFdfQ==
+
 -->

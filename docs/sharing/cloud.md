@@ -8,6 +8,14 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 !!! info
     The Cloud storage is hosted on eveeye's webhost [easyname](https://www.easyname.com/en).
 
+### Personal data synced but not shared
+ - Map Presets
+ - Bookmarks
+ - Saved Routes
+ - Own Custom Marks
+ - Own Solarsystem Names
+ - Own Structures
+
 ### Shared with pilots in your sharing group
 - Your pilot's location and ship
 - Wormhole Connections
@@ -17,16 +25,7 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 - Shared Structures
 <!-- - Intel data via [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/) -->
 
-
-### Personal data synced but not shared
- - Map Presets
- - Bookmarks
- - Saved Routes
- - Own Custom Marks
- - Own Solarsystem Names
- - Own Structures
-
-## Share groups
+## Sharing groups
 Enabling Cloud will not share data with anyone unless you choose to do so
 
 | Type | Description |
@@ -60,9 +59,8 @@ Synced amongst your devices would be map presets, signatures, connections, marks
 Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkwOTc3OTAsLTM0NTQxMTk0NCwtND
-A1Mjc2ODk3LC0xNjE2NDM3ODIxLDUwMTc2NTYzNSwtMTI0NDc5
-NzYzMSwtMTQzMTI4MDg1MSw0MTc0OTM3OTYsLTE0MDA3MjU4OD
-gsLTIzNTEzOTY1MiwxNjA0OTU1MTcxLC05MDMxNjk5MDFdfQ==
-
+eyJoaXN0b3J5IjpbMTI5MDEwMDg2NywtMzQ1NDExOTQ0LC00MD
+UyNzY4OTcsLTE2MTY0Mzc4MjEsNTAxNzY1NjM1LC0xMjQ0Nzk3
+NjMxLC0xNDMxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcyNTg4OC
+wtMjM1MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
 -->

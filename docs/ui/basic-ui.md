@@ -32,16 +32,6 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lst.png" width="24" height="24"> | [Lists](https://eveeye.readthedocs.io/en/latest/data/lists)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24"> | Legend reflects your current map display options |
 
-##### Other
-|  |  |
-|--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord support channel |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-x50.png" width="24" height="24"> | Bugreports |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
-
 ##### Right Map Menu
 |  |  |
 |--|--|
@@ -62,6 +52,16 @@
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
+
+##### Other
+|  |  |
+|--|--|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord support channel |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-x50.png" width="24" height="24"> | Bugreports |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 <!--##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
@@ -104,7 +104,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODk5Nzk1OSw5MTUwOTYyMDgsMTAwMT
+eyJoaXN0b3J5IjpbLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMT
 M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
 MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
 wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy

@@ -55,8 +55,8 @@
 |--|--|
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" >K | Killstream |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" >J |Jumprange |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | Route display |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) |
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route) display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >T | Trail display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >? | Unknown connections display |
 | <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Center map on current location |
@@ -102,11 +102,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MjgzNTI1Niw5MTUwOTYyMDgsMTAwMT
-M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
-MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
-wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy
-MTk5ODMwNCwtNjk0MTI3MTIwLDI1ODY3MTAzLDE4ODE1MDU1Mj
-EsLTM4MzM5MDUxNSwzNzU4MjQ1OTcsLTc1ODM0Mzk2MSwxNTcy
-ODI0ODI3XX0=
+eyJoaXN0b3J5IjpbLTE4NzUyMjY1NzAsOTE1MDk2MjA4LDEwMD
+EzNDQ3MzQsLTEyNDI3NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIz
+NjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NT
+EsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nzg0MjA4LDE2
+MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywxODgxNTA1NT
+IxLC0zODMzOTA1MTUsMzc1ODI0NTk3LC03NTgzNDM5NjEsMTU3
+MjgyNDgyN119
 -->

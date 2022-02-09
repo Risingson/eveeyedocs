@@ -46,6 +46,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xxx0.png" width="24" height="24" >U | Switches to universe map map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
@@ -53,13 +54,13 @@
 ##### Left Map Menu display toggles (browser and tablet only)
 |  |  |
 |--|--|
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" > | Menu bar transparency | 
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" >K | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
-| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
+| <img src="xhttps://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x0.png" width="24" height="24" >K | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xCollapse-100.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xLock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
 <!--##### Route
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
@@ -102,7 +103,7 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Nzg3NzI5OCw5MTUwOTYyMDgsMTAwMT
+eyJoaXN0b3J5IjpbLTYxMjU3NjMxNiw5MTUwOTYyMDgsMTAwMT
 M0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2
 MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MS
 wtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYy

@@ -46,10 +46,10 @@
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x0.png" width="24" height="24" >K | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/set_jumprange_on.png" width="24" height="24" >J |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xLock.png" width="24" height="24" >R | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >T | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/tpng" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
@@ -106,11 +106,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Nzc3NzI1NSwxNzI2MzMzNDk3LC0xNz
-gzMTkxMDAzLC0xNjY1NDkzNjk0LC00OTUxMzc0NzksOTE1MDk2
-MjA4LDEwMDEzNDQ3MzQsLTEyNDI3NDc5NjksMzgxMDMwMTE1LC
-0xMjYwNDIzNjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05
-MzQ2MzE4NTEsLTEwMDU4NTE1MjksNTIwMjk5NDY1LC0xMzA1Nz
-g0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEyMCwyNTg2NzEwMywx
-ODgxNTA1NTIxXX0=
+eyJoaXN0b3J5IjpbLTEyNDU5MjM5MDMsMTI1Nzc3NzI1NSwxNz
+I2MzMzNDk3LC0xNzgzMTkxMDAzLC0xNjY1NDkzNjk0LC00OTUx
+Mzc0NzksOTE1MDk2MjA4LDEwMDEzNDQ3MzQsLTEyNDI3NDc5Nj
+ksMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xODg4MTc2ODA2LC0x
+MjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4NTE1MjksNTIwMj
+k5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEy
+MCwyNTg2NzEwM119
 -->

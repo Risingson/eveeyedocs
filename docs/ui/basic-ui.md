@@ -37,7 +37,7 @@
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xxx0.png" width="24" height="24" >U | Switches to universe map map |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/u.png" width="24" height="24" > | Switches to universe map map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Collapse-100.png" width="24" height="24" > | Zoom map in an out |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
@@ -45,24 +45,24 @@
 ##### Left Map Menu display toggles (browser and tablet only)
 |  |  |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/x5.png" width="24" height="24" > | Menu bar transparency | 
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/tpng" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" >? | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xFullscreen-100_off.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/q.png" width="24" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
 ##### Other
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord support channel |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-x50.png" width="24" height="24"> | Bugreports |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bug.png" width="24" height="24"> | Bugreports |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> |  Switch dark/light theme |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/xopacity_off.png" width="24" height="24"> | Export current map display (browser and tablet only)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/theme.png" width="24" height="24"> |  Switch dark/light theme |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png" width="24" height="24"> | Export current map display (browser and tablet only)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 <!--##### Route
@@ -106,11 +106,11 @@ Right-clicking the name of a solarsystem in the top bar will copy it to clipboar
 Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU5MjM5MDMsMTI1Nzc3NzI1NSwxNz
-I2MzMzNDk3LC0xNzgzMTkxMDAzLC0xNjY1NDkzNjk0LC00OTUx
-Mzc0NzksOTE1MDk2MjA4LDEwMDEzNDQ3MzQsLTEyNDI3NDc5Nj
-ksMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xODg4MTc2ODA2LC0x
-MjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4NTE1MjksNTIwMj
-k5NDY1LC0xMzA1Nzg0MjA4LDE2MjE5OTgzMDQsLTY5NDEyNzEy
-MCwyNTg2NzEwM119
+eyJoaXN0b3J5IjpbNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNj
+MzMzQ5NywtMTc4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3
+NDc5LDkxNTA5NjIwOCwxMDAxMzQ0NzM0LC0xMjQyNzQ3OTY5LD
+M4MTAzMDExNSwtMTI2MDQyMzYwOSwtMTg4ODE3NjgwNiwtMTIz
+Mzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1ODUxNTI5LDUyMDI5OT
+Q2NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAs
+MjU4NjcxMDNdfQ==
 -->

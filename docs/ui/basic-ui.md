@@ -3,9 +3,9 @@
 ## Mobile app interaction
 |  |  |
 |--|--|
-| Tap | Set active |
-| Double Tap | Open menu |
-| Press | Open solarsystem info |
+| **Tap** | Set active |
+| **Double Tap** | Open menu |
+| **Press** | Open solarsystem info |
 
 - Tap wormhole connection lines to set sigs, wormhole type and entry side
 - Tap empty space in map area to close any menus
@@ -15,10 +15,10 @@
 ## Browser interaction
 |  |  |
 |--|--|
-| Click | Set active|
-| Right Click| Open menu |
-| Long Click| Open solarsystem info |
-| Double Click | Set current location (if not tracking location) |
+| **Click** | Set active|
+| **Right Click**| Open menu |
+| **Long Click**| Open solarsystem info |
+| **Double Click** | Set current location (if not tracking location) |
 
 - Just start typing to search for a place.
 - Click wormhole connection lines to set sigs, wormhole type and entry side.
@@ -118,11 +118,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjQxNzI2MDUsLTc3OTgyNTg5LDYzNz
-YzMzc0NywxMjU3Nzc3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEw
-MDMsLTE2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMT
-AwMTM0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0
-MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMT
-g1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgs
-MTYyMTk5ODMwNF19
+eyJoaXN0b3J5IjpbMTM5NDMwNjE3OSwtNzc5ODI1ODksNjM3Nj
+MzNzQ3LDEyNTc3NzcyNTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAw
+MywtMTY2NTQ5MzY5NCwtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMD
+AxMzQ0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQy
+MzYwOSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxOD
+UxLC0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwx
+NjIxOTk4MzA0XX0=
 -->

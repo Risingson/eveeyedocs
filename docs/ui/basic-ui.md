@@ -1,11 +1,43 @@
 # Basics
 
-## Tap/click
-- Solarsystems for options
-- Wormhole connection lines to set sigs, wormhole type and entry side.
-- Empty space in map area to close any menus
-- Region name in top row to go to Region Overview map
-- Solarsystem name in top row to center the map on it
+
+## Mobile app interaction
+|  |  |
+|--|--|
+| Tap | Set active|
+| Double Tap | Open menu |
+| Press | Open solarsystem info |
+
+- Tap wormhole connection lines to set sigs, wormhole type and entry side
+- Tap empty space in map area to close any menus
+- Tap region name in top row to go to Region Overview map
+- Tap solarsystem name in top row to center the map on it
+
+## Browser interaction
+
+|  |  |
+|--|--|
+| Click | Set active|
+| Right Click| Open menu |
+| Long Click| Open solarsystem info |
+| Double Click | Set current location (if not tracking location) |
+
+- Just start typing to search for a place.
+- Click wormhole connection lines to set sigs, wormhole type and entry side.
+- Click empty space in map area to close any menus
+- Click region name in top row to go to Region Overview map
+- Click solarsystem name in top row to center the map on it
+- Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
+
+#### Keyboard shortcuts 
+
+Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
+Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
+Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
+
+`+` and `-` keys do zoom and arrow keys do pan.
+
+Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 
 ## Menus
 
@@ -86,31 +118,13 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/invstate_4.png" width="24" height="24"> | EDENCOM Minor Victory  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/incursion_500019.png" width="24" height="24"> | Sansha Incursion| -->
 
-## Browser only features
-
-### Keyboard shortcuts
-
-Hold `SHIFT` while clicking a system to show info on it or close the info pane again. This also prevents the solarsystem-menu from opening.<br>
-Hold `CTRL` while clicking a non-regional system to go to its map.<br>Hold `CTRL` while clicking a regional system to center the map on it.<br>
-Hold `CTRL`-`SHIFT` while clicking a system to set it radar map center.<br>
-
-`+` and `-` keys do zoom and arrow keys do pan.
-
-Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
-
-
-### Other
-
-Right-clicking the name of a solarsystem in the top bar will copy it to clipboard.
-
-Just start typing to search.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNj
-MzMzQ5NywtMTc4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3
-NDc5LDkxNTA5NjIwOCwxMDAxMzQ0NzM0LC0xMjQyNzQ3OTY5LD
-M4MTAzMDExNSwtMTI2MDQyMzYwOSwtMTg4ODE3NjgwNiwtMTIz
-Mzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1ODUxNTI5LDUyMDI5OT
-Q2NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0LC02OTQxMjcxMjAs
-MjU4NjcxMDNdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY4NjM2MzMsNjM3NjMzNzQ3LDEyNT
+c3NzcyNTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAwMywtMTY2NTQ5
+MzY5NCwtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMDAxMzQ0NzM0LC
+0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYwOSwtMTg4
+ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1OD
+UxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0
+LC02OTQxMjcxMjBdfQ==
 -->

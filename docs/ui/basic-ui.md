@@ -4,7 +4,7 @@
 ## Mobile app interaction
 |  |  |
 |--|--|
-| Tap | Set active|
+| Tap | Set active |
 | Double Tap | Open menu |
 | Press | Open solarsystem info |
 
@@ -120,11 +120,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY4NjM2MzMsNjM3NjMzNzQ3LDEyNT
-c3NzcyNTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAwMywtMTY2NTQ5
-MzY5NCwtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMDAxMzQ0NzM0LC
-0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYwOSwtMTg4
-ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1OD
-UxNTI5LDUyMDI5OTQ2NSwtMTMwNTc4NDIwOCwxNjIxOTk4MzA0
-LC02OTQxMjcxMjBdfQ==
+eyJoaXN0b3J5IjpbLTc3OTgyNTg5LDYzNzYzMzc0NywxMjU3Nz
+c3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEwMDMsLTE2NjU0OTM2
+OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMTM0NDczNCwtMT
+I0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2MDksLTE4ODgx
+NzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MSwtMTAwNTg1MT
+UyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwt
+Njk0MTI3MTIwXX0=
 -->

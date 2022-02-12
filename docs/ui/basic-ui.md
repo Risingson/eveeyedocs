@@ -1,6 +1,5 @@
 # Basics
 
-
 ## Mobile app interaction
 |  |  |
 |--|--|
@@ -14,7 +13,6 @@
 - Tap solarsystem name in top row to center the map on it
 
 ## Browser interaction
-
 |  |  |
 |--|--|
 | Click | Set active|
@@ -120,11 +118,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTgyNTg5LDYzNzYzMzc0NywxMjU3Nz
-c3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEwMDMsLTE2NjU0OTM2
-OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMTM0NDczNCwtMT
-I0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2MDksLTE4ODgx
-NzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MSwtMTAwNTg1MT
-UyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgsMTYyMTk5ODMwNCwt
-Njk0MTI3MTIwXX0=
+eyJoaXN0b3J5IjpbLTE0NjQxNzI2MDUsLTc3OTgyNTg5LDYzNz
+YzMzc0NywxMjU3Nzc3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEw
+MDMsLTE2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMT
+AwMTM0NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0
+MjM2MDksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMT
+g1MSwtMTAwNTg1MTUyOSw1MjAyOTk0NjUsLTEzMDU3ODQyMDgs
+MTYyMTk5ODMwNF19
 -->

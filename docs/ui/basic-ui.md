@@ -15,7 +15,7 @@
 ## Browser interaction
 |  |  |
 |--|--|
-| **Click** | Set active|
+| **Click** | Set info solarsystem|
 | **Right Click**| Open menu |
 | **Long Click**| Open solarsystem info |
 | **Double Click** | Set current location (if not tracking location) |
@@ -118,7 +118,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc2MzEwNDUsMTM5NDMwNjE3OSwtNz
+eyJoaXN0b3J5IjpbLTIwMDI5NDI0NzcsMTM5NDMwNjE3OSwtNz
 c5ODI1ODksNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNjMzMzQ5
 NywtMTc4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3NDc5LD
 kxNTA5NjIwOCwxMDAxMzQ0NzM0LC0xMjQyNzQ3OTY5LDM4MTAz

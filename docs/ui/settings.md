@@ -34,8 +34,7 @@ A connection to that unknown system will get created when pasting cosmic signatu
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/q.png" width="24" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
+
 
 ## Track
 #### Autostart Location Tracking
@@ -43,13 +42,14 @@ If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/s
 #### Use Animated Location Marker
 
 #### Center on Current System
-This will tween the system your character is currently in to the center of the screen.
+This will tween the system your character is currently in to the center of the screen. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > in the left map menu aswell.
 #### Show Current Constellation Outline
 Draws an orange outline around all systems of the constellation you are in currently.
 #### Display Trail
 Trails will help you to see which system you visited recently.
 They do not get drawn on wormhole connections, wormhole systems or on chain maps.
-Trails will fade over time and be hardly visible after 20h. 
+Trails will fade over time and be hardly visible after 20h.  
+This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > in the left map menu aswell.
 #### Clear Trail
 Using this you can clear your current trail.
 #### Clear all Jumpbridges or Wormhole Connections
@@ -57,7 +57,7 @@ Sometimes you would want to clear them all at once.
 
 ## Route
 #### Display Route
-Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu.
+Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > in the left map menu aswell.
 #### Use Wormholes
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
 #### Use Jumpbridges 
@@ -76,7 +76,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 ## Jump
 #### Display Jumprange
-Enables/Disables displaying jumpranges on the map.
+Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > in the left map menu aswell.
 #### Skill and Fitting Settings
 Match your skills and fit for the app to calc your range and isotopes correctly.
 
@@ -84,7 +84,7 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDkyODI1NSwtMTQyNjAwNTgwNiwtOD
+eyJoaXN0b3J5IjpbMTY4OTU3Nzc3MiwtMTQyNjAwNTgwNiwtOD
 A1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2
 NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMD
 UwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0

@@ -11,7 +11,7 @@ Tags systems holding agents in space.
 **Jove Observatories**<br>
 Tags systems holding a Jove observatory.
 
-**Incursions**<br>
+**Incursions and Invasions**<br>
 Tags systems of a constellation with an ongoing incursion. The color of the tag of the staging system is brighter.
 
 **Sovereignty and FW Campaigns**<br>
@@ -32,7 +32,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NDc3NDYxLC02MzU4NDA2MzUsMTE3MD
-g5Njg0MSwxMzA1OTQ0Mjc2LDU4MTMwMTM0OCw1MTUwMDk4N119
-
+eyJoaXN0b3J5IjpbLTEwMjgwMDg3MjAsLTYzNTg0MDYzNSwxMT
+cwODk2ODQxLDEzMDU5NDQyNzYsNTgxMzAxMzQ4LDUxNTAwOTg3
+XX0=
 -->

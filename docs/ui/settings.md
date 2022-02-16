@@ -25,10 +25,11 @@ Additionally this will display how many systems are connected to a system of ano
 Will disable displaying background graphics and replace with a near-black blue or white background.
 
 
-
 ## Track
 #### Autostart Location Tracking
 If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
+#### Use animated Location Marker
+
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen.
 #### Show Current Constellation Outline
@@ -71,11 +72,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYzMjM2NjQsLTE0MjYwMDU4MDYsLT
-gwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLTI3MzY5
-NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3MywtMj
-A1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3
-NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMT
-MzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4
-NzUxOTldfQ==
+eyJoaXN0b3J5IjpbLTkyNDYyNjMwNSwtMTQyNjAwNTgwNiwtOD
+A1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2
+NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMD
+UwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0
+OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIzOSwxMz
+M0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3
+NTE5OV19
 -->

@@ -30,6 +30,7 @@ A connection to that unknown system will get created when pasting cosmic signatu
 #### Autostart Location Tracking
 If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 #### Use Animated Location Marker
+Will animate the 
 
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > in the left map menu aswell.
@@ -74,11 +75,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MDgyNjg5LC0xNDI2MDA1ODA2LC04MD
-U5MDYwNDgsMTMyMjY4NjEyMiwyMDgzMDUxMDg2LC0yNzM2OTY2
-MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5NzMsLTIwNT
-AzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5
-NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMz
-QzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1
-MTk5XX0=
+eyJoaXN0b3J5IjpbMjExODA0MDYwMSw3NTkwODI2ODksLTE0Mj
+YwMDU4MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEw
+ODYsLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2OD
+c4Njk3MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3
+NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyOD
+c5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2
+MjU1XX0=
 -->

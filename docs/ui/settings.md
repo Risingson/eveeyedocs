@@ -42,7 +42,9 @@ Trails will fade over time and be hardly visible after 20h.
 This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > in the left map menu aswell.
 #### Clear Trail
 Using this you can clear your current trail.
-#### Clear all Jumpbridges or Wormhole Connections
+#### Clear all Jumpbridges
+Sometimes you would want to clear them all at once.
+#### Clear allWormhole Connections
 Sometimes you would want to clear them all at once.
 
 ## Marks
@@ -79,7 +81,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM2NjMxODEsNDY4NTAwMTkxLDc1OT
+eyJoaXN0b3J5IjpbLTEwODYzNTMwMDcsNDY4NTAwMTkxLDc1OT
 A4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYx
 MjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2ND
 Q0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1

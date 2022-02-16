@@ -16,7 +16,7 @@ Use + and - to scale the entire UI. In browsers you can use its native zoom aswe
 #### Color Hue and Saturation
 Use + and - to set UI colors.
 #### Connection Line Width
-Use + and - to change the line width of the connections on the map. Especially important if exporting the map to PNG.
+Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
 
 ## Map
 #### Extended Map Layout
@@ -68,11 +68,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTk5MDk2MCwyMDgzMDUxMDg2LC0yNz
-M2OTY2MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5NzMs
-LTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MD
-E4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5
-LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMz
-MzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQy
-NDg0XX0=
+eyJoaXN0b3J5IjpbLTE2NTEzMTE5NjQsMjA4MzA1MTA4NiwtMj
+czNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTcz
+LC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNj
+AxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIz
+OSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYyNTUsLT
+MzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OTkxODUxOTYsMTMxMTc0
+MjQ4NF19
 -->

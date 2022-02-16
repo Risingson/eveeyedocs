@@ -23,7 +23,7 @@ Use + and - to change the line width of the connections on the map. Also importa
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
 #### Mono Background
-Will disable displaying background graphics and replace with a near-black blue background.
+Will disable displaying background graphics and replace with a near-black blue obackground.
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen.
 #### Show Current Constellation Outline
@@ -66,11 +66,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwOD
-MwNTEwODYsLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAz
-LDQ2ODc4Njk3MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2LC04ND
-Y5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgy
-OSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMj
-IyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1
-MTk2XX0=
+eyJoaXN0b3J5IjpbLTQxMjUyNTA0MywtODA1OTA2MDQ4LDEzMj
+I2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0
+NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMT
+kzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4
+NSwxOTkwMTYxODI5LDI4Nzk0MTIzOSwxMzM0Mzg3NTA2LC0xMz
+k3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3NTE5OSwxMzU5OTk5
+NjQ1XX0=
 -->

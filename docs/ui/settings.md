@@ -5,8 +5,6 @@
 This will load api data only if you are on wlan to save on data volume. This setting is available within mobile apps only.
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
-#### Doubleclick/tap Mode
-With this mode enabled clicking ot tapping a solarsystem will not show the menu. To show the menu you would have to doubleclick/tap it. On connection lines a single click/tap is sufficient to show its menu still.
 #### Autostart Location Tracking
 If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 
@@ -68,11 +66,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEzMTE5NjQsMjA4MzA1MTA4NiwtMj
-czNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTcz
-LC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNj
-AxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIz
-OSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYyNTUsLT
-MzMzg3NTE5OSwxMzU5OTk5NjQ1LDE3OTkxODUxOTYsMTMxMTc0
-MjQ4NF19
+eyJoaXN0b3J5IjpbMTMyMjY4NjEyMiwyMDgzMDUxMDg2LC0yNz
+M2OTY2MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5NzMs
+LTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MD
+E4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5
+LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMz
+MzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQy
+NDg0XX0=
 -->

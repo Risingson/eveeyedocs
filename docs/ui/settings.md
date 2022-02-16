@@ -30,8 +30,7 @@ A connection to that unknown system will get created when pasting cosmic signatu
 #### Autostart Location Tracking
 If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 #### Use Animated Location Marker
-Will animate the 
-
+Will animate the shape marking your current location. It has been reported that this might stress certain computers. Switch off this feature if you experience this.
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > in the left map menu aswell.
 #### Show Current Constellation Outline
@@ -75,11 +74,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODA0MDYwMSw3NTkwODI2ODksLTE0Mj
-YwMDU4MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEw
-ODYsLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2OD
-c4Njk3MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3
-NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyOD
-c5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2
-MjU1XX0=
+eyJoaXN0b3J5IjpbNDY4NTAwMTkxLDc1OTA4MjY4OSwtMTQyNj
+AwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4
+NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nz
+g2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2
+MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nz
+k0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYy
+NTVdfQ==
 -->

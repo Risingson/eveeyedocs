@@ -9,6 +9,8 @@ This toggles notifications appearing on the bottom of the app when new data was 
 If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 
 ## User Interface
+#### Light Map Theme
+Toggle dark/light theme.
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
 #### Color Hue and Saturation
@@ -20,8 +22,6 @@ Use + and - to change the line width of the connections on the map. Also importa
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
-#### Light Map Theme
-Toggle dark/light theme.
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue background.
 #### Center on Current System
@@ -66,11 +66,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjY4NjEyMiwyMDgzMDUxMDg2LC0yNz
-M2OTY2MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5NzMs
-LTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MD
-E4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5
-LDEzMzQzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMz
-MzODc1MTk5LDEzNTk5OTk2NDUsMTc5OTE4NTE5NiwxMzExNzQy
-NDg0XX0=
+eyJoaXN0b3J5IjpbLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwOD
+MwNTEwODYsLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAz
+LDQ2ODc4Njk3MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2LC04ND
+Y5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgy
+OSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMj
+IyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5OTY0NSwxNzk5MTg1
+MTk2XX0=
 -->

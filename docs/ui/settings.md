@@ -1,12 +1,12 @@
 # Settings
 
 ## App
-#### Download Data over WiFi only (mobile)
+#### Download Data over WiFi only (mobile app only)
 This will load api data only if you are on wlan to save on data volume. This setting is available within mobile apps only.
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
-#### Docking sound (mobile app on
-This toggles notifications appearing on the bottom of the app when new data was loaded.
+#### Docking sound (mobile app only)
+This would play a sound if your ship docked. Handy if you dare to autopilot afk.
 
 
 ## User Interface
@@ -84,7 +84,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYwODgzMTAsNDY4NTAwMTkxLDc1OT
+eyJoaXN0b3J5IjpbLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OT
 A4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYx
 MjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2ND
 Q0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1

@@ -7,10 +7,10 @@ This option has to be enabled if you wish to include Thera in route calculations
 
 ### zKillboard Livestream
 Killstream shows live [zKillboard](https://zkillboard.com/) killmails within 20 minutes. A list will get overlayed on the left side of the map showing the victims. hovering will highlight the system the kill happened on the map. Clicking will oppen the kill on zKillboard.
-A transparent red disc will get displayed on the map. Its size represents the recent kill-count within that solarsystem.
+A transparent red disc will get displayed on the map. Its size represents the recent kill-count within that solarsystem.  This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > in the left map menu aswell.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTA1NDEzNywxMDAzMzk1MDQ3LDcwND
-A3Mjk0MywxOTE3NjYzMDE4LDI1ODIxODczNiwtMTM4MjMxOTM3
-Ml19
+eyJoaXN0b3J5IjpbLTEwODc5NzY1NTAsMTk0NTA1NDEzNywxMD
+AzMzk1MDQ3LDcwNDA3Mjk0MywxOTE3NjYzMDE4LDI1ODIxODcz
+NiwtMTM4MjMxOTM3Ml19
 -->

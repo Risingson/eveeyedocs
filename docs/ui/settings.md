@@ -45,6 +45,15 @@ Using this you can clear your current trail.
 #### Clear all Jumpbridges or Wormhole Connections
 Sometimes you would want to clear them all at once.
 
+## Marks
+You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
+
+## Jump
+#### Display Jumprange
+Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > in the left map menu aswell.
+#### Skill and Fitting Settings
+Match your skills and fit for the app to calc your range and isotopes correctly.
+
 ## Route
 #### Display Route
 Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > in the left map menu aswell.
@@ -64,21 +73,15 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 !!! attention
     You should match ingame and eveeye settings to get the same routes ingame and within eveeye. Still routes displayed may not match 100% every time.
 
-## Jump
-#### Display Jumprange
-Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > in the left map menu aswell.
-#### Skill and Fitting Settings
-Match your skills and fit for the app to calc your range and isotopes correctly.
 
-## Marks
-You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY4NTAwMTkxLDc1OTA4MjY4OSwtMTQyNj
-AwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4
-NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nz
-g2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2
-MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nz
-k0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYy
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMzgxMjA5MzUsNDY4NTAwMTkxLDc1OT
+A4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYx
+MjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2ND
+Q0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1
+MTYsLTg0Njk1Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOT
+kwMTYxODI5LDI4Nzk0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3
+MzM0XX0=
 -->

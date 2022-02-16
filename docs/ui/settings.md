@@ -9,6 +9,8 @@ This toggles notifications appearing on the bottom of the app when new data was 
 ## User Interface
 #### Light Map Theme
 Toggle dark/light theme.
+#### Mono Background
+Will disable displaying background graphics and replace with a near-black blue or white background.
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
 #### Color Hue and Saturation
@@ -21,14 +23,15 @@ Use + and - to change the line width of the connections on the map. Also importa
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
-#### Mono Background
-Will disable displaying background graphics and replace with a near-black blue or white background.
+#### Show Unknown Connections
+When pasting cosmic signatures containing an unknown wormhole a connection to that unknown system will get created. Using this option you can turn off t
+
 
 
 ## Track
 #### Autostart Location Tracking
 If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
-#### Use animated Location Marker
+#### Use Animated Location Marker
 
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen.
@@ -72,7 +75,7 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDYyNjMwNSwtMTQyNjAwNTgwNiwtOD
+eyJoaXN0b3J5IjpbLTc1MjE5ODYwOCwtMTQyNjAwNTgwNiwtOD
 A1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2
 NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMD
 UwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0

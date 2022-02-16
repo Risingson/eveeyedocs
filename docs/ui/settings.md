@@ -76,7 +76,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 ## Jump
 #### Display Jumprange
-Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > in the left map menu aswell.
+Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > in the left map menu aswell.
 #### Skill and Fitting Settings
 Match your skills and fit for the app to calc your range and isotopes correctly.
 
@@ -84,7 +84,7 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTU3Nzc3MiwtMTQyNjAwNTgwNiwtOD
+eyJoaXN0b3J5IjpbLTY3OTk5MjE1OCwtMTQyNjAwNTgwNiwtOD
 A1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2
 NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMD
 UwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0

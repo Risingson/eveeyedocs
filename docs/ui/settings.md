@@ -1,12 +1,10 @@
 # Settings
 
-## General
+## App
 #### Download Data over WiFi only (mobile)
 This will load api data only if you are on wlan to save on data volume. This setting is available within mobile apps only.
 #### Suppress Data Update Notifications
 This toggles notifications appearing on the bottom of the app when new data was loaded.
-#### Autostart Location Tracking
-If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 
 ## User Interface
 #### Light Map Theme
@@ -19,11 +17,18 @@ Use + and - to set UI colors.
 Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
 
 ## Map
+<!-- #### Extended Map Layout -->
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue or white background.
+
+
+
+## Track
+#### Autostart Location Tracking
+If you got a character [authenticated](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation) this will instantly display your location on the map at app start.
 #### Center on Current System
 This will tween the system your character is currently in to the center of the screen.
 #### Show Current Constellation Outline
@@ -62,15 +67,15 @@ Enables/Disables displaying jumpranges on the map.
 #### Skill and Fitting Settings
 Match your skills and fit for the app to calc your range and isotopes correctly.
 
-## Names
+## Marks
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjYwMDU4MDYsLTgwNTkwNjA0OCwxMz
-IyNjg2MTIyLDIwODMwNTEwODYsLTI3MzY5NjYwLC0zNzQwMTgx
-NDQsNjQ0NDM0NTAzLDQ2ODc4Njk3MywtMjA1MDMyNjIxNiwxMj
-E5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3NDk1Niw4MDA0NDY3
-ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMTMzNDM4NzUwNiwtMT
-M5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4NzUxOTksMTM1OTk5
-OTY0NV19
+eyJoaXN0b3J5IjpbMzQ1ODAxMTEyLC0xNDI2MDA1ODA2LC04MD
+U5MDYwNDgsMTMyMjY4NjEyMiwyMDgzMDUxMDg2LC0yNzM2OTY2
+MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5NzMsLTIwNT
+AzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5
+NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMz
+QzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1
+MTk5XX0=
 -->

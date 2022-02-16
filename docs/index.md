@@ -22,7 +22,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 [Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app.html)
 
-## DSupport & Social
+## Feedback, Support & Social
 
 Join Eveeye <a href="https://discord.gg/m3Bm2Rjuk7">Discord</a><br>
 Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
@@ -51,11 +51,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODY0NzY3NSwtNjEwNjcwMzc5LC04Nz
-I2MjEzODIsLTEyMTk2MTYwMDYsMzI2MDE5Njc5LC0xMzE1NDY4
-Nzk1LC0yMTI0NjY3ODQxLC0zNTkyMTU2NzIsMjA0OTM4MzE2Ny
-wxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC00NDAxODUwNzMsLTk0
-NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYwMDQyNzM2LDkxODUxMz
-c1MiwxNDkwMjg2NDgxLDE0NjM4NzM5NjQsMTY3MDI1NTUzMCwx
-MDY2MTU1MTIyXX0=
+eyJoaXN0b3J5IjpbLTE3NjI2NzU3OTAsLTYxMDY3MDM3OSwtOD
+cyNjIxMzgyLC0xMjE5NjE2MDA2LDMyNjAxOTY3OSwtMTMxNTQ2
+ODc5NSwtMjEyNDY2Nzg0MSwtMzU5MjE1NjcyLDIwNDkzODMxNj
+csMTQ0NTM2Nzk0NywtMTYxNTY5MDAzOSwtNDQwMTg1MDczLC05
+NDUxOTM5ODUsLTE4MjM0MTMyNzYsLTg2MDA0MjczNiw5MTg1MT
+M3NTIsMTQ5MDI4NjQ4MSwxNDYzODczOTY0LDE2NzAyNTU1MzAs
+MTA2NjE1NTEyMl19
 -->

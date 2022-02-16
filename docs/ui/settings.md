@@ -17,7 +17,7 @@ Use + and - to set UI colors.
 Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
 
 ## Map
-<!-- #### Extended Map Layout -->
+<!-- #### Hexagonal Map Layout -->
 #### Extended Map Layout
 This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
 Additionally this will display how many systems are connected to a system of another region.
@@ -71,11 +71,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1ODAxMTEyLC0xNDI2MDA1ODA2LC04MD
-U5MDYwNDgsMTMyMjY4NjEyMiwyMDgzMDUxMDg2LC0yNzM2OTY2
-MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5NzMsLTIwNT
-AzMjYyMTYsMTIxOTM4MzUxNiwtODQ2OTUzNzYyLC02MDE4NzQ5
-NTYsODAwNDQ2Nzg1LDE5OTAxNjE4MjksMjg3OTQxMjM5LDEzMz
-QzODc1MDYsLTEzOTc1MjczMzQsMTIyMjg3NjI1NSwtMzMzODc1
-MTk5XX0=
+eyJoaXN0b3J5IjpbLTExODYzMjM2NjQsLTE0MjYwMDU4MDYsLT
+gwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLTI3MzY5
+NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3MywtMj
+A1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3
+NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMT
+MzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4
+NzUxOTldfQ==
 -->

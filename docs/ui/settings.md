@@ -31,9 +31,7 @@ A connection to that unknown system will get created when pasting cosmic signatu
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
+
 
 
 ## Track
@@ -84,11 +82,11 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) which will display in the map's legend if applicable.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3OTk5MjE1OCwtMTQyNjAwNTgwNiwtOD
-A1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2
-NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMD
-UwMzI2MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0
-OTU2LDgwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIzOSwxMz
-M0Mzg3NTA2LC0xMzk3NTI3MzM0LDEyMjI4NzYyNTUsLTMzMzg3
-NTE5OV19
+eyJoaXN0b3J5IjpbLTEyODc3MjExMDYsLTE0MjYwMDU4MDYsLT
+gwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLTI3MzY5
+NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3MywtMj
+A1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLTYwMTg3
+NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEyMzksMT
+MzNDM4NzUwNiwtMTM5NzUyNzMzNCwxMjIyODc2MjU1LC0zMzM4
+NzUxOTldfQ==
 -->

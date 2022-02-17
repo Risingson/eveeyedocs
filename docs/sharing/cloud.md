@@ -53,14 +53,10 @@ If enabled the connections you jump via K-K wormholes would get shared publicall
 Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
 
-Synced amongst your devices would be map presets, signatures, connections, marks and names.
-
-Shared with other pilots would be your location and ship, signatures, connections and shared marks plus their names.
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUzODg2OTMsLTE0NzA0MDMwOTEsLT
-M0NTQxMTk0NCwtNDA1Mjc2ODk3LC0xNjE2NDM3ODIxLDUwMTc2
-NTYzNSwtMTI0NDc5NzYzMSwtMTQzMTI4MDg1MSw0MTc0OTM3OT
-YsLTE0MDA3MjU4ODgsLTIzNTEzOTY1MiwxNjA0OTU1MTcxLC05
-MDMxNjk5MDFdfQ==
+eyJoaXN0b3J5IjpbLTUwNjk3MjA4LC0xMzg1Mzg4NjkzLC0xND
+cwNDAzMDkxLC0zNDU0MTE5NDQsLTQwNTI3Njg5NywtMTYxNjQz
+NzgyMSw1MDE3NjU2MzUsLTEyNDQ3OTc2MzEsLTE0MzEyODA4NT
+EsNDE3NDkzNzk2LC0xNDAwNzI1ODg4LC0yMzUxMzk2NTIsMTYw
+NDk1NTE3MSwtOTAzMTY5OTAxXX0=
 -->

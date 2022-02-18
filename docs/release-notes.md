@@ -4,18 +4,15 @@
 #### Release 5.00.0 - Feb 2022
  - Live gatecamp checks on your route
  - New Jumprange pane for systems in range
- - New Lists pane added to quickly scroll through all of your data
+ - New Lists pane added to quickly view all of your data
  - Structure mapping
-
-  - Share system names
+ - Share solarsystem names
  - Store and share routes
  - Control line thickness
  - Control UI brightness
  - Export displayed maps to clipboard or images (browser)
  - Third party advertising removed (Eveeye is now third party free on mobile aswell)
  - Browser subscriptions will remove nag banner on mobile aswell
-
-
 
 #### Release 4.02.0 - Jan 2021
  - Exact ingame map added
@@ -140,11 +137,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNzUyMjA5LC0yMDIxODg3MjA2LC0xOT
-UxODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5
-MSwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLT
-E1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIy
-NDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMT
-Y5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5
-NzY2M119
+eyJoaXN0b3J5IjpbLTEzNzkwNjAyMTUsLTIwMjE4ODcyMDYsLT
+E5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Njk5
+NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MC
+wtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4
+MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NC
+wxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1
+NTk3NjYzXX0=
 -->

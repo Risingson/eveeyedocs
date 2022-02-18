@@ -2,15 +2,16 @@
 
 
 #### Release 5.00.0 - Feb 2022
- - Lists added to quickly scroll through all of your data
- - Structure mapping
- - Jumprange pane for systems in range
  - Live gatecamp checks on your route
- - Share system names
+ - New Jumprange pane for systems in range
+ - New Lists pane added to quickly scroll through all of your data
+ - Structure mapping
+
+  - Share system names
  - Store and share routes
  - Control line thickness
  - Control UI brightness
- - Export displayed maps to clipboard or images (tablet)
+ - Export displayed maps to clipboard or images (browser)
  - Third party advertising removed (Eveeye is now third party free on mobile aswell)
  - Browser subscriptions will remove nag banner on mobile aswell
 
@@ -139,7 +140,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NzQyNjAzLC0yMDIxODg3MjA2LC0xOT
+eyJoaXN0b3J5IjpbNTEyNzUyMjA5LC0yMDIxODg3MjA2LC0xOT
 UxODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5
 MSwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLT
 E1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIy

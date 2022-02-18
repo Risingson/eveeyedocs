@@ -10,8 +10,10 @@
  - Store and share routes
  - Control line thickness
  - Control UI brightness
- - Export displayed maps to clipboard or images (browser)
+ - Export displayed maps to clipboard or images (tablet)
  - Third party advertising removed (Eveeye is now third party free on mobile aswell)
+ - Browser subscriptions will remove nag banner on mobile aswell
+
 
 
 #### Release 4.02.0 - Jan 2021
@@ -137,7 +139,7 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNDY5OTAzLC0yMDIxODg3MjA2LC0xOT
+eyJoaXN0b3J5IjpbNjg1NzQyNjAzLC0yMDIxODg3MjA2LC0xOT
 UxODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5
 MSwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLT
 E1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIy

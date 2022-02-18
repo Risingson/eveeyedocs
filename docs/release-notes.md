@@ -1,20 +1,18 @@
 # Release Notes
 
-<!--
-#### Release 4.03.0 - Dec 2021
-  - ? Lists added to quickly scroll through all of your data
- - ? Shared data edit log 
- - 
- - *------ already done:*
+
+#### Release 5.00.0 - Feb 2022
+ - Lists added to quickly scroll through all of your data
  - Structure mapping
- - Jumprange pane for systems in range ( <<< add to lists ??? )
+ - Jumprange pane for systems in range
  - Live gatecamp checks on your route
  - Share system names
  - Store and share routes
  - Control line thickness
+ - Control UI brightness
  - Export displayed maps to clipboard or images (browser)
  - Third party advertising removed (Eveeye is now third party free on mobile aswell)
--->
+
 
 #### Release 4.02.0 - Jan 2021
  - Exact ingame map added
@@ -139,11 +137,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE4ODcyMDYsLTE5NTE4MzI3NzYsMz
-IzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0
-OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4MjM0My
-w3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1
-OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LD
-ExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1NTk3NjYzLDk5OTUx
-NDM4M119
+eyJoaXN0b3J5IjpbNDkwNDY5OTAzLC0yMDIxODg3MjA2LC0xOT
+UxODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5
+MSwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLT
+E1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIy
+NDgsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMT
+Y5MTEyMzcwNCwxMTU1MTMzOTg0LC0xMTExNzYwOTYxLDMxNTU5
+NzY2M119
 -->

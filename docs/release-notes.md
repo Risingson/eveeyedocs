@@ -2,18 +2,27 @@
 
 
 #### Release 5.00.0 - Feb 2022
- - Live gatecamp checks on your route
- - New Jumprange pane for systems in range
- - New Lists pane added to quickly view all of your data
- - Structure mapping
- - Share solarsystem names
- - Store and share routes
- - Control line thickness
- - Control UI brightness
- - Export displayed maps to clipboard or images (browser)
- - Third party advertising removed (Eveeye is now third party free on mobile aswell)
- - Browser subscriptions will remove nag banner on mobile aswell
-
+- Additional map overlay menu for fast setting access
+- Locking of jumprange origin
+- Live gatecamp checks on your route
+- Jumprange pane for systems in range
+- Lists pane added to quickly view all of your data
+- Structure mapping
+- Share solarsystem names
+- Store and share routes
+- Control UI brightness and connection line width
+- Added various settings and data options
+- Added a Station tag option to emphasize station systems
+- Added Recent NPC Kill Delta to sublabel options
+- Added Incursions and Invasions to universe map
+- Setting to toggle setting of waypoints ingame
+- Setting to hide connections to added but unknown wormholes
+- Setting for an Animated Location marker
+- Option to clear all added jumpbridges at once
+- A lot of other minor improvements and a lot of fixes
+- Advertising removed. Eveeye is completely third party free
+- Browser subs remove nag banner on mobile aswell
+- 
 #### Release 4.02.0 - Jan 2021
  - Exact ingame map added
  - Station system TAG option
@@ -137,11 +146,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzkwNjAyMTUsLTIwMjE4ODcyMDYsLT
-E5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Njk5
-NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MC
-wtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4
-MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NTIsLTU5OTY5OTk2NC
-wxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTExMTE3NjA5NjEsMzE1
-NTk3NjYzXX0=
+eyJoaXN0b3J5IjpbLTE0MDI3NTg1MDIsLTEzNzkwNjAyMTUsLT
+IwMjE4ODcyMDYsLTE5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3
+NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OS
+wtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4
+MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NT
+IsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTEx
+MTE3NjA5NjFdfQ==
 -->

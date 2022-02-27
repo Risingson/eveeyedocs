@@ -22,7 +22,7 @@
 - A lot of other minor improvements and a lot of fixes
 - Advertising removed. Eveeye is completely third party free
 - Browser subs remove nag banner on mobile aswell
-- 
+
 #### Release 4.02.0 - Jan 2021
  - Exact ingame map added
  - Station system TAG option
@@ -146,11 +146,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDI3NTg1MDIsLTEzNzkwNjAyMTUsLT
-IwMjE4ODcyMDYsLTE5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3
-NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OS
-wtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4
-MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2MTE1OTkyLDEzOTcxNDk1NT
-IsLTU5OTY5OTk2NCwxNjkxMTIzNzA0LDExNTUxMzM5ODQsLTEx
-MTE3NjA5NjFdfQ==
+eyJoaXN0b3J5IjpbMTI2OTc1Nzk2NSwtMTM3OTA2MDIxNSwtMj
+AyMTg4NzIwNiwtMTk1MTgzMjc3NiwzMjMxMTQwMDYsMTkyOTc3
+MjYwLDE1NzU2OTk1OTEsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC
+0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgz
+NDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OTIsMTM5NzE0OTU1Mi
+wtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1NTEzMzk4NCwtMTEx
+MTc2MDk2MV19
 -->

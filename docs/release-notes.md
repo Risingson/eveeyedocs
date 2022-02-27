@@ -11,7 +11,6 @@
 - Share solarsystem names
 - Store and share routes
 - Control UI brightness and connection line width
-- Added a Station tag option to emphasize station systems
 - Added Recent NPC Kill Delta to sublabel options
 - Added Incursions and Invasions to universe map
 - Setting to toggle setting of waypoints ingame
@@ -145,11 +144,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTUwNjE1OSwxMjY5NzU3OTY1LC0xMz
-c5MDYwMjE1LC0yMDIxODg3MjA2LC0xOTUxODMyNzc2LDMyMzEx
-NDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5MSwxMzczMTk5NDkwLD
-EzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYy
-MTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5Mi
-wxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5MTEyMzcwNCwxMTU1
-MTMzOTg0XX0=
+eyJoaXN0b3J5IjpbLTEzNTg5MzcwMDEsMTI2OTc1Nzk2NSwtMT
+M3OTA2MDIxNSwtMjAyMTg4NzIwNiwtMTk1MTgzMjc3NiwzMjMx
+MTQwMDYsMTkyOTc3MjYwLDE1NzU2OTk1OTEsMTM3MzE5OTQ5MC
+wxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2
+MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OT
+IsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1
+NTEzMzk4NF19
 -->

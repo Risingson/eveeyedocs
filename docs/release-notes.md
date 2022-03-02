@@ -2,6 +2,7 @@
 
 
 #### Release 5.00.0 - Feb 2022
+- Major improvements to universe map
 - Additional map overlay menu for fast setting access
 - Locking of jumprange origin
 - Live gatecamp checks on your route
@@ -144,11 +145,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg5MzcwMDEsMTI2OTc1Nzk2NSwtMT
-M3OTA2MDIxNSwtMjAyMTg4NzIwNiwtMTk1MTgzMjc3NiwzMjMx
-MTQwMDYsMTkyOTc3MjYwLDE1NzU2OTk1OTEsMTM3MzE5OTQ5MC
-wxMzIyMzc3Mjg5LC0xNzEzNTQxODgwLC0xNTgzMDgyMzQzLDc2
-MjE0Mzg5NywxODgzNDg1NjgsNjM2OTgyMjQ4LDExNDYxMTU5OT
-IsMTM5NzE0OTU1MiwtNTk5Njk5OTY0LDE2OTExMjM3MDQsMTE1
-NTEzMzk4NF19
+eyJoaXN0b3J5IjpbMTg4MDcyNjU2OCwtMTM1ODkzNzAwMSwxMj
+Y5NzU3OTY1LC0xMzc5MDYwMjE1LC0yMDIxODg3MjA2LC0xOTUx
+ODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5MS
+wxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1
+ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyND
+gsMTE0NjExNTk5MiwxMzk3MTQ5NTUyLC01OTk2OTk5NjQsMTY5
+MTEyMzcwNF19
 -->

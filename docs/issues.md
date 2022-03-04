@@ -9,8 +9,8 @@ Some issues above might already be fixed on browser version already but are yet 
 #### Bugreporting
 
 Most efficient way to fast fix an issue (on browser) is joining Eveeye <a href="https://discord.gg/m3Bm2Rjuk7">Discord</a><br>
-You could just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>  aswell or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) <br>
+You could just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>  aswell <!--or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) <br>-->
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ4NjY0OTFdfQ==
+eyJoaXN0b3J5IjpbMjA0NDcwMDQ2Nl19
 -->

@@ -1,6 +1,5 @@
 # Release Notes
-!!! warning "Known issues with latest release"
-    - Changing jumprange settings does not update range on universe map.
+[Known Issues](https://eveeyeechoes.readthedocs.io/en/latest/issues/)
 
 #### Release 5.00.0 - Feb 2022
 - Major improvements to universe map
@@ -146,11 +145,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTgzNTU0MiwtMzgwMDc0NjcsMTg4MD
-cyNjU2OCwtMTM1ODkzNzAwMSwxMjY5NzU3OTY1LC0xMzc5MDYw
-MjE1LC0yMDIxODg3MjA2LC0xOTUxODMyNzc2LDMyMzExNDAwNi
-wxOTI5NzcyNjAsMTU3NTY5OTU5MSwxMzczMTk5NDkwLDEzMjIz
-NzcyODksLTE3MTM1NDE4ODAsLTE1ODMwODIzNDMsNzYyMTQzOD
-k3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0NjExNTk5MiwxMzk3
-MTQ5NTUyXX0=
+eyJoaXN0b3J5IjpbLTE3MjQ5OTg2MDcsLTk1NTgzNTU0MiwtMz
+gwMDc0NjcsMTg4MDcyNjU2OCwtMTM1ODkzNzAwMSwxMjY5NzU3
+OTY1LC0xMzc5MDYwMjE1LC0yMDIxODg3MjA2LC0xOTUxODMyNz
+c2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5MSwxMzcz
+MTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwOD
+IzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0
+NjExNTk5Ml19
 -->

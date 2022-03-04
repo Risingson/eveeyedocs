@@ -1,5 +1,5 @@
 # Release Notes
-[Known Issues](https://eveeyeechoes.readthedocs.io/en/latest/issues/)
+[Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
 
 #### Release 5.00.0 - Feb 2022
 - Major improvements to universe map
@@ -145,11 +145,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ5OTg2MDcsLTk1NTgzNTU0MiwtMz
-gwMDc0NjcsMTg4MDcyNjU2OCwtMTM1ODkzNzAwMSwxMjY5NzU3
-OTY1LC0xMzc5MDYwMjE1LC0yMDIxODg3MjA2LC0xOTUxODMyNz
-c2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5OTU5MSwxMzcz
-MTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4ODAsLTE1ODMwOD
-IzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5ODIyNDgsMTE0
-NjExNTk5Ml19
+eyJoaXN0b3J5IjpbMTE3OTA3MDExNiwtOTU1ODM1NTQyLC0zOD
+AwNzQ2NywxODgwNzI2NTY4LC0xMzU4OTM3MDAxLDEyNjk3NTc5
+NjUsLTEzNzkwNjAyMTUsLTIwMjE4ODcyMDYsLTE5NTE4MzI3Nz
+YsMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Njk5NTkxLDEzNzMx
+OTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4Mj
+M0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2
+MTE1OTkyXX0=
 -->

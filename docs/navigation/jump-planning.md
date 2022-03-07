@@ -6,6 +6,9 @@
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it (browser) or doubletapping it and chooseing "Set Current System" from menu.
 
 
+...........
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyNzM0NjkwXX0=
+eyJoaXN0b3J5IjpbLTE5ODU1MTYxNzRdfQ==
 -->

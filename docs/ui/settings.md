@@ -74,7 +74,9 @@ Use your jumpbridges to calculate a route.
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
 ### Jumpdrive Settings
 #### Use Jumpdrive
-This would 
+This would enable finding routes using a jumpdrive.
+#### Prefer Station Systems
+This option will prefer systems with staion en route over shortest distance. This system will prefer stations with a undock radius 
 ### Avoidance Settings
 #### Avoid Incursions/Edencom/Triglavian Systems
 Set this to <!--try to--> avoid routing via Incursion, Edencom and/or Triglavian solarsystems. <!--This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.-->
@@ -90,7 +92,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjc4MDEzOCwyMTczOTE1MTIsLTEwND
+eyJoaXN0b3J5IjpbMTUxNTcyNTM5MCwyMTczOTE1MTIsLTEwND
 QzMDQwMDEsLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OTA4MjY4
 OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMj
 A4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1

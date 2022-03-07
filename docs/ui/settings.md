@@ -66,7 +66,7 @@ Will display your route on the map after you used "Set Destination/Waypoint" fro
 Turns on/off if your route should be set to the EVE client.
 #### Shorter/Safer/Less Secure Route
 Set your preferred travel security. This should match your ingame setting.
-Less Secure Route in Eveeye w
+Less Secure Route in Eveeye will most likely match ingame with a Security penatly of 50 set in the client.
 #### Use Jumpbridges 
 Use your jumpbridges to calculate a route.
 #### Use Wormholes
@@ -85,7 +85,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMTM1Nzc3LC0xMDQ0MzA0MDAxLC0xND
+eyJoaXN0b3J5IjpbMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xND
 cwMTM3NzU2LDQ2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4
 MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLT
 I3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3

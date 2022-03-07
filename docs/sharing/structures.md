@@ -22,13 +22,13 @@ You can clean a system from structures as a whole by doubleclicking the `little 
 | Name | Name of the Structure |
 | Type|  Type of Structure |
 | Notes| Info like owning corp, location, etc. |
-| State	|  |
-| Standing|  |
+| State	| Unknown State<br>Anchoring<br>Full Power<br>Low Power<br> |
+| Standing| Red = Hostile<br>Neutral = Not hostile and no docking rights<br> |
 
 
 ## Sharing
 If you turned on [Data Sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) structures will get displayed to all other pilots in your sharing group.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg4MzY0NTQsLTYxNDUxNjcyNywtOT
-kzNjczMzk3LC01NTI1NzIyNDldfQ==
+eyJoaXN0b3J5IjpbNjI5NTc4MzA2LC0xODk4ODM2NDU0LC02MT
+Q1MTY3MjcsLTk5MzY3MzM5NywtNTUyNTcyMjQ5XX0=
 -->

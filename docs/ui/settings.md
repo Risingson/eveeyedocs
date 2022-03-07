@@ -76,7 +76,7 @@ Use your mapped wormholes to calculate a route including [Thera connections](htt
 #### Use Jumpdrive
 This would enable finding routes using a jumpdrive.
 #### Use gates instead <<<<<<<<<< how is it called ?
-If you rather would do X jumps via gates instead of doing a jump with your jumpdrive you can set that limit using this opti
+If you rather would do X jumps via gates instead of doing a jump with your jumpdrive you can set that limit using this option. Example: The jump planner suggests a jump from A to B. You could go frm
 #### Prefer Station Systems
 This option will prefer systems with staion en route over shortest distance. This system will prefer stations with a undock radius of 10k and higher. If no such station system is found it would still use the systems with low undock radius. 
 
@@ -95,11 +95,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjEzNzQyNSwyMTczOTE1MTIsLTEwND
-QzMDQwMDEsLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OTA4MjY4
-OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMj
-A4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1
-MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLT
-g0Njk1Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYx
-ODI5XX0=
+eyJoaXN0b3J5IjpbMjE1MjkzMzA0LDIxNzM5MTUxMiwtMTA0ND
+MwNDAwMSwtMTQ3MDEzNzc1Niw0Njg1MDAxOTEsNzU5MDgyNjg5
+LC0xNDI2MDA1ODA2LC04MDU5MDYwNDgsMTMyMjY4NjEyMiwyMD
+gzMDUxMDg2LC0yNzM2OTY2MCwtMzc0MDE4MTQ0LDY0NDQzNDUw
+Myw0Njg3ODY5NzMsLTIwNTAzMjYyMTYsMTIxOTM4MzUxNiwtOD
+Q2OTUzNzYyLC02MDE4NzQ5NTYsODAwNDQ2Nzg1LDE5OTAxNjE4
+MjldfQ==
 -->

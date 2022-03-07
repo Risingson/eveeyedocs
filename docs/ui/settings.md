@@ -64,8 +64,9 @@ Match your skills and fit for the app to calc your range and isotopes correctly.
 Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > in the left map menu aswell.
 #### Set Waypoints Ingame
 Turns on/off if your route should be set to the EVE client.
-#### Shortest/Secure/Insecure Route
+#### Shorter/Safer/Less Secure Route
 Set your preferred travel security. This should match your ingame setting.
+Less Secure in Eveeye 
 #### Use Jumpbridges 
 Use your jumpbridges to calculate a route.
 #### Use Wormholes
@@ -84,11 +85,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OT
-A4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYx
-MjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2ND
-Q0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1
-MTYsLTg0Njk1Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOT
-kwMTYxODI5LDI4Nzk0MTIzOSwxMzM0Mzg3NTA2LC0xMzk3NTI3
-MzM0XX0=
+eyJoaXN0b3J5IjpbLTEwNDQzMDQwMDEsLTE0NzAxMzc3NTYsND
+Y4NTAwMTkxLDc1OTA4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2
+MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLT
+M3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2
+MjE2LDEyMTkzODM1MTYsLTg0Njk1Mzc2MiwtNjAxODc0OTU2LD
+gwMDQ0Njc4NSwxOTkwMTYxODI5LDI4Nzk0MTIzOSwxMzM0Mzg3
+NTA2XX0=
 -->

@@ -60,6 +60,7 @@ Enables/Disables displaying jumpranges on the map. This can be triggered by <img
 Match your skills and fit for the app to calc your range and isotopes correctly.
 
 ## Route
+### General Settings
 #### Display Route
 Will display your route on the map after you used "Set Destination/Waypoint" from solarsystem menu. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > in the left map menu aswell.
 #### Set Waypoints Ingame
@@ -71,6 +72,10 @@ Less Secure Route in Eveeye will most likely match ingame with a Security penatl
 Use your jumpbridges to calculate a route.
 #### Use Wormholes
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
+### Jumpdrive Settings
+#### Use Jumpdrive
+This would 
+### Avoidance Settings
 #### Avoid Incursions/Edencom/Triglavian Systems
 Set this to <!--try to--> avoid routing via Incursion, Edencom and/or Triglavian solarsystems. <!--This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.-->
 #### Avoid Systems
@@ -85,7 +90,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODU5ODAwOCwyMTczOTE1MTIsLTEwND
+eyJoaXN0b3J5IjpbMTkxMjc4MDEzOCwyMTczOTE1MTIsLTEwND
 QzMDQwMDEsLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OTA4MjY4
 OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMj
 A4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1

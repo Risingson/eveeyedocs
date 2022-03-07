@@ -73,6 +73,7 @@ Use your jumpbridges to calculate a route.
 #### Use Wormholes
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
 ### Jumpdrive Settings
+See [this](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/) for more information on jump planning.
 #### Use Jumpdrive
 This would enable finding routes using a jumpdrive.
 #### Jump vs Gates Limit
@@ -96,7 +97,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzgxOTU3Myw3MzI2NzU1OTEsLTE2Nz
+eyJoaXN0b3J5IjpbMTA2NjE4NTU4Miw3MzI2NzU1OTEsLTE2Nz
 Q2NTM2NzMsMzYzNTA0NzAzLC0xMjUyNjA1NTgyLC0zNDY1MjI0
 NDcsMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xNDcwMTM3NzU2LD
 Q2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4MDYsLTgwNTkw

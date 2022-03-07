@@ -71,8 +71,8 @@ Less Secure Route in Eveeye will most likely match ingame with a Security penatl
 Use your jumpbridges to calculate a route.
 #### Use Wormholes
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
-#### Avoid Edencom/Triglavian Systems
-Set this to <!--try to--> avoid routing via Edencom and/or Triglavian solarsystems. <!--This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.-->
+#### Avoid Incursions/Edencom/Triglavian Systems
+Set this to <!--try to--> avoid routing via Incursion, Edencom and/or Triglavian solarsystems. <!--This works differently than ingame though. If you use those settings ingame the EVE client will not find a route if you cannot get somewhere without crossing Edencom or Triglavian systems. Eveeye will try to find a route where you cross them least.-->
 #### Avoid Systems
 Avoid systems you set avoided by clicking it and choosing "Avoid System" in the solarsystem menu shown (that option is only there while [Client Sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) is activated). This should match your ingame setting since setting a system avoided in Eveeye does not set it avoided ingame and vice versa. 
 #### Avoidance List
@@ -85,11 +85,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xND
-cwMTM3NzU2LDQ2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4
-MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLT
-I3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3
-MywtMjA1MDMyNjIxNiwxMjE5MzgzNTE2LC04NDY5NTM3NjIsLT
-YwMTg3NDk1Niw4MDA0NDY3ODUsMTk5MDE2MTgyOSwyODc5NDEy
-MzldfQ==
+eyJoaXN0b3J5IjpbMjAzODU5ODAwOCwyMTczOTE1MTIsLTEwND
+QzMDQwMDEsLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OTA4MjY4
+OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMj
+A4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1
+MDMsNDY4Nzg2OTczLC0yMDUwMzI2MjE2LDEyMTkzODM1MTYsLT
+g0Njk1Mzc2MiwtNjAxODc0OTU2LDgwMDQ0Njc4NSwxOTkwMTYx
+ODI5XX0=
 -->

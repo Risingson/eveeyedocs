@@ -73,7 +73,6 @@ Use your jumpbridges to calculate a route.
 #### Use Wormholes
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
 ### Jumpdrive Settings
-See [this](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/) for more information on jump planning.
 #### Use Jumpdrive
 This would enable finding routes using a jumpdrive.
 #### Jump vs Gates Limit
@@ -81,6 +80,8 @@ If you rather would do X jumps via gates instead of doing a jump with your jumpd
 The gate count will take the `Use Jumpbridges`  and `Use Wormholes` settings into account.
 #### Prefer Station Systems
 This option will prefer systems with staion en route over shortest distance. This system will prefer stations with a undock radius of 10k and higher. If no such station system is found it would still use the systems with low undock radius. 
+
+*Read through [this](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/) for more information on jump planning.*
 
 ### Avoidance Settings
 #### Avoid Incursions/Edencom/Triglavian Systems
@@ -97,11 +98,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NjE4NTU4Miw3MzI2NzU1OTEsLTE2Nz
-Q2NTM2NzMsMzYzNTA0NzAzLC0xMjUyNjA1NTgyLC0zNDY1MjI0
-NDcsMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xNDcwMTM3NzU2LD
-Q2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4MDYsLTgwNTkw
-NjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLTI3MzY5NjYwLC
-0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3MywtMjA1MDMy
-NjIxNl19
+eyJoaXN0b3J5IjpbMzc0NDU4Njk2LDczMjY3NTU5MSwtMTY3ND
+Y1MzY3MywzNjM1MDQ3MDMsLTEyNTI2MDU1ODIsLTM0NjUyMjQ0
+NywyMTczOTE1MTIsLTEwNDQzMDQwMDEsLTE0NzAxMzc3NTYsND
+Y4NTAwMTkxLDc1OTA4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2
+MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLT
+M3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2
+MjE2XX0=
 -->

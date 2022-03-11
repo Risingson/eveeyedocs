@@ -3,7 +3,7 @@
 
 #### Browser Version Ninja Feature Changelog
 *Features that got added on the fly to browser*
-- 2022-03-11 : Ingame event options for Tags and Universe Maps (2022-03-11)
+- 2022-03-11 : Ingame event options for Tags and Universe Maps
 
 #### Release 5.00.0 - Feb 2022
 - Major improvements to universe map
@@ -149,11 +149,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTMyODU0LDExNzkwNzAxMTYsLTk1NT
-gzNTU0MiwtMzgwMDc0NjcsMTg4MDcyNjU2OCwtMTM1ODkzNzAw
-MSwxMjY5NzU3OTY1LC0xMzc5MDYwMjE1LC0yMDIxODg3MjA2LC
-0xOTUxODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5
-OTU5MSwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4OD
-AsLTE1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5
-ODIyNDhdfQ==
+eyJoaXN0b3J5IjpbMTUzNzMyNjM1NCwxMTc5MDcwMTE2LC05NT
+U4MzU1NDIsLTM4MDA3NDY3LDE4ODA3MjY1NjgsLTEzNTg5Mzcw
+MDEsMTI2OTc1Nzk2NSwtMTM3OTA2MDIxNSwtMjAyMTg4NzIwNi
+wtMTk1MTgzMjc3NiwzMjMxMTQwMDYsMTkyOTc3MjYwLDE1NzU2
+OTk1OTEsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxOD
+gwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2
+OTgyMjQ4XX0=
 -->

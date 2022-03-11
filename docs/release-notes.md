@@ -1,6 +1,10 @@
 # Release Notes
 [Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
 
+#### Browser Version Ninja Features
+Th
+- Ingame event options for Tags and Universe Maps
+
 #### Release 5.00.0 - Feb 2022
 - Major improvements to universe map
 - Additional map overlay menu for fast setting access
@@ -145,11 +149,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTA3MDExNiwtOTU1ODM1NTQyLC0zOD
-AwNzQ2NywxODgwNzI2NTY4LC0xMzU4OTM3MDAxLDEyNjk3NTc5
-NjUsLTEzNzkwNjAyMTUsLTIwMjE4ODcyMDYsLTE5NTE4MzI3Nz
-YsMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1Njk5NTkxLDEzNzMx
-OTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MTg4MCwtMTU4MzA4Mj
-M0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYzNjk4MjI0OCwxMTQ2
-MTE1OTkyXX0=
+eyJoaXN0b3J5IjpbLTEyNDgxMzIwNzYsMTE3OTA3MDExNiwtOT
+U1ODM1NTQyLC0zODAwNzQ2NywxODgwNzI2NTY4LC0xMzU4OTM3
+MDAxLDEyNjk3NTc5NjUsLTEzNzkwNjAyMTUsLTIwMjE4ODcyMD
+YsLTE5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1
+Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MT
+g4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYz
+Njk4MjI0OF19
 -->

@@ -1,9 +1,9 @@
 # Release Notes
 [Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
 
-#### Browser Version Ninja Features
-Th
-- Ingame event options for Tags and Universe Maps
+#### Browser Version Ninja Feature Changelog
+*Features that got added on the fly to browser*
+- 2022-03-11 : Ingame event options for Tags and Universe Maps (2022-03-11)
 
 #### Release 5.00.0 - Feb 2022
 - Major improvements to universe map
@@ -149,11 +149,11 @@ Th
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgxMzIwNzYsMTE3OTA3MDExNiwtOT
-U1ODM1NTQyLC0zODAwNzQ2NywxODgwNzI2NTY4LC0xMzU4OTM3
-MDAxLDEyNjk3NTc5NjUsLTEzNzkwNjAyMTUsLTIwMjE4ODcyMD
-YsLTE5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3NzI2MCwxNTc1
-Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OSwtMTcxMzU0MT
-g4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4MzQ4NTY4LDYz
-Njk4MjI0OF19
+eyJoaXN0b3J5IjpbNzUxNTMyODU0LDExNzkwNzAxMTYsLTk1NT
+gzNTU0MiwtMzgwMDc0NjcsMTg4MDcyNjU2OCwtMTM1ODkzNzAw
+MSwxMjY5NzU3OTY1LC0xMzc5MDYwMjE1LC0yMDIxODg3MjA2LC
+0xOTUxODMyNzc2LDMyMzExNDAwNiwxOTI5NzcyNjAsMTU3NTY5
+OTU5MSwxMzczMTk5NDkwLDEzMjIzNzcyODksLTE3MTM1NDE4OD
+AsLTE1ODMwODIzNDMsNzYyMTQzODk3LDE4ODM0ODU2OCw2MzY5
+ODIyNDhdfQ==
 -->

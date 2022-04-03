@@ -10,7 +10,8 @@
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_sta.png)|Waypoint station|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jb.png)|Waypoint jumpbridge|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_wh.png)|Waypoint wormhole|
-|![line](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jmp.png)|Midpoint (jumpdrive)|
+|![line](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jmp2.png)|Midpoint (jumpdrive)|
+|![line](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_jmp2_sta.png)|Midpoint with station in system (jumpdrive)|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end.png)|Destination solarsystem|
 |![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/rou_end_sta.png)|Destination station|
 
@@ -39,5 +40,5 @@
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmprou2.png">
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzQzODY5N119
+eyJoaXN0b3J5IjpbMTIwNjk0MjE5NSwtODczNDM4Njk3XX0=
 -->

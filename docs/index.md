@@ -20,7 +20,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Platforms
 
-[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app.html)
+[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app.md)
 
 ## Feedback, Support & Social
 

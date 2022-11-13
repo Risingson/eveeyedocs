@@ -4,6 +4,12 @@
 Enable `Use Jumpdrive` in `ROUTE` settings.<br>
 Set your jump-ship and skills in `JUMP` settings.<br>
 
+##### Terminology
+|  |  |
+|--|--|
+| `Waypoint` | A system you want to go through. It is like pinning systems in your route. |
+| `Midpoint` or `mid` | Systems chosen by the planner to reach the next waypoint. |
+
 #### Jump settings
 |  |  |
 |--|--|
@@ -21,13 +27,6 @@ Choose a System to start from. When tracking location that would be your current
 #### Menu options
 After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options where applicable.
 
-##### Terminology
-|  |  |
-|--|--|
-| `Waypoint` | A system you want to go through. It is like pinning systems in your route. |
-| `Midpoint` or `mid` | Systems chosen by the planner to reach the next waypoint. |
-
-##### Menu options
 |  |  |
 |--|--|
 | `Set Jump Destination` | Will plot a jump-route to the system according to your settings. |
@@ -43,7 +42,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjAyMTUzOCwtMTI5OTE1NjA2Miw3Nj
+eyJoaXN0b3J5IjpbLTg0MDM5NDk5OCwtMTI5OTE1NjA2Miw3Nj
 QwMTkyMjYsLTYwMTgyNjExLDE4MzU1NjM1NjAsLTE3MDA5NjUw
 ODIsMTYyOTYyMzIzMSwtMTk4NTUxNjE3NF19
 -->

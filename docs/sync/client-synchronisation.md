@@ -21,8 +21,7 @@ Create a chrome user per character and track each character with its own instanc
 
 ### Firefox
 There is an extension for multi-account containers available by firefox:<br>
-[https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)<br>
-*I did not test this .*
+[https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
 
 ### Edge
 Microsoft Edge browser opens a new instance when starting the browser. Track one character per instance.<br>
@@ -36,7 +35,7 @@ Just search the web on how to open a new instance of that browser and track on c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NDQxMTYwMSw0MTI1NDc1ODMsLTk1Mj
+eyJoaXN0b3J5IjpbLTYzMzYwNjE4Niw0MTI1NDc1ODMsLTk1Mj
 I2NTgwMSwtODAxNzA3NTg3LC0yMTI5Mzg5MzQxLC0xODg5NDA3
 MjI1LC00NTcxNzQxNDksMzE1MzkyNjc5LDEzNTQ1NDI5NjYsNz
 IwOTAzMDIzLC0xNzY5Mzk0MDg4LDgyNzgwNjgyNywxODgwMDAx

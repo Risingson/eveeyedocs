@@ -12,7 +12,10 @@ https://support.mozilla.org/en-US/kb/containers
 ## Edge
 You can just open multiple instances of Microsoft Edge browser.
 
+!!! warning "Live zKill stream"
+    When running multiple instances with zKill livestream enabled the service may stop working since you would send too many requests from the same IP-address. I recommend using it only on one instance.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MzgwNjk1LC05ODQ4NzYwMzVdfQ==
+eyJoaXN0b3J5IjpbLTE3NTEyMDQ5NDAsLTk4NDg3NjAzNV19
 -->

@@ -32,6 +32,7 @@ nav:
 - Client Sync:
     - Character Management: sync/character-management.md
     - Client Sync: sync/client-synchronisation.md 
+    - Multiple Character Tracking: sync/multiple-instances.md 
 - Navigation:
     - Waypoints: navigation/waypoints.md 
     - Route display: navigation/route.md 

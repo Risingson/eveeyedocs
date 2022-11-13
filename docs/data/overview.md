@@ -14,12 +14,12 @@ Configure the map representation with various options.
 | <img src="https://eveeye.com/img/docs/shape_label.png" width="90" height="107" border="0" style="">| [LABEL](https://eveeye.readthedocs.io/en/latest/data/label/) | Text below system name|
 |<img src="https://eveeye.com/img/docs/shape_sector.png" width="90" height="107" border="0" style="">|  [SECTOR](https://eveeye.readthedocs.io/en/latest/data/sector/) | Background tiles |
 | <img src="https://eveeye.com/img/docs/shape_tag.png" width="90" height="107" border="0" style="">| [TAG](https://eveeye.readthedocs.io/en/latest/data/tag/) | Wide outline of solarsystem symbol |
-||  [EXTRA TAG](https://eveeye.readthedocs.io/en/latest/data/tag/) | Symbols to the left and right of solarsystem |
+||  [EXTRA TAG](https://eveeye.readthedocs.io/en/latest/data/tag/) | Symbols to the left and right of solarsystem node |
 ||  [CON](https://eveeye.readthedocs.io/en/latest/data/constellation/) | Constellation outlines |
 | | [MISC](https://eveeye.readthedocs.io/en/latest/data/misc/) | Miscellaneous map options |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MDA4MTY3OCwxNDU3OTYwNTE3LDQyNz
-E4NDQwMywxODU0NTgzMzgxLDEzNDA0MDE5MDEsMTg3NzYyMDYx
-OSwzNDg5MTEyMjZdfQ==
+eyJoaXN0b3J5IjpbMTgyMTcwMDA4MiwtMjUwMDgxNjc4LDE0NT
+c5NjA1MTcsNDI3MTg0NDAzLDE4NTQ1ODMzODEsMTM0MDQwMTkw
+MSwxODc3NjIwNjE5LDM0ODkxMTIyNl19
 -->

@@ -32,11 +32,11 @@ Right-clicking or doubletapping a solarsystem or an entry in the route legend wi
  
 |  |  |
 |--|--|
-| Clear entire Route | Will clear your route ingame and in eveeye |
-| Turn into Waypoint | Will stop your ship in this system if autopiloting |
-| Remove Waypoint | Will not stop your ship in this system if autopiloting |
-| Append Gate Destination | Will add that system as a waypoint to the end of your route |
-| Set Gate destination | Will clear current route and set that system as destination |
+| `Clear entire Route` | Will clear your route ingame and in eveeye |
+| `Turn into Waypoint` | Will stop your ship in this system if autopiloting |
+| `Remove Waypoint` | Will not stop your ship in this system if autopiloting |
+| `Append Gate Destination` | Will add that system as a waypoint to the end of your route |
+| `Set Gate destination` | Will clear current route and set that system as destination |
 
 !!! attention “Color of menu entries”
     Options involving navigation got a *yellow* color. Options involving the jump-drive got an *orange* color instead.
@@ -60,6 +60,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTY2ODYwNywtMjA0OTkwMjQ5MSwtMT
-M4MjEyMzA1N119
+eyJoaXN0b3J5IjpbOTM2MzY2NDU1LC0yMDQ5OTAyNDkxLC0xMz
+gyMTIzMDU3XX0=
 -->

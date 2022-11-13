@@ -35,7 +35,7 @@ Clicking the colored square or else in the route legend will trigger a menu with
 | Clear Route | Will clear your route ingame and in eveeye |
 | Turn into Waypoint | Will stop your ship in this system if autopiloting |
 | Remove Waypoint | Will not stop your ship in this system if autopiloting |
-| Add again at end of route | Will add that system as a waypoint to the end of your route |
+| Append Gate Destination | Will add that system as a waypoint to the end of your route |
 | Set Gate destination | Will clear current route and set that system as destination |
 
 ## Gatekills
@@ -55,6 +55,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk5MDI0OTEsLTEzODIxMjMwNTddfQ
-==
+eyJoaXN0b3J5IjpbLTQ2MDUwNzIxNSwtMjA0OTkwMjQ5MSwtMT
+M4MjEyMzA1N119
 -->

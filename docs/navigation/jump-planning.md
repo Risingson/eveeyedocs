@@ -23,10 +23,13 @@ Choose a System to start from. When tracking location that would be your current
 After right-clicking or doubletapping a system on mobile you will getr presented with the following navigation options:
 |  |  |
 |--|--|
-| Set Jump Destination |  |
-
+| Set Jump Destination | Will plot a jump-route to the system according to your settings. |
+| Append Jump Destination | Will add a jumproute to an existing route. |
+|  |  |
+|  |  |
+|  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODAxNzA5MSwtNjAxODI2MTEsMTgzNT
-U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
-MTc0XX0=
+eyJoaXN0b3J5IjpbLTE4ODEzOTExODgsLTYwMTgyNjExLDE4Mz
+U1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIzMSwtMTk4NTUx
+NjE3NF19
 -->

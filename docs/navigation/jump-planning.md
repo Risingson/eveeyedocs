@@ -1,4 +1,4 @@
-# Jump Planning [wip]
+# Jump Planning (TODO)
 
 ### How to plan a jump route
 
@@ -12,5 +12,6 @@ Choose a System to start from. When tracking location that would be your current
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTYyMzIzMSwtMTk4NTUxNjE3NF19
+eyJoaXN0b3J5IjpbLTE3MDA5NjUwODIsMTYyOTYyMzIzMSwtMT
+k4NTUxNjE3NF19
 -->

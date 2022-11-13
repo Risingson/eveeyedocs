@@ -20,13 +20,14 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menu.
 
 #### Menu options
-After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options as applicable:
+After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options where applicable.
 
 ##### Terminology
 |  |  |
 |--|--|
-| Waypoint |  |
-| Midpoint or mid |  |
+| `Waypoint` | A system you want to go through. It is like pinning systems in your route. |
+| `Midpoint` or `mid` | A system jumped to  |
+
 ##### Menu options
 |  |  |
 |--|--|
@@ -41,7 +42,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 
 Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NjgwNzgwNywtNjAxODI2MTEsMTgzNT
+eyJoaXN0b3J5IjpbLTczMDE1NjQ2OSwtNjAxODI2MTEsMTgzNT
 U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
 MTc0XX0=
 -->

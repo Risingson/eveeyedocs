@@ -9,9 +9,9 @@ Set your jump-skills in `JUMP` settings.<br>
 #### Jump settings
 |  |  |
 |--|--|
-| Use Jumpdrive |  |
-| Prefer Less Midpoints/Isotopes |  |
-| Use Jumpdrive |  |
+| Use Jumpdrive | Toggles if the route-planner will plot a jump route. |
+| Prefer Less Midpoints/Isotopes | Sometimes a route with more mids uses less fuel. |
+| Jump if more than X Gates | This tells the planner that you only want to use the jumpdrive |
 | Use Jumpdrive |  |
 | Use Jumpdrive |  |
 
@@ -23,6 +23,6 @@ Choose a System to start from. When tracking location that would be your current
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMzU3MzM5LC0xNzAwOTY1MDgyLDE2Mj
-k2MjMyMzEsLTE5ODU1MTYxNzRdfQ==
+eyJoaXN0b3J5IjpbLTEwMDI2NzcyMzgsLTE3MDA5NjUwODIsMT
+YyOTYyMzIzMSwtMTk4NTUxNjE3NF19
 -->

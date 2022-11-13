@@ -28,7 +28,7 @@ Anyone pasting a shared route would set that route from his current location.
 To learn about the route list display please refer to [this](https://eveeye.readthedocs.io/en/latest/navigation/route/).
 
 #### Route Manipulation
-Clicking the colored square or else in the route legend will trigger a menu with some options where applicable:
+Right-clicking or doubletapping a solarsystem or an entry in the route legend will trigger a menu with options as applicable:
  
 |  |  |
 |--|--|
@@ -55,6 +55,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDUwNzIxNSwtMjA0OTkwMjQ5MSwtMT
-M4MjEyMzA1N119
+eyJoaXN0b3J5IjpbODY0NzE5OTIzLC0yMDQ5OTAyNDkxLC0xMz
+gyMTIzMDU3XX0=
 -->

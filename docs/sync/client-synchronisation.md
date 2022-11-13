@@ -17,11 +17,11 @@ This can be achieved by running multiple browser instances.
 
 ### Chrome
 Create a chrome user per character.<br>
-https://support.google.com/a/users/answer/9310144?hl=en#2.2
+[https://support.google.com/a/users/answer/9310144?hl=en#2.2](https://support.google.com/a/users/answer/9310144?hl=en#2.2)
 
 ### Firefox
 There is an extension for multi-account containers available by firefox.<br>
-https://support.mozilla.org/en-US/kb/containers
+[https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
 
 ### Edge
 You can just open multiple instances of Microsoft Edge browser.<br><br>
@@ -32,11 +32,11 @@ You can just open multiple instances of Microsoft Edge browser.<br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTcwNzU4NywtMjEyOTM4OTM0MSwtMT
-g4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5MjY3OSwxMzU0NTQy
-OTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OCw4Mjc4MDY4MjcsMT
-g4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2NDExMzc5
-LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDcsLTIxMD
-M3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4NTQ3LDEyNTMxNDc2
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTE1NjM4Njg4MjAsLTgwMTcwNzU4NywtMj
+EyOTM4OTM0MSwtMTg4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5
+MjY3OSwxMzU0NTQyOTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OC
+w4Mjc4MDY4MjcsMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUy
+OTgsMTA2NDExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNj
+A3NTY0NDcsLTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4
+NTQ3XX0=
 -->

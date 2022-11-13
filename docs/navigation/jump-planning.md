@@ -39,10 +39,11 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 | `Remove Destination` | Will remove the last waypoint. Clears the route if it is the only Waypoint. |
 | `Alternate Exit System` | Whe planning a JF route to highsec the planner will choose an Exit system for you. Use this option to use a different one.  |
 
+!!! attention "Color of menu entries"
+    Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
-Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mzg4MzUzMiwtNjAxODI2MTEsMTgzNT
-U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
-MTc0XX0=
+eyJoaXN0b3J5IjpbNzY0MDE5MjI2LC02MDE4MjYxMSwxODM1NT
+YzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMyMzEsLTE5ODU1MTYx
+NzRdfQ==
 -->

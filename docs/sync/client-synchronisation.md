@@ -24,7 +24,7 @@ There is an extension for multi-account containers available by firefox.<br>
 [https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
 
 ### Edge
-You can just open multiple instances of Microsoft Edge browser.<br><br>
+Microsoft Edge browser opens a new instance when you open it so just track.<br><br>
 
 !!! warning "Live zKill stream"
     When running multiple instances with zKill livestream enabled the service may stop working since you would send too many requests from the same IP-address. I recommend using it only on one instance.
@@ -32,11 +32,11 @@ You can just open multiple instances of Microsoft Edge browser.<br><br>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjM4Njg4MjAsLTgwMTcwNzU4NywtMj
-EyOTM4OTM0MSwtMTg4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5
-MjY3OSwxMzU0NTQyOTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OC
-w4Mjc4MDY4MjcsMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUy
-OTgsMTA2NDExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNj
-A3NTY0NDcsLTIxMDM3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4
-NTQ3XX0=
+eyJoaXN0b3J5IjpbNzYzNjE1NDY4LC04MDE3MDc1ODcsLTIxMj
+kzODkzNDEsLTE4ODk0MDcyMjUsLTQ1NzE3NDE0OSwzMTUzOTI2
+NzksMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLTE3NjkzOTQwODgsOD
+I3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYwOCwtNDIxNDU1Mjk4
+LDEwNjQxMTM3OSwtMTI4MzUzNTA5NywtNzcwOTM2ODQwLDYwNz
+U2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0
+N119
 -->

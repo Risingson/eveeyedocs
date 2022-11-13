@@ -31,10 +31,10 @@ The three sliders will set Hue, Saturation and Lightness of the color used.
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 
 ## Adding Data
-To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. With the details open clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. To bring up the normal solarsystem menu you can double-click it.
+To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. With the details open clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. To bring up the normal solarsystem menue you can double-click it.
 
 ## Data Display
-When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
+When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menue. 
 
 ## Sharing maps   
 Choose to share your map-data with your share-group or publically.
@@ -73,11 +73,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzY3OTc2OCwtMjE0MzkzNTAzNSwxMj
-g1ODk0ODk5LDE1MzEzMDc0OTIsMTU0MDI1NTMyNywxNjc4MzQ3
-ODg4LDE5NDMzODMzNTYsLTEzOTY0OTY5NTIsNTUzMDYwNTA1LC
-04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4MzQyNjY1LDE0Mzkw
-NjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4NDMsLTE4NzUzMTQ1Ny
-wtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAxMDgwMzcyOSwtMjY1
-MTQ5ODY3XX0=
+eyJoaXN0b3J5IjpbLTEzNjU2NjU5MzAsLTY3NzY3OTc2OCwtMj
+E0MzkzNTAzNSwxMjg1ODk0ODk5LDE1MzEzMDc0OTIsMTU0MDI1
+NTMyNywxNjc4MzQ3ODg4LDE5NDMzODMzNTYsLTEzOTY0OTY5NT
+IsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQzOTY4MiwxMDU4
+MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMTIsMjM5NDA4ND
+MsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOTkwMDUyMjUsMTAx
+MDgwMzcyOV19
 -->

@@ -2,7 +2,7 @@
 
 ### Enabling using a jump-drvie for route planning
 Enable `Use Jumpdrive` in `ROUTE` settings.<br>
-Set your jump-skills in `JUMP` settings.<br>
+Set your jump-ship and skills in `JUMP` settings.<br>
 
 #### Jump settings
 |  |  |
@@ -13,12 +13,12 @@ Set your jump-skills in `JUMP` settings.<br>
 | Leaving Highsec | Sets if you want to travel highsec as far as possible and jump from there (`Gate afar`) or if you want to jump as soon as possible (`Jump asap`). |
 | Prefer Station Systems | The planner will try to jump via systems that got an NPC-station. |
 | Include dockable structures | This option appears if you chose to prefer station systems. The planer would try to plot jumps via systems that got an NPC-Station or an [added structure](https://eveeye.readthedocs.io/en/latest/sharing/structures/) set to `DOCK` or `BLUE`. |
-
 <br>
+
 #### Choosing the system to start the route from
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it (browser) or doubletapping it and choosing "Set Current System" from menu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY1NzYyNTUsMTgzNTU2MzU2MCwtMT
-cwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2MTc0XX0=
+eyJoaXN0b3J5IjpbLTk5NjI4MzU3OCwxODM1NTYzNTYwLC0xNz
+AwOTY1MDgyLDE2Mjk2MjMyMzEsLTE5ODU1MTYxNzRdfQ==
 -->

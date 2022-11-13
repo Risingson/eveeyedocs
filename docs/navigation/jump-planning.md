@@ -1,4 +1,4 @@
-# Jump Planning (work in progress)
+# Jump Planning
 
 ### Enabling using a jump-drvie for route planning
 Enable `Use Jumpdrive` in `ROUTE` settings.<br>
@@ -44,7 +44,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTEyNDA5OCw3NjQwMTkyMjYsLTYwMT
-gyNjExLDE4MzU1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIz
-MSwtMTk4NTUxNjE3NF19
+eyJoaXN0b3J5IjpbLTExNjY3OTI5OTQsNzY0MDE5MjI2LC02MD
+E4MjYxMSwxODM1NTYzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMy
+MzEsLTE5ODU1MTYxNzRdfQ==
 -->

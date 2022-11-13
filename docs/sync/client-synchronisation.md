@@ -16,11 +16,11 @@ Enabling Client sync will trigger the following:
 This can be achieved by running multiple browser instances. 
 
 ### Chrome
-Create a chrome user per character and track each character with its own window.<br>
+Create a chrome user per character and track each character with its own instance:<br>
 [https://support.google.com/a/users/answer/9310144?hl=en#2.2](https://support.google.com/a/users/answer/9310144?hl=en#2.2)
 
 ### Firefox
-There is an extension for multi-account containers available by firefox.<br>
+There is an extension for multi-account containers available by firefox:<br>
 [https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
 
 ### Edge
@@ -35,7 +35,7 @@ Just search the web how to open a new instance of that browser and track on char
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTcxOTc5MiwtOTUyMjY1ODAxLC04MD
+eyJoaXN0b3J5IjpbLTg4MzI2MTY1MywtOTUyMjY1ODAxLC04MD
 E3MDc1ODcsLTIxMjkzODkzNDEsLTE4ODk0MDcyMjUsLTQ1NzE3
 NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLT
 E3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYw

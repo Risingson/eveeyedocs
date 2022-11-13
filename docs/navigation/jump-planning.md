@@ -23,13 +23,13 @@ Choose a System to start from. When tracking location that would be your current
 After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options as applicable:
 |  |  |
 |--|--|
-| Set Jump Destination | Will plot a jump-route to the system according to your settings. |
-| Append Jump Destination | Will add a jumproute to an existing route. |
-| Alternate Midpoint | If a midpoint using this option you will get presented with all systems that could be used as a mid instead of this one. This will also show a list of alternate mids in route pane. |
+| `Set Jump Destination` | Will plot a jump-route to the system according to your settings. |
+| `Append Jump Destination` | Will add a jumproute to an existing route. |
+| Alternate Midpoint | If a midpoint using this option you will get presented with all systems that could be used as a mid instead of this one. This will also show a list of alternate mids in  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> route pane. |
 |  |  |
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDQxNzgxNiwtNjAxODI2MTEsMTgzNT
-U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
-MTc0XX0=
+eyJoaXN0b3J5IjpbMTEwNjc5NTk5LC02MDE4MjYxMSwxODM1NT
+YzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMyMzEsLTE5ODU1MTYx
+NzRdfQ==
 -->

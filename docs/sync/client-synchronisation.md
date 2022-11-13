@@ -1,4 +1,4 @@
-# Client Sync
+# Location Tracking
 Enabling Client sync will trigger the following:
 
  - Start fetching your ingame location to follow your ship on the map
@@ -33,11 +33,11 @@ Just search the web on how to open separate instances of that browser and track 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2ODI2NjEyLDE2MTcyMDk1MjksNDEyNT
-Q3NTgzLC05NTIyNjU4MDEsLTgwMTcwNzU4NywtMjEyOTM4OTM0
-MSwtMTg4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5MjY3OSwxMz
-U0NTQyOTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OCw4Mjc4MDY4
-MjcsMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2ND
-ExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDdd
-fQ==
+eyJoaXN0b3J5IjpbLTUwMDc3ODc1MCw1MjY4MjY2MTIsMTYxNz
+IwOTUyOSw0MTI1NDc1ODMsLTk1MjI2NTgwMSwtODAxNzA3NTg3
+LC0yMTI5Mzg5MzQxLC0xODg5NDA3MjI1LC00NTcxNzQxNDksMz
+E1MzkyNjc5LDEzNTQ1NDI5NjYsNzIwOTAzMDIzLC0xNzY5Mzk0
+MDg4LDgyNzgwNjgyNywxODgwMDAxOCwxODkyOTI2MDgsLTQyMT
+Q1NTI5OCwxMDY0MTEzNzksLTEyODM1MzUwOTcsLTc3MDkzNjg0
+MF19
 -->

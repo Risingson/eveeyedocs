@@ -34,15 +34,17 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 | `Set Jump Destination` | Will plot a jump-route to the system according to your settings. |
 | `Append Jump Destination` | Will add a jumproute to an existing route. |
 | `Alternate Midpoint` | If a midpoint using this option you will get presented with all systems that could be used as a mid instead of this one. This will also show a list of alternate mids in  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> route pane. |
+| `Alternate Exit System` | Whe planning a Jump-Freighter route to highsec the planner will choose an Exit system for you. Use this option to use a different one.  |
+| `Turn into Waypoint` | Will pin a system you want to go through. |
 | `Remove Waypoint` | Will remove a waypoint within a route. |
 | `Remove Destination` | Will remove the last waypoint. Clears the route if it is the only Waypoint. |
-| `Alternate Exit System` | Whe planning a JF route to highsec the planner will choose an Exit system for you. Use this option to use a different one.  |
+
 
 !!! attention "Color of menu entries"
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDI3ODk3MSw3NjQwMTkyMjYsLTYwMT
-gyNjExLDE4MzU1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIz
-MSwtMTk4NTUxNjE3NF19
+eyJoaXN0b3J5IjpbLTE2NTcxNDUwNzQsNzY0MDE5MjI2LC02MD
+E4MjYxMSwxODM1NTYzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMy
+MzEsLTE5ODU1MTYxNzRdfQ==
 -->

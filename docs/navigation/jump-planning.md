@@ -20,7 +20,7 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menu.
 
 #### Menu options
-After right-clicking or doubletapping a system on mobile you will getr presented with the following navigation options:
+After right-clicking or doubletapping a system on mobile in addition to general and gate route options you will get presented with the following navigation options as applicable:
 |  |  |
 |--|--|
 | Set Jump Destination | Will plot a jump-route to the system according to your settings. |
@@ -29,7 +29,7 @@ After right-clicking or doubletapping a system on mobile you will getr presented
 |  |  |
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODEzOTExODgsLTYwMTgyNjExLDE4Mz
-U1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIzMSwtMTk4NTUx
-NjE3NF19
+eyJoaXN0b3J5IjpbLTg4ODAyMzcxOCwtNjAxODI2MTEsMTgzNT
+U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
+MTc0XX0=
 -->

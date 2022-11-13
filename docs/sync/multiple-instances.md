@@ -11,6 +11,8 @@ https://support.mozilla.org/en-US/kb/containers
 
 ## Edge
 You can just open multiple instances of Microsoft Edge browser.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODAxMzQ5OSwtOTg0ODc2MDM1XX0=
+eyJoaXN0b3J5IjpbNjk2MzgwNjk1LC05ODQ4NzYwMzVdfQ==
 -->

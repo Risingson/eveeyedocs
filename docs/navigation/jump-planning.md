@@ -15,10 +15,11 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 | Include dockable structures | This option appears if you chose to prefer station systems. The planer would try to plot jumps via systems that got an NPC-Station or an [added structure](https://eveeye.readthedocs.io/en/latest/sharing/structures/) set to `DOCK` or `BLUE`. |
 <br>
 
+### How to plot a route
 #### Choosing the system to start the route from
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it (browser) or doubletapping it and choosing "Set Current System" from menu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjI4MzU3OCwxODM1NTYzNTYwLC0xNz
+eyJoaXN0b3J5IjpbMTU0NjIwNDgxNSwxODM1NTYzNTYwLC0xNz
 AwOTY1MDgyLDE2Mjk2MjMyMzEsLTE5ODU1MTYxNzRdfQ==
 -->

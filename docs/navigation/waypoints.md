@@ -32,7 +32,7 @@ Right-clicking or doubletapping a solarsystem or an entry in the route legend wi
  
 |  |  |
 |--|--|
-| Clear Route | Will clear your route ingame and in eveeye |
+| Clear entire Route | Will clear your route ingame and in eveeye |
 | Turn into Waypoint | Will stop your ship in this system if autopiloting |
 | Remove Waypoint | Will not stop your ship in this system if autopiloting |
 | Append Gate Destination | Will add that system as a waypoint to the end of your route |
@@ -55,6 +55,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NzE5OTIzLC0yMDQ5OTAyNDkxLC0xMz
-gyMTIzMDU3XX0=
+eyJoaXN0b3J5IjpbMTEyNzI4MzAsLTIwNDk5MDI0OTEsLTEzOD
+IxMjMwNTddfQ==
 -->

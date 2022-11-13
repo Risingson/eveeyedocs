@@ -8,6 +8,9 @@ https://support.google.com/a/users/answer/9310144?hl=en#2.2
 ## Firefox
 There is an extension for multi-account containers available by firefox.<br>
 https://support.mozilla.org/en-US/kb/containers
+
+## Edge
+You can just open multiple instances of Microsoft Edge browser.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDg3NjAzNV19
+eyJoaXN0b3J5IjpbMTkwODAxMzQ5OSwtOTg0ODc2MDM1XX0=
 -->

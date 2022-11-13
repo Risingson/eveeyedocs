@@ -34,6 +34,7 @@ nav:
     - Location Tracking: sync/client-synchronisation.md 
 - Navigation:
     - Waypoints: navigation/waypoints.md 
+    - Jump Planning: navigation/jump-planning.md 
     - Route display: navigation/route.md 
     - Jumprange display: navigation/jumprange.md 
 - Data Sharing:    

@@ -9,8 +9,8 @@ Set your jump-skills in `JUMP` settings.<br>
 |--|--|
 | Use Jumpdrive | Toggles if the route-planner will plot a jump route. |
 | Prefer Less Midpoints/Isotopes | Sometimes a route with more mids uses less fuel. |
-| Jump if more than X Gates | This sets the planner to only plot a jump if the gate distance to the next mid is X gates at max |
-| Leaving Highsec | Sets if you want to travel highsec as far as possible and jump from there (Gat or if you want to jump as soon as possible |
+| Jump if more than X Gates | This sets the planner to always use its jumpdrive or only plot a jump if the gate distance to the next mid is more than X gates. |
+| Leaving Highsec | Sets if you want to travel highsec as far as possible and jump from there (`Gate afar`) or if you want to jump as soon as possible (`Jump asap`) |
 | Use Jumpdrive |  |
 
 
@@ -18,6 +18,6 @@ Set your jump-skills in `JUMP` settings.<br>
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it (browser) or doubletapping it and choosing "Set Current System" from menu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjEwOTg5MzEsLTE3MDA5NjUwODIsMT
-YyOTYyMzIzMSwtMTk4NTUxNjE3NF19
+eyJoaXN0b3J5IjpbNDI4Mzg4NjE5LC0xNzAwOTY1MDgyLDE2Mj
+k2MjMyMzEsLTE5ODU1MTYxNzRdfQ==
 -->

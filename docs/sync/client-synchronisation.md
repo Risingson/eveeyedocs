@@ -1,5 +1,5 @@
 # Location Tracking
-Enabling Client sync will trigger the following:
+Enabling synchronization with the EVE Online Client will trigger the following:
 
  - Start fetching your ingame location to follow your ship on the map
  - [Waypoint](https://eveeye.readthedocs.io/en/latest/sync/waypoints/) setting to Eve client
@@ -33,11 +33,11 @@ Just search the web on how to open separate instances of that browser and track 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDc3ODc1MCw1MjY4MjY2MTIsMTYxNz
-IwOTUyOSw0MTI1NDc1ODMsLTk1MjI2NTgwMSwtODAxNzA3NTg3
-LC0yMTI5Mzg5MzQxLC0xODg5NDA3MjI1LC00NTcxNzQxNDksMz
-E1MzkyNjc5LDEzNTQ1NDI5NjYsNzIwOTAzMDIzLC0xNzY5Mzk0
-MDg4LDgyNzgwNjgyNywxODgwMDAxOCwxODkyOTI2MDgsLTQyMT
-Q1NTI5OCwxMDY0MTEzNzksLTEyODM1MzUwOTcsLTc3MDkzNjg0
-MF19
+eyJoaXN0b3J5IjpbMTcwMjA5MzkyMSwtNTAwNzc4NzUwLDUyNj
+gyNjYxMiwxNjE3MjA5NTI5LDQxMjU0NzU4MywtOTUyMjY1ODAx
+LC04MDE3MDc1ODcsLTIxMjkzODkzNDEsLTE4ODk0MDcyMjUsLT
+Q1NzE3NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMw
+MjMsLTE3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OT
+I5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5
+N119
 -->

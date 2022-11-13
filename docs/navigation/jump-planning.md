@@ -23,10 +23,10 @@ Choose a System to start from. When tracking location that would be your current
 After right-clicking or doubletapping a system on mobile you will getr presented with the following navigation options:
 |  |  |
 |--|--|
-|  |  |
+| Set Jump Destination |  |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM4NzQ1NTcsLTYwMTgyNjExLDE4Mz
-U1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIzMSwtMTk4NTUx
-NjE3NF19
+eyJoaXN0b3J5IjpbLTU4ODAxNzA5MSwtNjAxODI2MTEsMTgzNT
+U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
+MTc0XX0=
 -->

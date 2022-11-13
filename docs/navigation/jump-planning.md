@@ -28,12 +28,12 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 | `Alternate Midpoint` | If a midpoint using this option you will get presented with all systems that could be used as a mid instead of this one. This will also show a list of alternate mids in  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> route pane. |
 | `Remove Waypoint` | Will remove a waypoint within a route. |
 | `Remove Destination` | Will remove the last waypoint. Clears the route if it is the only Waypoint. |
-| Alternate Exit System |  |
+| `Alternate Exit System` | Whe planning a JF route to highsec the planner will choose an Exit system for you. Use this option to use a different one.  |
 
 
 Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzc1OTE3MzMsLTYwMTgyNjExLDE4Mz
-U1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIzMSwtMTk4NTUx
-NjE3NF19
+eyJoaXN0b3J5IjpbNTkyODY2MjY4LC02MDE4MjYxMSwxODM1NT
+YzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMyMzEsLTE5ODU1MTYx
+NzRdfQ==
 -->

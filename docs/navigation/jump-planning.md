@@ -12,14 +12,14 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 | `Jump if more than X Gates` | This sets the planner to always use its jumpdrive or only plot a jump if the gate distance to the next mid is more than X gates. |
 | `Leaving Highsec` | Sets if you want to travel highsec as far as possible and jump from there (`Gate afar`) or if you want to jump as soon as possible (`Jump asap`). |
 | `Prefer Station Systems` | The planner will try to jump via systems that got an NPC-station. |
-| `Include dockable structures` | This option appears if you chose to prefer station systems. The planer would try to plot jumps via systems that got an NPC-Station or an [added structure](https://eveeye.readthedocs.io/en/latest/sharing/structures/) set to `DOCK` or `BLUE`. |
+| `Include dockable structures` | This option appears if you chose to prefer station systems. The planner would try to plot jumps via systems that got an NPC-Station or an [added structure](https://eveeye.readthedocs.io/en/latest/sharing/structures/) set to `DOCK` or `BLUE`. |
 <br>
 
 ### How to plot a route
 #### Choosing the system to start the route from
-Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it (browser) or doubletapping it and choosing "Set Current System" from menu.
+Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menue.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM3NjAwMzksMTgzNTU2MzU2MCwtMT
-cwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2MTc0XX0=
+eyJoaXN0b3J5IjpbLTYwMTgyNjExLDE4MzU1NjM1NjAsLTE3MD
+A5NjUwODIsMTYyOTYyMzIzMSwtMTk4NTUxNjE3NF19
 -->

@@ -5,7 +5,7 @@ Will plan a route using your ship's jump-drive with features for Jump-freighter 
 |  |  |
 |--|--|
 | `Waypoint` | A system you want to go through. It is like pinning systems in your route. |
-| `Midpoint` or `mid` | Systems chosen by the planner to reach the next waypoint. |
+| `Midpoint` or `mid` | Systems jumped to inbetween waypoints. |
 
 ### Enabling using a jump-drive for route planning
 Enable `Use Jumpdrive` in `ROUTE` settings.<br>
@@ -43,7 +43,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzY5NzMzMywtMTc1OTM0NTg3LC0xMj
+eyJoaXN0b3J5IjpbMTEyMjExMzM3NywtMTc1OTM0NTg3LC0xMj
 k5MTU2MDYyLDc2NDAxOTIyNiwtNjAxODI2MTEsMTgzNTU2MzU2
 MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2MTc0XX
 0=

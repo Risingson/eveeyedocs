@@ -24,7 +24,7 @@ There is an extension for multi-account containers available by firefox.<br>
 [https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
 
 ### Edge
-Microsoft Edge browser opens a new instance when you open it so just track.<br><br>
+Microsoft Edge browser opens a new instance when you open it. Track one character per instance.<br><br>
 
 !!! warning "Live zKill stream"
     When running multiple instances with zKill livestream enabled the service may stop working since you would send too many requests from the same IP-address. I recommend using it only on one instance.
@@ -32,11 +32,11 @@ Microsoft Edge browser opens a new instance when you open it so just track.<br><
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNjE1NDY4LC04MDE3MDc1ODcsLTIxMj
-kzODkzNDEsLTE4ODk0MDcyMjUsLTQ1NzE3NDE0OSwzMTUzOTI2
-NzksMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLTE3NjkzOTQwODgsOD
-I3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYwOCwtNDIxNDU1Mjk4
-LDEwNjQxMTM3OSwtMTI4MzUzNTA5NywtNzcwOTM2ODQwLDYwNz
-U2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYxOSwtMjA4MDUwODU0
-N119
+eyJoaXN0b3J5IjpbLTk1MjI2NTgwMSwtODAxNzA3NTg3LC0yMT
+I5Mzg5MzQxLC0xODg5NDA3MjI1LC00NTcxNzQxNDksMzE1Mzky
+Njc5LDEzNTQ1NDI5NjYsNzIwOTAzMDIzLC0xNzY5Mzk0MDg4LD
+gyNzgwNjgyNywxODgwMDAxOCwxODkyOTI2MDgsLTQyMTQ1NTI5
+OCwxMDY0MTEzNzksLTEyODM1MzUwOTcsLTc3MDkzNjg0MCw2MD
+c1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2MTksLTIwODA1MDg1
+NDddfQ==
 -->

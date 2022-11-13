@@ -17,9 +17,10 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 
 ### How to plot a route
 #### Choosing the system to start the route from
-Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menue.
+Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menu.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTgyNjExLDE4MzU1NjM1NjAsLTE3MD
-A5NjUwODIsMTYyOTYyMzIzMSwtMTk4NTUxNjE3NF19
+eyJoaXN0b3J5IjpbMTU5Nzc3NjE0MCwtNjAxODI2MTEsMTgzNT
+U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
+MTc0XX0=
 -->

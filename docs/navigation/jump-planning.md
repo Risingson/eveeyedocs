@@ -21,12 +21,19 @@ Choose a System to start from. When tracking location that would be your current
 
 #### Menu options
 After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options as applicable:
+
+##### Terminology
+|  |  |
+|--|--|
+| Waypoint |  |
+| Midpoint or mid |  |
+##### Menu options
 |  |  |
 |--|--|
 | `Set Jump Destination` | Will plot a jump-route to the system according to your settings. |
 | `Append Jump Destination` | Will add a jumproute to an existing route. |
 | `Alternate Midpoint` | If a midpoint using this option you will get presented with all systems that could be used as a mid instead of this one. This will also show a list of alternate mids in  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/rou.png" width="24" height="24"> route pane. |
-| Turn into Waypoint | Will p |
+| Turn into Waypoint | Will pin a system you want to go through in your route |
 | `Remove Waypoint` | Will remove a waypoint within a route. |
 | `Remove Destination` | Will remove the last waypoint. Clears the route if it is the only Waypoint. |
 | `Alternate Exit System` | Whe planning a JF route to highsec the planner will choose an Exit system for you. Use this option to use a different one.  |
@@ -34,7 +41,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 
 Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTM0NDEwMCwtNjAxODI2MTEsMTgzNT
+eyJoaXN0b3J5IjpbLTc3NjgwNzgwNywtNjAxODI2MTEsMTgzNT
 U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
 MTc0XX0=
 -->

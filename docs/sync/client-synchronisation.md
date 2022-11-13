@@ -10,16 +10,33 @@ Enabling Client sync will trigger the following:
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > OFF<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_standby.png" width="24" height="24" > Currently connecting to Eve<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="24" height="24" > ON<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_fail.png" width="24" height="24" > Sync was turned OFF due to failing<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_fail.png" width="24" height="24" > Sync was turned OFF due to failing<br><br>
+
+## Tracking multiple characters at once
+This can be achieved by running multiple browser instances. 
+
+### Chrome
+Create a chrome user per character.<br>
+https://support.google.com/a/users/answer/9310144?hl=en#2.2
+
+### Firefox
+There is an extension for multi-account containers available by firefox.<br>
+https://support.mozilla.org/en-US/kb/containers
+
+### Edge
+You can just open multiple instances of Microsoft Edge browser.<br><br>
+
+!!! warning "Live zKill stream"
+    When running multiple instances with zKill livestream enabled the service may stop working since you would send too many requests from the same IP-address. I recommend using it only on one instance.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjkzODkzNDEsLTE4ODk0MDcyMjUsLT
-Q1NzE3NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMw
-MjMsLTE3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OT
-I5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5
-NywtNzcwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwND
-QxNDYxOSwtMjA4MDUwODU0NywxMjUzMTQ3NjU1LC0xNDY3MDg4
-ODk0XX0=
+eyJoaXN0b3J5IjpbLTgwMTcwNzU4NywtMjEyOTM4OTM0MSwtMT
+g4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5MjY3OSwxMzU0NTQy
+OTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OCw4Mjc4MDY4MjcsMT
+g4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2NDExMzc5
+LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDcsLTIxMD
+M3NzU4NjMsNDA0NDE0NjE5LC0yMDgwNTA4NTQ3LDEyNTMxNDc2
+NTVdfQ==
 -->

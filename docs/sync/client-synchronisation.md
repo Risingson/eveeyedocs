@@ -24,7 +24,7 @@ There is an extension for multi-account containers available by firefox:<br>
 [https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
 
 ### Edge
-Microsoft Edge browser opens a new instance when you open it. Track one character per instance.<br><br>
+Microsoft Edge browser opens a new instance when starting the browser. Track one character per instance.<br><br>
 
 ### Other browser
 Just search the web how to open a new instance of that browser and track on character per instance.
@@ -35,7 +35,7 @@ Just search the web how to open a new instance of that browser and track on char
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzI2MTY1MywtOTUyMjY1ODAxLC04MD
+eyJoaXN0b3J5IjpbMTAwNDg0NDA4NCwtOTUyMjY1ODAxLC04MD
 E3MDc1ODcsLTIxMjkzODkzNDEsLTE4ODk0MDcyMjUsLTQ1NzE3
 NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLT
 E3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYw

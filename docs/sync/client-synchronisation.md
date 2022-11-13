@@ -16,7 +16,7 @@ Enabling Client sync will trigger the following:
 This can be achieved by running multiple browser instances. 
 
 ### Chrome
-Create a chrome user per character.<br>
+Create a chrome user per character and track each character with its own window.<br>
 [https://support.google.com/a/users/answer/9310144?hl=en#2.2](https://support.google.com/a/users/answer/9310144?hl=en#2.2)
 
 ### Firefox
@@ -26,17 +26,20 @@ There is an extension for multi-account containers available by firefox.<br>
 ### Edge
 Microsoft Edge browser opens a new instance when you open it. Track one character per instance.<br><br>
 
+### Other browser
+Just search the web how to open a new instance of that browser and track on character per instance.
+
 !!! warning "Live zKill stream"
     When running multiple instances with zKill livestream enabled the service may stop working since you would send too many requests from the same IP-address. I recommend using it only on one instance.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjI2NTgwMSwtODAxNzA3NTg3LC0yMT
-I5Mzg5MzQxLC0xODg5NDA3MjI1LC00NTcxNzQxNDksMzE1Mzky
-Njc5LDEzNTQ1NDI5NjYsNzIwOTAzMDIzLC0xNzY5Mzk0MDg4LD
-gyNzgwNjgyNywxODgwMDAxOCwxODkyOTI2MDgsLTQyMTQ1NTI5
-OCwxMDY0MTEzNzksLTEyODM1MzUwOTcsLTc3MDkzNjg0MCw2MD
-c1NjQ0NywtMjEwMzc3NTg2Myw0MDQ0MTQ2MTksLTIwODA1MDg1
-NDddfQ==
+eyJoaXN0b3J5IjpbMTY0NTcxOTc5MiwtOTUyMjY1ODAxLC04MD
+E3MDc1ODcsLTIxMjkzODkzNDEsLTE4ODk0MDcyMjUsLTQ1NzE3
+NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMwMjMsLT
+E3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OTI5MjYw
+OCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5NywtNz
+cwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYzLDQwNDQxNDYx
+OV19
 -->

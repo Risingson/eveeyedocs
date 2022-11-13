@@ -27,17 +27,17 @@ Microsoft Edge browser opens a new instance when starting the browser. Track one
 ### Other browsers
 Just search the web on how to open separate instances of that browser and track one character per instance.<br>
 
-!!! warning "Live kill-stream"
+!!! warning "Live kill-stream may fail"
     When running multiple instances with zKill livestream enabled the service may stop working for you would send too many requests from the same IP-address. I recommend using it only on one instance.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzIwOTUyOSw0MTI1NDc1ODMsLTk1Mj
-I2NTgwMSwtODAxNzA3NTg3LC0yMTI5Mzg5MzQxLC0xODg5NDA3
-MjI1LC00NTcxNzQxNDksMzE1MzkyNjc5LDEzNTQ1NDI5NjYsNz
-IwOTAzMDIzLC0xNzY5Mzk0MDg4LDgyNzgwNjgyNywxODgwMDAx
-OCwxODkyOTI2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEyOD
-M1MzUwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2
-M119
+eyJoaXN0b3J5IjpbNTI2ODI2NjEyLDE2MTcyMDk1MjksNDEyNT
+Q3NTgzLC05NTIyNjU4MDEsLTgwMTcwNzU4NywtMjEyOTM4OTM0
+MSwtMTg4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5MjY3OSwxMz
+U0NTQyOTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OCw4Mjc4MDY4
+MjcsMTg4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2ND
+ExMzc5LC0xMjgzNTM1MDk3LC03NzA5MzY4NDAsNjA3NTY0NDdd
+fQ==
 -->

@@ -16,12 +16,10 @@ Enabling Client sync will trigger the following:
 This can be achieved by running multiple browser instances. 
 
 ### Chrome
-Create a chrome user per character and track each character with its own instance:<br>
-[https://support.google.com/a/users/answer/9310144?hl=en#2.2](https://support.google.com/a/users/answer/9310144?hl=en#2.2)
+[Create a chrome user](https://support.google.com/a/users/answer/9310144?hl=en#2.2) per character and track each character with its own instance.
 
 ### Firefox
-There is an extension for multi-account containers available by firefox:<br>
-[https://support.mozilla.org/en-US/kb/containers](https://support.mozilla.org/en-US/kb/containers)
+There is an extension for [multi-account containers](https://support.mozilla.org/en-US/kb/containers) available by firefox.
 
 ### Edge
 Microsoft Edge browser opens a new instance when starting the browser. Track one character per instance.<br>
@@ -35,11 +33,11 @@ Just search the web on how to open a new instance of that browser and track on c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzYwNjE4Niw0MTI1NDc1ODMsLTk1Mj
-I2NTgwMSwtODAxNzA3NTg3LC0yMTI5Mzg5MzQxLC0xODg5NDA3
-MjI1LC00NTcxNzQxNDksMzE1MzkyNjc5LDEzNTQ1NDI5NjYsNz
-IwOTAzMDIzLC0xNzY5Mzk0MDg4LDgyNzgwNjgyNywxODgwMDAx
-OCwxODkyOTI2MDgsLTQyMTQ1NTI5OCwxMDY0MTEzNzksLTEyOD
-M1MzUwOTcsLTc3MDkzNjg0MCw2MDc1NjQ0NywtMjEwMzc3NTg2
-M119
+eyJoaXN0b3J5IjpbODI5MjQ1ODAxLDQxMjU0NzU4MywtOTUyMj
+Y1ODAxLC04MDE3MDc1ODcsLTIxMjkzODkzNDEsLTE4ODk0MDcy
+MjUsLTQ1NzE3NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3Mj
+A5MDMwMjMsLTE3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4
+LDE4OTI5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4Mz
+UzNTA5NywtNzcwOTM2ODQwLDYwNzU2NDQ3LC0yMTAzNzc1ODYz
+XX0=
 -->

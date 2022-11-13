@@ -26,7 +26,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 |  |  |
 |--|--|
 | `Waypoint` | A system you want to go through. It is like pinning systems in your route. |
-| `Midpoint` or `mid` | A system jumped to  |
+| `Midpoint` or `mid` | Systems chosen by the planner to reach the next waypoint. |
 
 ##### Menu options
 |  |  |
@@ -42,7 +42,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
 
 Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDE1NjQ2OSwtNjAxODI2MTEsMTgzNT
+eyJoaXN0b3J5IjpbLTk5Mzg4MzUzMiwtNjAxODI2MTEsMTgzNT
 U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
 MTc0XX0=
 -->

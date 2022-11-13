@@ -20,16 +20,16 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 Choose a System to start from. When tracking location that would be your current location system. If not tracking location you can set a system your current location by doubleclicking it or right-clicking it and choosing `Set Current System` from the menu.
 
 #### Menu options
-After right-clicking or doubletapping a system on mobile in addition to general and gate route options you will get presented with the following navigation options as applicable:
+After right-clicking or doubletapping a system on mobile in addition to [general and gate route options](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/#route-manipulation) you will get presented with the following navigation options as applicable:
 |  |  |
 |--|--|
 | Set Jump Destination | Will plot a jump-route to the system according to your settings. |
 | Append Jump Destination | Will add a jumproute to an existing route. |
-|  |  |
+| Alternate Midpoint |  |
 |  |  |
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODAyMzcxOCwtNjAxODI2MTEsMTgzNT
-U2MzU2MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2
-MTc0XX0=
+eyJoaXN0b3J5IjpbNDkwNzk5NzIwLC02MDE4MjYxMSwxODM1NT
+YzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMyMzEsLTE5ODU1MTYx
+NzRdfQ==
 -->

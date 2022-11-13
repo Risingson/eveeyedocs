@@ -41,7 +41,7 @@ Right-clicking or doubletapping a solarsystem or an entry in the route legend wi
 !!! attention “Color of menu entries”
     Options involving navigation got a *yellow* color. Options involving the jump-drive got an *orange* color instead.
 
-For Jump-Drive Menu entries go here please.
+For jump-drive menu entries visit [this page](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/#menu-options) please.
 
 ## Gatekills
 Kills on gates will be displayed in your route. This is almost live information due to it being fetched from zKill every 5 minutes.
@@ -60,6 +60,6 @@ If you `Set Destination` to `Nasreri` via Eveeye the app will set a waypoint at 
 
 Within the EVE Client your route would look like this since the client does not plot routes via wormholes:<br>![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/route/Wormhole_routing_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1ODA1ODk4LC0yMDQ5OTAyNDkxLC0xMz
-gyMTIzMDU3XX0=
+eyJoaXN0b3J5IjpbMjAyNTY2ODYwNywtMjA0OTkwMjQ5MSwtMT
+M4MjEyMzA1N119
 -->

@@ -13,7 +13,6 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 | `Leaving Highsec` | Sets if you want to travel highsec as far as possible and jump from there (`Gate afar`) or if you want to jump as soon as possible (`Jump asap`). |
 | `Prefer Station Systems` | The planner will try to jump via systems that got an NPC-station. |
 | `Include dockable structures` | This option appears if you chose to prefer station systems. The planner would try to plot jumps via systems that got an NPC-Station or an [added structure](https://eveeye.readthedocs.io/en/latest/sharing/structures/) set to `DOCK` or `BLUE`. |
-<br>
 
 ### How to plot a route
 #### Choosing the system to start the route from
@@ -44,7 +43,7 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjY3OTI5OTQsNzY0MDE5MjI2LC02MD
+eyJoaXN0b3J5IjpbLTEyOTkxNTYwNjIsNzY0MDE5MjI2LC02MD
 E4MjYxMSwxODM1NTYzNTYwLC0xNzAwOTY1MDgyLDE2Mjk2MjMy
 MzEsLTE5ODU1MTYxNzRdfQ==
 -->

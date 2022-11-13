@@ -3,7 +3,8 @@
 
 
 ### Enabling using a jump-drvie for route planning
-### 
+Enable `Use Jumpdrive` in `ROUTE` settings.<br>
+Set your jump-skills in `JUMP` settings.<br>
 
 
 #### Choosing the system to start the route from
@@ -13,6 +14,6 @@ Choose a System to start from. When tracking location that would be your current
 
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDExMDU0OSwtMTcwMDk2NTA4MiwxNj
-I5NjIzMjMxLC0xOTg1NTE2MTc0XX0=
+eyJoaXN0b3J5IjpbLTE0NzQzMDg5MzEsLTE3MDA5NjUwODIsMT
+YyOTYyMzIzMSwtMTk4NTUxNjE3NF19
 -->

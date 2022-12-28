@@ -5,8 +5,10 @@ In <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/imag
 ### Jumprange pane
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jmp.png" width="24" height="24"> &nbsp;will show all systems in range in alphabetical order according to your [jumprange settings](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-jumprange). Your current setting is displayed on top of the list. Please refer to this [display explanation](https://eveeye.readthedocs.io/en/latest/navigation/route/) to learn about the information presented.
 
+
 ![Systems reachable get marked green](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jumprange.png)
+<a href="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/jumprange.png" target="_blan">Show full size</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzI2NDUzOCwtNzk3MTc5OTkwLC0xMT
-c5MTMzMjIsMTAwNzM5NjgwM119
+eyJoaXN0b3J5IjpbLTE4MjMyNTA0MDMsLTc5NzE3OTk5MCwtMT
+E3OTEzMzIyLDEwMDczOTY4MDNdfQ==
 -->

@@ -4,9 +4,9 @@ Within the presets menu you can quickly select predefined map configurations. Th
 To add your own configurations enter a name in the input field and hit enter or <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Plus-100.png" width="24" height="24" />
 
 !!! success "Cloud"
-    Your presets get saved and can be synced across devices.
+    Your presets get saved and can be synced across devices when the Cloud feature is enabled.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTk1ODczNiwtMjg3MjYxNTc3LC0xMT
-c3OTA5MTg1LC0xODc3MzA2MDY0XX0=
+eyJoaXN0b3J5IjpbMjg1NzEzMzE3LC0zMTk5NTg3MzYsLTI4Nz
+I2MTU3NywtMTE3NzkwOTE4NSwtMTg3NzMwNjA2NF19
 -->

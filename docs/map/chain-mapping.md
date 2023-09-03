@@ -15,9 +15,9 @@
  - Either enter the wormhole code or at unknown incomings the destination security or class. "T" stands for Thera and "P" for Pochven.
 
 #### Merging automatically created and pasted connections
-   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-        <iframe src="//youtu.be/g7bN3VgXrrY" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
-    </div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://youtu.be/g7bN3VgXrrY" frameborder="0" style="width: 944px; height: 676px;"></iframe></div>
+        
 
 #### Wormhole removal
  - Wormhole connections get removed after 48h latest. 
@@ -65,7 +65,7 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzMzNjgwNywyMDg1NjYzODE0LDE5MT
+eyJoaXN0b3J5IjpbMTI4MTczMTcxOSwyMDg1NjYzODE0LDE5MT
 I5MzExMjEsNjQ0Njg3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2
 MzAsLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLD
 ExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5

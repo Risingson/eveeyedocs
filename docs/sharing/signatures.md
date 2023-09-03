@@ -28,10 +28,11 @@ Using the icon to the left of the trash bin will toggle a more compact display o
 Deleted sigs can be undeleted for up to 3 hours.
 You can show and hide anomalies, cosmics and deleted sigs by clicking the corresponding tab above the signatures displayed.                
 
-## Map display
+## Signatures Extra Tag
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png)               
                
-Signatures [Extra Tag](/app#id=3R0gKE09ZZhxCC8P#extra-tags) Option
+This [Extra Tag](https://eveeye.readthedocs.io/en/latest/data/tag/#extra-tags) Option will display bars beside the solarsystem node correspondig to the sigtypes in system.
+
 The length of the bars to the left and right of the system node reflect the sig count of the corresponding type.
 
 ## Sharing
@@ -39,7 +40,7 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTMwMzE3OCwxMjUxNzAzOTE1LC0xMj
+eyJoaXN0b3J5IjpbMTgzODEyMzE2OSwxMjUxNzAzOTE1LC0xMj
 A2MzkzNzAyLDExMjIwNTk5NTAsMjAxODAxNTY3OSwtMTMxNzE1
 MjY2NSw3ODMyNTM0NDYsMzMxNjczOTQyLC00ODI0NjA1NjYsLT
 Q1MDU1NjE0LDM4ODE4MTQ3MiwtMTQ1OTE0NDYyMF19

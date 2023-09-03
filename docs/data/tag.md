@@ -21,7 +21,7 @@ Tags systems holding agents in space.
 Tags systems holding a Jove observatory.
 
 **Ancient Jovian Stargates**<br>
-Markig
+Tagging the 4 systems a Jovian Stargate has been found in.
 
 ## Dynamic
 **Incursions and Invasions**<br>
@@ -50,7 +50,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTkwMDAzLC0yMTM2NjE3MzE5LC0xMD
-I4MDA4NzIwLC02MzU4NDA2MzUsMTE3MDg5Njg0MSwxMzA1OTQ0
-Mjc2LDU4MTMwMTM0OCw1MTUwMDk4N119
+eyJoaXN0b3J5IjpbMTQ1NzU5ODQ0NiwtMjEzNjYxNzMxOSwtMT
+AyODAwODcyMCwtNjM1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0
+NDI3Niw1ODEzMDEzNDgsNTE1MDA5ODddfQ==
 -->

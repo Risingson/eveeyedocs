@@ -21,7 +21,7 @@ Shows which system spawn C729 wormholes and names which Pochven systems those co
     Storm data is maintained manually so it might not be accurate all of the time.
 
 ## Own Data
-**Custom map data**<br>
+**Database Sets**<br>
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 ## Activity
@@ -71,8 +71,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0NDYyNTQsMTA3MDcwMjQ3OSwtMT
-c4NTA1NjQ3MiwtMTkzMjI2NTE3OCwtMzg0ODMyNTU5LDExMjM1
-MDIyNzMsLTIwMjg5MTUwMDIsMTkxNTkzNTQ2NywtMTE4NDQ2Mj
-QzNiwxODY1ODEyNDcsMTY1NTYzODU5OV19
+eyJoaXN0b3J5IjpbMTEwMzA3NzUxNSwxMDcwNzAyNDc5LC0xNz
+g1MDU2NDcyLC0xOTMyMjY1MTc4LC0zODQ4MzI1NTksMTEyMzUw
+MjI3MywtMjAyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyND
+M2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
 -->

@@ -1,5 +1,7 @@
 # Release Notes
-[Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
+
+!!! help "Outdated"
+    This page is outdated currently.
 
 #### Browser Version Ninja Feature Changelog
 *Features that got added on the fly to browser*
@@ -149,11 +151,11 @@
 #### Initial Release - Nov 2016
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzMyNjM1NCwxMTc5MDcwMTE2LC05NT
-U4MzU1NDIsLTM4MDA3NDY3LDE4ODA3MjY1NjgsLTEzNTg5Mzcw
-MDEsMTI2OTc1Nzk2NSwtMTM3OTA2MDIxNSwtMjAyMTg4NzIwNi
-wtMTk1MTgzMjc3NiwzMjMxMTQwMDYsMTkyOTc3MjYwLDE1NzU2
-OTk1OTEsMTM3MzE5OTQ5MCwxMzIyMzc3Mjg5LC0xNzEzNTQxOD
-gwLC0xNTgzMDgyMzQzLDc2MjE0Mzg5NywxODgzNDg1NjgsNjM2
-OTgyMjQ4XX0=
+eyJoaXN0b3J5IjpbNzA5NTkxNzczLDE1MzczMjYzNTQsMTE3OT
+A3MDExNiwtOTU1ODM1NTQyLC0zODAwNzQ2NywxODgwNzI2NTY4
+LC0xMzU4OTM3MDAxLDEyNjk3NTc5NjUsLTEzNzkwNjAyMTUsLT
+IwMjE4ODcyMDYsLTE5NTE4MzI3NzYsMzIzMTE0MDA2LDE5Mjk3
+NzI2MCwxNTc1Njk5NTkxLDEzNzMxOTk0OTAsMTMyMjM3NzI4OS
+wtMTcxMzU0MTg4MCwtMTU4MzA4MjM0Myw3NjIxNDM4OTcsMTg4
+MzQ4NTY4XX0=
 -->

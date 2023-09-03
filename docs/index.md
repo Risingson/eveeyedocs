@@ -6,6 +6,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 ## Features
 
  - Travel and tactical companion of New Eden
+ -  Various map layouts
  - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places, stations or agents
  - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
  - [Chain-mapping](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) including connected k-space
@@ -53,11 +54,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA4NjYyMDcsMTk4OTMwNDYwNiwxNj
-k4MzgyMzk4LC0xMDg4NzAwMjMsMTk0MDQyNjYxNywtMTc2MjY3
-NTc5MCwtNjEwNjcwMzc5LC04NzI2MjEzODIsLTEyMTk2MTYwMD
-YsMzI2MDE5Njc5LC0xMzE1NDY4Nzk1LC0yMTI0NjY3ODQxLC0z
-NTkyMTU2NzIsMjA0OTM4MzE2NywxNDQ1MzY3OTQ3LC0xNjE1Nj
-kwMDM5LC00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3
-NiwtODYwMDQyNzM2XX0=
+eyJoaXN0b3J5IjpbNjk2NDcwNTAyLDE5ODkzMDQ2MDYsMTY5OD
+M4MjM5OCwtMTA4ODcwMDIzLDE5NDA0MjY2MTcsLTE3NjI2NzU3
+OTAsLTYxMDY3MDM3OSwtODcyNjIxMzgyLC0xMjE5NjE2MDA2LD
+MyNjAxOTY3OSwtMTMxNTQ2ODc5NSwtMjEyNDY2Nzg0MSwtMzU5
+MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5MD
+AzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYs
+LTg2MDA0MjczNl19
 -->

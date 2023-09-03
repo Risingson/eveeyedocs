@@ -31,7 +31,7 @@ The number after the letter represents the count of that category.<br>
 
 **Recent NPC kill DELTA**<br>
 This will show the difference of the last 2 hours of the eve api data of npc kills within a solarsystem.<br>
-For Example: 329 
+For Example: `289 ➞ 306 = ＋6%` means there were 17 more npc kills = +6% within that solarsystem inbetween the last 2 hours. (eve esi api data = delay)
 
 
 ## Sovereignty
@@ -71,8 +71,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ1NTYyNjMsMTA3MDcwMjQ3OSwtMT
-c4NTA1NjQ3MiwtMTkzMjI2NTE3OCwtMzg0ODMyNTU5LDExMjM1
-MDIyNzMsLTIwMjg5MTUwMDIsMTkxNTkzNTQ2NywtMTE4NDQ2Mj
-QzNiwxODY1ODEyNDcsMTY1NTYzODU5OV19
+eyJoaXN0b3J5IjpbLTg3MDkxNzUzNCwxMDcwNzAyNDc5LC0xNz
+g1MDU2NDcyLC0xOTMyMjY1MTc4LC0zODQ4MzI1NTksMTEyMzUw
+MjI3MywtMjAyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyND
+M2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
 -->

@@ -12,7 +12,7 @@ Tags starter systems, systems with career agents and some Sisters epic arc syste
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
 
 **A0 Rare Asteroid Occurrence**<br>
-Tags systems with an A0 blue small sun which might spawn special Asteroids to mine. There are also special roids in border systems (hig-low-null) 
+Tags systems with an A0 blue small sun which might spawn special Asteroids to mine. There are also special roids in border systems (hig-low-null) but those systems do not get tagged via this option.
 
 **Agents in Space**<br>
 Tags systems holding agents in space.
@@ -20,6 +20,10 @@ Tags systems holding agents in space.
 **Jove Observatories**<br>
 Tags systems holding a Jove observatory.
 
+**Ancient Jovian Stargates**<br>
+Markig
+
+## Dynamic
 **Incursions and Invasions**<br>
 Tags systems of a constellation with an ongoing incursion. The color of the tag of the staging system is brighter.
 
@@ -46,7 +50,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTA2MTU0OSwtMjEzNjYxNzMxOSwtMT
-AyODAwODcyMCwtNjM1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0
-NDI3Niw1ODEzMDEzNDgsNTE1MDA5ODddfQ==
+eyJoaXN0b3J5IjpbNTczNTkwMDAzLC0yMTM2NjE3MzE5LC0xMD
+I4MDA4NzIwLC02MzU4NDA2MzUsMTE3MDg5Njg0MSwxMzA1OTQ0
+Mjc2LDU4MTMwMTM0OCw1MTUwMDk4N119
 -->

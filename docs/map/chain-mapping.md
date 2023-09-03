@@ -4,8 +4,7 @@
 
  - While syncing your ingame location jumps via wormholes or jump-bridges will get mapped automatically.
  - Wormhole connections get removed after 48h latest. You can always remove them manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
- - A connection will get created when jumping a cyno. Stop sync before
-   jumping or remove the connection created manually.
+ - A connection will get created when jumping a cyno. Stop sync before jumping or remove the connection created manually.
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
  - You can add connections manually via the menu entry `Add Connection`
 
@@ -32,7 +31,7 @@ Connection lines are colored and solid or dashed.
 | Dotted line| Frigate sized |
 
 ## Add data to connections
-To add data to connections you can click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
+To add data to connections you can right-click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
 You can edit:<br>
 
  - Signature codes on both sides<br>
@@ -47,9 +46,9 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0MjU2OTYwLDEzMTk4NDM2MzAsLTE3MD
-IyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLDExMzczMjUz
-NzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5NTU5NzksMT
-YzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5
-N119
+eyJoaXN0b3J5IjpbLTE2NDEzOTQzNzEsMTMxOTg0MzYzMCwtMT
+cwMjIzNjQ0NiwtOTc0ODc1NjQ2LC04NDE2NTM3OTMsMTEzNzMy
+NTM3MSw2MjM5ODEwNTUsLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OS
+wxNjM3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3
+Mjk3XX0=
 -->

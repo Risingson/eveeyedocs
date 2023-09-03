@@ -64,8 +64,8 @@ You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/lates
 ## Jump
 #### Display Jumprange
 Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > in the left map menu aswell.
-#### Skill and Fitting Settings
-Match your skills and fit for the app to calc your range and isotopes correctly. Since the jump-planning model needs updates after changing relevant skills you will need to `Apply Range Changes` to put the changes in effect.
+#### Ship, Skill and Fitting Settings
+Match your skills and fit for the app to calc your range and isotopes correctly. Since the jump-planning model needs updates after making changes that are affecting jump-range you will need to `Apply Range Changes` to put the changes in effect.
 
 ## Route
 ### General Settings
@@ -106,7 +106,7 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTgxMDczNiwzNzQ0NTg2OTYsNzMyNj
+eyJoaXN0b3J5IjpbMTU1MTc5NzgxMCwzNzQ0NTg2OTYsNzMyNj
 c1NTkxLC0xNjc0NjUzNjczLDM2MzUwNDcwMywtMTI1MjYwNTU4
 MiwtMzQ2NTIyNDQ3LDIxNzM5MTUxMiwtMTA0NDMwNDAwMSwtMT
 Q3MDEzNzc1Niw0Njg1MDAxOTEsNzU5MDgyNjg5LC0xNDI2MDA1

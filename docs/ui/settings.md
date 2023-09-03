@@ -82,9 +82,8 @@ Use your jumpbridges to calculate a route.
 Use your mapped wormholes to calculate a route including [Thera connections](https://eveeye.readthedocs.io/en/latest/map/map-options-misc/) if activated.
 ### Jumpdrive Settings
 #### Use Jumpdrive
-This would enable finding routes using a jumpdrive.
-
-Visit the jump-planning](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/#jump-settings) .
+This would enable finding routes using a jumpdrive.<br>
+Visit the dedicated [jump-planning](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/#jump-settings) page for info on the jump settings.
 
 ### Avoidance Settings
 #### Avoid Incursions/Edencom/Triglavian Systems
@@ -101,11 +100,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc0OTQ5MjUsMTU1MTc5NzgxMCwzNz
-Q0NTg2OTYsNzMyNjc1NTkxLC0xNjc0NjUzNjczLDM2MzUwNDcw
-MywtMTI1MjYwNTU4MiwtMzQ2NTIyNDQ3LDIxNzM5MTUxMiwtMT
-A0NDMwNDAwMSwtMTQ3MDEzNzc1Niw0Njg1MDAxOTEsNzU5MDgy
-Njg5LC0xNDI2MDA1ODA2LC04MDU5MDYwNDgsMTMyMjY4NjEyMi
-wyMDgzMDUxMDg2LC0yNzM2OTY2MCwtMzc0MDE4MTQ0LDY0NDQz
-NDUwM119
+eyJoaXN0b3J5IjpbLTE1MjIxMTMxMCwxNTUxNzk3ODEwLDM3ND
+Q1ODY5Niw3MzI2NzU1OTEsLTE2NzQ2NTM2NzMsMzYzNTA0NzAz
+LC0xMjUyNjA1NTgyLC0zNDY1MjI0NDcsMjE3MzkxNTEyLC0xMD
+Q0MzA0MDAxLC0xNDcwMTM3NzU2LDQ2ODUwMDE5MSw3NTkwODI2
+ODksLTE0MjYwMDU4MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLD
+IwODMwNTEwODYsLTI3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0
+NTAzXX0=
 -->

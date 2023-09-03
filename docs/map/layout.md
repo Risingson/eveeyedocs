@@ -7,8 +7,10 @@ Map of New Eden.
 Map of a single region and adjacting systems of other regions.
 
 #### Layouts
-
- - Basic M
+In Setting's MAP tab you can choose from the following layouts:
+ - Basic map layout: Eveeye original layout
+ - Hexagon map layout: Work in progress. Just a few maps done yet
+ - Legacy map layout: Based on Dotlan layout
 
 ### Chain 
 Map of your wormhole chain.
@@ -33,9 +35,9 @@ These maps feature all [Minmatar/Amarr](https://eveeye.com/?m=Minmatar%20vs%20Am
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDMzMDMwMCwtMjEwMzM1MzEzOSwtNT
-g5NzM0NTk3LC02OTcyMzE2MDAsNDM1MDY3ODgxLC00NTMzMTU1
-OTksLTIwNzk5ODkzOTUsLTEzNjAzOTI1NjEsLTg5MTI3MDM2My
-wxNTExMTgyMjI1LC00NTAyMzYyODIsOTE4NTM0NDc0LDE0NTk0
-ODEzMjYsLTEyNTQ4MjE3MjddfQ==
+eyJoaXN0b3J5IjpbLTE1MjYzMzkwOTQsLTIxMDMzNTMxMzksLT
+U4OTczNDU5NywtNjk3MjMxNjAwLDQzNTA2Nzg4MSwtNDUzMzE1
+NTk5LC0yMDc5OTg5Mzk1LC0xMzYwMzkyNTYxLC04OTEyNzAzNj
+MsMTUxMTE4MjIyNSwtNDUwMjM2MjgyLDkxODUzNDQ3NCwxNDU5
+NDgxMzI2LC0xMjU0ODIxNzI3XX0=
 -->

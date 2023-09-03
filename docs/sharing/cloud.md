@@ -43,7 +43,7 @@ These are the toggles to use your own not shared custom marks or the ones shared
 ### Manage Intel channels
 
 !!! warning "Feature in development"
-    This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). [Feedback](https://eveeye.readthedocs.io/en/latest/#Feedback) more than welcome !!
+    This feature is currently under development. You can test it by downloading the [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). 
     
 <!-- ### Share and Show K-K Connections
 If enabled the connections you jump via K-K wormholes would get shared publically and you can see the wormholes other people using this option are sharing. 
@@ -56,9 +56,9 @@ Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDAxNDYwLC01MDY5NzIwOCwtMTM4NT
-M4ODY5MywtMTQ3MDQwMzA5MSwtMzQ1NDExOTQ0LC00MDUyNzY4
-OTcsLTE2MTY0Mzc4MjEsNTAxNzY1NjM1LC0xMjQ0Nzk3NjMxLC
-0xNDMxMjgwODUxLDQxNzQ5Mzc5NiwtMTQwMDcyNTg4OCwtMjM1
-MTM5NjUyLDE2MDQ5NTUxNzEsLTkwMzE2OTkwMV19
+eyJoaXN0b3J5IjpbMTE0NTkwMDAzMywtNTA2OTcyMDgsLTEzOD
+UzODg2OTMsLTE0NzA0MDMwOTEsLTM0NTQxMTk0NCwtNDA1Mjc2
+ODk3LC0xNjE2NDM3ODIxLDUwMTc2NTYzNSwtMTI0NDc5NzYzMS
+wtMTQzMTI4MDg1MSw0MTc0OTM3OTYsLTE0MDA3MjU4ODgsLTIz
+NTEzOTY1MiwxNjA0OTU1MTcxLC05MDMxNjk5MDFdfQ==
 -->

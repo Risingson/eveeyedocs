@@ -27,17 +27,16 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 ## Feedback, Support & Social
 
 Join Eveeye <a href="https://discord.gg/m3Bm2Rjuk7">Discord</a><br>
-Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
-<!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
-Just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a><!--  or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) --><br>
-I am happy about any feedback.<br>
+Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br><!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
+<a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">Send a mail</span></a><!--  or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) --><br>
+
 [Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
 
 
 
 ## Sponsorship
 I have been developing Eveeye in my spare time [since 2006](https://eveeye.readthedocs.io/en/latest/history/).
-Donations for the work done and time spent are more than welcome.
+Donations for the work done and time spent are appreciated a lot.
 o7 Risingson
 
 **Credit Cards:**  [Donorbox](https://donorbox.org/eveeye)<br>
@@ -53,11 +52,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNDMzNjA0LDE5ODkzMDQ2MDYsMTY5OD
-M4MjM5OCwtMTA4ODcwMDIzLDE5NDA0MjY2MTcsLTE3NjI2NzU3
-OTAsLTYxMDY3MDM3OSwtODcyNjIxMzgyLC0xMjE5NjE2MDA2LD
-MyNjAxOTY3OSwtMTMxNTQ2ODc5NSwtMjEyNDY2Nzg0MSwtMzU5
-MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5MD
-AzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYs
-LTg2MDA0MjczNl19
+eyJoaXN0b3J5IjpbMjA3MDk4MjU4MSwxOTg5MzA0NjA2LDE2OT
+gzODIzOTgsLTEwODg3MDAyMywxOTQwNDI2NjE3LC0xNzYyNjc1
+NzkwLC02MTA2NzAzNzksLTg3MjYyMTM4MiwtMTIxOTYxNjAwNi
+wzMjYwMTk2NzksLTEzMTU0Njg3OTUsLTIxMjQ2Njc4NDEsLTM1
+OTIxNTY3MiwyMDQ5MzgzMTY3LDE0NDUzNjc5NDcsLTE2MTU2OT
+AwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEzMjc2
+LC04NjAwNDI3MzZdfQ==
 -->

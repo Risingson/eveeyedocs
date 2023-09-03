@@ -88,7 +88,6 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord support channel |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bug.png" width="24" height="24"> | Bugreports |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/theme.png" width="24" height="24"> |  Switch dark/light theme |
@@ -96,6 +95,8 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Delete-100.png" width="24" height="24"> | Close  |
 
 <!--##### Route
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/bug.png" width="24" height="24"> | Bugreports
+
 see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 ## Other Icons
@@ -118,11 +119,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTI4MTAyOTksLTIwMDI5NDI0NzcsMT
-M5NDMwNjE3OSwtNzc5ODI1ODksNjM3NjMzNzQ3LDEyNTc3Nzcy
-NTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAwMywtMTY2NTQ5MzY5NC
-wtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMDAxMzQ0NzM0LC0xMjQy
-NzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYwOSwtMTg4ODE3Nj
-gwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1ODUxNTI5
-LDUyMDI5OTQ2NV19
+eyJoaXN0b3J5IjpbLTE3NzMyMTE0MSwtMjAwMjk0MjQ3NywxMz
+k0MzA2MTc5LC03Nzk4MjU4OSw2Mzc2MzM3NDcsMTI1Nzc3NzI1
+NSwxNzI2MzMzNDk3LC0xNzgzMTkxMDAzLC0xNjY1NDkzNjk0LC
+00OTUxMzc0NzksOTE1MDk2MjA4LDEwMDEzNDQ3MzQsLTEyNDI3
+NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xODg4MTc2OD
+A2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4NTE1Mjks
+NTIwMjk5NDY1XX0=
 -->

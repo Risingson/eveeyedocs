@@ -11,6 +11,10 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 **NPC Pirates**<br>
 Name of the NPC faction owning the system/region.
 
+## Dynamic Data
+**Metaliminal Storms**<br>
+Shows storms colored after their type and strength within that system.
+
 **Metaliminal Storms**<br>
 Shows storms colored after their type and strength within that system.
 
@@ -63,8 +67,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUwNTY0NzIsLTE5MzIyNjUxNzgsLT
-M4NDgzMjU1OSwxMTIzNTAyMjczLC0yMDI4OTE1MDAyLDE5MTU5
-MzU0NjcsLTExODQ0NjI0MzYsMTg2NTgxMjQ3LDE2NTU2Mzg1OT
-ldfQ==
+eyJoaXN0b3J5IjpbLTIzNjg2NTQxMSwtMTc4NTA1NjQ3MiwtMT
+kzMjI2NTE3OCwtMzg0ODMyNTU5LDExMjM1MDIyNzMsLTIwMjg5
+MTUwMDIsMTkxNTkzNTQ2NywtMTE4NDQ2MjQzNiwxODY1ODEyND
+csMTY1NTYzODU5OV19
 -->

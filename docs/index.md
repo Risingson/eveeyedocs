@@ -27,8 +27,8 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 ## Feedback, Bugreporting, Support & Social
 
 Join Eveeye <a href="https://discord.gg/m3Bm2Rjuk7">Discord</a><br>
-Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br><!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
-<a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">Send a mail</span></a><!--  or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) --><br>
+Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br><!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>
+<a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">Send a mail</span></a>  or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) -->
 
 ## Sponsorship
 I have been developing Eveeye in my spare time [since 2006](https://eveeye.readthedocs.io/en/latest/history/).
@@ -48,11 +48,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTI2MzUyMCwxOTg5MzA0NjA2LDE2OT
-gzODIzOTgsLTEwODg3MDAyMywxOTQwNDI2NjE3LC0xNzYyNjc1
-NzkwLC02MTA2NzAzNzksLTg3MjYyMTM4MiwtMTIxOTYxNjAwNi
-wzMjYwMTk2NzksLTEzMTU0Njg3OTUsLTIxMjQ2Njc4NDEsLTM1
-OTIxNTY3MiwyMDQ5MzgzMTY3LDE0NDUzNjc5NDcsLTE2MTU2OT
-AwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEzMjc2
-LC04NjAwNDI3MzZdfQ==
+eyJoaXN0b3J5IjpbNDMzOTcwMjc3LDE5ODkzMDQ2MDYsMTY5OD
+M4MjM5OCwtMTA4ODcwMDIzLDE5NDA0MjY2MTcsLTE3NjI2NzU3
+OTAsLTYxMDY3MDM3OSwtODcyNjIxMzgyLC0xMjE5NjE2MDA2LD
+MyNjAxOTY3OSwtMTMxNTQ2ODc5NSwtMjEyNDY2Nzg0MSwtMzU5
+MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5MD
+AzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYs
+LTg2MDA0MjczNl19
 -->

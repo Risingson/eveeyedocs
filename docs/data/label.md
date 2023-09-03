@@ -30,8 +30,8 @@ Activity Intel sublabel abbreviations:<br><span style="color:#437c97">K = Player
 The number after the letter represents the count of that category.<br>
 
 **Recent NPC kill DELTA**<br>
-This will show the difference of the last 2 hours of the eve api data of npc kills. For Example: <br>
-`289 ➞ 306 = ＋6%` means there were 17 more npc kills = +6% within that solarsystem inbetween the last 2 hours (Eve esi api data).<br>`334 ➞ 142 = -57%` means 57% less npcs destroyed.
+This will show the difference of the last 2 hours of the eve api data of npcs destroyed. For Example: <br>
+`289 ➞ 306 = ＋6%` means there were 17 more npcs destroyed = +6% within that solarsystem inbetween the last 2 hours (Eve esi api data).<br>`334 ➞ 142 = -57%` means 57% less npcs destroyed.
 
 
 ## Sovereignty
@@ -71,7 +71,7 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNzU1MzE1LDEwNzA3MDI0NzksLTE3OD
+eyJoaXN0b3J5IjpbNjQ2NjU1NTQxLDEwNzA3MDI0NzksLTE3OD
 UwNTY0NzIsLTE5MzIyNjUxNzgsLTM4NDgzMjU1OSwxMTIzNTAy
 MjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0Mz
 YsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==

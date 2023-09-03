@@ -4,19 +4,24 @@
 #### Automatic connection creation
  - While syncing your ingame location jumps via wormholes or jump-bridges will get mapped automatically.
  - A connection will get created when jumping a cyno. Stop sync before jumping or remove the connection created manually.
+ 
 #### Manual connection creation
  - You can add connections manually via the menu entry `Add Connection`
+ 
 #### Connection creation via Signature pasting
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
  - Click the created connection to set its destination
  <img src="https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/mapper/incoming_unknown_menu.png">
  - Either enter the wormhole code or at unknown incomings the destination security or class. "T" stands for Thera and "P" for Pochven.
- 
+
+#### Merging automatically created and pasted connections
+
+
 #### Wormhole removal
  - Wormhole connections get removed after 48h latest. 
  - If you have set the wormhole code the removal will adopt that wormhole's expiration.
- - If you set a wormhole "End of Life" the timer will be set to 4 hours.
- - You can always remove them manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
+ - If you set a wormhole "End of Life" the timer will be set to 4 hours left.
+ - You can always remove connections manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
 
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
 
@@ -58,10 +63,10 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMzNjk5NDksMTkxMjkzMTEyMSw2ND
-Q2ODc5NTUsLTE2NDEzOTQzNzEsMTMxOTg0MzYzMCwtMTcwMjIz
-NjQ0NiwtOTc0ODc1NjQ2LC04NDE2NTM3OTMsMTEzNzMyNTM3MS
-w2MjM5ODEwNTUsLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OSwxNjM3
-MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX
-0=
+eyJoaXN0b3J5IjpbMjA4NTY2MzgxNCwxOTEyOTMxMTIxLDY0ND
+Y4Nzk1NSwtMTY0MTM5NDM3MSwxMzE5ODQzNjMwLC0xNzAyMjM2
+NDQ2LC05NzQ4NzU2NDYsLTg0MTY1Mzc5MywxMTM3MzI1MzcxLD
+YyMzk4MTA1NSwtNDU0MjQwMzY5LC0xOTQzOTU1OTc5LDE2Mzcx
+ODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC0zMzI0NDcyOTddfQ
+==
 -->

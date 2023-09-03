@@ -65,7 +65,7 @@ You can set names for your [Custom Marks](https://eveeye.readthedocs.io/en/lates
 #### Display Jumprange
 Enables/Disables displaying jumpranges on the map. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > in the left map menu aswell.
 #### Skill and Fitting Settings
-Match your skills and fit for the app to calc your range and isotopes correctly.
+Match your skills and fit for the app to calc your range and isotopes correctly. Since the jump-planning model needs updates after changing relevant skills you will need to `Apply Range Changes` to put the changes in effect.
 
 ## Route
 ### General Settings
@@ -106,11 +106,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwOTA2MTQzLDM3NDQ1ODY5Niw3MzI2Nz
-U1OTEsLTE2NzQ2NTM2NzMsMzYzNTA0NzAzLC0xMjUyNjA1NTgy
-LC0zNDY1MjI0NDcsMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xND
-cwMTM3NzU2LDQ2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4
-MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLT
-I3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3
-M119
+eyJoaXN0b3J5IjpbMTYxNTgxMDczNiwzNzQ0NTg2OTYsNzMyNj
+c1NTkxLC0xNjc0NjUzNjczLDM2MzUwNDcwMywtMTI1MjYwNTU4
+MiwtMzQ2NTIyNDQ3LDIxNzM5MTUxMiwtMTA0NDMwNDAwMSwtMT
+Q3MDEzNzc1Niw0Njg1MDAxOTEsNzU5MDgyNjg5LC0xNDI2MDA1
+ODA2LC04MDU5MDYwNDgsMTMyMjY4NjEyMiwyMDgzMDUxMDg2LC
+0yNzM2OTY2MCwtMzc0MDE4MTQ0LDY0NDQzNDUwMyw0Njg3ODY5
+NzNdfQ==
 -->

@@ -57,11 +57,11 @@ Shows the logo of the territorial claim unit owning alliance or sovereign factio
 **IHUB Activity defense modifier**<br>
 Colors nodes after the infrastrucutre hub owning alliance and displays the ADM index number.
 
-**IHUB Sovereign Coalition**<br>
+<!--**IHUB Sovereign Coalition**<br>
 Colors nodes after the sovereign coalition and displays the infrastrucutre hub owning alliance logo.
 
 !!! warning
-    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
+    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.-->
 
 ## Cost Indices
 Colors nodes after the selected index and displays its index number. Available indices are:<br>
@@ -81,9 +81,9 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzM2MjIxNSwyMTAwNTY3NDcwLDEzMT
-YwNDI1MDQsLTIxMjM0MzY2NTAsLTIxNDM2NTY1OTQsNDc3NTM5
-OTksODA5MjI5OTg4LDE2NTUzOTYwNTMsMTc1Mjg0MjUwMywtMT
-A3MjkwNzM0NiwtMTYzMjIzNjMyNiwxNzcxOTQ5MzQ2LDE1OTcz
-OTQyMzddfQ==
+eyJoaXN0b3J5IjpbMTQwNzMxNTcyOCwtMzk3MzYyMjE1LDIxMD
+A1Njc0NzAsMTMxNjA0MjUwNCwtMjEyMzQzNjY1MCwtMjE0MzY1
+NjU5NCw0Nzc1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1MywxNz
+UyODQyNTAzLC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3NzE5
+NDkzNDYsMTU5NzM5NDIzN119
 -->

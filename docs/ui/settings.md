@@ -27,13 +27,13 @@ Use + and - to change the line width of the connections on the map. Also importa
 <!-- #### Hexagonal Map Layout -->
 #### Basic Map Layout
 Eveeye original layout
-#### Hexagon Map Layout
+#### Hexagon Map Layout (Work in progress)
 Work in progress. Just a few maps done yet
 #### Legacy Map Layout
 Based on Dotlan layout
-#### Extended Map Layout
-This will extend maps with routes via different regions connecting back to the current map. This gets rendered via an arc with describing text on it.
-Additionally this will display how many systems are connected to a system of another region.
+#### Extended Map Layout (Work in progress)
+This extends maps with routes via different regions connecting back to the current map. 
+Additionally this will display how many systems are connected to a system of a different region.
 #### Show Unknown Connections
 A connection to that unknown system will get created when pasting cosmic signatures containing an [unknown wormhole](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/). Using this option you can turn off displaying those. This can be triggered by <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/q.png" width="24" height="24" > in the left map menu aswell.
 
@@ -106,11 +106,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQzMzk3ODEsMzc0NDU4Njk2LDczMj
-Y3NTU5MSwtMTY3NDY1MzY3MywzNjM1MDQ3MDMsLTEyNTI2MDU1
-ODIsLTM0NjUyMjQ0NywyMTczOTE1MTIsLTEwNDQzMDQwMDEsLT
-E0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OTA4MjY4OSwtMTQyNjAw
-NTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4Ni
-wtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2
-OTczXX0=
+eyJoaXN0b3J5IjpbMTMwOTA2MTQzLDM3NDQ1ODY5Niw3MzI2Nz
+U1OTEsLTE2NzQ2NTM2NzMsMzYzNTA0NzAzLC0xMjUyNjA1NTgy
+LC0zNDY1MjI0NDcsMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xND
+cwMTM3NzU2LDQ2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4
+MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLT
+I3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3
+M119
 -->

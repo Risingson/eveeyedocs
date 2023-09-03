@@ -13,7 +13,10 @@
  - Either enter the wormhole code or at unknown incomings the destination security or class. "T" stands for Thera and "P" for Pochven.
  
 #### Wormhole removal
- - Wormhole connections get removed after 48h latest. You can always remove them manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
+ - Wormhole connections get removed after 48h latest. 
+ - If you have set the wormhole code the removal will adopt that wormhole's expiration.
+ - If you set a wormhole "End of Life" the timer will be set to 4 hours.
+ - You can always remove them manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
 
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
 
@@ -55,9 +58,10 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgwNjUxMjUyLDE5MTI5MzExMjEsNjQ0Nj
-g3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2MzAsLTE3MDIyMzY0
-NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLDExMzczMjUzNzEsNj
-IzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5NTU5NzksMTYzNzE4
-NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbLTE5NTMzNjk5NDksMTkxMjkzMTEyMSw2ND
+Q2ODc5NTUsLTE2NDEzOTQzNzEsMTMxOTg0MzYzMCwtMTcwMjIz
+NjQ0NiwtOTc0ODc1NjQ2LC04NDE2NTM3OTMsMTEzNzMyNTM3MS
+w2MjM5ODEwNTUsLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OSwxNjM3
+MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX
+0=
 -->

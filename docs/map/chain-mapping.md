@@ -15,7 +15,11 @@
  - Either enter the wormhole code or at unknown incomings the destination security or class. "T" stands for Thera and "P" for Pochven.
 
 #### Merging automatically created and pasted connections
-Drag pasted unknown wormholes onto automatically created connections to merge
+
+ - In solarsystem info pane's `SIG` tab you can merge "Unknown System"
+   connections via dragging and dropping onto wormhole connections
+   created by jumping them.
+
 <iframe src="https://www.youtube.com/embed/g7bN3VgXrrY" frameborder="0" style="width: 944px; height: 676px;"></iframe><br>
 
 #### Wormhole removal
@@ -25,13 +29,6 @@ Drag pasted unknown wormholes onto automatically created connections to merge
  - You can always remove connections manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
 
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
-
-
-<!--
-#### Viewable Information 
- - For wormhole systems there is no api data available for recent jumps or NPC kills.
- - Phenomenons are stated as an extra sub-label. To view its effects click the wormhole and select `Show Info` from the menu and switch to the `WH` tab.
-   -->
 
 ## Display Styles
 Solarsystem oultines are solid or dashed. 
@@ -47,24 +44,10 @@ Connection lines are colored and solid or dashed.
 | Large gap dashed line| Stability critical |
 | Dotted line| Frigate sized |
 
-## Add data to connections
-To add data to connections you can right-click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
-You can edit:<br>
-
- - Signature codes on both sides<br>
- -  Wormhole code<br>
- - K162 side<br>
- - Label<br>
-
-In solarsystem info pane's `SIG` tab you can merge "Unknown System" connections via dragging and dropping onto wormhole connections created by jumping them.
-
-## Name wormholes
-Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
-
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODU5NDAxOSwyMDg1NjYzODE0LDE5MT
+eyJoaXN0b3J5IjpbLTM4MDc5NTIyOSwyMDg1NjYzODE0LDE5MT
 I5MzExMjEsNjQ0Njg3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2
 MzAsLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLD
 ExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5

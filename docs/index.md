@@ -17,7 +17,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  -  [Jump-Plan](https://eveeye.readthedocs.io/en/latest/navigation/jump-planning/) your mids
  -  Display systems in [Jump-range](https://eveeye.readthedocs.io/en/latest/ui/settings/#Jump)
  - [Share data](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) with your fellow pilots
- - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified 
+ - Plot ingame [Intel channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/) and get notified (win desktop version)
 
 
 ## Platforms
@@ -53,11 +53,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU4NjEzODUsMTY5ODM4MjM5OCwtMT
-A4ODcwMDIzLDE5NDA0MjY2MTcsLTE3NjI2NzU3OTAsLTYxMDY3
-MDM3OSwtODcyNjIxMzgyLC0xMjE5NjE2MDA2LDMyNjAxOTY3OS
-wtMTMxNTQ2ODc5NSwtMjEyNDY2Nzg0MSwtMzU5MjE1NjcyLDIw
-NDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5MDAzOSwtNDQwMT
-g1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYsLTg2MDA0Mjcz
-Niw5MTg1MTM3NTJdfQ==
+eyJoaXN0b3J5IjpbMTk4OTMwNDYwNiwxNjk4MzgyMzk4LC0xMD
+g4NzAwMjMsMTk0MDQyNjYxNywtMTc2MjY3NTc5MCwtNjEwNjcw
+Mzc5LC04NzI2MjEzODIsLTEyMTk2MTYwMDYsMzI2MDE5Njc5LC
+0xMzE1NDY4Nzk1LC0yMTI0NjY3ODQxLC0zNTkyMTU2NzIsMjA0
+OTM4MzE2NywxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC00NDAxOD
+UwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYwMDQyNzM2
+LDkxODUxMzc1Ml19
 -->

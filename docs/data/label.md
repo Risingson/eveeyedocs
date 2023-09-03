@@ -27,7 +27,11 @@ If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/databas
 ## Activity
 **Recent/24h Activity**<br>
 Activity Intel sublabel abbreviations:<br><span style="color:#437c97">K = Player ships destroyed</span>&nbsp;&nbsp;<span style="color:#ac2d2d">P = Podkills</span><br><span style="color:#888888">N = Npcs destroyed</span>&nbsp;&nbsp;<span style="color:#e6cf18">J = Jumps</span><br>
-The number after the letter represents the count of that category.
+The number after the letter represents the count of that category.<br>
+
+**Recent NPC kill DELTA**<br>
+This will show the difference of the last hour to the current hour
+
 
 ## Sovereignty
 **IHUB Sovereignty Alliance / Faction**<br>
@@ -66,8 +70,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE1NzA5ODA1LDEwNzA3MDI0NzksLTE3OD
-UwNTY0NzIsLTE5MzIyNjUxNzgsLTM4NDgzMjU1OSwxMTIzNTAy
-MjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0Mz
-YsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbLTQ1MDYyMzAyMSwxMDcwNzAyNDc5LC0xNz
+g1MDU2NDcyLC0xOTMyMjY1MTc4LC0zODQ4MzI1NTksMTEyMzUw
+MjI3MywtMjAyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyND
+M2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
 -->

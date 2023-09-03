@@ -36,7 +36,7 @@ Colors sectors after their owning NPC faction.
 **IHUB Sovereign Alliance**<br>
 Colors sectors after the alliance owning the infrastrucutre hub.
 
-**IHUB Sovereign Coalition**<br>
+<!--**IHUB Sovereign Coalition**<br>
 Colors sectors after the coalition of the alliance owning the infrastrucutre hub.
 
 !!! warning
@@ -52,9 +52,9 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxNzQ4MzA3LDMxODYwMzc2NywxODY1Nj
-Y3ODQwLC02MzExODQ2NjcsLTE4MDk3OTcyOTAsMTkyNTgzNDA1
-NiwtODQ5MzYxMzI3LC0xMDk0MjI2NTI4LC0xMjk4NjY0MDU5LC
-01Njg1MzgxMjksNzE0MTU4NzQxLC02ODc5Mzc1MDIsMTMwNzE3
-MTUzNl19
+eyJoaXN0b3J5IjpbODIwNzEwMjMyLDI0MTc0ODMwNywzMTg2MD
+M3NjcsMTg2NTY2Nzg0MCwtNjMxMTg0NjY3LC0xODA5Nzk3Mjkw
+LDE5MjU4MzQwNTYsLTg0OTM2MTMyNywtMTA5NDIyNjUyOCwtMT
+I5ODY2NDA1OSwtNTY4NTM4MTI5LDcxNDE1ODc0MSwtNjg3OTM3
+NTAyLDEzMDcxNzE1MzZdfQ==
 -->

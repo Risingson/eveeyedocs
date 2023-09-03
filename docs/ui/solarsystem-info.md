@@ -14,11 +14,11 @@ Drag & drop tabs at the top to re-order (browser).
 | **SOV**| **Sovereignty** details |
 | **SIG**| **[Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)** and wormhole connections |
 | **DAT**| **[Custom Data](https://eveeye.readthedocs.io/en/latest/data/database/)** of the solarsystem. Can be edited there. |
-| **TXT**| **[Notes](https://eveeye.readthedocs.io/en/latest/data/database/)**. Personal and shared. Can be edited there. |
+| **TXT**| **[Notes](https://eveeye.readthedocs.io/en/latest/data/notes/)**. Personal and shared. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjEwODkyMTQsLTgwNTM1MzQ2MiwtMT
-UyOTA3NDkyMiwtMTc3NDA2NzEyOCw1ODI2NDk2OSwtNDMwNDk4
-NzAxLDE0MTMyNTI2MDEsLTEzOTE4NDQzOTIsLTc1Mjc3MDA1OC
-wtNDk3MDgwOTExXX0=
+eyJoaXN0b3J5IjpbMTczMDk5MzgyNiwtODA1MzUzNDYyLC0xNT
+I5MDc0OTIyLC0xNzc0MDY3MTI4LDU4MjY0OTY5LC00MzA0OTg3
+MDEsMTQxMzI1MjYwMSwtMTM5MTg0NDM5MiwtNzUyNzcwMDU4LC
+00OTcwODA5MTFdfQ==
 -->

@@ -10,7 +10,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
  - [Search](https://eveeye.readthedocs.io/en/latest/ui/search/) for places, stations or agents
  - Get comprehensive [Info on solarsystems](https://eveeye.readthedocs.io/en/latest/ui/solarsystem-info/)
  - [Chain-mapping](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) including connected k-space
- - Copy&Paste [Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) and [Structures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/)
+ - Copy&Paste [Signatures](https://eveeye.readthedocs.io/en/latest/sharing/signatures/) and [Structures](https://eveeye.readthedocs.io/en/latest/sharing/structures/)
  - Track your [ingame location](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) 
  - [Set Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/) to the eve client
  - Find [Routes](https://eveeye.readthedocs.io/en/latest/navigation/waypoints/) using your chain, jumpbridges and Thera
@@ -29,7 +29,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 Join Eveeye <a href="https://discord.gg/m3Bm2Rjuk7">Discord</a><br>
 Follow Eveeye on <a href="twitter://user?screen_name=eveeyemaps" style="text-decoration:none;pointer-events:all"><span class="help_links">Twitter</span></a><br>
 <!-- Join Eveeye on <a href="slack://channel?team=T03CDJ6FV&id=C49UXSC73" style="text-decoration:none;pointer-events:all"><span class="help_links">Tweetfleet Slack</span></a><br>-->
-Just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a>  or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) <br>
+Just <a href="mailto:risingson@eveeye.com" style="text-decoration:none;pointer-events:all"><span class="help_links">send a mail</span></a><!--  or use this [form to submit bugs](https://feedback.userreport.com/7ab42bbb-8bf8-4955-9573-c0b1213b1ba7/#submit/bug) --><br>
 I am happy about any feedback.<br>
 [Known Issues](https://eveeye.readthedocs.io/en/latest/issues/)
 
@@ -53,7 +53,7 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NjU2NzE4LDE5ODkzMDQ2MDYsMTY5OD
+eyJoaXN0b3J5IjpbLTkyNDMzNjA0LDE5ODkzMDQ2MDYsMTY5OD
 M4MjM5OCwtMTA4ODcwMDIzLDE5NDA0MjY2MTcsLTE3NjI2NzU3
 OTAsLTYxMDY3MDM3OSwtODcyNjIxMzgyLC0xMjE5NjE2MDA2LD
 MyNjAxOTY3OSwtMTMxNTQ2ODc5NSwtMjEyNDY2Nzg0MSwtMzU5

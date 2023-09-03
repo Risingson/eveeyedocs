@@ -1,10 +1,14 @@
-# Layout
+# Map-types
 
 ### Universal 
 Map of New Eden.
 
 ### Regional 
 Map of a single region and adjacting systems of other regions.
+
+#### Layouts
+
+ - Basic M
 
 ### Chain 
 Map of your wormhole chain.
@@ -29,9 +33,9 @@ These maps feature all [Minmatar/Amarr](https://eveeye.com/?m=Minmatar%20vs%20Am
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDMzNTMxMzksLTU4OTczNDU5NywtNj
-k3MjMxNjAwLDQzNTA2Nzg4MSwtNDUzMzE1NTk5LC0yMDc5OTg5
-Mzk1LC0xMzYwMzkyNTYxLC04OTEyNzAzNjMsMTUxMTE4MjIyNS
-wtNDUwMjM2MjgyLDkxODUzNDQ3NCwxNDU5NDgxMzI2LC0xMjU0
-ODIxNzI3XX0=
+eyJoaXN0b3J5IjpbMTYzNDMzMDMwMCwtMjEwMzM1MzEzOSwtNT
+g5NzM0NTk3LC02OTcyMzE2MDAsNDM1MDY3ODgxLC00NTMzMTU1
+OTksLTIwNzk5ODkzOTUsLTEzNjAzOTI1NjEsLTg5MTI3MDM2My
+wxNTExMTgyMjI1LC00NTAyMzYyODIsOTE4NTM0NDc0LDE0NTk0
+ODEzMjYsLTEyNTQ4MjE3MjddfQ==
 -->

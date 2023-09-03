@@ -12,11 +12,13 @@ This would play a sound if your ship docked. Handy if you dare to autopilot afk.
 ## User Interface
 #### Light App Theme
 Toggle dark/light theme.
+#### Photon UI Security Colors
+Disable this option to use the old security color scheme.
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue or white background.
 #### User Interface scale
 Use + and - to scale the entire UI. In browsers you can use its native zoom aswell.
-#### Color Hue and Saturation
+#### Color Hue / Saturation / Brightness
 Use + and - to set UI colors.
 #### Connection Line Width
 Use + and - to change the line width of the connections on the map. Also important for exporting the map to PNG.
@@ -98,11 +100,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0NDU4Njk2LDczMjY3NTU5MSwtMTY3ND
-Y1MzY3MywzNjM1MDQ3MDMsLTEyNTI2MDU1ODIsLTM0NjUyMjQ0
-NywyMTczOTE1MTIsLTEwNDQzMDQwMDEsLTE0NzAxMzc3NTYsND
-Y4NTAwMTkxLDc1OTA4MjY4OSwtMTQyNjAwNTgwNiwtODA1OTA2
-MDQ4LDEzMjI2ODYxMjIsMjA4MzA1MTA4NiwtMjczNjk2NjAsLT
-M3NDAxODE0NCw2NDQ0MzQ1MDMsNDY4Nzg2OTczLC0yMDUwMzI2
-MjE2XX0=
+eyJoaXN0b3J5IjpbOTUxMzcyNjg5LDM3NDQ1ODY5Niw3MzI2Nz
+U1OTEsLTE2NzQ2NTM2NzMsMzYzNTA0NzAzLC0xMjUyNjA1NTgy
+LC0zNDY1MjI0NDcsMjE3MzkxNTEyLC0xMDQ0MzA0MDAxLC0xND
+cwMTM3NzU2LDQ2ODUwMDE5MSw3NTkwODI2ODksLTE0MjYwMDU4
+MDYsLTgwNTkwNjA0OCwxMzIyNjg2MTIyLDIwODMwNTEwODYsLT
+I3MzY5NjYwLC0zNzQwMTgxNDQsNjQ0NDM0NTAzLDQ2ODc4Njk3
+M119
 -->

@@ -4,8 +4,8 @@ The legend reflects your current map display options. As you change your map set
 
 To display the legend click the  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24">  icon.
 
-This pane can be set transparent using the  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/lgd.png" width="24" height="24">  icon in the top bar.
+This pane can be set transparent using the  <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24">  icon in the top bar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUwODE5OTgsMTU4ODQyNTk3MywtMT
+eyJoaXN0b3J5IjpbLTEzMjkwMzgyNzIsMTU4ODQyNTk3MywtMT
 ExMzY2MTMyNiwtNDY0MDQ2MjUwXX0=
 -->

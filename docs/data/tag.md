@@ -2,6 +2,12 @@
 Colored outline of a solarsystem shape.
 
 ## Basic
+**NPC Station Systems**<br>
+Further highlights systems with NPC stations in them.
+
+**Ice Occurrence**<br>
+Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
+
 **Ice Occurrence**<br>
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
 
@@ -18,7 +24,7 @@ Tags systems of a constellation with an ongoing incursion. The color of the tag 
 Enables the TCU and IHUB / Faction Warfare contested state mode. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Sovereignty-Structures-and-Campaigns) for further explanations.
 
 **Own Alliance Sovereignty**<br>
-Colors sectors of systems your alliance owns the infrastrucutre hub in.    
+Tags systems your alliance owns the infrastrucutre hub in.    
 
 
 ## Own Data
@@ -37,7 +43,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NTc4MTUxLC0xMDI4MDA4NzIwLC02Mz
+eyJoaXN0b3J5IjpbNzk5MzExNjk5LC0xMDI4MDA4NzIwLC02Mz
 U4NDA2MzUsMTE3MDg5Njg0MSwxMzA1OTQ0Mjc2LDU4MTMwMTM0
 OCw1MTUwMDk4N119
 -->

@@ -10,10 +10,8 @@
 
 <!--
 #### Viewable Information 
- - For wormhole systems there is no api data available for recent jumps
-   or NPC kills.
- - Phenomenons are stated as an extra sub-label. To view its effects
-   click the wormhole and select `Show Info` from the menu and switch to the `WH` tab.
+ - For wormhole systems there is no api data available for recent jumps or NPC kills.
+ - Phenomenons are stated as an extra sub-label. To view its effects click the wormhole and select `Show Info` from the menu and switch to the `WH` tab.
    -->
 
 ## Display Styles
@@ -37,6 +35,7 @@ You can edit:<br>
  - Signature codes on both sides<br>
  - K162 side<br>
  - Wormhole code<br>
+ - a Label<br>
 
 In solarsystem info pane's `SIG` tab you can merge "Unknown System" connections via dragging and dropping onto wormhole connections created by jumping them.
 
@@ -46,9 +45,9 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDEzOTQzNzEsMTMxOTg0MzYzMCwtMT
-cwMjIzNjQ0NiwtOTc0ODc1NjQ2LC04NDE2NTM3OTMsMTEzNzMy
-NTM3MSw2MjM5ODEwNTUsLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OS
-wxNjM3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3
-Mjk3XX0=
+eyJoaXN0b3J5IjpbNjQ0Njg3OTU1LC0xNjQxMzk0MzcxLDEzMT
+k4NDM2MzAsLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUz
+NzkzLDExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLT
+E5NDM5NTU5NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtNDU3Nzgx
+MzEsLTMzMjQ0NzI5N119
 -->

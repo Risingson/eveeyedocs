@@ -41,7 +41,8 @@ Enabling Cloud will not share data with anyone unless you choose to do so
 These are the toggles to use your own not shared custom marks or the ones shared with your sharing group.
 
 ### Manage Intel channels
-Add and remove ingame [intel channels](/app#id=MdHMEpdOs5PbRjBr)
+Add and remove ingame [intel channels](/app#id=MdHMEpdOs5PbRjBr)<br>
+
 !!! warning "Feature in development"
     This feature is only available using the Windows [desktop app](https://eveeye.readthedocs.io/en/latest/desktop-app/). 
     
@@ -56,10 +57,10 @@ Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4ODIxNjk5LDExNDU5MDAwMzMsLTUwNj
-k3MjA4LC0xMzg1Mzg4NjkzLC0xNDcwNDAzMDkxLC0zNDU0MTE5
-NDQsLTQwNTI3Njg5NywtMTYxNjQzNzgyMSw1MDE3NjU2MzUsLT
-EyNDQ3OTc2MzEsLTE0MzEyODA4NTEsNDE3NDkzNzk2LC0xNDAw
-NzI1ODg4LC0yMzUxMzk2NTIsMTYwNDk1NTE3MSwtOTAzMTY5OT
-AxXX0=
+eyJoaXN0b3J5IjpbLTEzNTM5OTA1MjksMTE0NTkwMDAzMywtNT
+A2OTcyMDgsLTEzODUzODg2OTMsLTE0NzA0MDMwOTEsLTM0NTQx
+MTk0NCwtNDA1Mjc2ODk3LC0xNjE2NDM3ODIxLDUwMTc2NTYzNS
+wtMTI0NDc5NzYzMSwtMTQzMTI4MDg1MSw0MTc0OTM3OTYsLTE0
+MDA3MjU4ODgsLTIzNTEzOTY1MiwxNjA0OTU1MTcxLC05MDMxNj
+k5MDFdfQ==
 -->

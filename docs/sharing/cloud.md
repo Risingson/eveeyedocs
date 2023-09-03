@@ -21,6 +21,7 @@ Turning on Cloud Storage enables you to backup and sync data amongst your own de
 - Signatures
 - Structures 
 - Shared Custom Marks
+- Shared Custom Marks Names
 - Shared Solarsystem Names
 <!-- - Intel data via [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/) -->
 
@@ -54,9 +55,9 @@ Disabling cloud will delete all data related to that character from cloud.
 Removing a character via Character Management will not delete its data from cloud.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjk3MjA4LC0xMzg1Mzg4NjkzLC0xND
-cwNDAzMDkxLC0zNDU0MTE5NDQsLTQwNTI3Njg5NywtMTYxNjQz
-NzgyMSw1MDE3NjU2MzUsLTEyNDQ3OTc2MzEsLTE0MzEyODA4NT
-EsNDE3NDkzNzk2LC0xNDAwNzI1ODg4LC0yMzUxMzk2NTIsMTYw
-NDk1NTE3MSwtOTAzMTY5OTAxXX0=
+eyJoaXN0b3J5IjpbLTE4NjIyMjQzOTksLTUwNjk3MjA4LC0xMz
+g1Mzg4NjkzLC0xNDcwNDAzMDkxLC0zNDU0MTE5NDQsLTQwNTI3
+Njg5NywtMTYxNjQzNzgyMSw1MDE3NjU2MzUsLTEyNDQ3OTc2Mz
+EsLTE0MzEyODA4NTEsNDE3NDkzNzk2LC0xNDAwNzI1ODg4LC0y
+MzUxMzk2NTIsMTYwNDk1NTE3MSwtOTAzMTY5OTAxXX0=
 -->

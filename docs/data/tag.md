@@ -12,7 +12,7 @@ Tags starter systems, systems with career agents and some Sisters epic arc syste
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
 
 **A0 Rare Asteroid Occurrence**<br>
-Tags systems with an A0.
+Tags systems with an A0 blue small sun which might spawn special Asteroids to mine. 
 
 **Agents in Space**<br>
 Tags systems holding agents in space.
@@ -46,7 +46,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTExMTAyNCwtMTAyODAwODcyMCwtNj
-M1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0NDI3Niw1ODEzMDEz
-NDgsNTE1MDA5ODddfQ==
+eyJoaXN0b3J5IjpbLTIxMzY2MTczMTksLTEwMjgwMDg3MjAsLT
+YzNTg0MDYzNSwxMTcwODk2ODQxLDEzMDU5NDQyNzYsNTgxMzAx
+MzQ4LDUxNTAwOTg3XX0=
 -->

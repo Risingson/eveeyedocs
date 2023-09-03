@@ -14,7 +14,7 @@ In setting's `MAP` tab you can choose from the following layouts:
 Map of your wormhole chain.
 
 ### Radar 
-This map-type displays all systems up to 5 jumps away from the system set as center of the map regardless of the region they belong to. It will also include systems connected via jumpbridges or wormholes. It suits especially fine when using [Intel Channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/).
+This map-type displays all systems up to 5 jumps away from the system set as center of the map regardless of the region they belong to. It will also include systems connected via jumpbridges or wormholes. It suits especially fine when using [Intel Channels](https://eveeye.readthedocs.io/en/latest/sharing/intel-channels/).<br>
 To set the system range displayed use the following icons in bottom left:<br>
 <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" ><br> Not all levels are available for every system. Especially high-sec systems got too many connected systems to display 5 levels.
 
@@ -33,9 +33,9 @@ These maps feature all [Minmatar/Amarr](https://eveeye.com/?m=Minmatar%20vs%20Am
 Basically a chain map with Thera in the center. Choosing this map will enable [Thera connections](https://eveeye.readthedocs.io/en/latest/map/misc/#Thera-Connections) download from [Eve Scout](https://www.eve-scout.com/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc5MzYzMywtMjEwMzM1MzEzOSwtNT
-g5NzM0NTk3LC02OTcyMzE2MDAsNDM1MDY3ODgxLC00NTMzMTU1
-OTksLTIwNzk5ODkzOTUsLTEzNjAzOTI1NjEsLTg5MTI3MDM2My
-wxNTExMTgyMjI1LC00NTAyMzYyODIsOTE4NTM0NDc0LDE0NTk0
-ODEzMjYsLTEyNTQ4MjE3MjddfQ==
+eyJoaXN0b3J5IjpbMTg4NTAzNzkxLC0yMTAzMzUzMTM5LC01OD
+k3MzQ1OTcsLTY5NzIzMTYwMCw0MzUwNjc4ODEsLTQ1MzMxNTU5
+OSwtMjA3OTk4OTM5NSwtMTM2MDM5MjU2MSwtODkxMjcwMzYzLD
+E1MTExODIyMjUsLTQ1MDIzNjI4Miw5MTg1MzQ0NzQsMTQ1OTQ4
+MTMyNiwtMTI1NDgyMTcyN119
 -->

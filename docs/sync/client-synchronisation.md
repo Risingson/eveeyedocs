@@ -7,10 +7,10 @@ Enabling synchronization with the EVE Online Client will trigger the following:
  - Start [sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) your data if you chose to do so
 
 ## Icons
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > OFF<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_standby.png" width="24" height="24" > Currently connecting to Eve<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_on.png" width="24" height="24" > ON<br>
-<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_fail.png" width="24" height="24" > Sync was turned OFF due to failing<br><br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sync_off.png" width="24" height="24" > OFF<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sync_standby.png" width="24" height="24" > Currently connecting to Eve<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sync_on.png" width="24" height="24" > ON<br>
+<img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/sync_fail.png" width="24" height="24" > Sync was turned OFF due to failing<br><br>
 
 ## Tracking multiple characters at once
 This can be achieved by running multiple browser instances. 
@@ -33,11 +33,11 @@ Just search the web on how to open separate instances of that browser and track 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjA5MzkyMSwtNTAwNzc4NzUwLDUyNj
-gyNjYxMiwxNjE3MjA5NTI5LDQxMjU0NzU4MywtOTUyMjY1ODAx
-LC04MDE3MDc1ODcsLTIxMjkzODkzNDEsLTE4ODk0MDcyMjUsLT
-Q1NzE3NDE0OSwzMTUzOTI2NzksMTM1NDU0Mjk2Niw3MjA5MDMw
-MjMsLTE3NjkzOTQwODgsODI3ODA2ODI3LDE4ODAwMDE4LDE4OT
-I5MjYwOCwtNDIxNDU1Mjk4LDEwNjQxMTM3OSwtMTI4MzUzNTA5
-N119
+eyJoaXN0b3J5IjpbMTkwODAxMjQzNywxNzAyMDkzOTIxLC01MD
+A3Nzg3NTAsNTI2ODI2NjEyLDE2MTcyMDk1MjksNDEyNTQ3NTgz
+LC05NTIyNjU4MDEsLTgwMTcwNzU4NywtMjEyOTM4OTM0MSwtMT
+g4OTQwNzIyNSwtNDU3MTc0MTQ5LDMxNTM5MjY3OSwxMzU0NTQy
+OTY2LDcyMDkwMzAyMywtMTc2OTM5NDA4OCw4Mjc4MDY4MjcsMT
+g4MDAwMTgsMTg5MjkyNjA4LC00MjE0NTUyOTgsMTA2NDExMzc5
+XX0=
 -->

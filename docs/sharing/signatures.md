@@ -7,7 +7,7 @@ Using `Ctrl+V` will `ADD` or `OVERWRITE` signatures to the system depending on t
 Using `Shift+Ctrl+V` will `OVERWRITE` all sigs within that system with the pasted ones.
 
 !!! error "Firefox / Mac"
-    Shift+Ctrl+V does not work in Firefox browser and Mac OS.
+    Shift+Ctrl+V does not work in Firefox browser or Mac OS.
     
 Signatures get pasted to your current ingame location.
 If you are not syncing your location sigs get added to the system you are showing info on. 
@@ -36,8 +36,8 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTcwMzkxNSwtMTIwNjM5MzcwMiwxMT
-IyMDU5OTUwLDIwMTgwMTU2NzksLTEzMTcxNTI2NjUsNzgzMjUz
-NDQ2LDMzMTY3Mzk0MiwtNDgyNDYwNTY2LC00NTA1NTYxNCwzOD
-gxODE0NzIsLTE0NTkxNDQ2MjBdfQ==
+eyJoaXN0b3J5IjpbNTAzOTQzODU3LDEyNTE3MDM5MTUsLTEyMD
+YzOTM3MDIsMTEyMjA1OTk1MCwyMDE4MDE1Njc5LC0xMzE3MTUy
+NjY1LDc4MzI1MzQ0NiwzMzE2NzM5NDIsLTQ4MjQ2MDU2NiwtND
+UwNTU2MTQsMzg4MTgxNDcyLC0xNDU5MTQ0NjIwXX0=
 -->

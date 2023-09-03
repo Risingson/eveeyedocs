@@ -15,7 +15,7 @@ Name of the NPC faction owning the system/region.
 Shows storms colored after their type and strength within that system.
 
 **Possible C729 Pochven Connections**<br>
-Names which Pochven systems a C729 Wormhole would possible lead to.
+Shows which system spawn C729 wormholes and names which Pochven systems those could lead to possibly.
 
 !!! warning
     Storm data is maintained manually so it might not be accurate all of the time.
@@ -66,8 +66,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE1MjM2NiwxMDcwNzAyNDc5LC0xNz
-g1MDU2NDcyLC0xOTMyMjY1MTc4LC0zODQ4MzI1NTksMTEyMzUw
-MjI3MywtMjAyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyND
-M2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
+eyJoaXN0b3J5IjpbNDE1NzA5ODA1LDEwNzA3MDI0NzksLTE3OD
+UwNTY0NzIsLTE5MzIyNjUxNzgsLTM4NDgzMjU1OSwxMTIzNTAy
+MjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0Mz
+YsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
 -->

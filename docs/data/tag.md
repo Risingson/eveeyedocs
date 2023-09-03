@@ -17,11 +17,15 @@ Tags systems of a constellation with an ongoing incursion. The color of the tag 
 **Sovereignty and FW Campaigns**<br>
 Enables the TCU and IHUB / Faction Warfare contested state mode. See the [Shapes section](https://eveeye.readthedocs.io/en/latest/map/shapes/#Sovereignty-Structures-and-Campaigns) for further explanations.
 
-**Custom Marks**<br>
-Shows the custom tag color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
+**Own Alliance Sovereignty**<br>
+Colors sectors of systems your alliance owns the infrastrucutre hub in.    
+
 
 ## Own Data
-If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
+If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.<br>
+
+**Custom Marks**<br>
+Shows the custom tag color you set via the [custom mark options](https://eveeye.readthedocs.io/en/latest/sharing/custom-marks/) of the solarsystem menu.
 
 ## Extra Tags
 **Signatures**<br>
@@ -32,7 +36,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjgwMDg3MjAsLTYzNTg0MDYzNSwxMT
-cwODk2ODQxLDEzMDU5NDQyNzYsNTgxMzAxMzQ4LDUxNTAwOTg3
-XX0=
+eyJoaXN0b3J5IjpbMjA3MjYyNzY1NSwtMTAyODAwODcyMCwtNj
+M1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0NDI3Niw1ODEzMDEz
+NDgsNTE1MDA5ODddfQ==
 -->

@@ -31,7 +31,7 @@ You can show and hide anomalies, cosmics and deleted sigs by clicking the corres
 ## Signatures Extra Tag
 ![enter image description here](https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/shapes/shapes_09.png)               
                
-This [Extra Tag](https://eveeye.readthedocs.io/en/latest/data/tag/#extra-tags) Option will display bars beside the solarsystem node correspondig to the sigtypes in system.
+This [Extra Tag](https://eveeye.readthedocs.io/en/latest/data/tag/#extra-tags) option will display bars beside the solarsystem node correspondig to the sigtypes in system.
 
 The length of the bars to the left and right of the system node reflect the sig count of the corresponding type.
 
@@ -40,8 +40,9 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODEyMzE2OSwxMjUxNzAzOTE1LC0xMj
-A2MzkzNzAyLDExMjIwNTk5NTAsMjAxODAxNTY3OSwtMTMxNzE1
-MjY2NSw3ODMyNTM0NDYsMzMxNjczOTQyLC00ODI0NjA1NjYsLT
-Q1MDU1NjE0LDM4ODE4MTQ3MiwtMTQ1OTE0NDYyMF19
+eyJoaXN0b3J5IjpbMTUwNjQ3NTEzNywxODM4MTIzMTY5LDEyNT
+E3MDM5MTUsLTEyMDYzOTM3MDIsMTEyMjA1OTk1MCwyMDE4MDE1
+Njc5LC0xMzE3MTUyNjY1LDc4MzI1MzQ0NiwzMzE2NzM5NDIsLT
+Q4MjQ2MDU2NiwtNDUwNTU2MTQsMzg4MTgxNDcyLC0xNDU5MTQ0
+NjIwXX0=
 -->

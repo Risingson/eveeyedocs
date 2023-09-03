@@ -5,7 +5,7 @@ Colored outline of a solarsystem shape.
 **NPC Station Systems**<br>
 Further highlights systems with NPC stations in them.
 
-**Ice Occurrence**<br>
+**Rookie Systems**<br>
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
 
 **Ice Occurrence**<br>
@@ -43,7 +43,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5MzExNjk5LC0xMDI4MDA4NzIwLC02Mz
+eyJoaXN0b3J5IjpbNDkwODA5NDc4LC0xMDI4MDA4NzIwLC02Mz
 U4NDA2MzUsMTE3MDg5Njg0MSwxMzA1OTQ0Mjc2LDU4MTMwMTM0
 OCw1MTUwMDk4N119
 -->

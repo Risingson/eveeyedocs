@@ -19,7 +19,7 @@
    connections via dragging and dropping onto wormhole connections
    created by jumping them.
 
-<iframe src="https://www.youtube.com/embed/g7bN3VgXrrY" frameborder="0" style="width: 944px; height: 676px;"></iframe><br>
+<iframe src="https://www.youtube.com/embed/g7bN3VgXrrY" frameborder="0" style="width: 600px; height: 430px;"></iframe><br>
 
 ## Connection editing
 
@@ -60,10 +60,10 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzc3ODc0NywyMDg1NjYzODE0LDE5MT
-I5MzExMjEsNjQ0Njg3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2
-MzAsLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLD
-ExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5
-NTU5NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLT
-MzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbLTEyOTQ2NTY1NDAsMjA4NTY2MzgxNCwxOT
+EyOTMxMTIxLDY0NDY4Nzk1NSwtMTY0MTM5NDM3MSwxMzE5ODQz
+NjMwLC0xNzAyMjM2NDQ2LC05NzQ4NzU2NDYsLTg0MTY1Mzc5My
+wxMTM3MzI1MzcxLDYyMzk4MTA1NSwtNDU0MjQwMzY5LC0xOTQz
+OTU1OTc5LDE2MzcxODQ5MCw2NzA3MTk1NTEsLTQ1Nzc4MTMxLC
+0zMzI0NDcyOTddfQ==
 -->

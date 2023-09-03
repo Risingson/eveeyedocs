@@ -25,7 +25,7 @@ Colors nodes after their constellation.
 Colors nodes after NPC pirates and shows the NPC pirate logo.
 
 ## Own Data
-**Custom map data**<br>
+**Database Sets**<br>
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
 
 **Custom marks**<br>
@@ -81,7 +81,7 @@ Displays moon count within that system.
 **Planets**<br>
 Displays the number of the selected planet-type. The brighter the node color the more planets of that type are within that solarsystem.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzMxNTcyOCwtMzk3MzYyMjE1LDIxMD
+eyJoaXN0b3J5IjpbLTE1NzgyMzQxNSwtMzk3MzYyMjE1LDIxMD
 A1Njc0NzAsMTMxNjA0MjUwNCwtMjEyMzQzNjY1MCwtMjE0MzY1
 NjU5NCw0Nzc1Mzk5OSw4MDkyMjk5ODgsMTY1NTM5NjA1MywxNz
 UyODQyNTAzLC0xMDcyOTA3MzQ2LC0xNjMyMjM2MzI2LDE3NzE5

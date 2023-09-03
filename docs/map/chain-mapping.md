@@ -1,7 +1,6 @@
 # Chain Mapping
 
-## Mechanics
-#### Automatic connection creation
+### Automatic connection creation
  - While syncing your ingame location jumps via wormholes or jump-bridges will get mapped automatically.
  - A connection will get created when jumping a cyno. Stop sync before jumping or remove the connection created manually.
  
@@ -30,6 +29,18 @@
 
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
 
+#### Add data to connections
+To add data to connections you can right-click wormhole connection lines or click wormholes in the solarsystem info pane within the "SIG" tab.
+You can edit:<br>
+
+ - Signature codes on both sides<br>
+ -  Wormhole code<br>
+ - K162 side<br>
+ - Label<br>
+
+#### Name wormholes
+Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem menu.
+
 ## Display Styles
 Solarsystem oultines are solid or dashed. 
 Connection lines are colored and solid or dashed.
@@ -47,10 +58,10 @@ Connection lines are colored and solid or dashed.
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDc5NTIyOSwyMDg1NjYzODE0LDE5MT
-I5MzExMjEsNjQ0Njg3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2
-MzAsLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLD
-ExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5
-NTU5NzksMTYzNzE4NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLT
-MzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbMzc5NDQ2NTY2LDIwODU2NjM4MTQsMTkxMj
+kzMTEyMSw2NDQ2ODc5NTUsLTE2NDEzOTQzNzEsMTMxOTg0MzYz
+MCwtMTcwMjIzNjQ0NiwtOTc0ODc1NjQ2LC04NDE2NTM3OTMsMT
+EzNzMyNTM3MSw2MjM5ODEwNTUsLTQ1NDI0MDM2OSwtMTk0Mzk1
+NTk3OSwxNjM3MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMz
+MyNDQ3Mjk3XX0=
 -->

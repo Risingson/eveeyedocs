@@ -5,7 +5,7 @@ Citadels and POS can be pasted to browser versions of eveeye. On mobile apps how
 You can copy and paste structures from the EVE's directional scanner using `Ctrl+C` an paste them on the active browser window of Eveeye.
 Using `Ctrl+V` will `ADD` structures to the system.
    
-Citadels get pasted to the system they are in (since the system's name is contained in the data from directional. Control Towers get pasted to your current location. 
+Citadels get pasted to the system they are in (since the system's name is contained in the data from directional). Control Towers get pasted to your current location. 
 
 ## STA tab
 Pasting structures will open the `STA` info tab of solarsystem info pane. In that tab npc-stations and player owned structures get shown. 
@@ -29,6 +29,7 @@ You can clean a system from structures as a whole by doubleclicking the `little 
 ## Sharing
 If you turned on [Data Sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) structures will get displayed to all other pilots in your sharing group.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4ODgxNjU0LC0xODk4ODM2NDU0LC02MT
-Q1MTY3MjcsLTk5MzY3MzM5NywtNTUyNTcyMjQ5XX0=
+eyJoaXN0b3J5IjpbLTIwMTcwMTk1NzEsOTQ4ODgxNjU0LC0xOD
+k4ODM2NDU0LC02MTQ1MTY3MjcsLTk5MzY3MzM5NywtNTUyNTcy
+MjQ5XX0=
 -->

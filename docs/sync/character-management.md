@@ -8,7 +8,7 @@ Logging in characters is not necessary to use this app but unlocks the following
 <!-- - Display relayed ingame intel channel data -->
 
 ## EVE Online Single-Sign-On (SSO) 
-This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. Since the ingame browser has been removed it is not possible to track your ingame location without a SSO login hence using an API KEY is not an option anymore.
+This app uses the [EVE Online Single Sign On (SSO)](https://support.eveonline.com/hc/en-us/articles/205381192-Single-Sign-On-SSO-) to authenticate characters. <!--Since the ingame browser has been removed it is not possible to track your ingame location without a SSO login hence using an API KEY is not an option anymore.-->
 
 !!! success "Security"
     Unless you enable the [Cloud](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) services no data gets stored on Eveeye server. If cloud sync is enabled only a complementary key is stored on the server. It alone cannot be used to authenticate a character or use any EVE Online [ESI](https://esi.evetech.net/) APIs.<br><br>If you got security concerns consider using two factor authentication. It can be enabled in EVE account management: <a href="https://secure.eveonline.com/authenticator/" target="_blank" style="text-decoration: none;">https://secure.eveonline.com/authenticator/</a>
@@ -29,10 +29,11 @@ If you updated your character image you can update it by just authorizing the ch
 To remove a character's API permissions please do so at [https://community.eveonline.com/support/third-party-applications/](https://community.eveonline.com/support/third-party-applications/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQyODIzODMsMjEzNjYyMDQ4OSwtMT
-UxNDI4NDI4LDc1MDY1NTE3OCwtODM4NzY3OTE4LDE0NzczMTg0
-NzQsLTM0NjI2NjIwNywtMTUzMTE1NjQ5MCwtNTU3NTAzNTMxLC
-04NzQ3NTkzOTksLTE1MjMxODIyNzYsMTA2MzY1MTAxMSwtMTM5
-MTAyMTQxNywxODM1NjM0NTYxLC0zODA0OTgwMjAsMTI4NjkxOT
-c4NywxMjI2OTk3NzI4LDE2Nzk2NjgwOTNdfQ==
+eyJoaXN0b3J5IjpbNTIxMjg4NjgwLC0xNzg0MjgyMzgzLDIxMz
+Y2MjA0ODksLTE1MTQyODQyOCw3NTA2NTUxNzgsLTgzODc2Nzkx
+OCwxNDc3MzE4NDc0LC0zNDYyNjYyMDcsLTE1MzExNTY0OTAsLT
+U1NzUwMzUzMSwtODc0NzU5Mzk5LC0xNTIzMTgyMjc2LDEwNjM2
+NTEwMTEsLTEzOTEwMjE0MTcsMTgzNTYzNDU2MSwtMzgwNDk4MD
+IwLDEyODY5MTk3ODcsMTIyNjk5NzcyOCwxNjc5NjY4MDkzXX0=
+
 -->

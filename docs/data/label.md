@@ -38,11 +38,11 @@ This will show the difference of the last 2 hours of the eve api data of npcs de
 **IHUB Sovereignty Alliance / Faction**<br>
 Displays the name of the IHUB owning alliance or the solarsystem owning faction.
 
-**IHUB Sovereign Coalition**<br>
+<!--**IHUB Sovereign Coalition**<br>
 Displays the IHUB owning alliance's coalition.
 
 !!! warning
-    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.
+    This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list. -->
 
 ## Celestial
 **Sun**<br>
@@ -71,8 +71,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ2NjU1NTQxLDEwNzA3MDI0NzksLTE3OD
-UwNTY0NzIsLTE5MzIyNjUxNzgsLTM4NDgzMjU1OSwxMTIzNTAy
-MjczLC0yMDI4OTE1MDAyLDE5MTU5MzU0NjcsLTExODQ0NjI0Mz
-YsMTg2NTgxMjQ3LDE2NTU2Mzg1OTldfQ==
+eyJoaXN0b3J5IjpbLTE5MTc0NDYyNTQsMTA3MDcwMjQ3OSwtMT
+c4NTA1NjQ3MiwtMTkzMjI2NTE3OCwtMzg0ODMyNTU5LDExMjM1
+MDIyNzMsLTIwMjg5MTUwMDIsMTkxNTkzNTQ2NywtMTE4NDQ2Mj
+QzNiwxODY1ODEyNDcsMTY1NTYzODU5OV19
 -->

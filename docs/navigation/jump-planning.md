@@ -15,7 +15,7 @@ Set your jump-ship and skills in `JUMP` settings.<br>
 |  |  |
 |--|--|
 | `Use Jumpdrive` | Toggles if the route-planner will plot a jump route. |
-| `Prefer Less Midpoints/Fuel` | Sometimes a route with more mids needs less isotopes. |
+| `Prefer Less Midpoints or Fuel` | Sometimes a route with more mids needs less isotopes. |
 | `Jump if more than X Gates` | This sets the planner to always use its jumpdrive or only plot a jump if the gate distance to the next mid is more than X gates. |
 | `Leaving Highsec` | Sets if you want to travel highsec as far as possible and jump from there (`Gate afar`) or if you want to jump as soon as possible (`Jump asap`). |
 | `Prefer Station Systems` | The planner will try to jump via systems that got an NPC-station. |
@@ -43,8 +43,8 @@ After right-clicking or doubletapping a system on mobile in addition to [general
     Options involving the jump-drive got an *orange* color instead of the standard *yellow* for navigational options.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjExMzM3NywtMTc1OTM0NTg3LC0xMj
-k5MTU2MDYyLDc2NDAxOTIyNiwtNjAxODI2MTEsMTgzNTU2MzU2
-MCwtMTcwMDk2NTA4MiwxNjI5NjIzMjMxLC0xOTg1NTE2MTc0XX
-0=
+eyJoaXN0b3J5IjpbODg2Mzk5MDU3LDExMjIxMTMzNzcsLTE3NT
+kzNDU4NywtMTI5OTE1NjA2Miw3NjQwMTkyMjYsLTYwMTgyNjEx
+LDE4MzU1NjM1NjAsLTE3MDA5NjUwODIsMTYyOTYyMzIzMSwtMT
+k4NTUxNjE3NF19
 -->

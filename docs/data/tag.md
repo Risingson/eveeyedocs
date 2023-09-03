@@ -6,7 +6,7 @@ Colored outline of a solarsystem shape.
 Further highlights systems with NPC stations in them.
 
 **Rookie Systems**<br>
-Tags starter systems, systems with career agents and some Sisters epic arc systems. No [Rookie Griefing](https://support.eveonline.com/hc/en-us/articles/203209712-Rookie-Griefing) there.
+Tags starter systems, systems with career agents and some Sisters epic arc systems. [Rookie Griefing](https://support.eveonline.com/hc/en-us/articles/203209712-Rookie-Griefing) probihibted.
 
 **Ice Occurrence**<br>
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
@@ -43,7 +43,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODUxMzIxOSwtMTAyODAwODcyMCwtNj
+eyJoaXN0b3J5IjpbLTk1NjQ3MTI2OCwtMTAyODAwODcyMCwtNj
 M1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0NDI3Niw1ODEzMDEz
 NDgsNTE1MDA5ODddfQ==
 -->

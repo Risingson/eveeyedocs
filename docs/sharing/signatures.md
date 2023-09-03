@@ -3,11 +3,11 @@ Since there is no eve-api for signatures they can only be pasted to browser vers
 
 ## Pasting
 You can copy and paste signatures from the EVE client using `Ctrl+C` an paste them on the active browser window of Eveeye.
-Using `Ctrl+V` will `ADD` signatures to the system.
+Using `Ctrl+V` will `ADD` or `OVERWRITE` signatures to the system depending on the pasting mode you set via the button in the headline
 Using `Shift+Ctrl+V` will `OVERWRITE` all sigs within that system with the pasted ones.
 
-!!! error "Firefox"
-    Shift+Ctrl+V does not work in Firefox browser.
+!!! error "Firefox / Mac"
+    Shift+Ctrl+V does not work in Firefox browser and Mac OS.
     
 Signatures get pasted to your current ingame location.
 If you are not syncing your location sigs get added to the system you are showing info on. 
@@ -36,8 +36,8 @@ If you turned on [Data Sharing](https://eedocs.readthedocs.io/en/latest/sharing/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYzOTM3MDIsMTEyMjA1OTk1MCwyMD
-E4MDE1Njc5LC0xMzE3MTUyNjY1LDc4MzI1MzQ0NiwzMzE2NzM5
-NDIsLTQ4MjQ2MDU2NiwtNDUwNTU2MTQsMzg4MTgxNDcyLC0xND
-U5MTQ0NjIwXX0=
+eyJoaXN0b3J5IjpbMTI1MTcwMzkxNSwtMTIwNjM5MzcwMiwxMT
+IyMDU5OTUwLDIwMTgwMTU2NzksLTEzMTcxNTI2NjUsNzgzMjUz
+NDQ2LDMzMTY3Mzk0MiwtNDgyNDYwNTY2LC00NTA1NTYxNCwzOD
+gxODE0NzIsLTE0NTkxNDQ2MjBdfQ==
 -->

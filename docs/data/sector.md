@@ -43,7 +43,7 @@ Colors sectors after the coalition of the alliance owning the infrastrucutre hub
     This data is pulled from [http://coalitionsin.space/](http://coalitionsin.space/) and might be outdated due to lack of maintainance of that list.-->
     
 **Own Alliance Sovereignty**<br>
-Colors sectors onyl systems your alliance owns the infrastrucutre hub in.    
+Colors sectors of systems your alliance owns the infrastrucutre hub in.    
 
 ## Cost Indices
 Colors sectors after the selected cost index. Available indices are:<br>
@@ -55,9 +55,9 @@ Material Efficiency research**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzODEzMDU2OCwyNDE3NDgzMDcsMzE4Nj
-AzNzY3LDE4NjU2Njc4NDAsLTYzMTE4NDY2NywtMTgwOTc5NzI5
-MCwxOTI1ODM0MDU2LC04NDkzNjEzMjcsLTEwOTQyMjY1MjgsLT
-EyOTg2NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4Nzkz
-NzUwMiwxMzA3MTcxNTM2XX0=
+eyJoaXN0b3J5IjpbMTY3NTIwMywyNDE3NDgzMDcsMzE4NjAzNz
+Y3LDE4NjU2Njc4NDAsLTYzMTE4NDY2NywtMTgwOTc5NzI5MCwx
+OTI1ODM0MDU2LC04NDkzNjEzMjcsLTEwOTQyMjY1MjgsLTEyOT
+g2NjQwNTksLTU2ODUzODEyOSw3MTQxNTg3NDEsLTY4NzkzNzUw
+MiwxMzA3MTcxNTM2XX0=
 -->

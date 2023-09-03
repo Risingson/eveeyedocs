@@ -47,16 +47,16 @@ o7 Risingson
 [Check out what data and libraries Eveeye is using ](https://eveeye.readthedocs.io/en/latest/credits/) 
 
 ## Privacy & Terms
-[Visit our strict Privacy Policy and Terms of Service](https://eveeye.readthedocs.io/en/latest/privacy/) 
+[Click to goto Eveeye's Privacy Policy and Terms of Service](https://eveeye.readthedocs.io/en/latest/privacy/) 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDk4MjU4MSwxOTg5MzA0NjA2LDE2OT
-gzODIzOTgsLTEwODg3MDAyMywxOTQwNDI2NjE3LC0xNzYyNjc1
-NzkwLC02MTA2NzAzNzksLTg3MjYyMTM4MiwtMTIxOTYxNjAwNi
-wzMjYwMTk2NzksLTEzMTU0Njg3OTUsLTIxMjQ2Njc4NDEsLTM1
-OTIxNTY3MiwyMDQ5MzgzMTY3LDE0NDUzNjc5NDcsLTE2MTU2OT
-AwMzksLTQ0MDE4NTA3MywtOTQ1MTkzOTg1LC0xODIzNDEzMjc2
-LC04NjAwNDI3MzZdfQ==
+eyJoaXN0b3J5IjpbNjU4NDM5NDA2LDE5ODkzMDQ2MDYsMTY5OD
+M4MjM5OCwtMTA4ODcwMDIzLDE5NDA0MjY2MTcsLTE3NjI2NzU3
+OTAsLTYxMDY3MDM3OSwtODcyNjIxMzgyLC0xMjE5NjE2MDA2LD
+MyNjAxOTY3OSwtMTMxNTQ2ODc5NSwtMjEyNDY2Nzg0MSwtMzU5
+MjE1NjcyLDIwNDkzODMxNjcsMTQ0NTM2Nzk0NywtMTYxNTY5MD
+AzOSwtNDQwMTg1MDczLC05NDUxOTM5ODUsLTE4MjM0MTMyNzYs
+LTg2MDA0MjczNl19
 -->

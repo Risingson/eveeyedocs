@@ -6,7 +6,7 @@ Colored outline of a solarsystem shape.
 Further highlights systems with NPC stations in them.
 
 **Rookie Systems**<br>
-Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
+Tags Starter Systems, systems with Career Agents and some Sisters Epic Arc systems.
 
 **Ice Occurrence**<br>
 Tags systems with ice anomaly occurrences. The brighter the color the more anomalies are spawned.
@@ -43,7 +43,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwODA5NDc4LC0xMDI4MDA4NzIwLC02Mz
-U4NDA2MzUsMTE3MDg5Njg0MSwxMzA1OTQ0Mjc2LDU4MTMwMTM0
-OCw1MTUwMDk4N119
+eyJoaXN0b3J5IjpbMTE2NzAyMzc1MywtMTAyODAwODcyMCwtNj
+M1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0NDI3Niw1ODEzMDEz
+NDgsNTE1MDA5ODddfQ==
 -->

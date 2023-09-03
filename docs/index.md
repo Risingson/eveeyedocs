@@ -22,7 +22,7 @@ Interactive intel map system and chain mapping for [Eve Online](https://www.eveo
 
 ## Platforms
 
-[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye) and [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
+[Browser](https://eveeye.com), [iOS](https://apps.apple.com/us/app/eveeye-for-eve-online/id1163904317), [Android](https://play.google.com/store/apps/details?id=com.eveeye) and Windows [Desktop App](https://eveeye.readthedocs.io/en/latest/desktop-app/)
 
 ## Feedback, Support & Social
 
@@ -53,11 +53,11 @@ o7 Risingson
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTMwNDYwNiwxNjk4MzgyMzk4LC0xMD
-g4NzAwMjMsMTk0MDQyNjYxNywtMTc2MjY3NTc5MCwtNjEwNjcw
-Mzc5LC04NzI2MjEzODIsLTEyMTk2MTYwMDYsMzI2MDE5Njc5LC
-0xMzE1NDY4Nzk1LC0yMTI0NjY3ODQxLC0zNTkyMTU2NzIsMjA0
-OTM4MzE2NywxNDQ1MzY3OTQ3LC0xNjE1NjkwMDM5LC00NDAxOD
-UwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3NiwtODYwMDQyNzM2
-LDkxODUxMzc1Ml19
+eyJoaXN0b3J5IjpbLTE5OTA4NjYyMDcsMTk4OTMwNDYwNiwxNj
+k4MzgyMzk4LC0xMDg4NzAwMjMsMTk0MDQyNjYxNywtMTc2MjY3
+NTc5MCwtNjEwNjcwMzc5LC04NzI2MjEzODIsLTEyMTk2MTYwMD
+YsMzI2MDE5Njc5LC0xMzE1NDY4Nzk1LC0yMTI0NjY3ODQxLC0z
+NTkyMTU2NzIsMjA0OTM4MzE2NywxNDQ1MzY3OTQ3LC0xNjE1Nj
+kwMDM5LC00NDAxODUwNzMsLTk0NTE5Mzk4NSwtMTgyMzQxMzI3
+NiwtODYwMDQyNzM2XX0=
 -->

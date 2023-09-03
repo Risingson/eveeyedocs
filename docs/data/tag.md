@@ -24,6 +24,12 @@ Tags systems holding a Jove observatory.
 Tagging the 4 systems a Jovian Stargate has been found in.
 
 ## Dynamic
+**Possible C729 Pochven Connections**<br>
+Shows which systems spawn C729 wormholes.
+
+**Metaliminal Storms**<br>
+Shows storms colored after their type and strength within that system.
+
 **Incursions and Invasions**<br>
 Tags systems of a constellation with an ongoing incursion. The color of the tag of the staging system is brighter.
 
@@ -50,7 +56,7 @@ Shows which crucial NPC station services are available within a solarsystem. See
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzU5ODQ0NiwtMjEzNjYxNzMxOSwtMT
+eyJoaXN0b3J5IjpbMTUyNTc4NTk5MSwtMjEzNjYxNzMxOSwtMT
 AyODAwODcyMCwtNjM1ODQwNjM1LDExNzA4OTY4NDEsMTMwNTk0
 NDI3Niw1ODEzMDEzNDgsNTE1MDA5ODddfQ==
 -->

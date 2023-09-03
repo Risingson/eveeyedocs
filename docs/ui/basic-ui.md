@@ -43,7 +43,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 |  | |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/User-100_26_100_off.png" width="24" height="24" > | [Character management](https://eveeye.readthedocs.io/en/latest/sync/character-management/) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Marker-100_off.png" width="24" height="24" > | [Client and data sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Synchronize-100.png" width="24" height="24" > | [Client and data sync](https://eveeye.readthedocs.io/en/latest/sync/client-synchronisation/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Share-100_off.png" width="24" height="24" > | [Cloud and data sharing](https://eveeye.readthedocs.io/en/latest/sharing/cloud/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Node-100_off.png" width="24" height="24" > | [Data configuration](https://eveeye.readthedocs.io/en/latest/data/overview/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Map-100_off.png" width="24" height="24"> | [Map selection](https://eveeye.readthedocs.io/en/latest/map/layout/) |
@@ -118,11 +118,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI5NDI0NzcsMTM5NDMwNjE3OSwtNz
-c5ODI1ODksNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNjMzMzQ5
-NywtMTc4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3NDc5LD
-kxNTA5NjIwOCwxMDAxMzQ0NzM0LC0xMjQyNzQ3OTY5LDM4MTAz
-MDExNSwtMTI2MDQyMzYwOSwtMTg4ODE3NjgwNiwtMTIzMzc3MT
-YzMSwtOTM0NjMxODUxLC0xMDA1ODUxNTI5LDUyMDI5OTQ2NSwt
-MTMwNTc4NDIwOF19
+eyJoaXN0b3J5IjpbLTE0NTI4MTAyOTksLTIwMDI5NDI0NzcsMT
+M5NDMwNjE3OSwtNzc5ODI1ODksNjM3NjMzNzQ3LDEyNTc3Nzcy
+NTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAwMywtMTY2NTQ5MzY5NC
+wtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMDAxMzQ0NzM0LC0xMjQy
+NzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYwOSwtMTg4ODE3Nj
+gwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0xMDA1ODUxNTI5
+LDUyMDI5OTQ2NV19
 -->

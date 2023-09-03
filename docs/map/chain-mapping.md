@@ -8,8 +8,9 @@
  - You can add connections manually via the menu entry `Add Connection`
 #### Connection creation via Signature pasting
  - When pasting wormhole signatures connections to "Unknown Systems" will get created
- - Click the created connection to set its destination 
- - 
+ - Click the created connection to set its destination
+ <img src="https://raw.githubusercontent.com/Risingson/eveeyedocs/master/docs/images/mapper/incoming_unknown_menu.png">
+ - Either enter the Wormhole code or at unknown incomings the destination security or cla
 #### Wormhole removal
  - Wormhole connections get removed after 48h latest. You can always remove them manually by clicking the connection line and selecting `Remove Connection` from the solarsystem menu.
 
@@ -53,9 +54,10 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzczNTgyLDE5MTI5MzExMjEsNjQ0Nj
-g3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2MzAsLTE3MDIyMzY0
-NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLDExMzczMjUzNzEsNj
-IzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5NTU5NzksMTYzNzE4
-NDkwLDY3MDcxOTU1MSwtNDU3NzgxMzEsLTMzMjQ0NzI5N119
+eyJoaXN0b3J5IjpbLTIwNDczMTA0MjcsMTkxMjkzMTEyMSw2ND
+Q2ODc5NTUsLTE2NDEzOTQzNzEsMTMxOTg0MzYzMCwtMTcwMjIz
+NjQ0NiwtOTc0ODc1NjQ2LC04NDE2NTM3OTMsMTEzNzMyNTM3MS
+w2MjM5ODEwNTUsLTQ1NDI0MDM2OSwtMTk0Mzk1NTk3OSwxNjM3
+MTg0OTAsNjcwNzE5NTUxLC00NTc3ODEzMSwtMzMyNDQ3Mjk3XX
+0=
 -->

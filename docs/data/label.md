@@ -11,15 +11,15 @@ Displays the name of the constellation that solarsystem is in. On Region Oviervi
 **NPC Pirates**<br>
 Name of the NPC faction owning the system/region.
 
-**Possible C729 Pochven Connections**<br>
-Shows storms colored after their type and strength within that system.
-
 **Metaliminal Storms**<br>
 Shows storms colored after their type and strength within that system.
 
+**Possible C729 Pochven Connections**<br>
+Names which Pochven systems a C729 Wormhole would possible lead to.
+
 !!! warning
     Storm data is maintained manually so it might not be accurate all of the time.
-    
+
 ## Own Data
 **Custom map data**<br>
 If you create [custom data](https://eveeye.readthedocs.io/en/latest/data/database/) sets they will get shown here as an option to choose.
@@ -66,8 +66,8 @@ E.g. L2 = 2 Lava planets within the solarsystem.
 Displays the systems diameter in <a href="https://en.wikipedia.org/wiki/Astronomical_unit" target="_blank">astronomical units [au]</a>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDcwMjQ3OSwtMTc4NTA1NjQ3MiwtMT
-kzMjI2NTE3OCwtMzg0ODMyNTU5LDExMjM1MDIyNzMsLTIwMjg5
-MTUwMDIsMTkxNTkzNTQ2NywtMTE4NDQ2MjQzNiwxODY1ODEyND
-csMTY1NTYzODU5OV19
+eyJoaXN0b3J5IjpbLTExMjE1MjM2NiwxMDcwNzAyNDc5LC0xNz
+g1MDU2NDcyLC0xOTMyMjY1MTc4LC0zODQ4MzI1NTksMTEyMzUw
+MjI3MywtMjAyODkxNTAwMiwxOTE1OTM1NDY3LC0xMTg0NDYyND
+M2LDE4NjU4MTI0NywxNjU1NjM4NTk5XX0=
 -->

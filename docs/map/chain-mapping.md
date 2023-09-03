@@ -16,7 +16,7 @@
 
 #### Merging automatically created and pasted connections
 Drag pasted unknown wormholes onto automatically created connections to merge
-<iframe src="https://www.youtube.com/embed/g7bN3VgXrrY" frameborder="0" style="width: 944px; height: 676px;"></iframe>
+<iframe src="https://www.youtube.com/embed/g7bN3VgXrrY" frameborder="0" style="width: 944px; height: 676px;"></iframe><br>
 
 #### Wormhole removal
  - Wormhole connections get removed after 48h latest. 
@@ -64,7 +64,7 @@ Clicking wormhole systems will show a `Set Wormhole Name` option in solarsystem 
 ## Routing
 Wormhole connections can be used for plotting [routes](https://eveeye.readthedocs.io/en/latest/sync/waypoints/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc1MjA3OSwyMDg1NjYzODE0LDE5MT
+eyJoaXN0b3J5IjpbMTg5ODU5NDAxOSwyMDg1NjYzODE0LDE5MT
 I5MzExMjEsNjQ0Njg3OTU1LC0xNjQxMzk0MzcxLDEzMTk4NDM2
 MzAsLTE3MDIyMzY0NDYsLTk3NDg3NTY0NiwtODQxNjUzNzkzLD
 ExMzczMjUzNzEsNjIzOTgxMDU1LC00NTQyNDAzNjksLTE5NDM5

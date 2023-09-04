@@ -12,8 +12,8 @@ This would play a sound if your ship docked. Handy if you dare to autopilot afk.
 ## User Interface
 #### Light App Theme
 Toggle dark/light theme.
-#### Photon UI Security Colors
-Disable this option to use the old security color scheme.
+<!--#### Photon UI Security Colors
+Disable this option to use the old security color scheme.-->
 #### Mono Background
 Will disable displaying background graphics and replace with a near-black blue or white background.
 #### User Interface scale
@@ -98,11 +98,11 @@ Systems you set avoided are listed here. Clicking the system will let you remove
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEyOTk5MjMsMTU1MTc5NzgxMCwzNz
-Q0NTg2OTYsNzMyNjc1NTkxLC0xNjc0NjUzNjczLDM2MzUwNDcw
-MywtMTI1MjYwNTU4MiwtMzQ2NTIyNDQ3LDIxNzM5MTUxMiwtMT
-A0NDMwNDAwMSwtMTQ3MDEzNzc1Niw0Njg1MDAxOTEsNzU5MDgy
-Njg5LC0xNDI2MDA1ODA2LC04MDU5MDYwNDgsMTMyMjY4NjEyMi
-wyMDgzMDUxMDg2LC0yNzM2OTY2MCwtMzc0MDE4MTQ0LDY0NDQz
-NDUwM119
+eyJoaXN0b3J5IjpbODc3MzA4NTY2LDE1NTE3OTc4MTAsMzc0ND
+U4Njk2LDczMjY3NTU5MSwtMTY3NDY1MzY3MywzNjM1MDQ3MDMs
+LTEyNTI2MDU1ODIsLTM0NjUyMjQ0NywyMTczOTE1MTIsLTEwND
+QzMDQwMDEsLTE0NzAxMzc3NTYsNDY4NTAwMTkxLDc1OTA4MjY4
+OSwtMTQyNjAwNTgwNiwtODA1OTA2MDQ4LDEzMjI2ODYxMjIsMj
+A4MzA1MTA4NiwtMjczNjk2NjAsLTM3NDAxODE0NCw2NDQ0MzQ1
+MDNdfQ==
 -->

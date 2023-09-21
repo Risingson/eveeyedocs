@@ -77,10 +77,10 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j.png" width="24" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange)|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j2.png" width="48" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) + Origin Lock|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/q.png" width="24" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/conn.png" width="24" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
 ##### Other
@@ -119,11 +119,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzMyMTE0MSwtMjAwMjk0MjQ3NywxMz
-k0MzA2MTc5LC03Nzk4MjU4OSw2Mzc2MzM3NDcsMTI1Nzc3NzI1
-NSwxNzI2MzMzNDk3LC0xNzgzMTkxMDAzLC0xNjY1NDkzNjk0LC
-00OTUxMzc0NzksOTE1MDk2MjA4LDEwMDEzNDQ3MzQsLTEyNDI3
-NDc5NjksMzgxMDMwMTE1LC0xMjYwNDIzNjA5LC0xODg4MTc2OD
-A2LC0xMjMzNzcxNjMxLC05MzQ2MzE4NTEsLTEwMDU4NTE1Mjks
-NTIwMjk5NDY1XX0=
+eyJoaXN0b3J5IjpbMTk0NTUwMzcwNCwtMTc3MzIxMTQxLC0yMD
+AyOTQyNDc3LDEzOTQzMDYxNzksLTc3OTgyNTg5LDYzNzYzMzc0
+NywxMjU3Nzc3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEwMDMsLT
+E2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMTM0
+NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2MD
+ksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MSwt
+MTAwNTg1MTUyOV19
 -->

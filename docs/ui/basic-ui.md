@@ -65,7 +65,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 ##### Right Map Menu
 |  |  |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="20" height="20"> | Switch right map menu (mobile only) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="20" height="20"> | Switch left map menu (mobile only) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/u.png" width="24" height="24" > | Switches to universe map map |
@@ -121,7 +121,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ4MjUxNTEsMTIxOTg2NzA0LC0xNz
+eyJoaXN0b3J5IjpbLTE0OTg3OTk3MDIsMTIxOTg2NzA0LC0xNz
 czMjExNDEsLTIwMDI5NDI0NzcsMTM5NDMwNjE3OSwtNzc5ODI1
 ODksNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNjMzMzQ5NywtMT
 c4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3NDc5LDkxNTA5

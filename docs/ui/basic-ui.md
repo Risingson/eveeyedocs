@@ -75,6 +75,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 ##### Left Map Menu display toggles
 |  |  |
 |--|--|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"> | Toggle bottom pane |Arrow-100_opt_on
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Switch left right (mobiles) | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
@@ -89,7 +90,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Help-100_b.png" width="24" height="24"> | Help  |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/comments-50.png" width="24" height="24"> | Discord support channel |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="24" height="24"> | Toggle bottom pane |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"> | Toggle bottom pane |Arrow-100_opt_on
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/opacity_off.png" width="24" height="24"> |  Toggle pane opacity |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/theme.png" width="24" height="24"> |  Switch dark/light theme |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/copy.png" width="24" height="24"> | Export current map display (browser and tablet only)|
@@ -120,11 +121,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg3ODEzMjIsMTIxOTg2NzA0LC0xNz
-czMjExNDEsLTIwMDI5NDI0NzcsMTM5NDMwNjE3OSwtNzc5ODI1
-ODksNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNjMzMzQ5NywtMT
-c4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3NDc5LDkxNTA5
-NjIwOCwxMDAxMzQ0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNS
-wtMTI2MDQyMzYwOSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwt
-OTM0NjMxODUxXX0=
+eyJoaXN0b3J5IjpbMjA5MzI3ODM5OSwxMjE5ODY3MDQsLTE3Nz
+MyMTE0MSwtMjAwMjk0MjQ3NywxMzk0MzA2MTc5LC03Nzk4MjU4
+OSw2Mzc2MzM3NDcsMTI1Nzc3NzI1NSwxNzI2MzMzNDk3LC0xNz
+gzMTkxMDAzLC0xNjY1NDkzNjk0LC00OTUxMzc0NzksOTE1MDk2
+MjA4LDEwMDEzNDQ3MzQsLTEyNDI3NDc5NjksMzgxMDMwMTE1LC
+0xMjYwNDIzNjA5LC0xODg4MTc2ODA2LC0xMjMzNzcxNjMxLC05
+MzQ2MzE4NTFdfQ==
 -->

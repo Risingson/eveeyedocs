@@ -72,7 +72,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Lock.png" width="24" height="24" > | Lock map regardless of your location |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Fullscreen-100_off.png" width="24" height="24" > | Toggle Fullscreen |
 
-##### Left Map Menu display toggles (browser and tablet only)
+##### Left Map Menu display toggles
 |  |  |
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
@@ -119,11 +119,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTg2NzA0LC0xNzczMjExNDEsLTIwMD
-I5NDI0NzcsMTM5NDMwNjE3OSwtNzc5ODI1ODksNjM3NjMzNzQ3
-LDEyNTc3NzcyNTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAwMywtMT
-Y2NTQ5MzY5NCwtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMDAxMzQ0
-NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYwOS
-wtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0x
-MDA1ODUxNTI5XX0=
+eyJoaXN0b3J5IjpbLTE0MzgzOTY4OTIsMTIxOTg2NzA0LC0xNz
+czMjExNDEsLTIwMDI5NDI0NzcsMTM5NDMwNjE3OSwtNzc5ODI1
+ODksNjM3NjMzNzQ3LDEyNTc3NzcyNTUsMTcyNjMzMzQ5NywtMT
+c4MzE5MTAwMywtMTY2NTQ5MzY5NCwtNDk1MTM3NDc5LDkxNTA5
+NjIwOCwxMDAxMzQ0NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNS
+wtMTI2MDQyMzYwOSwtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwt
+OTM0NjMxODUxXX0=
 -->

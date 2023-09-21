@@ -80,7 +80,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j2.png" width="45" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) + Origin Lock|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/conn.png" width="64" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/conn.png" width="64" height="24" > | Toggle Jump Bridges, Wormholes and [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
 ##### Other
@@ -119,11 +119,11 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjA0MjAwMSwtMTc3MzIxMTQxLC0yMD
-AyOTQyNDc3LDEzOTQzMDYxNzksLTc3OTgyNTg5LDYzNzYzMzc0
-NywxMjU3Nzc3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEwMDMsLT
-E2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMTM0
-NDczNCwtMTI0Mjc0Nzk2OSwzODEwMzAxMTUsLTEyNjA0MjM2MD
-ksLTE4ODgxNzY4MDYsLTEyMzM3NzE2MzEsLTkzNDYzMTg1MSwt
-MTAwNTg1MTUyOV19
+eyJoaXN0b3J5IjpbNjU5MTIxMzEwLC0xNzczMjExNDEsLTIwMD
+I5NDI0NzcsMTM5NDMwNjE3OSwtNzc5ODI1ODksNjM3NjMzNzQ3
+LDEyNTc3NzcyNTUsMTcyNjMzMzQ5NywtMTc4MzE5MTAwMywtMT
+Y2NTQ5MzY5NCwtNDk1MTM3NDc5LDkxNTA5NjIwOCwxMDAxMzQ0
+NzM0LC0xMjQyNzQ3OTY5LDM4MTAzMDExNSwtMTI2MDQyMzYwOS
+wtMTg4ODE3NjgwNiwtMTIzMzc3MTYzMSwtOTM0NjMxODUxLC0x
+MDA1ODUxNTI5XX0=
 -->

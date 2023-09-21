@@ -65,6 +65,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 ##### Right Map Menu
 |  |  |
 |--|--|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Switch left right (mobiles) | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/5.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/4.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/3.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/2.png" width="24" height="24" ><img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/1.png" width="24" height="24" > | [Radar Map](https://eveeye.readthedocs.io/en/latest/map/layout/#Radar%20Map) layout size | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/0.png" width="24" height="24" > | Switches between radar map and normal map |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/u.png" width="24" height="24" > | Switches to universe map map |
@@ -75,8 +76,7 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 ##### Left Map Menu display toggles
 |  |  |
 |--|--|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_back.png" width="24" height="24"> | Toggle bottom pane |Arrow-100_opt_on
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Switch left right (mobiles) | 
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/Arrow-100_opt_on.png" width="20" height="20"> | Switch right map menu (mobile only) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j2.png" width="45" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) + Origin Lock|
@@ -121,7 +121,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzI3ODM5OSwxMjE5ODY3MDQsLTE3Nz
+eyJoaXN0b3J5IjpbMTA0Mjc0ODIzMSwxMjE5ODY3MDQsLTE3Nz
 MyMTE0MSwtMjAwMjk0MjQ3NywxMzk0MzA2MTc5LC03Nzk4MjU4
 OSw2Mzc2MzM3NDcsMTI1Nzc3NzI1NSwxNzI2MzMzNDk3LC0xNz
 gzMTkxMDAzLC0xNjY1NDkzNjk0LC00OTUxMzc0NzksOTE1MDk2

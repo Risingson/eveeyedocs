@@ -77,10 +77,10 @@ Holding `SHIFT` while zooming via mouse-wheel will zoom slower.
 |--|--|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/transp.png" width="24" height="24" > | Menu bar transparency | 
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/k.png" width="24" height="24" > | [Killstream](https://eveeye.readthedocs.io/en/latest/data/misc/#zkillboard-livestream) |
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j2.png" width="48" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) + Origin Lock|
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/j2.png" width="45" height="24" > |[Jumprange](https://eveeye.readthedocs.io/en/latest/navigation/jumprange) + Origin Lock|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/r.png" width="24" height="24" > | [Route](https://eveeye.readthedocs.io/en/latest/navigation/route)|
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/t.png" width="24" height="24" > | [Trail](https://eveeye.readthedocs.io/en/latest/ui/settings/#display-trail)|
-| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/conn.png" width="24" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
+| <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/conn.png" width="64" height="24" > | [Unknown connections](https://eveeye.readthedocs.io/en/latest/map/chain-mapping/) |
 | <img src="https://raw.githubusercontent.com/Risingson/eedocs/master/docs/images/center.png" width="24" height="24" > | [Center map on current location](https://eveeye.readthedocs.io/en/latest/ui/settings/#center-on-current-system) |
 
 ##### Other
@@ -119,7 +119,7 @@ see [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTUwMzcwNCwtMTc3MzIxMTQxLC0yMD
+eyJoaXN0b3J5IjpbMTk2MjA0MjAwMSwtMTc3MzIxMTQxLC0yMD
 AyOTQyNDc3LDEzOTQzMDYxNzksLTc3OTgyNTg5LDYzNzYzMzc0
 NywxMjU3Nzc3MjU1LDE3MjYzMzM0OTcsLTE3ODMxOTEwMDMsLT
 E2NjU0OTM2OTQsLTQ5NTEzNzQ3OSw5MTUwOTYyMDgsMTAwMTM0

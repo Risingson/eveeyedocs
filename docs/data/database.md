@@ -31,7 +31,7 @@ The three sliders will set Hue, Saturation and Lightness of the color used.
 Currently a map is owned by the user that created it originally. Also only that user can edit the map. 
 
 ## Adding Data
-To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. With the details open clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. To bring up the normal solarsystem menu you can double-click it.
+To add data you need to load a regional map. Opening a database set's details will show all systems on that map in a table. Edit the data and watch the map display it right away. Clicking a system will sort that system to top of the list and put the cursor in the value's input field to edit right away. 
 
 ## Data Display
 When opening a set's details the display options `Node` and `Label` will get activated automatically. You can  display your data via `Sectors` or `Tags` aswell. Please select them via the data displays menu. 
@@ -73,11 +73,11 @@ Using `File > Publish to the web` you can get the url to paste into the `Externa
 
 Features are quite new. Feedback via [Eveeye Discord](https://t.co/hH3VFv0w0D?amp=1 "https://discord.gg/S3yAUJMZQx") please.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzY3OTc2OCwtNjc3Njc5NzY4LC0yMT
-QzOTM1MDM1LDEyODU4OTQ4OTksMTUzMTMwNzQ5MiwxNTQwMjU1
-MzI3LDE2NzgzNDc4ODgsMTk0MzM4MzM1NiwtMTM5NjQ5Njk1Mi
-w1NTMwNjA1MDUsLTg0NjQ5NjQyNiwxNDYyNDM5NjgyLDEwNTgz
-NDI2NjUsMTQzOTA2MDU3MSwtMTAzOTk5MDIxMiwyMzk0MDg0My
-wtMTg3NTMxNDU3LC0xMzYwMjI1OTg0LDI5OTAwNTIyNSwxMDEw
-ODAzNzI5XX0=
+eyJoaXN0b3J5IjpbOTQ1NTI1MjE0LC02Nzc2Nzk3NjgsLTY3Nz
+Y3OTc2OCwtMjE0MzkzNTAzNSwxMjg1ODk0ODk5LDE1MzEzMDc0
+OTIsMTU0MDI1NTMyNywxNjc4MzQ3ODg4LDE5NDMzODMzNTYsLT
+EzOTY0OTY5NTIsNTUzMDYwNTA1LC04NDY0OTY0MjYsMTQ2MjQz
+OTY4MiwxMDU4MzQyNjY1LDE0MzkwNjA1NzEsLTEwMzk5OTAyMT
+IsMjM5NDA4NDMsLTE4NzUzMTQ1NywtMTM2MDIyNTk4NCwyOTkw
+MDUyMjVdfQ==
 -->

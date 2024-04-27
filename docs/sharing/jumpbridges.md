@@ -6,7 +6,7 @@ While there is no api available to add jump bridges to the maps  (see e.g. [http
 
  - Jumping the bridge and set it to jump bridge afterwards
  - Paste it to eveeye window from directional. If you got a list of copied JBs line by line you can paste them all at once. 
- - Another format for pasting is a line by line text like `anything Z9PP-H --> K8L-X7` (it must match the spaces exactly. "anything" is unused data but there must be something without a space so could eg. be `1 Z9PP-H --> K8L-X7` in every line).
+ - Another format for pasting is a line by line text like `anything Z9PP-H --> K8L-X7` (it must match the spaces exactly. "anything" is unused data but there must be something without a space so could eg. be `1 Z9PP-H --> K8L-X7`).
  - Add it manually via `Add Connection` in the right-click-solarsystem menu
 
 ## Routing
@@ -22,8 +22,8 @@ When adding new jumpbridges they get added green by default.
 For further explanations on routing please refer to [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYxNTA0NTksLTEzMjI2NzA5MDYsMT
-g1MDA0MDg5NiwtMTgzNTY2NDQzMiwyOTQ2Mzk5LC0xNTYyMDYw
-MjU5LDMyNzU0NzkyMywtNjM2NDYwNDYxLDIwMTE0NDM1MTEsLT
-E3NTE0NjAxMzJdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQzNzczNSwtMTM4NjE1MDQ1OSwtMT
+MyMjY3MDkwNiwxODUwMDQwODk2LC0xODM1NjY0NDMyLDI5NDYz
+OTksLTE1NjIwNjAyNTksMzI3NTQ3OTIzLC02MzY0NjA0NjEsMj
+AxMTQ0MzUxMSwtMTc1MTQ2MDEzMl19
 -->

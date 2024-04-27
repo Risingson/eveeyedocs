@@ -10,7 +10,7 @@ While there is no api available to add jump bridges to the maps  (see e.g. [http
  - Add it manually via `Add Connection` in the right-click-solarsystem menu
 
 ## Routing
-Since there is a limit of 50 connections on the routing endpoint of EVE you can set which jumpbridges you want to use for routing. Also you might want to add enemy JBs. When clicking a jumpbridge connection you got three options to choose from:
+You can set which jumpbridges you want to use for routing. Also you might want to add enemy JBs. When clicking a jumpbridge connection you got three options to choose from:
 
 |  |  |
 |--|--|
@@ -22,8 +22,8 @@ When adding new jumpbridges they get added green by default.
 For further explanations on routing please refer to [Waypoints](https://eveeye.readthedocs.io/en/latest/navigation/waypoints) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQzNzczNSwtMTM4NjE1MDQ1OSwtMT
-MyMjY3MDkwNiwxODUwMDQwODk2LC0xODM1NjY0NDMyLDI5NDYz
-OTksLTE1NjIwNjAyNTksMzI3NTQ3OTIzLC02MzY0NjA0NjEsMj
-AxMTQ0MzUxMSwtMTc1MTQ2MDEzMl19
+eyJoaXN0b3J5IjpbLTMxMTIxMTQyMCwtMjA1NDM3NzM1LC0xMz
+g2MTUwNDU5LC0xMzIyNjcwOTA2LDE4NTAwNDA4OTYsLTE4MzU2
+NjQ0MzIsMjk0NjM5OSwtMTU2MjA2MDI1OSwzMjc1NDc5MjMsLT
+YzNjQ2MDQ2MSwyMDExNDQzNTExLC0xNzUxNDYwMTMyXX0=
 -->

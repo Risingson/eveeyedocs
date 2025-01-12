@@ -35,6 +35,7 @@ I have been developing Eveeye in my spare time [since 2006](https://eveeye.readt
 Donations for the work done and time spent are appreciated a lot.
 o7 Risingson
 
+**Solana:**  `eveeye.sol`<br>
 **Bitcoin:**  `bc1ql6stcxs7s46xtkns8ca3cnczq3q7as37a9dan7`<br>
 **Ethereum (any ERC-20 token):**  `0x496dB71927c29e0C9f0bfE25a5213f2fAF071dC4`<br>
 
